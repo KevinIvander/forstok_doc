@@ -8,19 +8,19 @@ Users & Roles berfungsi untuk menambah pengguna akun yang nanti nya juga dapat m
 
 1. Klik Setting, lalu klik Users & Roles
 
-![](../../.gitbook/assets/image%20%28252%29.png)
+![](../../.gitbook/assets/image%20%28254%29.png)
 
 2. Klik add users
 
-![](../../.gitbook/assets/image%20%28162%29.png)
+![](../../.gitbook/assets/image%20%28164%29.png)
 
 3. Isi Nama, alamat pengguna \(untuk alamat harus berbeda dari yang sudah ada\) , password. jika pengguna ingin akses semua page bisa pilih all access.
 
-![](../../.gitbook/assets/image%20%28200%29.png)
+![](../../.gitbook/assets/image%20%28202%29.png)
 
 4. Jika pengguna akun hanya ingin menggunakan beberapa page, klik roles untuk mengaturnya
 
-![](../../.gitbook/assets/image%20%28228%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 5. Klik add roles
 
@@ -28,9 +28,9 @@ Users & Roles berfungsi untuk menambah pengguna akun yang nanti nya juga dapat m
 
 6. Lalu checklist untuk page yang ingin digunakan, jika termasuk POS silahkan dipilih POS nya.
 
-![](../../.gitbook/assets/image%20%28190%29.png)
+![](../../.gitbook/assets/image%20%28192%29.png)
 
 7. Klik save
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28232%29.png)
 

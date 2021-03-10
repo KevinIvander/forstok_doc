@@ -2,7 +2,7 @@
 
 * Tekan button "Create Payment Received" untuk membuat payment receive pada invoice tersebut.
 
-![](../../.gitbook/assets/image%20%28211%29.png)
+![](../../.gitbook/assets/image%20%28213%29.png)
 
 
 
@@ -14,11 +14,11 @@
 * Fee merupakan nominal dari Balance Due dikurangi dengan Actual Amount Received. Ketika payment received dibuat, nominal pada fee akan dijumlahkan dengan fee yang sudah terdapat pada invoice sebelumnya. Pada contoh dibawah, jika sebelumnya nominal fee adalah 5000 maka akan ditambahkan lagi sebesar 2200 pada fee menjadi 7200.
 * Tekan Save untuk menyimpan Payment Receive tersebut.
 
-![](../../.gitbook/assets/image%20%28172%29.png)
+![](../../.gitbook/assets/image%20%28174%29.png)
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28117%29.png)
 
 * Setelah payment receive disimpan maka status pada invoice akan berubah menjadi "Paid".
 
-![](../../.gitbook/assets/image%20%28155%29.png)
+![](../../.gitbook/assets/image%20%28157%29.png)
 

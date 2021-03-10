@@ -14,5 +14,5 @@ description: Cara Edit Produk
 
 3. Silahkan Edit artikel produk yang ingin di perbaiki. Scroll ke kanan untuk lihat lebih lengkap marketplacenya. Jika sudah selesai pilih save.
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 

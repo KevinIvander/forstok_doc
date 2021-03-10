@@ -18,7 +18,7 @@ Jika sudah masuk ke seller center, pilih Akun Saya &gt; API Penjual &gt; API Ele
 
 2. Pilih menu Integrations &gt; pilih Add Integrations
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](../../.gitbook/assets/image%20%28142%29.png)
 
 3.  Pilih Connect untuk integrasikan Elevenia
 

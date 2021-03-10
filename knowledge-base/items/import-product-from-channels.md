@@ -8,7 +8,7 @@ description: >-
 
 1. ****Pilih Integrations &gt; Klik sync, jika sudah berwarna hijau dan berputar berarti sedang proses import item.  Tunggu sampai proses nya selesai sampai sync-nya sudah stop atau tidak berputar.
 
-![](../../.gitbook/assets/image%20%28267%29.png)
+![](../../.gitbook/assets/image%20%28269%29.png)
 
 2. Data item baru yang masuk ke forstok akan masuk ke dalam filter pending action. 
 

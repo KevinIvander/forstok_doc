@@ -8,7 +8,7 @@ Untuk dapat melihat stok history lakukan langkah-langkah berikut :
 
 1. Pilih item sku yang mau di lihat history stocknya.
 
-![](../../.gitbook/assets/image%20%28264%29.png)
+![](../../.gitbook/assets/image%20%28266%29.png)
 
 **Notes** : 
 

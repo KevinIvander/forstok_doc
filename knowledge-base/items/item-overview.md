@@ -10,7 +10,7 @@ Sisi kiri/left panel ini menampilan total item yang sudah masuk. Dimana pada sis
 **1. Kolom pencarian/Search**  
 Berfungsi untuk mencari sku atau item Anda.
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 #### **2. +Item**
 
@@ -19,7 +19,7 @@ Berfungsi untuk mencari sku atau item Anda.
 * Crate Stock Allocation: Untuk mengalokasikan stock, seperti item tsb mengikuti campaign marketplace dimana sifat stocknya di lock oleh tim marketplace. Supaya stocknya tidak tercampur dengan marketplace lain maka biasa di buatkan stock alokasi di Forstok.
 * Cross Listing: Merupakan fitur untuk melisting item secara massal dimana item tsb belum terlisting ke marketplace tujuan. Cross listing ini menggunakan excel tinggal pilih category tujuan, lalu inpuy custome field yang mandatory di marketplace lalu upload.
 
-![](../../.gitbook/assets/image%20%28202%29.png)
+![](../../.gitbook/assets/image%20%28204%29.png)
 
 **3. Upload/Update**
 
@@ -41,7 +41,7 @@ Jika kita klik checkbox sebelah kiri atas maka akan ada opsi pada dibawah. Ini b
 * Delete: Untuk hapus item dari Forstok \(Untuk hapus item ini hanya di Forstok saja tidak menghapus item di marketplace. Jadi di marketplace harus hapus juga secara manual langsung dari seller center\)
 * Confirm: Untuk mengconfirm linking item yang ada pada Pending Actions.
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 **B. Sisi Kanan/Right Panel**  
 Untuk melihat detail item dan mengedit item tsb. Pada sisi kanan ini kita dapat melihat sku tsb sudah linking dengan marketplace mana saja, live link bisa diklik langsung masuk ke link produk marketplace, melihat status produk, bisa activ atau in active produk.  
@@ -57,12 +57,12 @@ Reserved stock atau pending payment di Shopee: 2 stock
 Available qty: 8 stock (inilah stock yang akan di push untuk marketplace lainnya). Patokan stock yang Forstok push ke marketplace adalah Available Qty.`
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28268%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 **2. Item yang sudah terlinking**  
 Hal paling terpenting, jika kode sku sudah disamakan di tiap marketplace maka item tsb tergrouping dan terlinking dengan rapih seperti berikut. Live link bisa di klik dimana langsung masuk ke link produk di marketplace, bisa lihat harga, status item tsb, dan active/inactive produk.
 
-![](../../.gitbook/assets/image%20%28184%29.png)
+![](../../.gitbook/assets/image%20%28186%29.png)
 
 **3. Keterangan Listing**
 
@@ -72,26 +72,26 @@ Hal paling terpenting, jika kode sku sudah disamakan di tiap marketplace maka it
 * Stock History: Untuk melihat history kapan merubah harga, untuk channel apa saja, dan usernya juga bisa dilihat siapa yang melakukan updat harga.
 * Activity: Untuk melihat kegiatan apa saja yang di lakukan utk item tsb. Misal: Update item, active/inactive item, dll
 
-![](../../.gitbook/assets/image%20%28179%29.png)
+![](../../.gitbook/assets/image%20%28181%29.png)
 
 **4. Edit Item**  
 Untuk mengedit atau perbaiki seperti deskripsi produk, image produk, atau field lainnya.
 
-![](../../.gitbook/assets/image%20%28259%29.png)
+![](../../.gitbook/assets/image%20%28261%29.png)
 
 **5. Manage Listings**
 
 * Add Listing: Untuk listing item yang belum ada di salah satu marketplace.
 * Remove Listing: Untuk remove atau unlisting marketplace
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 **6. Adjust Stock**
 
 * Adjust Qty: Untuk mengupdate stok yang akan di adjust.
 * Adjust Price: Untuk mengupdate harga
 
-![](../../.gitbook/assets/image%20%28219%29.png)
+![](../../.gitbook/assets/image%20%28221%29.png)
 
 **7. More**
 
@@ -99,5 +99,5 @@ Untuk mengedit atau perbaiki seperti deskripsi produk, image produk, atau field 
 * Move to another variant: Untuk memindahkan item variant dengan item variant lainnya
 * Delete: Untuk menghapus item tsb dari Forstok.
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 

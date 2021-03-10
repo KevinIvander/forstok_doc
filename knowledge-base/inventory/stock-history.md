@@ -10,5 +10,5 @@ Untuk dapat melihat stok history lakukan langkah-langkah berikut :
 Pada stok history terdapat action apa saja yang berhubungan dengan item tersebut, seperti adjustment stock, atau pemotongan stok berdasarkan order dari masing masing sales channel yang sudah terdaftar dan item nya sudah ada pada forstok.  
 
 
-![](../../.gitbook/assets/image%20%28282%29.png)
+![](../../.gitbook/assets/image%20%28284%29.png)
 

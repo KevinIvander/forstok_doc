@@ -8,7 +8,7 @@ Langkah-langkah yang bisa dilakukan untuk adjust stock adalah :
 
 1. Pilih items yang ingin di rubah stoknya, lalu klik Adjust Quantity Pada item yang akan di update.
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28199%29.png)
 
 ![](../../.gitbook/assets/image%20%2848%29.png)
 

@@ -10,5 +10,5 @@ Menu Promotions adalah untuk mengatur scheduling harga coret. Jadi harga coret t
 
 A. Promotions - New Promotion Untuk mengatur item yang akan dibuat periode harga coret
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 

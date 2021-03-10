@@ -9,17 +9,17 @@ Master Produk merupakan produk yang pertama kali saat import atau produk yang di
 2.  Download template bulk update item, hasil di download bisa di dapat di Notifications yang ada di sebelah kanan Forstok atau masuk ke email  
 
 
-![](../../.gitbook/assets/image%20%28288%29.png)
+![](../../.gitbook/assets/image%20%28290%29.png)
 
 3. Perbaiki artikel yang akan kita perbaiki. Misal makan memperbaiki master category. Unprotect sheet password: forstok123
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 4. Setelah master produk di perbaiki, upload file tsb pada menu Bulk Update Item tadi. 
 
-![](../../.gitbook/assets/image%20%28260%29.png)
+![](../../.gitbook/assets/image%20%28262%29.png)
 
 5. Hasil Bulk Update Item bisa di lihat dai Notifications --&gt; More Activity
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 

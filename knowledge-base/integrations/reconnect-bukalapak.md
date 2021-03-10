@@ -4,9 +4,9 @@ Jika Anda merubah akses Bukalapak maka di Forstok API Bukalapak otomatis akan no
 
 1. Pilih Update Password
 
-![](../../.gitbook/assets/image%20%28277%29.png)
+![](../../.gitbook/assets/image%20%28279%29.png)
 
 2. Input akses Bukalapak . Maka Bukalapak akan otomatis terhubung kembali
 
-![](../../.gitbook/assets/image%20%28203%29.png)
+![](../../.gitbook/assets/image%20%28205%29.png)
 

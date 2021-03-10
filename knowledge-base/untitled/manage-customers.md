@@ -12,10 +12,10 @@ Halaman Customer merupakan data pelanggan baik yang belum pernah belanja maupun 
 
 2. Kolom pencarian.
 
-![](../../.gitbook/assets/image%20%28134%29.png)
+![](../../.gitbook/assets/image%20%28135%29.png)
 
 3. Bulk action dari customer yang sudah di pilih  
 Untuk mengedit data customer dan hapus data customer.
 
-![](../../.gitbook/assets/image%20%28191%29.png)
+![](../../.gitbook/assets/image%20%28193%29.png)
 

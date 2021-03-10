@@ -2,7 +2,7 @@
 
 1. Pada menu Item Forstok pilih tanda panah berikut dan klik Bulk Update Quantity \(Beta\)
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28150%29.png)
 
 2. Download template Update Quanity \(csv\). File excelnya masuk ke email. Lalu download file excel Bulk Update Qty tsb bisa di download pada menu notifications sebelah kanan atas.
 

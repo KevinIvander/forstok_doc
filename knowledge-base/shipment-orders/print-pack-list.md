@@ -12,9 +12,9 @@ Berikut merupakan cara untuk melakukan print pack list :
 
 3. Pada **Right pannel** pilih simbol print lalu pilih pack list.
 
-![](../../.gitbook/assets/image%20%28258%29.png)
+![](../../.gitbook/assets/image%20%28260%29.png)
 
 4. lalu akan muncul sheet nya seperti ini, klik print
 
-![](../../.gitbook/assets/image%20%28265%29.png)
+![](../../.gitbook/assets/image%20%28267%29.png)
 

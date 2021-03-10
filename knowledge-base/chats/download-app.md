@@ -18,7 +18,7 @@ Windows: [https://forstokchat.s3-ap-southeast-1.amazonaws.com/Win/Forstok+Chat+S
 
 3. Login to each Marketplace store. 
 
-![](../../.gitbook/assets/image%20%28263%29.png)
+![](../../.gitbook/assets/image%20%28265%29.png)
 
 4. Add + tab for multiple Forstok account.
 

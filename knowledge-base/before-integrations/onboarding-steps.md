@@ -7,7 +7,7 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 
 **Timeline Onboarding Forstok**
 
-![](../../.gitbook/assets/image%20%28129%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
 **Untuk memulai penggunaan Forstok ada 4 step:**
 

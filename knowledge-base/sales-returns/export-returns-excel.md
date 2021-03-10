@@ -8,5 +8,5 @@
 
 * Sales Return yang sudah diekspor akan menjadi file excel yang dapat didownload pada email anda. 
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/image%20%28111%29.png)
 

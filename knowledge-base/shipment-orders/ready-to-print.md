@@ -12,11 +12,11 @@ Berikut merupakan langkah-langkah yang dilakukan untuk mengubah status menjadi R
 
 3. Pada Right pannel pilih update status lalu pilih upadate to ready to ship. 
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+![](../../.gitbook/assets/image%20%28159%29.png)
 
 4. Klik Update.
 
-![](../../.gitbook/assets/image%20%28222%29.png)
+![](../../.gitbook/assets/image%20%28224%29.png)
 
 **Notes** : 
 

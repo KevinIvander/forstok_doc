@@ -24,7 +24,7 @@ Berikut merupakan detail penjelasan untuk masing masing section :
 
 1. **Pending Action** setiap produk baru yang di import dari marketplace ke Forstok akan masuk terlebih dahulu ke Pending Action dimana perlu di confirm linking terlebih dahulu. Karena Forstok mapping menggunakan kode sku jadi Forstok akan infokan ke seller item mana saja yang kode skunya sudah sama atau masih ada yang belum rapih. Jika kode skunya sudah sama maka item tsb tinggal di confirm linking dan sudah bisa di edit-edit dari Forstok. Ada 4 category kode sku yang perlu perhatikan :
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
 * SKU code is not matched: berkemungkinan ada 2 kondisi. 1. Item tsb Kode sku yang beda di tiap marketplace atau di jual di satu marketplace saja action: Langsung confirm 2. Item tsb yang sama dijual di beberapa marketplace tapi salah penginputan kode sku. action: Perlu di perbaiki di seller center marketplace.
 * SKU Code is matched: Adalah kode SKU sudah linking dengan marketplace lain atau sudah sama. action: Langsung confirm
@@ -35,15 +35,15 @@ Berikut merupakan detail penjelasan untuk masing masing section :
 
 Digunakan untuk melihat semua order dari marketplace yang sudah masuk di Forstok namun belum di proses ke tahap selanjutnya. Pending Orders adalah gabungan dari status order Pending Payment, Open dan Printed. 
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
  3. **Reports**  
 Digunakan untuk melihat laporan dan mendownload data order sales. Yang bisa di filter berdasarkan channel dan periodenya bisa di custome.
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](../../.gitbook/assets/image%20%28113%29.png)
 
 **4. Total Sku**  
 Digunakan untuk mengetahui banyaknya item yang terdapat pada forstok sesuai dengan filter.
 
-![](../../.gitbook/assets/image%20%28285%29.png)
+![](../../.gitbook/assets/image%20%28287%29.png)
 

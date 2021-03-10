@@ -7,5 +7,5 @@
 * Setelah button ditekan makan akan muncul popup yang serupa dengan popup create sales return.
 * Setelah edit selesai, tekan "Save" untuk menyimpan perubahan yang sudah dilakukan.
 
-![](../../.gitbook/assets/image%20%28290%29.png)
+![](../../.gitbook/assets/image%20%28292%29.png)
 

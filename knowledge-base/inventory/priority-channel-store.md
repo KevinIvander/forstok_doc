@@ -21,29 +21,29 @@ Berikut langkah-langkah yang dilakukan untuk set priority channel :
 
 3. Pada halaman inventory, klik email alert. untuk mengaktifkan notifikasi otomatis ke email apabila stok sudah mencapai batas yang ditentukan.
 
-![](../../.gitbook/assets/image%20%28218%29.png)
+![](../../.gitbook/assets/image%20%28220%29.png)
 
 
 
 4. Lalu bisa dipilih waktu pengiriman email notifikasi, secara otomatis email akan dikirim sesuai dengan waktu yang ditentukan.
 
-![](../../.gitbook/assets/image%20%28205%29.png)
+![](../../.gitbook/assets/image%20%28207%29.png)
 
 5. Masukkan alamat email tujuannya, bisa ke beberapa email
 
-![](../../.gitbook/assets/image%20%28246%29.png)
+![](../../.gitbook/assets/image%20%28248%29.png)
 
 6. Kemudian, cheklist priority channel dan pilih sales channel apa yang akan di buat sebagai priority channel.
 
-![](../../.gitbook/assets/image%20%28212%29.png)
+![](../../.gitbook/assets/image%20%28214%29.png)
 
 7. status ubah menjadi enable dan low stock di set sesuai dengan kebutuhan.
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28197%29.png)
 
 8. Klik Save
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 
 **Notes** : 
 

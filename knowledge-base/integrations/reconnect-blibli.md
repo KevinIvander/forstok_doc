@@ -36,7 +36,7 @@ API Client ID: mta-api-ptforstokteknologiindonesia-9ddf9
 
 Seller center Blibli:
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 
 {% hint style="info" %}
 Jika sudah di reconnect harap konfirmasi kembali tim Forstok terkait melalui Grup WhatsApp atau ticketing.

@@ -9,7 +9,7 @@
 1. Untuk Integrasi ke Zalora terlebih dahulu log in ke seller center Zalora di [https://sellercenter.zalora.co.id/](https://sellercenter.zalora.co.id/) untuk mendapatkan API Zalora.  
 Pilih Settings &gt; Integration Management
 
-![](../../.gitbook/assets/image%20%28204%29.png)
+![](../../.gitbook/assets/image%20%28206%29.png)
 
 2. Pada kolom API dan API Key copy paste API Zalora pada integrasi Zalora Forstok.
 

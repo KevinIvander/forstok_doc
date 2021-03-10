@@ -9,7 +9,7 @@ Link to Another Variant bertujuan melinkingkan sku yang belum ke grouping dengan
 Misal sku Tokopedia : FORS00000  
 Ingin di lingkinkan dengan sku Shopee dan Blibli : WRL500
 
-![](../../.gitbook/assets/image%20%28279%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 
@@ -17,11 +17,11 @@ Ingin di lingkinkan dengan sku Shopee dan Blibli : WRL500
 1. Search sku Tokopedia : FORS00000  
 Lalu pada pilihan **More** pilih **Link to another variant.** 
 
-![](../../.gitbook/assets/image%20%28276%29.png)
+![](../../.gitbook/assets/image%20%28278%29.png)
 
  2. Pada dropdown **Link this variant to** pilih Tokopedia
 
-![](../../.gitbook/assets/image%20%28196%29.png)
+![](../../.gitbook/assets/image%20%28198%29.png)
 
 3. Pada **choose a variant** masukin sku tujuan yaitu shopee dan Blibli: WRL500, lalu klik **link** . 
 

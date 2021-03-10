@@ -23,7 +23,7 @@ Lalu klik **hubungkan**
 4. Kembali ke Forstok. Pilih Integration &gt; Add Integrations &gt; Pilih Blibli  
 
 
-![](../../.gitbook/assets/image%20%28176%29.png)
+![](../../.gitbook/assets/image%20%28178%29.png)
 
 5. \`Input API seller key dan Merchant ID  
 API Seller Key: _copy paste yang di dapat dari seller center_  

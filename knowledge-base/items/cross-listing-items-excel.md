@@ -18,11 +18,11 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 6. Untuk mendownload file cross listing klik **activity** lalu download file cross listing pada **summary file dan dowonload brand list.**
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 7. Setelah selesai di download, lengkapi data yang ada di csv. Untuk kolom Brand bisa di download dari Brand List. Untuk brand list harap copy paste kode dan nama brandnya.
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
 8. Setelah dilengkapi, simpan file. 
 

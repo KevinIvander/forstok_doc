@@ -9,7 +9,7 @@ Jika ada orderan pada item bundling, stock pada main sku juga bakal berkurang. S
 Berikut langkah-langkah Existing Item Bundling:  
 1.Pada menu item pilih **Add Bundle Item**.
 
-![](../../.gitbook/assets/image%20%28249%29.png)
+![](../../.gitbook/assets/image%20%28251%29.png)
 
 2. Pilih **Link Existing item Bundling.**  
 Bundle Type : Jenis atau tipe bundling  

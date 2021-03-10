@@ -29,7 +29,7 @@ email ke: onboarding@forstok.com
 
 2. Pilih menu Integrations &gt; pilih Add Integrations
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](../../.gitbook/assets/image%20%28142%29.png)
 
 2. Klik View untuk integrasikan Tokopedia
 

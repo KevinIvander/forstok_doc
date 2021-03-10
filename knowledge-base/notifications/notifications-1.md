@@ -4,11 +4,11 @@ Notifications merupakan untuk melihat summary semua aktivitas yang di lakukan da
 
 1. Pilih Notifications --&gt; pilih More Activity untuk melihat lebih lengkap
 
-![](../../.gitbook/assets/image%20%28291%29.png)
+![](../../.gitbook/assets/image%20%28293%29.png)
 
 2. Maka Anda bisa melihat semua aktivitas yang dilakukan dari Forstok dan bisa filter berdasarkan pilihan
 
-![](../../.gitbook/assets/image%20%28286%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 
 
 

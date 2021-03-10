@@ -10,5 +10,5 @@
 
 * Setelah Invoice tersebut berhasil di Write Off maka status invoice tersebut akan berubah menjadi Written Off.
 
-![](../../.gitbook/assets/image%20%28262%29.png)
+![](../../.gitbook/assets/image%20%28264%29.png)
 

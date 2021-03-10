@@ -3,7 +3,7 @@
 Pawoon merupakan aplikasi kasir \(point of sale\) dimana Anda bisa mengelola orderan dan stock offline Anda degan mudah.   
 Dengan menghubungan Pawoon ke Forstok Anda bisa menggabungkan stock Offline dan Online sehingga lebih memudahkan Anda dalam mengelola stock, produk, dan orderan delam satu Dashboard.
 
-![](../../../.gitbook/assets/image%20%28156%29.png)
+![](../../../.gitbook/assets/image%20%28158%29.png)
 
 **Syarat connect Pawoon ke Forstok:**
 

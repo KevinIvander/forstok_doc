@@ -15,7 +15,7 @@ Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilt
 
 2. Search order/sku di kolom search
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 3. Filter berdasarkan status.
 
@@ -31,7 +31,7 @@ Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilt
 
 4. Filter berdasarkan _store_.
 
-![](../../.gitbook/assets/image%20%28237%29.png)
+![](../../.gitbook/assets/image%20%28239%29.png)
 
 5. Filter berdasarkan _Couriers atau kurir._
 
@@ -54,7 +54,7 @@ Lalu di Forstok bisa proses order sekaligus banyak atau bulky. Tinggal klik chec
 
 1. Detail order berupa: item yang di order oleh customer, nama customer, alamat customer, No tlp customer, No Order dan lain-lain.
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 2. Activity.  
 Untuk melihat tracking status order.
@@ -65,7 +65,7 @@ Untuk melihat tracking status order.
 - Ready to Shipped: Untuk memproses orderan ready to ship atau request pick up kurir.  
 - Cancel: Untuk membatalkan atau cancel orderan.
 
-![](../../.gitbook/assets/image%20%28189%29.png)
+![](../../.gitbook/assets/image%20%28191%29.png)
 
 4. Print.  
 Untuk print shipping label, print pick list dan print pack list.
@@ -74,7 +74,7 @@ Untuk print shipping label, print pick list dan print pack list.
 
 - Tampilan Shipping Label
 
-![](../../.gitbook/assets/image%20%28213%29.png)
+![](../../.gitbook/assets/image%20%28215%29.png)
 
 - Tampilan Pick List
 

@@ -21,15 +21,15 @@ _**Don't forget to click on the top right profile.**_
 
 2. Setelah menerima Email balasan dari Forstok, kembali ke Forstok. Pilih menu Integrations &gt; pilih Add Integrations
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](../../.gitbook/assets/image%20%28142%29.png)
 
 3.  Klik View/Connect untuk integrasikan Zilingo
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28137%29.png)
 
 4. Input Seller ID dan API Key yang sudah di infokan tin Forstok by Email.
 
-![](../../.gitbook/assets/image%20%28254%29.png)
+![](../../.gitbook/assets/image%20%28256%29.png)
 
 5. Pada Product Catalog pilih **Sync Product from Zilingo** &gt; Next &gt; pilih Finish
 

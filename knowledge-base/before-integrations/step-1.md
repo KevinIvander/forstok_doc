@@ -24,9 +24,9 @@ Kode SKU penting dan bermanfaat sebagai referensi umum untuk melacak inventaris 
 
 Di Shopee
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 Di Tokopedia
 
-![](../../.gitbook/assets/image%20%28243%29.png)
+![](../../.gitbook/assets/image%20%28245%29.png)
 

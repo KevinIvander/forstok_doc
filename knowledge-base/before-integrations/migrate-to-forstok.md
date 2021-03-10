@@ -18,7 +18,7 @@ Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua
 
 3. Jika sync export sudah di aktifkan maka tanda serunya sudah tidak ada. Dan selanjutnya sudah bisa update stock dari Forstok.
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
 **B. Bulk Update Qty**
 
@@ -28,13 +28,13 @@ Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua
 
 2. Download template Update Quanity \(csv\). File bisa di download pada menu notification Forstok yang ada pada kanan atas \(simbol lonceng\).
 
-![](../../.gitbook/assets/image%20%28257%29.png)
+![](../../.gitbook/assets/image%20%28259%29.png)
 
 3. Berikut tampilan excel Bulk Update Qty. Stock yang akan di update di isi pada kolom New Qty on Hand \(kolom E\). Stock yang di isi real stock yang ada. Contoh jika ingin update stock jadi 6 di kolom New Qty in Hand harus di isi 6 juga.
 
 Jangan lupa unprotect file. Password: forstok123
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
 4. Setelah excel Bulk Update Qty di isi. Lalu upload file tsb pada menu Bulk Update Qty tadi. Lalu import.
 

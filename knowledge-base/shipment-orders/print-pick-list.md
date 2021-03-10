@@ -16,5 +16,5 @@ Berikut merupakan cara untuk melakukan print pick list :
 
 4. lalu akan muncul sheet nya seperti ini, klik print
 
-![](../../.gitbook/assets/image%20%28133%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 

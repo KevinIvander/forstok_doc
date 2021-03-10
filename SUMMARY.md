@@ -4,7 +4,8 @@
 
 ## Getting Started
 
-* [Yang baru](getting-started/whats-new.md)
+* [What's New](getting-started/whats-new/README.md)
+  * [Manage Warehouse List](getting-started/whats-new/manage-warehouse-list.md)
 * [FAQ](getting-started/faq.md)
 * [Integrasi API](getting-started/api-integration.md)
 * [Batasan](getting-started/limitations.md)

@@ -2,7 +2,7 @@
 
 * Button "Create Invoice" berfungsi untuk memunculkan popup untuk membuat invoice pada sales order tersebut. Button ini tidak akan muncul ketika status order berupa "Pending Payment" dan "Cancel".
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 * Setelah button itu diketuk, maka akan muncul popup untuk membuat invoice seperti gambar dibawah. 
 * Customer Name akan diisi dengan store name yang terdapat pada order yang dipilih.
@@ -28,7 +28,7 @@
 * Customer Note dapat diisi sebagai catatan yang ingin diberikan seller pada invoice.
 * Setelah pengisian form selesai, tekan create untuk membuat invoice tersebut.
 
-![](../../.gitbook/assets/image%20%28284%29.png)
+![](../../.gitbook/assets/image%20%28286%29.png)
 
 * Setelah invoice terbuat maka akan muncul invoice seperti gambar dibawah ini.
 
