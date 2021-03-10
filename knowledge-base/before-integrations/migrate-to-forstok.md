@@ -1,0 +1,46 @@
+# Step 4: Bermigrasi ke Forstok
+
+Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua marketplace. Ini point utama seller menggunakan fitur Forstok. Dimana seller sudah berkomitmen menggunakan Forstok untuk mengelola stock dan proses operational online.
+
+**Cara update stok Pertama dari Forstok**
+
+**A. Mengaktifkan sync export**
+
+1. Aktifkan sync export pada kanan atas pilihan Integrations. Lalu pilih setting pada bawah channel
+
+![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062344507/original/4NXOQ9VACcSo4YDyaXKQKqN0iko_Z6DPjw.png?1601635163)
+
+2. Pada pilihan Sync Item enable/aktifkan tombol tersebut. Jika sudah aktif akan berwarna hijau dan berubah jadi ON. Lalu di save.
+
+
+
+![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062344504/original/_5x_v00ETAJc5g-LRdZVN3bBxjYDKszWPg.png?1601635162)
+
+3. Jika sync export sudah di aktifkan maka tanda serunya sudah tidak ada. Dan selanjutnya sudah bisa update stock dari Forstok.
+
+![](../../.gitbook/assets/image%20%28150%29.png)
+
+**B. Bulk Update Qty**
+
+1. Pada menu Item Forstok pilih tanda panah berikut dan klik Bulk Update Quantity \(Beta\)
+
+![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48065508828/original/cm5tcHJAbhqrpSumoL_FPATnD-qFR63OOw.png?1603132197)
+
+2. Download template Update Quanity \(csv\). File bisa di download pada menu notification Forstok yang ada pada kanan atas \(simbol lonceng\).
+
+![](../../.gitbook/assets/image%20%28257%29.png)
+
+3. Berikut tampilan excel Bulk Update Qty. Stock yang akan di update di isi pada kolom New Qty on Hand \(kolom E\). Stock yang di isi real stock yang ada. Contoh jika ingin update stock jadi 6 di kolom New Qty in Hand harus di isi 6 juga.
+
+Jangan lupa unprotect file. Password: forstok123
+
+![](../../.gitbook/assets/image%20%28181%29.png)
+
+4. Setelah excel Bulk Update Qty di isi. Lalu upload file tsb pada menu Bulk Update Qty tadi. Lalu import.
+
+![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48052034348/original/A-jdxOksg1gMf4jnDyX7PY-dtQ2cirhbcA.png?1596435491)
+
+5. Untuk melihat hasil update qty tsb klik icon Notifications. Hasilnya bisa dilihat dari activity tsb. Untuk melihat activity lebih lengkap bisa klik More Activity
+
+![](../../.gitbook/assets/image%20%288%29.png)
+

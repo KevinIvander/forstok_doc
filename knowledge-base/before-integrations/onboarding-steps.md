@@ -1,0 +1,21 @@
+# Onboarding Steps
+
+Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan Forstok. Ada beberapa step yang harus di lalui sebelum Go-live menggunakan Forstok.
+
+* [x] Sudah membuka toko di Marketplace
+* [x] Pastikan kode SKU sudah sama di tiap marketplace dan sudah di input semua
+
+**Timeline Onboarding Forstok**
+
+![](../../.gitbook/assets/image%20%28129%29.png)
+
+**Untuk memulai penggunaan Forstok ada 4 step:**
+
+**Step 1: Pencocokan Kode SKU semua marketplace**
+
+**Step 2: Integration marketplace dan import produk**
+
+**Step 3: Linking produk**
+
+**Step 4: Bermigrasi ke Forstok**
+
