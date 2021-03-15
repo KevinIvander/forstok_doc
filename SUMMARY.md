@@ -13,8 +13,8 @@
 
 * [Initial Setup](knowledge-base/before-integrations/README.md)
   * [Onboarding Steps](knowledge-base/before-integrations/onboarding-steps.md)
+  * [Step 1: SKU code matching](knowledge-base/before-integrations/sku-code-matching.md)
   * [Setting up Account](knowledge-base/before-integrations/sku-code.md)
-  * [SKU code matching](knowledge-base/before-integrations/sku-code-matching.md)
   * [Migrate to Forstok](knowledge-base/before-integrations/migrate-to-forstok.md)
 * [Integrations](knowledge-base/integrations/README.md)
   * [Shopee](knowledge-base/integrations/shopee.md)
