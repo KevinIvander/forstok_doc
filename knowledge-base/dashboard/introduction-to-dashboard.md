@@ -1,6 +1,6 @@
 # Introduction to Dashboard
 
-Berikut menu-menu yang ada pada dashboard Forstok:
+The following are the menus on the Forstok dashboard:
 
 ![](../../.gitbook/assets/image%20%28241%29.png)
 
@@ -8,19 +8,19 @@ Berikut menu-menu yang ada pada dashboard Forstok:
 
 
 
-Berikut merupakan detail penjelasan untuk masing masing section : 
+The following is a detailed explanation for each section:
 
 **A. Menu Bar**
 
-* **Forstok Dashboard :** tampilan depan Forstok yang terdapat bagian-bagian untuk melihat Pending Actions, Pending Orders, Sales Reports, dan Total Item.
-* **Items Menu** : untuk mengelola item yang di edit seperti update stock, harga, sampai proses listing-listing produk.
-* **Orders Menu** : untuk memproses orderan ready to ship, print shipping label, detail order dan lain-lain.
-* **Customers Menu** : untuk melihat dan mendownload data customer.
-* **Reports Menu** : untuk mengelola laporan yang bisa di filter berdasarkan category, kode sku, item dan lain-lain.
-* **Promotion Menu**: untuk mengelola periode harga coret. Jadi harga core bisa di atur periodenya dari kapan dan sampai kapan.
-* **Notification :** digunakan untuk mengetahui log aktifitas dan notifikasi.
-* **Integrations :** Untuk integrasikan channel yang akan connectkan ke Forstok dan untuk sync import item.
-* **Settings: Jika seller ingin mengganti password, menambahkan users and roles akun Forstok dan jika seller mengalami kendala bisa buka Help Center dan membuat ticketing pelaporan. Maka tim kami akan response dalam 1x24 jam.**
+* **Forstok Dashboard:** Forstok front view with sections for viewing Pending Actions, Pending Orders, Sales Reports, and Total Items.
+* **Items Menu**: to manage edited items such as stock updates, prices, to the process of product listings.
+* **Orders Menu**: to process ready to ship orders, print shipping labels, order details and others.
+* **Customers Menu**: to view and download customer data.
+* **Reports Menu**: to manage reports which can be filtered by category, sku code, items and more.
+* **Promotion Menu**: to manage the strike price period. So the price of the core can be adjusted from when and for when.
+* **Notification:** used to know activity logs and notifications.
+* **Integrations :** To integrate channels that will be connected to Forstok and to sync import items.
+* **Settings:** If the seller wants to change the password, add users and roles to the Forstok account and if the seller has problems, he can open the Help Center and create a reporting ticket. Then our team will respond within 1x24 hours.
 
 **B. Forstok Dashboard**
 
