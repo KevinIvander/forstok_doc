@@ -44,3 +44,9 @@ email ke: onboarding@forstok.com
 ](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062573182/original/0SKkm5a4yXlLWiB54-yYVmjgbQ6Hja68Vw.png?1601813500)4. Pada Product Catalog pilih Sync Product from Tokopedia --&gt;Next --&gt; pilih Finish.  
 5. Tokopedia berhasil integrasi ke Forstok dan sedang proses import produk.
 
+{% hint style="info" %}
+**Limitasi import item API Tokopedia**  
+- Sebelum Import ke Forstok status produk **Aktif dan ada stock.  
+-** SKU Code harus di isi.
+{% endhint %}
+
