@@ -13,8 +13,12 @@ Video Panduan: [https://www.loom.com/share/5d4fe85b8a5947a9834d817c9fe735f9](htt
 
 3. Centang marketplace akan di listingkan dan mapping category untuk marketplace tsb. Lalu Save & Continue
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48053113120/original/zt9r3gzULI0FUYYRdny-Nzr9ll7ED85dCQ.png?1597025025)4. Lalu lanjutkan mengisi field-field mandatoryuntuk marketplace tsb. Jika sudah selesai, lalu Save  
+4. Lalu lanjutkan mengisi field-field mandatoryuntuk marketplace tsb. Jika sudah selesai, lalu Save  
+
+
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48053113206/original/gYnQij69p4UsO9Age32Dkz_rxoy2Wynx7w.png?1597025143)
+
+![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48053113120/original/zt9r3gzULI0FUYYRdny-Nzr9ll7ED85dCQ.png?1597025025)
 
 5. Maka item yang sudah dilisting tadi sudah live di marketplace. Bisa di cek kembali hasil listingan tadi Forstok dan klik live link dan sudah masuk juga di seller center.
 
