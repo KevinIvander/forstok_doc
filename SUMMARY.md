@@ -74,7 +74,7 @@
   * [Cara Listing The F Thing \(menggunakan Cross Listing\)](knowledge-base/items/cara-listing-the-f-thing-menggunakan-cross-listing.md)
 * [Inventaris](knowledge-base/inventory/README.md)
   * [Stock Adjustment](knowledge-base/inventory/stock-adjustment.md)
-  * [Stock Adjustment \(Excel\)](knowledge-base/inventory/stock-adjustment-excel.md)
+  * [Stock Adjustment Final Qty \(Excel\)](knowledge-base/inventory/stock-adjustment-excel.md)
   * [Stock Allocation \(Flash Sale/Campaign\)](knowledge-base/inventory/stock-allocation-flash-sale.md)
   * [Priority Channel/Store](knowledge-base/inventory/priority-channel-store.md)
   * [Stock History](knowledge-base/inventory/stock-history.md)
