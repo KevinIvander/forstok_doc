@@ -1,4 +1,6 @@
 # Create Sales Order
 
-Coming Soon!
+### Video
+
+![](../../.gitbook/assets/create-so.gif)
 

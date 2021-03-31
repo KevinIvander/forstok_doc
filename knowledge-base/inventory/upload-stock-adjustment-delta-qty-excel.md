@@ -1,8 +1,8 @@
-# Upload Stock Adjustment Delta Qty \(Excel\)
+# Upload Stock Adjustment Delta Qty \(csv\)
 
+### Video
 
-
-
+![](../../.gitbook/assets/upload-stock-adjustment-delta-qty.gif)
 
 
 
