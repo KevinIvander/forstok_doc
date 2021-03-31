@@ -20,7 +20,7 @@ Jangan lupa unprotect file. Password: forstok123
 
 4. Setelah excel Bulk Update Qty di isi. Lalu upload file tsb pada menu Bulk Update Qty tadi. Lalu import.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48052034348/original/A-jdxOksg1gMf4jnDyX7PY-dtQ2cirhbcA.png?1596435491)
+![](../../.gitbook/assets/screen-shot-2021-03-31-at-4.06.18-pm.png)
 
 5. Untuk melihat hasil update qty tsb klik icon Notifications. Hasilnya bisa dilihat dari activity tsb.
 
