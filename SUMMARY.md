@@ -56,7 +56,7 @@
   * [Bulk Update Images](knowledge-base/items/bulk-update-images.md)
   * [Delete Product](knowledge-base/items/delete-product/README.md)
     * [Hapus satu sku semua channel](knowledge-base/items/delete-product/delete-items.md)
-    * [Meremove satu sku satu channel \(remove listing\)](knowledge-base/items/delete-product/untitled-2.md)
+    * [Meremove satu sku satu channel \(remove listing\)](knowledge-base/items/delete-product/remove-listing.md)
     * [Menghapus banyak sku semua channel \(bulk delete\)](knowledge-base/items/delete-product/menghapus-banyak-sku-semua-channel.md)
   * [Listing Items \(Add Listings\)](knowledge-base/items/add-listings.md)
   * [Listing Items via Excel \(Cross Listings\)](knowledge-base/items/cross-listing.md)
