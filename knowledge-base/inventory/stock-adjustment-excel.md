@@ -10,7 +10,7 @@
 
 2. Download template Update Quanity \(csv\). File excelnya masuk ke email. Lalu download file excel Bulk Update Qty tsb bisa di download pada menu notifications sebelah kanan atas.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48052034527/original/zFPaFOIIYIEUbZ7EuZVQeFYAZKwZt5L3pg.png?1596435585)
+![](../../.gitbook/assets/screen-shot-2021-03-31-at-4.02.33-pm.png)
 
 3. Berikut tampilan excel Bulk Update Qty. Stock yang akan di update di isi pada kolom New Qty on Hand \(kolom E\). Stock yang di isi real stock yang ada. Contoh jika ingin update stock jadi 6 di kolom Total Qty harus di isi 6 juga.   
   
