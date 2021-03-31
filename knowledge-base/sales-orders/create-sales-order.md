@@ -1,4 +1,4 @@
-# Create Sales Order \(Coming soon\)
+# Create Sales Order
 
 Coming Soon!
 
