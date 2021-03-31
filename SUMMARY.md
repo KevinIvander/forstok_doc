@@ -14,7 +14,6 @@
 * [Initial Setup](knowledge-base/before-integrations/README.md)
   * [Onboarding Steps](knowledge-base/before-integrations/onboarding-steps.md)
   * [Step 1: SKU code matching](knowledge-base/before-integrations/sku-code-matching.md)
-  * [Step 1A](knowledge-base/before-integrations/step-1a.md)
   * [Step 1A: If the SKU code is not neat](knowledge-base/before-integrations/step-1a-if-the-sku-code-is-not-neat.md)
   * [Step 2: Marketplace integration and product import](knowledge-base/before-integrations/sku-code.md)
   * [Step 3: Product Linking](knowledge-base/before-integrations/step-3-product-linking.md)
