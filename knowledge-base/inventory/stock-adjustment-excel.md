@@ -1,4 +1,4 @@
-# Stock Adjustment Final Qty \(Excel\)
+# Upload Stock Adjustment Final Qty \(Excel\)
 
 1. Pada menu Item Forstok pilih tanda panah berikut dan klik Bulk Update Quantity \(Beta\)
 
