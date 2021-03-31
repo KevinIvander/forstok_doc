@@ -1,5 +1,7 @@
 # Upload Stock Adjustment Final Qty \(Excel\)
 
+![](../../.gitbook/assets/upload-stock-adjustment-final-qty.gif)
+
 1. Pada menu Item Forstok pilih tanda panah berikut dan klik Bulk Update Quantity \(Beta\)
 
 ![](../../.gitbook/assets/image%20%28150%29.png)
