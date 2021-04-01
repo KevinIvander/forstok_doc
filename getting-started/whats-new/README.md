@@ -26,6 +26,12 @@ Here's a sneak-peak of what's coming:
 
 {% page-ref page="../../knowledge-base/sales-orders/create-dropship-order.md" %}
 
+* **Stock Adjustment Delta Value \(+-\).** You can update stock using value changes. eg Qty on hand 10. Adjust +5. 
+
+{% page-ref page="../../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
+
+
+
 ## Mar 15, 2021
 
 ### New Feature
