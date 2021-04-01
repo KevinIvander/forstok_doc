@@ -10,13 +10,23 @@ description: >-
 
 Here's a sneak-peak of what's coming:
 
-* Create **Invoices** and **Payment Received** from Sales Order.
 * Create **Shipment** and ****faster **shipping documents** printing**.**
 * Automatic **payment reconciliation** from Marketplace API.
-* Create **Sales Order** to capture manual orders.
 * New **Reports** Section.
 
-## 15.0.0 - 2042-12-03
+## Apr 1, 2021
+
+### New Feature
+
+* **Create Sales Order.** You can create new sales order for orders coming from social channels or Marketplace that has not integrated with Forstok.
+
+{% page-ref page="../../knowledge-base/sales-orders/create-sales-order.md" %}
+
+* **Create dropship order.** You can create dropship Order if your reseller buy items from you but you ship the items directly to their customers. You can enter the customer shipping address.
+
+{% page-ref page="../../knowledge-base/sales-orders/create-dropship-order.md" %}
+
+## Mar 15, 2021
 
 ### New Feature
 
