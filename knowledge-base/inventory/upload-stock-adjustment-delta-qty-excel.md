@@ -18,7 +18,7 @@
   
 Jangan lupa unprotect file. Password: forstok123
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48052034967/original/6HhNCPf2xS0VwtJPZZ1MeqbwVu8d0_Z5uQ.png?1596435799)
+![](../../.gitbook/assets/image%20%28294%29.png)
 
 4. Setelah excel Bulk Update Qty di isi. Lalu upload file tsb pada menu Bulk Update Qty tadi. Lalu import.
 
