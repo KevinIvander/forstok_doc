@@ -21,5 +21,19 @@ Please contact Forstok to enable this feature. Top up payment is required.
 5. Input Latitude and Longitude, into Lat / Long field in Forstok order page.
 6. Click "Update status" to request pickup
 7. Select Gosend/ grab express
-8. You can get LIVE tracking.
+8. Your customer will received LIVE tracking. 
+
+[https://gosend-livetracking.gojek.co.id/go-send/livetracking/detail?trackingId=0YiU1dSqm77w2izxImLQWyulSDk2Aj0hsyWbuggL8yiDSjjrTTLcRIHBbsbL85Cmw4dqeMAnwbVytq\_Sgq3rqw%3D%3D](https://gosend-livetracking.gojek.co.id/go-send/livetracking/detail?trackingId=0YiU1dSqm77w2izxImLQWyulSDk2Aj0hsyWbuggL8yiDSjjrTTLcRIHBbsbL85Cmw4dqeMAnwbVytq_Sgq3rqw%3D%3D) See image below.
+
+![](../../.gitbook/assets/gosend-live-tracking.jpeg)
+
+## Limitation for Shopify
+
+1. **Flat shipping Fee**. 
+
+
+
+
+
+
 
