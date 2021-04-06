@@ -16,8 +16,6 @@
 
 ![](../../.gitbook/assets/image%20%28174%29.png)
 
-![](../../.gitbook/assets/image%20%28117%29.png)
-
 * Setelah payment receive disimpan maka status pada invoice akan berubah menjadi "Paid".
 
 ![](../../.gitbook/assets/image%20%28157%29.png)
