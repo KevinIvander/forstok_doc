@@ -138,6 +138,8 @@
   * [Category](knowledge-base/settings/category.md)
   * [Templates \(Coming Soon\)](knowledge-base/settings/templates.md)
   * [Latitude / Longitude](knowledge-base/settings/latlong.md)
+* [Logistic \(Cashless\)](knowledge-base/logistic-cashless/README.md)
+  * [Instant Couriers \(Gosend/Grab\)](knowledge-base/logistic-cashless/instant-couriers-gosend-grab.md)
 * [Notifikasi](knowledge-base/notifications/README.md)
   * [Notifications](knowledge-base/notifications/notifications-1.md)
 * [Forstok POS](knowledge-base/forstok-pos.md)
