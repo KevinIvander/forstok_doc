@@ -14,6 +14,14 @@ Here's a sneak-peak of what's coming:
 * Automatic **payment reconciliation** from Marketplace API.
 * New **Reports** Section.
 
+## April 5, 2021
+
+### New Feature
+
+* **Shipping Integration for On demand and Regular service .** You can request gosend/grab for on demand services and JNE, J&T, Sicepat, Lion parcel, RPX, Wahana, SAP for regular service.
+
+{% page-ref page="../../knowledge-base/logistic-cashless/" %}
+
 ## Apr 1, 2021
 
 ### New Feature
