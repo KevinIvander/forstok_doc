@@ -34,7 +34,7 @@ Please contact Forstok to enable this feature. Top up payment is required.
 
 ![1. Flat shipping fee](../../.gitbook/assets/flat-shipping-fee.png)
 
-
+![2. Manual input Latitude and Longitude](../../.gitbook/assets/screen-shot-2021-04-06-at-4.23.34-pm.png)
 
 
 
