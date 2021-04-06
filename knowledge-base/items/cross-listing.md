@@ -1,4 +1,4 @@
-# Listing Items via Excel \(Cross Listings\)
+# Cross Listing from Master Product \(XLS\)
 
 Cross listing merupakan cara listing dengan menggunakan file excel.
 

@@ -59,7 +59,7 @@
     * [Meremove satu sku satu channel \(remove listing\)](knowledge-base/items/delete-product/remove-listing.md)
     * [Menghapus banyak sku semua channel \(bulk delete\)](knowledge-base/items/delete-product/menghapus-banyak-sku-semua-channel.md)
   * [Cross Listing from Master product](knowledge-base/items/add-listings.md)
-  * [Listing Items via Excel \(Cross Listings\)](knowledge-base/items/cross-listing.md)
+  * [Cross Listing from Master Product \(XLS\)](knowledge-base/items/cross-listing.md)
   * [Price Adjustment](knowledge-base/items/price-adjustment-interface.md)
   * [Price Adjustment \(Excel/Bulk Update Price\)](knowledge-base/items/price-adjustment-excel.md)
   * [Price History](knowledge-base/items/price-history.md)
