@@ -3,8 +3,8 @@
 {% hint style="info" %}
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
 
-1. Import Product dari salah satu channel \(Marketplace atau website\)
-2. Create master product
+1. Import Product dari salah satu channel \(Marketplace atau website\) [Impor produk dari channel](import-product-from-channels.md) 
+2. Create master product [Tambahkan Master Produk](add-master-product.md)
 {% endhint %}
 
 Add Listing berfungsi untuk melisting item single atau item variant supaya bisa live di marketplace. Berikut langkah-langkah listing item menggunkan fitur Add Listing:  
