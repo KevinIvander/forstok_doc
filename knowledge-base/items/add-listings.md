@@ -1,5 +1,12 @@
 # Cross Listing from Master product
 
+{% hint style="info" %}
+Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
+
+1. Import Product dari salah satu channel \(Marketplace atau website\)
+2. Create master product
+{% endhint %}
+
 Add Listing berfungsi untuk melisting item single atau item variant supaya bisa live di marketplace. Berikut langkah-langkah listing item menggunkan fitur Add Listing:  
 Video Panduan: [https://www.loom.com/share/5d4fe85b8a5947a9834d817c9fe735f9](https://www.loom.com/share/5d4fe85b8a5947a9834d817c9fe735f9)  
   
