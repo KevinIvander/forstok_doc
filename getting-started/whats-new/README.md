@@ -20,7 +20,7 @@ Here's a sneak-peak of what's coming:
 
 * **Shipping Integration for On demand and Regular service .** You can request gosend/grab for on demand services and JNE, J&T, Sicepat, Lion parcel, RPX, Wahana, SAP for regular service.
 
-{% page-ref page="../../knowledge-base/logistic-cashless/" %}
+{% page-ref page="../../knowledge-base/shipping-cashless/" %}
 
 ## Apr 1, 2021
 
