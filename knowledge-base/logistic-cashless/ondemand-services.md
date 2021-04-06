@@ -30,6 +30,13 @@ Please contact Forstok to enable this feature. Top up payment is required.
 ## Limitation for Shopify
 
 1. **Flat shipping Fee**. 
+2. **Manual input Latitude and Longitude**
+
+![Flat shipping fee](../../.gitbook/assets/flat-shipping-fee.png)
+
+
+
+
 
 
 
