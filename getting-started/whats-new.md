@@ -22,6 +22,14 @@ Here's a sneak-peak of what's coming:
 
 {% page-ref page="../knowledge-base/shipping-cashless/" %}
 
+* **Shipping Label for thermal printer 10x15cm**. Single format for all marketplaces and Webstore 
+
+{% page-ref page="../knowledge-base/settings/custom-shipping-label.md" %}
+
+* **Multi warehouses.** You can add multiple warehouses which represents the physical storage where you keep stock
+
+{% page-ref page="../knowledge-base/settings/manage-warehouse-list.md" %}
+
 ## Apr 1, 2021
 
 ### New Feature
