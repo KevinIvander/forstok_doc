@@ -1,4 +1,4 @@
-# Cross Listing from Master Product \(XLS\)
+# Cross Listing dari Master Product \(xls\)
 
 {% hint style="info" %}
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
