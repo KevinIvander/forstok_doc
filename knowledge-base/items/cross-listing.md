@@ -3,8 +3,8 @@
 {% hint style="info" %}
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
 
-1. Import Product dari salah satu channel \(Marketplace atau website\)
-2. Create master product
+1. [Import Product dari salah satu channel \(Marketplace atau website\)](import-product-from-channels.md)
+2. [Create master product](add-master-product.md)
 {% endhint %}
 
 Cross listing merupakan cara listing dengan menggunakan file excel.
