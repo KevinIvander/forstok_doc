@@ -1,5 +1,12 @@
 # Cross Listing from Master Product \(XLS\)
 
+{% hint style="info" %}
+Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
+
+1. Import Product dari salah satu channel \(Marketplace atau website\)
+2. Create master product
+{% endhint %}
+
 Cross listing merupakan cara listing dengan menggunakan file excel.
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross listing_ : 
