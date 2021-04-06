@@ -1,4 +1,4 @@
-# Upload Stock Adjustment Delta Qty \(csv\)
+# Upload Stock Adjustment Delta Qty \(xls\)
 
 ### Video
 

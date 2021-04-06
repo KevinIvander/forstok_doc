@@ -1,4 +1,4 @@
-# Upload Stock Adjustment Final Qty \(csv\)
+# Upload Stock Adjustment Final Qty \(xls\)
 
 ### Video
 
