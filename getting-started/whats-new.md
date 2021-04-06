@@ -4,19 +4,43 @@ description: >-
   sure to not miss out on new features and improvements
 ---
 
-# Yang baru
+# What's New
 
 ## Coming soon 🚀
 
 Here's a sneak-peak of what's coming:
 
-* Create **Invoices** and **Payment Received** from Sales Order.
 * Create **Shipment** and ****faster **shipping documents** printing**.**
 * Automatic **payment reconciliation** from Marketplace API.
-* Create **Sales Order** to capture manual orders.
 * New **Reports** Section.
 
-## 15.0.0 - 2042-12-03
+## April 5, 2021
+
+### New Feature
+
+* **Shipping Integration for On demand and Regular service .** You can request gosend/grab for on demand services and JNE, J&T, Sicepat, Lion parcel, RPX, Wahana, SAP for regular service.
+
+{% page-ref page="../knowledge-base/shipping-cashless/" %}
+
+## Apr 1, 2021
+
+### New Feature
+
+* **Create Sales Order.** You can create new sales order for orders coming from social channels or Marketplace that has not integrated with Forstok.
+
+{% page-ref page="../knowledge-base/sales-orders/create-sales-order.md" %}
+
+* **Create dropship order.** You can create dropship Order if your reseller buy items from you but you ship the items directly to their customers. You can enter the customer shipping address.
+
+{% page-ref page="../knowledge-base/sales-orders/create-dropship-order.md" %}
+
+* **Stock Adjustment Delta Value \(+-\).** You can update stock using value changes. eg Qty on hand 10. Adjust +5. 
+
+{% page-ref page="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
+
+
+
+## Mar 15, 2021
 
 ### New Feature
 

@@ -2,7 +2,7 @@
 description: 'Fitur untuk Add, Edit Warehouse dan mengisi warehouse Address'
 ---
 
-# Manage Warehouse List
+# Manage Warehouse
 
 Untuk masuk ke page Warehouse List adalah dari button setting di pojok kanan atas kemudian pilih "Warehouse List"
 

@@ -4,8 +4,7 @@
 
 ## Getting Started
 
-* [What's New](getting-started/whats-new/README.md)
-  * [Manage Warehouse List](getting-started/whats-new/manage-warehouse-list.md)
+* [What's New](getting-started/whats-new.md)
 * [FAQ](getting-started/faq.md)
 * [Integrasi API](getting-started/api-integration.md)
 * [Batasan](getting-started/limitations.md)
@@ -134,8 +133,8 @@
   * [Users & Roles](knowledge-base/settings/users-and-roles.md)
   * [Billing & Plans \(Coming Soon\)](knowledge-base/settings/billing-and-plans.md)
   * [Taxes \(Coming Soon\)](knowledge-base/settings/taxes.md)
-  * [Warehouses \(Coming Soon\)](knowledge-base/settings/warehouses.md)
   * [Category](knowledge-base/settings/category.md)
+  * [Manage Warehouse](knowledge-base/settings/manage-warehouse-list.md)
   * [Templates \(Coming Soon\)](knowledge-base/settings/templates.md)
   * [Latitude / Longitude](knowledge-base/settings/latlong.md)
 * [Shipping \(Cashless\)](knowledge-base/shipping-cashless/README.md)
