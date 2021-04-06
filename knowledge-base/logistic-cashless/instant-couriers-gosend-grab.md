@@ -2,6 +2,10 @@
 
 You can now accept instant couriers service \(Gosend and GrabExpress\) for your website. 
 
+{% hint style="info" %}
+Please contact Forstok to enable this feature. Top up payment is required. 
+{% endhint %}
+
 ![](../../.gitbook/assets/request-pickup-gosend-for-shopify1.gif)
 
 1. Copy shipping address from order \(Skip this step if your website can identify Latitude and Longitude on map to get coordinates during checkout\)
