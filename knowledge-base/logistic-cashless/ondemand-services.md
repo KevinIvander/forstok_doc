@@ -1,6 +1,6 @@
 # On Demand Services
 
-You can now accept instant couriers service \(Gosend and GrabExpress\) for your website.  It's an add-on service from Forstok for a cashless payment.
+You can now accept instant couriers service \(Gosend and GrabExpress\) for your website. It's an add-on service from Forstok for a cashless payment.
 
 **Available Service**: Instant and Same day
 
