@@ -8,8 +8,7 @@ description: Your Frequently Asked Questions
 
 ## Apa itu Forstok?
 
-Forstok merupakan multi channel selling platform yang berfungsi untuk menggabungkan semua store marketplace sehingga memudahkan seller dalam mengelola inventory management, proses order, data sales order, proses upload produk dalam satu dashbord  
-
+Forstok merupakan multi channel selling platform yang berfungsi untuk menggabungkan semua store marketplace sehingga memudahkan seller dalam mengelola inventory management, proses order, data sales order, proses upload produk dalam satu dashbord
 
 ## Bagaimana memulai menggunakan Forstok?
 
