@@ -16,10 +16,10 @@ Pastikan Anda sudah buka toko di marketplace dan sudah menginput kode sku di sem
 
 ## Jika kode SKU berbeda apa yang harus dilakukan?
 
-Untuk linking item ada 2 solusi jika kode sku berbeda:  
-1. Seller harus perbaiki kode sku di seller center. Lalu yang sudah masuk di Forstok dan di import ulang  
-2. Bisa menggunakan fitur link to another variant.  
-Ini berfungsi untuk melinkingkan 2 item yang sama tapi kode sku berbeda. Berikut panduan untuk link to another variant: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
+Untuk linking item ada 2 solusi jika kode sku berbeda:
+
+1. Seller harus perbaiki kode sku di seller center. Lalu yang sudah masuk di Forstok dan di import ulang
+2. Bisa menggunakan fitur link to another variant. Ini berfungsi untuk melinkingkan 2 item yang sama tapi kode sku berbeda. Berikut panduan untuk link to another variant: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
 
 ## Kenapa bisa terjadi Oversell?
 
