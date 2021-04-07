@@ -5,7 +5,10 @@
 ## Getting Started
 
 * [What's New](getting-started/whats-new.md)
-* [FAQ](getting-started/faq.md)
+* [FAQ](getting-started/faq/README.md)
+  * [FAQ - Onboarding](getting-started/faq/faq-onboarding.md)
+  * [FAQ - Items](getting-started/faq/faq-items.md)
+  * [FAQ - Orders](getting-started/faq/faq-orders.md)
 * [Integrasi API](getting-started/api-integration.md)
 * [Batasan](getting-started/limitations.md)
 
