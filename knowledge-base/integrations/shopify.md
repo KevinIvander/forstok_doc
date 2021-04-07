@@ -41,7 +41,7 @@ Untuk integrasi Shopify ada 2 point:
 
 Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Shopify
 
-1. Pilih **Settings** pada menu di sebelah kiri → lalu klik **Notifications**
+1. Log ke Shopify,  pilih **Settings** pada menu di sebelah kiri → lalu klik **Notifications**
 
 ![](https://lh4.googleusercontent.com/Itpx5JfT_B1m6D9xwiASDge6R53LmylM_q5hg5gE1kNFCNhECP1rZ-eBUFUTDjRoKeasQB5enm1NLZrHvMltzQ0PICkV_OolFf-5oANE9-kYhEps89VKoPiqf41BGzlXeiOh_1_S)
 
