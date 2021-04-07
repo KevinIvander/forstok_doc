@@ -1,20 +1,14 @@
 # Shopify
 
-{% hint style="success" %}
-Untuk integrasi Shopify harap hubungi tim kami di email onboarding@forstok.com  
-
-
-**Subject: Request Integrasi Shopify- \[Nama Toko\]** 
-
-Hi Tim Forstok,
-
-Mohon bantuannya untuk integrasikan Shopify ke akun Forstok ABC  
-  
-Web link: [https://www.shopify.com/abc](https://www.tokopedia.com/abc)  
-  
-Demikian saya sampaikan, atas perhatiannya saya ucapkan terima kasih
+{% hint style="info" %}
+Untuk integrasi Shopify ada 2 point:  
+1. Integrasi Shopify ke Forstok  
+2. Mendaftarkan order webhook Shopify
 {% endhint %}
 
+## Integrasi
+
+  
 1.Buka Link berikut:  
 [**https://www.forstok.com/dashboard/channels/integrations/shopify/setup**](https://www.forstok.com/dashboard/channels/integrations/shopify/setup)  
   
@@ -41,24 +35,21 @@ Demikian saya sampaikan, atas perhatiannya saya ucapkan terima kasih
 
 ![](https://lh6.googleusercontent.com/Lp1V2183urp-JGxes8UmLg1Pc_5Xc5RxMXXt_QBs8Cm3t2q6hGmXjSkeB8vGDIY8mhlO3OJR1a4yPHjjK3vB0CQXvCT2m-DlXN_m-uQCK1ixC9z9Iuxf1UTaVEFdtjioQ8-n27Ee)
 
+## Mendaftarkan webhook
 
 
-**Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Shopify**  
 
+Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Shopify
 
-6. Pilih **Settings** pada menu di sebelah kiri → lalu klik **Notifications**
+1. Pilih **Settings** pada menu di sebelah kiri → lalu klik **Notifications**
 
 ![](https://lh4.googleusercontent.com/Itpx5JfT_B1m6D9xwiASDge6R53LmylM_q5hg5gE1kNFCNhECP1rZ-eBUFUTDjRoKeasQB5enm1NLZrHvMltzQ0PICkV_OolFf-5oANE9-kYhEps89VKoPiqf41BGzlXeiOh_1_S)
 
-
-
-7. Scroll kebawah lalu klik **create webhook**
+2. Scroll kebawah lalu klik **create webhook**
 
 ![](https://lh5.googleusercontent.com/EzAl2S-BqUVGxI3Nx0pqu5sGSS6Bnef5gshDxLYejq5YNKYljFBABsd5X4E12g5K6A7JdC2ZtIpJ4vBYsxfh57Gmta7eimJH3XGTmANpPM9-nkPT8lhtxnDXx6bVFaK72DdE-1j0)
 
-
-
-8. Pada Add a webhook input:  
+3. Pada Add a webhook input:  
 **URL:** [**https://orders.forstok.com/channels**  
 ](https://orders.forstok.com/channels)**Webhook API version: 2020-04 \(Latest\)**
 
