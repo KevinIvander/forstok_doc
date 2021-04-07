@@ -21,6 +21,17 @@ Untuk linking item ada 2 solusi jika kode sku berbeda:
 2. Bisa menggunakan fitur link to another variant.  
 Ini berfungsi untuk melinkingkan 2 item yang sama tapi kode sku berbeda. Berikut panduan untuk link to another variant: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
 
+## Kenapa bisa terjadi Oversell?
+
+Beberapa faktor yang menyebabkan oversell:
+
+1. Stock limit Kita sarankan menggunakan fitur priority channel. Ini bertujuan untuk sku tersebut hanya di jual di satu channel saja [https://docs.forstok.com/knowledge-base/inventory/priority-channel-store](https://docs.forstok.com/knowledge-base/inventory/priority-channel-store)
+2. Delay order masuk
+3. Expired API token
+
+  
+
+
 ## Apakah di Forstok bisa membalas chat customer?
 
 Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok.   
