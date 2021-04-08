@@ -21,3 +21,8 @@ Untuk linking item ada 2 solusi jika kode sku berbeda:
 
 Waktu yang dibutuhkan untuk proses onboarding adalah paling lama 14 hari kerja. Namun waktu tersebut tentatif, dalam arti tergantung dari approval market place pada saat proses request API. Selain itu, jumlah kode/nomor SKU juga sangat mempengaruhi keseluruhan proses onboarding. Jika kode sku sudah sama semua dan API sudah di Approval bisa lebih cepat untuk proses Onboarding
 
+## Apakah di Forstok bisa membalas chat customer?
+
+Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok.   
+[https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
+
