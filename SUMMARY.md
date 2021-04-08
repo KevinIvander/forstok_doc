@@ -8,7 +8,8 @@
 * [FAQ](getting-started/faq/README.md)
   * [FAQ - Onboarding](getting-started/faq/faq-onboarding.md)
   * [FAQ - Items](getting-started/faq/faq-items.md)
-  * [FAQ - Orders](getting-started/faq/faq-orders.md)
+  * [FAQ - Orders](getting-started/faq/faq-orders-1.md)
+  * [FAQ - Jurnal](getting-started/faq/faq-jurnal.md)
 * [Integrasi API](getting-started/api-integration.md)
 * [Batasan](getting-started/limitations.md)
 
