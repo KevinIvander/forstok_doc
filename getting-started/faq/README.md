@@ -4,60 +4,7 @@ description: Your Frequently Asked Questions
 
 # FAQ
 
-## GENERAL
-
-## Apa itu Forstok?
-
-Forstok merupakan multi channel selling platform yang berfungsi untuk menggabungkan semua store marketplace sehingga memudahkan seller dalam mengelola inventory management, proses order, data sales order, proses upload produk dalam satu dashbord
-
-## Bagaimana memulai menggunakan Forstok?
-
-Pastikan Anda sudah buka toko di marketplace dan sudah menginput kode sku di semua marketplace.
-
-## Jika kode SKU berbeda apa yang harus dilakukan?
-
-Untuk linking item ada 2 solusi jika kode sku berbeda:
-
-1. Seller harus perbaiki kode sku di seller center. Lalu yang sudah masuk di Forstok dan di import ulang
-2. Bisa menggunakan fitur link to another variant. Ini berfungsi untuk melinkingkan 2 item yang sama tapi kode sku berbeda. Berikut panduan untuk link to another variant: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
-
-## Kenapa bisa terjadi Oversell?
-
-Beberapa faktor yang menyebabkan oversell:
-
-1. Stock limit Kita sarankan menggunakan fitur priority channel. Ini bertujuan untuk sku tersebut hanya di jual di satu channel saja [https://docs.forstok.com/knowledge-base/inventory/priority-channel-store](https://docs.forstok.com/knowledge-base/inventory/priority-channel-store)
-2. Delay order masuk
-3. Expired API token
-
-  
-
-
-## Apakah di Forstok bisa membalas chat customer?
-
-Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok.   
-[https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
-
-## Berapa lama waktu yang dibutuhkan untuk keselurahan proses Onboarding sampai Live menggunakan Forstok? 
-
-Waktu yang dibutuhkan untuk proses onboarding adalah paling lama 14 hari kerja. Namun waktu tersebut tentatif, dalam arti tergantung dari approval market place pada saat proses request API. Selain itu, jumlah kode/nomor SKU juga sangat mempengaruhi keseluruhan proses onboarding. Jika kode sku sudah sama semua dan API sudah di Approval bisa lebih cepat untuk proses Onboarding
-
-## JURNAL
-
-## Apakah Forstok dapat mengupdate stock item di Jurnal?
-
-Tidak bisa, stock update hanya dapat dilakukan dari Jurnal ke Forstok.
-
-## Apakah Jurnal dapat update status order di Forstok?
-
-Tidak bisa, Jurnal adalah aplikasi accounting yang digunakan untuk melakukan pencatatan dari order yang ada di Forstok.
-
-## Status order seperti apa yang akan masuk ke Jurnal?
-
-Order yang baru terbuat di Forstok akan masuk ke Jurnal dalam bentuk invoice/faktur dengan status "Open". Setelah order status di Forstok menjadi "Delivered" maka invoice di Jurnal akan berubah menjadi "Paid"
-
-## Apakah nominal di invoice akan sesuai yang dibayarkan marketplace?
-
-Nominal yang terdapat pada invoice akan diisi sesuai dengan nominal yang terdapat pada order di Forstok.
+## 
 
 
 
