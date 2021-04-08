@@ -1,12 +1,18 @@
 # FAQ - Jurnal
 
+## Apakah Forstok dapat mengupdate stock item di Jurnal?
 
+Tidak bisa, stock update hanya dapat dilakukan dari Jurnal ke Forstok.
 
-## Kenapa bisa terjadi Oversell?
+## Apakah Jurnal dapat update status order di Forstok?
 
-Beberapa faktor yang menyebabkan oversell:
+Tidak bisa, Jurnal adalah aplikasi accounting yang digunakan untuk melakukan pencatatan dari order yang ada di Forstok.
 
-1. Stock limit Kita sarankan menggunakan fitur priority channel. Ini bertujuan untuk sku tersebut hanya di jual di satu channel saja [https://docs.forstok.com/knowledge-base/inventory/priority-channel-store](https://docs.forstok.com/knowledge-base/inventory/priority-channel-store)
-2. Delay order masuk
-3. Expired API token
+## Status order seperti apa yang akan masuk ke Jurnal?
+
+Order yang baru terbuat di Forstok akan masuk ke Jurnal dalam bentuk invoice/faktur dengan status "Open". Setelah order status di Forstok menjadi "Delivered" maka invoice di Jurnal akan berubah menjadi "Paid"
+
+## Apakah nominal di invoice akan sesuai yang dibayarkan marketplace?
+
+Nominal yang terdapat pada invoice akan diisi sesuai dengan nominal yang terdapat pada order di Forstok.
 
