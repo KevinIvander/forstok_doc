@@ -48,11 +48,16 @@ Cara melihat merchant ID:
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48066778620/original/lYheFU5zLpF3lsMSzrwspm2S187H0LgikA.png?1603735742)
 
-7. Pada tampilan pop up berikut, pilih **Skip**
+7. Setelah berhasil integtasi, kembali ke halaman item akan muncul pop-up reconnect Blibli. Klik reconnect
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48066779009/original/R4XOaRqDiDogHYyY_eCvGCpcv8l38-kJVw.png?1603735872)
+![](../../.gitbook/assets/image%20%28298%29.png)
 
-8. Maka sudah berhasil terintegrasi ke Blibli dan proses import item.
+8. Input email dan password Blibli, lalu klik save. Setelah tidak ada pop up reconnect. Maka Blibli berjasil terconnect kembali.  
+
+
+![](../../.gitbook/assets/image%20%28297%29.png)
+
+9. Maka sudah berhasil terintegrasi ke Blibli dan proses import item.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48066779338/original/hL5QIWSfO4GRXClsmophVSXgraDiRPuAOg.png?1603736015)
 
