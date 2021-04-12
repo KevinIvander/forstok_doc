@@ -38,6 +38,15 @@ Seller center Blibli:
 
 ![](../../.gitbook/assets/image%20%2886%29.png)
 
+6. Setelah berhasil integtasi, kembali ke halaman item akan muncul pop-up reconnect Blibli. Klik reconnect
+
+![](../../.gitbook/assets/image%20%28298%29.png)
+
+7. Input email dan password Blibli, lalu klik save. Setelah tidak ada pop up reconnect. Maka Blibli berjasil terconnect kembali.  
+
+
+![](../../.gitbook/assets/image%20%28297%29.png)
+
 {% hint style="info" %}
 Jika sudah di reconnect harap konfirmasi kembali tim Forstok terkait melalui Grup WhatsApp atau ticketing.
 {% endhint %}
