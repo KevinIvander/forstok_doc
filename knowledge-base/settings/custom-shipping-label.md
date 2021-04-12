@@ -1,6 +1,6 @@
 # Custom Shipping Label
 
-You can know print all Marketplaces and webstore shipping label in 1 format. This format is ideal for Thermal printer 10x15cm. 
+You can print all Marketplaces and e-commerce website shipping label in 1 format. This format is ideal for Thermal printer 10x15cm. 
 
 {% hint style="info" %}
 Please contact Forstok support to enable this feature.
