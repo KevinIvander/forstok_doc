@@ -21,7 +21,7 @@ Please contact Forstok to enable this feature. Top up payment is required.
 5. Input Latitude and Longitude in Google map search to double check if location is correct.
 6. Input Latitude and Longitude, into Lat / Long field in Forstok order page.
 7. Click "Update status" to request pickup
-8. Select Gosend/ grab express
+8. Select Gosend/ grab express, click update.
 9. Print shipping Label
 10. Your customer will received LIVE tracking. 
 
