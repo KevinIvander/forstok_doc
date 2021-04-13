@@ -7,8 +7,9 @@ Ada 2 cara untuk membuat Master product, Jika master product belum terupload di 
 
 1. [Import Product dari salah satu channel \(Marketplace atau website\)](import-product-from-channels.md)
 2. [Tambahkan master product](add-master-product.md)
-3. 
 {% endhint %}
+
+
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross listing_ : 
 
