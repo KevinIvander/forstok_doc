@@ -1,4 +1,4 @@
-# Cross Listing dari Master product
+# Cross Listing dari Master product \(Add Listings\)
 
 {% hint style="info" %}
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
