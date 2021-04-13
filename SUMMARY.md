@@ -69,7 +69,6 @@
   * [Virtual Bundling](knowledge-base/items/virtual-bundling.md)
   * [Quantity Adjustment \(Excel/Bulk Update Quantity\)](knowledge-base/items/quantity-adjustment-excel-bulk-update-quantity.md)
   * [Quantity Adjustment \(Adjust stock per item\)](knowledge-base/items/quantity-adjustment-adjust-stock-per-item.md)
-  * [Price Adjustment \(Adjust price per item\)](knowledge-base/items/price-adjustment-adjust-price-per-item.md)
   * [Stock History](knowledge-base/items/stock-history.md)
   * [Create Stock Allocation](knowledge-base/items/create-stock-allocation.md)
   * [Edit item](knowledge-base/items/edit-item.md)
