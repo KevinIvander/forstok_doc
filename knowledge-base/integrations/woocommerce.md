@@ -1,5 +1,13 @@
 # Woocommerce
 
+{% hint style="warning" %}
+Limitasi:
+
+* Untuk listing atau upload produk ke woocommerce belum bisa
+{% endhint %}
+
+
+
 1.Buka link dibawah ini:  
 [https://www.forstok.com/dashboard/channels/integrations/woocommerce/setup](https://www.forstok.com/dashboard/channels/integrations/woocommerce/setup)
 
