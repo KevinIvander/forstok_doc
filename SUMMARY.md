@@ -44,6 +44,7 @@
     * [FAQ Jurnal](knowledge-base/integrations/jurnal-accounting/faq-jurnal.md)
   * [Pawoon POS](knowledge-base/integrations/pawoon-pos/README.md)
     * [Integrasi Pawoon](knowledge-base/integrations/pawoon-pos/integrasi-pawoon.md)
+    * [Sinkronisasi stok \(Pawoon ke Forstok\)](knowledge-base/integrations/pawoon-pos/sinkronisasi-stok-pawoon-ke-forstok.md)
   * [Reconnect Shopee](knowledge-base/integrations/reconnect-shopee.md)
   * [Reconnect Blibli](knowledge-base/integrations/reconnect-blibli.md)
   * [Reconnect Bukalapak](knowledge-base/integrations/reconnect-bukalapak.md)
