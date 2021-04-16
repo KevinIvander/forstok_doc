@@ -1,4 +1,4 @@
-# Batasan
+# Batasan \(Limitation\)
 
 Setiap API channel atau marketplace mempunyai limitasi. Berikut limatasi API setiap marketplace yang harus di ketahui dan bagaimana solusi atau saran yang bisa dilakukan:
 
