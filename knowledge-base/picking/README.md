@@ -1,2 +1,2 @@
-# Picking
+# Pengambilan \(Picking\)
 
