@@ -5,7 +5,7 @@ description: >-
   menggunakan pengiriman dari Marketplace (Cashless)
 ---
 
-# Pengiriman \(Shipping\)
+# Pengiriman \(Logistic\)
 
 ## On-demand Services 
 

@@ -146,7 +146,7 @@
   * [Custom Shipping Label](knowledge-base/settings/custom-shipping-label.md)
   * [Templates \(Coming Soon\)](knowledge-base/settings/templates.md)
   * [Latitude / Longitude](knowledge-base/settings/latlong.md)
-* [Pengiriman \(Shipping\)](knowledge-base/shipping-cashless/README.md)
+* [Pengiriman \(Logistic\)](knowledge-base/shipping-cashless/README.md)
   * [On Demand Services](knowledge-base/shipping-cashless/ondemand-services.md)
   * [Regular Services](knowledge-base/shipping-cashless/regular-services.md)
 * [Notifikasi](knowledge-base/notifications/README.md)
