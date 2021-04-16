@@ -1,2 +1,2 @@
-# Faktur Penjualan
+# Faktur Penjualan \(Invoice\)
 
