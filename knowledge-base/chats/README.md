@@ -4,7 +4,7 @@ description: >-
   customer dalam satu Aplikasi.
 ---
 
-# Chats
+# Forstok Chat
 
 {% hint style="info" %}
 Download Forstok Chat:  

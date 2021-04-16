@@ -152,7 +152,7 @@
 * [Notifikasi](knowledge-base/notifications/README.md)
   * [Notifications](knowledge-base/notifications/notifications-1.md)
 * [Forstok POS](knowledge-base/forstok-pos.md)
-* [Chats](knowledge-base/chats/README.md)
+* [Forstok Chat](knowledge-base/chats/README.md)
   * [Download App](knowledge-base/chats/download-app.md)
 
 ## Supports
