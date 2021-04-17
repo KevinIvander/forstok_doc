@@ -11,7 +11,7 @@
   * [FAQ - Orders](getting-started/faq/faq-orders-1.md)
   * [FAQ - Jurnal](getting-started/faq/faq-jurnal.md)
 * [Integrasi API](getting-started/api-integration.md)
-* [Batasan \(Limitation\)](getting-started/limitations.md)
+* [Batasan \(Limitations\)](getting-started/limitations.md)
 
 ## Knowledge base
 
