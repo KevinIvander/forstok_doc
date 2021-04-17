@@ -4,7 +4,7 @@ description: >-
   following guide will help you achieve your goals.
 ---
 
-# Forstok Open API
+# Forstok API Doc
 
 ## High level flow
 
