@@ -4,7 +4,7 @@ description: >-
   following guide will help you achieve your goals.
 ---
 
-# Integrasi API
+# Forstok Open API
 
 ## High level flow
 
