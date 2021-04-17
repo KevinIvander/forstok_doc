@@ -1,2 +1,2 @@
-# Pengaturan awal
+# Pengaturan awal \(Setup\)
 
