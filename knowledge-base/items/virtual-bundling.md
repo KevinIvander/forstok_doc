@@ -2,9 +2,9 @@
 
 Bundling merupakan gabungan antara dua produk atau lebih dalam paket penjualan. 
 
-Dimana tujuan dari bunding di Forstok ini, mengconnectkan main sku atau sku satuan dengan Item Bundling.
+Dimana tujuan dari bunding di Forstok ini, mengconnectkan stock main sku atau sku satuan dengan Item Bundling.
 
-Jika ada orderan pada item bundling, stock pada main sku juga bakal berkurang. Sebelum kita connectkan di pastikan item bundlingnya sudah di create.
+Jadi jika ada orderan pada item bundling, stock pada main sku juga bakal berkurang. Sebelum kita connectkan di pastikan item bundlingnya sudah di create.
 
 Berikut langkah-langkah Existing Item Bundling:  
 1.Pada menu item pilih **Add Bundle Item**.
