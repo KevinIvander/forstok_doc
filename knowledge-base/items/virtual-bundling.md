@@ -40,7 +40,7 @@ Maka saat ada orderan Paket Combo Twinpack anting dan cincin, dapat 2 barang yai
 
 5. Set up harga item bundling tsb, ****
 
-**Amount** : potongan harga untuk item bundling, jika bundling tsb dapat potongan harga.
+**Amount** : Potongan harga untuk item bundling, jika bundling tsb dapat potongan harga.
 
 **Selling Price** : Final harga yang bisa di beli oleh customer.
 
