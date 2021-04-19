@@ -1,48 +1,17 @@
 # Reconnect Blibli
 
-API Blibli ada reset connection jika ada perubahan password atau terhubung dengan sistem lain maka API Blibli jadi non aktif. Supaya API connection Blibli terhubung kemballi harap Anda mengaktidkan kembali API Forstok dan Blibli dari seller center Blibli dan Forstok.  
+API Blibli ada reset connection jika ada perubahan password, Expired API atau terhubung dengan sistem lain maka API Blibli jadi non aktif. Supaya API connection Blibli terhubung kemballi harap Anda mengaktifkan kembali API Forstok dan Blibli dari seller center Blibli dan Forstok.  
   
-Berikut panduan Reconnect API Blibli:  
-  
-1. Buka seller center Blibli [https://seller.blibli.com/](https://seller.blibli.com/)
-
-Pada kanan atas pilih **Seller API manager**
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48087352123/original/tKm0ZsH243V_iC8lTtAN3bRKvPZCtoV1yA.png?1613468287)
-
-2. Input kolom API Seller key dan API Client ID  
-  
-API Seller key: Klik Generate
-
-API Client ID: mta-api-ptforstokteknologiindonesia-9ddf9
+1. Pastikan API Blibli masih tersambung dengan Forstok. Di seller center Blibli.  
+Bisa di lihat dari Dropdown sebelah kanan atas - pilih seller API Manager
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48087352720/original/LbA4f7R-UMAA6T7Qs_aWeJfhkgNvDWFzrA.png?1613468465)
 
-3. Buka akun Forstok Anda. Pilih Integrations --&gt; pilih Settings
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48087354302/original/ssOMnZzUtus-BcqYJwwN8mRsbX2qXYvBOQ.png?1613468906)
-
-4. Klik Change
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48087354451/original/IuV6Mt2d163NNgeVcoOaddHm0fHY45_Rvw.png?1613468956)
-
-5. Input API Seller Key dan Merchant ID = Store code yang di dapat dari seller center Blibli
-
-{% hint style="info" %}
- Kolom kata sandi khusus diabaikan atau kosongkan
-{% endhint %}
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48087354839/original/Loy1ddf1ZrcSDB9VnjJjr0mU7q-6ud_Abw.png?1613469084)
-
-Seller center Blibli:
-
-![](../../.gitbook/assets/image%20%2886%29.png)
-
-6. Setelah berhasil integtasi, kembali ke halaman item akan muncul pop-up reconnect Blibli. Klik reconnect
+2. Klik reconnect
 
 ![](../../.gitbook/assets/image%20%28298%29.png)
 
-7. Input email dan password Blibli, lalu klik save. Setelah tidak ada pop up reconnect. Maka Blibli berjasil terconnect kembali.  
+3. Input email dan password Blibli, lalu klik save. Setelah tidak ada pop up reconnect. Maka Blibli berjasil terconnect kembali.  
 
 
 ![](../../.gitbook/assets/image%20%28297%29.png)
