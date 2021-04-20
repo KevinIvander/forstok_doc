@@ -4,6 +4,10 @@ description: Bagaimana untuk Melakukan Print Pick List (Single Order)
 
 # Print Pick List
 
+### Create Picklist single or Bulk printing 
+
+![](../../.gitbook/assets/print-picklist.gif)
+
 Berikut merupakan cara untuk melakukan print pick list : 
 
 1. Pilih halaman Order.
