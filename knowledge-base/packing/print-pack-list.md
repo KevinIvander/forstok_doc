@@ -1,10 +1,10 @@
 ---
-description: Bagaimana untuk Melakukan Print Pack List (Single Order)
+description: Melakukan Print Pack List (Single Order or multiple order)
 ---
 
 # Print Pack List
 
-### Create Packlist single or Bulk printing 
+### Print Packlist dari satu atau multiple order 
 
 ![](../../.gitbook/assets/packlist.gif)
 

@@ -4,7 +4,7 @@ description: Bagaimana untuk Melakukan Print Pick List (Single Order)
 
 # Print Pick List
 
-### Create Picklist single or Bulk printing 
+### Print Picklist dari satu atau multiple order  
 
 ![](../../.gitbook/assets/print-picklist.gif)
 
