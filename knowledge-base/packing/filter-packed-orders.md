@@ -2,7 +2,7 @@
 description: Filter order dengan status packed
 ---
 
-# Filter Packed Orders
+# Packed Orders
 
 ### 1. Filter Packed orders
 

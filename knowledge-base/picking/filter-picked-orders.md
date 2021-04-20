@@ -2,7 +2,7 @@
 description: Filter order dengan status picked
 ---
 
-# Filter Picked Orders
+# Picked Orders
 
 ### 1. Filter Picked Orders
 
