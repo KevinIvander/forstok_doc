@@ -100,6 +100,8 @@
   * [Ready to Shipped](knowledge-base/shipment-orders/ready-to-print.md)
   * [Print Shipping Documents](knowledge-base/shipment-orders/print-shipping-document-in-bulk.md)
   * [Export Shipment \(Excel\)](knowledge-base/shipment-orders/export-shipment-excel.md)
+* [Handover](knowledge-base/handover/README.md)
+  * [Print Handover \(Coming soon\)](knowledge-base/handover/print-handover-coming-soon.md)
 * [Faktur Penjualan \(Invoice\)](knowledge-base/sales-invoices/README.md)
   * [Invoice Overview](knowledge-base/sales-invoices/invoice-overview.md)
   * [Create Sales Invoice](knowledge-base/sales-invoices/create-sales-invoice.md)
