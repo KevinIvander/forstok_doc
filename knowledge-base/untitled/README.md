@@ -1,2 +1,2 @@
-# Pelanggan \(Customers\)
+# Pelanggan \(Customer\)
 

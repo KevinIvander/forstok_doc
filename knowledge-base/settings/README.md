@@ -1,2 +1,2 @@
-# Pengaturan \(Settings\)
+# Pengaturan \(Setting\)
 

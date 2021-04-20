@@ -1,2 +1,2 @@
-# Retur Penjualan \(Returns\)
+# Retur Penjualan \(Return\)
 
