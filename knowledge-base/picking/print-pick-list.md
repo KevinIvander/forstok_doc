@@ -4,11 +4,15 @@ description: Bagaimana untuk Melakukan Print Pick List (Single Order)
 
 # Print Pick List
 
-### Print Picklist dari satu atau multiple order  
+## **Alur Proses Video**
+
+Print picklist dari satu atau mulitple order
 
 ![](../../.gitbook/assets/print-picklist.gif)
 
-Berikut merupakan cara untuk melakukan print pick list : 
+## **Alur Proses**
+
+Ikuti beberapa langkah sederhana untuk membuat dan menerima daftar pilihan:
 
 1. Pilih halaman Order.
 
