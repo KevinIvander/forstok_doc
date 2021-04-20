@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/screen-shot-2021-04-20-at-1.05.07-pm.png)
 
-### 2. View picked orders
+### 2. View Picked orders
 
 Picked orders will have "Picked icon". You can select picked order to continue next step e.g packing or ready to ship.
 
