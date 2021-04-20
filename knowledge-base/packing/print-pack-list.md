@@ -4,6 +4,12 @@ description: Bagaimana untuk Melakukan Print Pack List (Single Order)
 
 # Print Pack List
 
+### Create Packlist single or Bulk printing 
+
+![](../../.gitbook/assets/packlist.gif)
+
+
+
 Berikut merupakan cara untuk melakukan print pack list : 
 
 1. Pilih halaman Order.
