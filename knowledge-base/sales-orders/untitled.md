@@ -3,7 +3,11 @@
 Pada menu order ini seller dapat memproses orderan dari Forstok. Seperti update ready to ship, print shipping label, print pick list dan pack list.  
 Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062571440/original/lHAk1dT93SySexXeBf_X_M06Z2-0ZFwxRQ.png?1601811064)
+
+
+![](https://lh5.googleusercontent.com/1qafvRVbDMnP2SSsBMPhJAwGpS3PY48Z5pVX6kmk7-cNS6n5ijkctpkLqvkmukh93qU4LlEOEZ-8jbD4Ts2mc1L2S9FOhraGW2FtSrNNbrm660JTZUkkqFU-_3Cc7sCJhUNeVY8s)
+
+
 
 **A. Left Panel  
 Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilter kurir.**   
