@@ -97,7 +97,7 @@
 * [Pengiriman \(Shipment\)](knowledge-base/shipment-orders/README.md)
   * [Shipment Overview](knowledge-base/shipment-orders/shipment-overview.md)
   * [Create Shipment](knowledge-base/shipment-orders/create-shipment.md)
-  * [Ready to Shipped](knowledge-base/shipment-orders/ready-to-print.md)
+  * [Ready to Ship](knowledge-base/shipment-orders/ready-to-print.md)
   * [Print Shipping Documents](knowledge-base/shipment-orders/print-shipping-document-in-bulk.md)
   * [Export Shipment \(Excel\)](knowledge-base/shipment-orders/export-shipment-excel.md)
 * [Serah terima \(Handover\)](knowledge-base/handover/README.md)
