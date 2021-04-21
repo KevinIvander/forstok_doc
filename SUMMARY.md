@@ -88,9 +88,10 @@
   * [Create Dropship Order](knowledge-base/sales-orders/create-dropship-order.md)
   * [Import Sales Orders \(Coming soon\)](knowledge-base/sales-orders/import-sales-orders.md)
   * [Export Sales Orders \(Excel\)](knowledge-base/sales-orders/export-sales-orders-excel.md)
-* [Pengambilan \(Picking\)](knowledge-base/picking/README.md)
-  * [Print Pick List](knowledge-base/picking/print-pick-list.md)
-  * [Picked Orders](knowledge-base/picking/filter-picked-orders.md)
+* [Pengambilan \(Picking\)](knowledge-base/pengambilan-picking/README.md)
+  * [Print Pick List](knowledge-base/pengambilan-picking/print-pick-list.md)
+  * [Picked Orders](knowledge-base/pengambilan-picking/filter-picked-orders.md)
+* [Pengambilan \(Picking\)](knowledge-base/picking.md)
 * [Pengepakan \(Packing\)](knowledge-base/packing/README.md)
   * [Print Pack List](knowledge-base/packing/print-pack-list.md)
   * [Packed Orders](knowledge-base/packing/filter-packed-orders.md)
@@ -159,4 +160,6 @@
 * [Support Overview](supports/support-overview.md)
 * [Create ticket](supports/create-ticket.md)
 * [Contact Support](supports/contact-support.md)
+
+## Picking
 
