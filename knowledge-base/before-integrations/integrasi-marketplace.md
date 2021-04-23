@@ -3,11 +3,7 @@
 **Setelah  Phase 1 selesai kita mulai integrasi marketplace dari Forstok.**
 
 Pastikan sudah log in ke akun Forstok \(akses log in akan di share oleh tim Forstok\).  
-[https://www.forstok.com/dashboard/users/login](https://www.forstok.com/dashboard/users/login)
-
-Integrasikan store marketplace anda dengan click link di bawah ini:
-
-[https://www.forstok.com/integrations](https://www.forstok.com/integrations)  
+[https://www.forstok.com/dashboard/users/login](https://www.forstok.com/dashboard/users/login)  
   
 ****1. Integrations --&gt; Pilih Add Integrations
 
