@@ -17,6 +17,20 @@ Here's a sneak-peak of what's coming:
 * New **Reports** Section _Q3 2021_
 * **Handover** List _Q3 2021_
 
+## April 20, 2021
+
+### Orders Filter
+
+* **Orders Filter**. You can filter order operational processing. Which is Sales Order, Shipment, Invoice, and Return.
+
+![](../.gitbook/assets/image%20%28299%29.png)
+
+* **Picked & Packed.** You can process the pick list and pick list first if there are new orders coming in \(Open\). If you process the pick list and pack list first, which is not already in the RTS just for print pick or pack list, then you can filter by picked and packed. 
+
+{% page-ref page="../knowledge-base/pengambilan-picking/filter-picked-orders.md" %}
+
+{% page-ref page="../knowledge-base/packing/print-pack-list.md" %}
+
 ## April 5, 2021
 
 ### New Feature
