@@ -22,13 +22,16 @@ Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua
 
 **B. Bulk Update Qty**
 
-1. Pada menu Item Forstok pilih tanda panah berikut dan klik Bulk Update Quantity \(Beta\)
+1. Pada menu Item Forstok pilih tanda panah berikut dan klik Upload Stock Adjustment \(Beta\)
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48065508828/original/cm5tcHJAbhqrpSumoL_FPATnD-qFR63OOw.png?1603132197)
+![](../../.gitbook/assets/image%20%28304%29.png)
 
 2. Download template Update Quanity \(csv\). File bisa di download pada menu notification Forstok yang ada pada kanan atas \(simbol lonceng\).
 
-![](../../.gitbook/assets/image%20%28259%29.png)
+* Final qty : Stock yang di dijumlahkan yang akan di update ke Forstok
+* Delta qty -/+ : Untuk pengurangan atau penambahan stock yang akan di update
+
+![](../../.gitbook/assets/image%20%28300%29.png)
 
 3. Berikut tampilan excel Bulk Update Qty. Stock yang akan di update di isi pada kolom New Qty on Hand \(kolom E\). Stock yang di isi real stock yang ada. Contoh jika ingin update stock jadi 6 di kolom New Qty in Hand harus di isi 6 juga.
 
@@ -38,7 +41,7 @@ Jangan lupa unprotect file. Password: forstok123
 
 4. Setelah excel Bulk Update Qty di isi. Lalu upload file tsb pada menu Bulk Update Qty tadi. Lalu import.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48052034348/original/A-jdxOksg1gMf4jnDyX7PY-dtQ2cirhbcA.png?1596435491)
+![](../../.gitbook/assets/image%20%28299%29.png)
 
 5. Untuk melihat hasil update qty tsb klik icon Notifications. Hasilnya bisa dilihat dari activity tsb. Untuk melihat activity lebih lengkap bisa klik More Activity
 
