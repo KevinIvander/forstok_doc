@@ -25,7 +25,9 @@ Here's a sneak-peak of what's coming:
 
 ![](../.gitbook/assets/image%20%28299%29.png)
 
-* **Picked & Packed.** You can process the pick list and pick list first if there are new orders coming in \(Open\). If you process the pick list and pack list first, which is not already in the RTS just for print pick or pack list, then you can filter by picked and packed. 
+* **Picked & Packed.** You can process the pick list and pick list first if there are new orders coming in \(Open\). If you process the pick list and pack list first, which is not already in the RTS just for print pick or pack list, then you can filter by picked and packed.
+
+![](../.gitbook/assets/image%20%28300%29.png)
 
 {% page-ref page="../knowledge-base/pengambilan-picking/filter-picked-orders.md" %}
 
