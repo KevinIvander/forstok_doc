@@ -1,7 +1,6 @@
-# Add Items
+# Add Items \(Create New Items\)
 
 Berikut langkah-langkah listing item baru yang belum ada di marketplace:  
-  
   
 1. Pada menu Item pilih +Item --&gt; Add Items
 
