@@ -15,11 +15,11 @@ Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilt
 
 1. Order POS merupakan fitur untuk membuat order baru  secara manual pada POS. Dimana berkemungkinan seller menjual secara online juga selain di marketplace mungkin seperti Instagram, Facebook, dll dimana stock masih satu stock dengan penjualan marketplace. Maka saat buat order manual POS untuk sku tsb maka stok marketplacenya juga ikut terpotong
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](https://lh6.googleusercontent.com/TizLyE7CoF0Vpf_gkVt3pSHC11_HmoMTqVFkNkuJnk_maXMiLFzeAxVLL7QLSTcHS79kk6oyMk-XuIcfhiZL95AxvCakM_cs5pZe6DVaETxFCM8nHcmqh-59VWi8QrghM02_MsXh)
 
 2. Search order/sku di kolom search
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](https://lh6.googleusercontent.com/ngvTvDn849wA_56-L_PuNe8paUTlkqZ2l-2FAl7PhCJmoaWKo1HDt95tf9L1ngJoI37E9IOXaj_ZJtIxBO1xhgfHN_ajfVdrHr68bDSRtoJy01ymVmf6JTLiuOG3PX_Ynhu_74ap)
 
 3. Filter berdasarkan status.
 
@@ -31,7 +31,7 @@ Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilt
 * Delivered: Paket sudah sampai ke alamat customer
 * Cancelled: Orderan yang di cancel customer
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062571655/original/_nsMxc9t1rjwhdi-XegCCZ6OeYosh_9Whw.png?1601811320)
+![](https://lh4.googleusercontent.com/VpRkHawHKkHnZG2c1_y6fu0f9r7vOr_ztzsj5sKen6zybOQV07_JVe6HESEp0YYKTASiqLp02y17xsDYESWrA4Ddb-fa_xXb0gp5H6bXFEucEV3a51sB8uCwlQIC4Mb_9pxe1bxF)
 
 4. Filter berdasarkan _store_.
 
@@ -52,13 +52,13 @@ Lalu di Forstok bisa proses order sekaligus banyak atau bulky. Tinggal klik chec
 * Print Manifest: Untuk memprint tanda terima kurir
 * Cancel Order: Untuk membatalkan orderan tsb
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062571786/original/BVgbexnArE8cAgnPvmC8txSP9j6JfvLDmA.png?1601811515)
+![](https://lh5.googleusercontent.com/5I8RYigH_m8xL9m6i56Ox07iKwZSQCHUlFaEg_QQsyKUWJ2jRbVdJF0-8JTZhk7i11f3mNF89fF1f7RnXdM5aTyI7TR2Jd9Oes13y2qxy7Icf40lTzrOxcFoHS0fR084xYu9rYLH)
 
 **B. Right Panel Terdiri dari** 
 
 1. Detail order berupa: item yang di order oleh customer, nama customer, alamat customer, No tlp customer, No Order dan lain-lain.
 
-![](../../.gitbook/assets/image%20%28166%29.png)
+![](https://lh6.googleusercontent.com/c9Msps40e3E7lNlRcaDsQc9G_goQodQHvNaxXH_amnRVKOITF2Sphrf0sFdPex58nEO6Im5WzysBOb66kMk62X0BrKnIbnVmnAUtRjylv3QdjMDgI1FP0GcfPq7kHIcVs0QSs_9R)
 
 2. Activity.  
 Untuk melihat tracking status order.
