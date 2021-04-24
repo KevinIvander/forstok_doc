@@ -1,2 +1,2 @@
-# Gudang \(Warehouse\)
+# Gudang \(Warehouses\)
 

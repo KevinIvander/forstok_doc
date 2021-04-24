@@ -82,7 +82,7 @@
   * [Stock History](knowledge-base/inventory/stock-history.md)
   * [Bin Location](knowledge-base/inventory/bin-location.md)
   * [Create Barcode Label](knowledge-base/inventory/create-barcode-label.md)
-* [Gudang \(Warehouse\)](knowledge-base/gudang-warehouse/README.md)
+* [Gudang \(Warehouses\)](knowledge-base/gudang-warehouse/README.md)
   * [Tambah Gudang](knowledge-base/gudang-warehouse/tambah-gudang.md)
   * [Mengelola gudang](knowledge-base/gudang-warehouse/mengelola-gudang.md)
   * [Mapping Channel](knowledge-base/gudang-warehouse/mapping-channel.md)
