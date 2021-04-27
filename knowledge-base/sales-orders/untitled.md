@@ -3,21 +3,20 @@
 Pada menu order ini seller dapat memproses orderan dari Forstok. Seperti update ready to ship, print shipping label, print pick list dan pack list.  
 Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
 
+Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
 
-
-![](https://lh5.googleusercontent.com/1qafvRVbDMnP2SSsBMPhJAwGpS3PY48Z5pVX6kmk7-cNS6n5ijkctpkLqvkmukh93qU4LlEOEZ-8jbD4Ts2mc1L2S9FOhraGW2FtSrNNbrm660JTZUkkqFU-_3Cc7sCJhUNeVY8s)
+![](https://lh6.googleusercontent.com/0zJZfJJHI62p4tefEEuSbcwyosMQuE29T7KwqV4xOhy_5IW3FOtEty8T0jhjXsxLwWrqnZJTcL_C0gXvsK9smTJdrtbEOqF2OVFy5lx4nVAq3EJbAbppMJJm3AMnTIvPOFzo5063)
 
 
 
 **A. Left Panel  
-Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilter kurir.**   
-
+Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilter kurir.** 
 
 1. Order POS merupakan fitur untuk membuat order baru  secara manual pada POS. Dimana berkemungkinan seller menjual secara online juga selain di marketplace mungkin seperti Instagram, Facebook, dll dimana stock masih satu stock dengan penjualan marketplace. Maka saat buat order manual POS untuk sku tsb maka stok marketplacenya juga ikut terpotong
 
 ![](https://lh6.googleusercontent.com/TizLyE7CoF0Vpf_gkVt3pSHC11_HmoMTqVFkNkuJnk_maXMiLFzeAxVLL7QLSTcHS79kk6oyMk-XuIcfhiZL95AxvCakM_cs5pZe6DVaETxFCM8nHcmqh-59VWi8QrghM02_MsXh)
 
-2. Search order/sku di kolom search
+2. Search order/sku di kolom search kita dapat mencari order berdasarkan Forstok Order ID, Channel Order ID, Customer Name dan Product SKU
 
 ![](https://lh6.googleusercontent.com/ngvTvDn849wA_56-L_PuNe8paUTlkqZ2l-2FAl7PhCJmoaWKo1HDt95tf9L1ngJoI37E9IOXaj_ZJtIxBO1xhgfHN_ajfVdrHr68bDSRtoJy01ymVmf6JTLiuOG3PX_Ynhu_74ap)
 
@@ -52,7 +51,7 @@ Lalu di Forstok bisa proses order sekaligus banyak atau bulky. Tinggal klik chec
 * Print Manifest: Untuk memprint tanda terima kurir
 * Cancel Order: Untuk membatalkan orderan tsb
 
-![](https://lh5.googleusercontent.com/5I8RYigH_m8xL9m6i56Ox07iKwZSQCHUlFaEg_QQsyKUWJ2jRbVdJF0-8JTZhk7i11f3mNF89fF1f7RnXdM5aTyI7TR2Jd9Oes13y2qxy7Icf40lTzrOxcFoHS0fR084xYu9rYLH)
+![](https://lh3.googleusercontent.com/LbTIZN3G6hiqa15DqGN52e29mcMx1FF4P00LP5TSjpFywi_ar9IAvPyV9N_0GAVDDy6OzTzKitmSVepoVxheUv_9G8cKlCuSsUOkhR1b3GjjagqwpRwN03mN0XgpbVwWq5ItAAu5)
 
 **B. Right Panel Terdiri dari** 
 
@@ -63,30 +62,30 @@ Lalu di Forstok bisa proses order sekaligus banyak atau bulky. Tinggal klik chec
 2. Activity.  
 Untuk melihat tracking status order.
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](https://lh3.googleusercontent.com/ygdmFgyVcqJMDQ5uGWrcehIYovs5PWqg2S4Y_2ANpvwfxoGgNg9XGnuIBjxvI89aooWAcftaCyt7h_fEC8vcLoOO9c2ZCHv0ew-EbRZq09Lyd_l1dSTXw2ng2-gGrnlYcyCHCAks)
 
 3. Update Status.  
 - Ready to Shipped: Untuk memproses orderan ready to ship atau request pick up kurir.  
 - Cancel: Untuk membatalkan atau cancel orderan.
 
-![](../../.gitbook/assets/image%20%28191%29.png)
+![](https://lh5.googleusercontent.com/A4098fgWbfIS4_w6L4Kn5NonF0i1e0SzON-Dy8618pjIbhRTA9zbYs0utHGB2PAv7wfnxq0dPCFqZvkJEV_6TcXgnCq3Db9lqy2adj-LuoYYVKyndprAIXoOfZY6dTIiyaU1euwj)
 
 4. Print.  
 Untuk print shipping label, print pick list dan print pack list.
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](https://lh5.googleusercontent.com/SVm7RGVQjpUbwL9TLPgDqmRTI8BHpguQzeQgLY9AYa9JOqcgxeq2vl-tWkwpw_i7aqPN6YGbIoBqbBITkbo2lTpzUylndVIu9OhN9IHh4K-YoImUNz-HgNhWefnMaKNI_BiFk0nf)
 
-- Tampilan Shipping Label
+Berikut tampilan ketika klik Print Shipping Label
 
 ![](../../.gitbook/assets/image%20%28215%29.png)
 
-- Tampilan Pick List
+Berikut tampilan ketika klik Pick List
 
 Merupakan untuk melihat list barang mana saja yang perlu di ambil oleh tim gudang dari rak.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48064001161/original/EQn8XQvQapurlis5SKhL5coml6rRgf7UBw.png?1602441177)
 
-- Tampilan Pack List
+Berikut tambilan ketika klik Pack List
 
 Merupakan untuk melihat barang apa saja yang perlu di packing, yang bisa di print dari Forstok berdasarkan orderan.
 
