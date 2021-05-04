@@ -17,6 +17,20 @@ Here's a sneak-peak of what's coming:
 * New **Reports** Section _Q3 2021_
 * **Handover** List _Q3 2021_
 
+## May 3, 2021
+
+### Stock Adjustment via Excel V2
+
+Stock Adjustment Type**:** 
+
+* **Final Qty:** Ideal for Stock Opname. Input "New Qty on Hand" to replace with Final Qty. 
+
+{% page-ref page="../knowledge-base/inventory/stock-adjustment-excel.md" %}
+
+* **Delta Qty:** Ideal for stock inbound \(+\) or Outbound \(-\). Inbound can be from Return Order, Purchase Order, Stock Transfer. Outbound can be from Sales Order, Transfer Stock. 
+
+{% page-ref page="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
+
 ## April 20, 2021
 
 ### Orders Filter
