@@ -76,7 +76,7 @@
 * [Inventaris \(Inventory\)](knowledge-base/inventory/README.md)
   * [Stock Adjustment](knowledge-base/inventory/stock-adjustment.md)
   * [Upload Stock Adjustment Final Qty \(xls\)](knowledge-base/inventory/stock-adjustment-excel.md)
-  * [Upload Stock Adjustment Delta Qty \(xls\)](knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
+  * [Upload Stock Adjustment Delta Qty +/- \(xls\)](knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
   * [Stock Allocation \(Flash Sale/Campaign\)](knowledge-base/inventory/stock-allocation-flash-sale.md)
   * [Priority Channel/Store](knowledge-base/inventory/priority-channel-store.md)
   * [Stock History](knowledge-base/inventory/stock-history.md)

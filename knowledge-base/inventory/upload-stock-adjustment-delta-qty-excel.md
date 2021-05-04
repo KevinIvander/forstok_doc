@@ -1,4 +1,4 @@
-# Upload Stock Adjustment Delta Qty \(xls\)
+# Upload Stock Adjustment Delta Qty +/- \(xls\)
 
 ### Video
 
@@ -6,25 +6,38 @@
 
 
 
-1. Pada menu Item Forstok pilih tanda panah berikut dan klik Bulk Update Quantity \(Beta\)
+1. Pada menu Item Forstok pilih tanda panah berikut dan Upload Stock Adjustment
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28315%29.png)
 
-2. Download template Update Quanity Delta Qty \(csv\). File excelnya masuk ke email. Lalu download file excel Bulk Update Qty tsb bisa di download pada menu notifications sebelah kanan atas.
+2. Pilih dan download Delta Qty \(+/-\) XLS , file bisa di download pada Notifications
 
 ![](../../.gitbook/assets/screen-shot-2021-03-31-at-4.07.46-pm.png)
 
-3. Berikut tampilan excel Bulk Update Qty. Stock yang akan di update di isi pada kolom New Qty on Hand \(kolom E\). Stock yang di isi real stock yang ada. Contoh jika ingin update stock jadi 6 di kolom Total Qty harus di isi 6 juga.   
-  
-Jangan lupa unprotect file. Password: forstok123
+3. Input stock yang akan di update.
 
-![](../../.gitbook/assets/image%20%28294%29.png)
+* Jika penambahan stock \(+\) cukup input tanpa tanda +
+* Jika pengurangan stock \(-\) input dengan menambahan tanda -
 
-4. Setelah excel Bulk Update Qty di isi. Lalu upload file tsb pada menu Bulk Update Qty tadi. Lalu import.
+![](../../.gitbook/assets/image%20%28314%29.png)
 
-![](../../.gitbook/assets/screen-shot-2021-03-31-at-4.06.18-pm.png)
+4. Upload dan import file tsb
 
-5. Untuk melihat hasil update qty tsb klik icon Notifications. Hasilnya bisa dilihat dari activity tsb.
+![](../../.gitbook/assets/image%20%28318%29.png)
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48052034352/original/bqaAw5rqEEryel3G24twhRQsomQUlaFuMQ.png?1596435492)
+
+
+5.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
+
+![](../../.gitbook/assets/image%20%28317%29.png)
+
+6. Berikut tampilan hasil update stock delta \(+/-\)
+
+Contoh sku:  
+WRL500 stock sebelumnya 30 + 5 = 35  
+CRM1000 stock sebelumnya 30 - 5 = 25
+
+![](../../.gitbook/assets/image%20%28319%29.png)
+
+
 
