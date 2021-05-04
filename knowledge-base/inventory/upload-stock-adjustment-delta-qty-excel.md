@@ -23,7 +23,7 @@
 
 4. Upload dan import file tsb
 
-![](../../.gitbook/assets/image%20%28320%29.png)
+![](../../.gitbook/assets/image%20%28321%29.png)
 
 
 
@@ -37,7 +37,7 @@ Contoh sku:
 WRL500 stock sebelumnya 30 + 5 = 35  
 CRM1000 stock sebelumnya 30 - 5 = 25
 
-![](../../.gitbook/assets/image%20%28321%29.png)
+![](../../.gitbook/assets/image%20%28322%29.png)
 
 
 
