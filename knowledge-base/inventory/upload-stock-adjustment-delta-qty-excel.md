@@ -8,7 +8,7 @@
 
 1. Pada menu Item Forstok pilih tanda panah berikut dan Upload Stock Adjustment
 
-![](../../.gitbook/assets/image%20%28315%29.png)
+![](../../.gitbook/assets/image%20%28316%29.png)
 
 2. Pilih dan download Delta Qty \(+/-\) XLS , file bisa di download pada Notifications
 
@@ -23,13 +23,13 @@
 
 4. Upload dan import file tsb
 
-![](../../.gitbook/assets/image%20%28318%29.png)
+![](../../.gitbook/assets/image%20%28320%29.png)
 
 
 
 5.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
 
-![](../../.gitbook/assets/image%20%28317%29.png)
+![](../../.gitbook/assets/image%20%28318%29.png)
 
 6. Berikut tampilan hasil update stock delta \(+/-\)
 
@@ -37,7 +37,7 @@ Contoh sku:
 WRL500 stock sebelumnya 30 + 5 = 35  
 CRM1000 stock sebelumnya 30 - 5 = 25
 
-![](../../.gitbook/assets/image%20%28319%29.png)
+![](../../.gitbook/assets/image%20%28321%29.png)
 
 
 
