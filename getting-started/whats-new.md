@@ -25,6 +25,10 @@ Stock Adjustment Type**:**
 
 * **Final Qty:** Ideal for Stock Opname. Input "New Qty on Hand" to replace with Final Qty. 
 
+{% hint style="info" %}
+**Please Download and Upload using new excel template**
+{% endhint %}
+
 {% page-ref page="../knowledge-base/inventory/stock-adjustment-excel.md" %}
 
 * **Delta Qty:** Ideal for stock inbound \(+\) or Outbound \(-\). Inbound can be from Return Order, Purchase Order, Stock Transfer. Outbound can be from Sales Order, Transfer Stock. 
