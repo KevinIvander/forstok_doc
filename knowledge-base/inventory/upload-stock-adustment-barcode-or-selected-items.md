@@ -59,7 +59,7 @@ Untuk melakukan adjustment qty dengan scan barcode bisa dengan melakukan langkah
 
 ![](../../.gitbook/assets/image%20%28342%29.png)
 
-3. Cek stock history, maka stock berhasil terupdate
+3. Cek stock history untuk melihat stock berhasil terupdate
 
 ![](../../.gitbook/assets/image%20%28345%29.png)
 
