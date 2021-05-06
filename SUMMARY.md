@@ -74,6 +74,7 @@
   * [Master Produk \(Bulk Update Items excel\)](knowledge-base/items/master-produk.md)
   * [Cara Listing The F Thing \(menggunakan Cross Listing\)](knowledge-base/items/cara-listing-the-f-thing-menggunakan-cross-listing.md)
 * [Inventaris \(Inventory\)](knowledge-base/inventory/README.md)
+  * [Upload Stock Adustment Barcode or Selected Items](knowledge-base/inventory/upload-stock-adustment-barcode-or-selected-items.md)
   * [Stock Adjustment](knowledge-base/inventory/stock-adjustment.md)
   * [Upload Stock Adjustment Final Qty \(xls\)](knowledge-base/inventory/stock-adjustment-excel.md)
   * [Upload Stock Adjustment Delta Qty +/- \(xls\)](knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
