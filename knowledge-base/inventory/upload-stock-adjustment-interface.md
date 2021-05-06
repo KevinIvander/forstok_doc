@@ -2,7 +2,7 @@
 
 Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berikut detailnya : 
 
-### **Adjust Stock by selecting product manually.**
+### **Adjust Stock by select products.**
 
 1. Pilih sku yang akan di update stock. Pilih Adjust Stock
 
