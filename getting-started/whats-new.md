@@ -17,6 +17,20 @@ Here's a sneak-peak of what's coming:
 * New **Reports** Section _Q3 2021_
 * **Handover** List _Q3 2021_
 
+## May 6, 2021
+
+Create Stock Adjustment via Barcode or Selected items
+
+![](../.gitbook/assets/image%20%28331%29.png)
+
+Stock Adjustment Type : 
+
+* Final qty : Ideal for Stock Opname. Input "New Qty on Hand" to replace with Final Qty. 
+* Adjust Qty \(+\) : Ideal for Stock Inbound 
+* Adjust Qty \(-\) : Ideal for Stock Outbound
+
+![](../.gitbook/assets/image%20%28329%29.png)
+
 ## May 3, 2021
 
 ### Stock Adjustment via Excel V2
