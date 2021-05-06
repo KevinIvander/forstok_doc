@@ -11,7 +11,6 @@ description: >-
 Here's a sneak-peak of what's coming:
 
 * Create **Shipment** and ****faster **shipping documents** printing Q2 2021
-* **Barcode** Scanning for Stock take and Stock Adjustment Q2 2021
 * **Inbound** and **Outbound** order List _Q3 2021_
 * Automatic **payment reconciliation** from Marketplace API _Q3 2021_
 * New **Reports** Section _Q3 2021_
