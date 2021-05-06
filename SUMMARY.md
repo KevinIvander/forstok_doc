@@ -81,7 +81,7 @@
   * [Priority Channel/Store](knowledge-base/inventory/priority-channel-store.md)
   * [Stock History](knowledge-base/inventory/stock-history.md)
   * [Bin Location](knowledge-base/inventory/bin-location.md)
-  * [Create Barcode Label](knowledge-base/inventory/create-barcode-label.md)
+  * [Upload Barcode](knowledge-base/inventory/create-barcode-label.md)
 * [Gudang \(Warehouses\)](knowledge-base/gudang-warehouse/README.md)
   * [Tambah Gudang](knowledge-base/gudang-warehouse/tambah-gudang.md)
   * [Mengelola gudang](knowledge-base/gudang-warehouse/mengelola-gudang.md)
