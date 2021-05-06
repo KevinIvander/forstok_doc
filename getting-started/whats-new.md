@@ -18,7 +18,9 @@ Here's a sneak-peak of what's coming:
 
 ## May 6, 2021
 
-Create Stock Adjustment via Barcode or Selected items
+### Create Stock Adjustment \(Interface\) v2. with Barcode capability
+
+You can now adjust stock without upload excel. Use a barcode scanner to select product and counting. Register your barcode first by upload in master product template.
 
 {% page-ref page="../knowledge-base/inventory/upload-stock-adjustment-interface.md" %}
 
