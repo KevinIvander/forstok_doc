@@ -1,14 +1,39 @@
 # Upload Stock Adjustment \(interface\)
 
-Pada Menu Item Forstok pilih +Item lalu pilih Create stock adjustment 
+Untuk Adjust Stock ada 2 cara bisa dengan scan barcode atau selected item, berikut detailnya : 
 
-![](../../.gitbook/assets/image%20%28334%29.png)
+**Adjust Stock**
 
-1. Pilih Type adjustment untuk menginputkan Qty 
-2. Pilih warehouse jika mau update di warehouse selain di primary warehouse atau gudang utama 
-3. Tuliskan nomor reference 
+1. Pilih sku yang akan di update stock. Pilih Adjust Stock
 
-![](../../.gitbook/assets/image%20%28333%29.png)
+![](../../.gitbook/assets/image%20%28345%29.png)
+
+2. Adjustment untuk update stock ada 3 type:
+
+* Final Qty : Ideal for Stock Opname 
+* Adjust Qty \(+\) : Ideal for Stock Inbound
+* Adjust Qty \(-\) : Ideal for Stock Outbound
+* Warehouse : pilih gudang yang akan di update \(ini biasanya untuk multi warehouse. Jika hanya 1 gudang hanya Primary Warehouse\)
+* Date : Tanggal update stock
+* Reference \# : Nomor referensi. Boleh kosong atau di input
+
+![](../../.gitbook/assets/image%20%28344%29.png)
+
+3. Input qty yang akan di update pada kolom New Qty on Hand. untuk reason boleh di pilih atau tidak. Lalu save
+
+![](../../.gitbook/assets/image%20%28339%29.png)
+
+* Jika ingin menambahkan sku lain untuk update stock. Pilih Select items
+
+![](../../.gitbook/assets/image%20%28342%29.png)
+
+* Cari sku atau centang sku yang di update stock, lalu klik Add to List
+
+![](../../.gitbook/assets/image%20%28341%29.png)
+
+4. Untuk melihat berhasil terupdate bisa lihat dari Stock History
+
+![](../../.gitbook/assets/image%20%28343%29.png)
 
 4. Klik submit.
 
