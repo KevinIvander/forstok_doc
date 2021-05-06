@@ -1,4 +1,4 @@
-# Upload Stock Adjustment \(interface\)
+# Create Stock Adjustment \(interface\)
 
 Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berikut detailnya : 
 
