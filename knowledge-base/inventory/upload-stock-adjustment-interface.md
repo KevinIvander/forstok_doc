@@ -49,7 +49,11 @@ Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berik
 
 **Scan barcode** 
 
-Untuk melakukan adjustment qty dengan scan barcode bisa dengan melakukan langkah - langkah berikut : 
+Sebelum memulai update stock menggunakan barcode, pastikan Anda sudah mengiput barcode item Anda. Jika belum berikut panduan untuk menginput barcode 
+
+{% page-ref page="create-barcode-label.md" %}
+
+Berikut langkah-langkah untuk update stock menggunakan scan barcode.
 
 1. Scan barcode item yang akan di tambahkan stocknya
 
