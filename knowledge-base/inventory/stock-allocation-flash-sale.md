@@ -2,7 +2,7 @@
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation : 
 
-1. Pada left pannel, pilih **+item**, lalu pilih _**create stok allocation**_.\|
+1. Pada left pannel, pilih **+item**, lalu pilih _**create stok allocation**_
 
 ![](../../.gitbook/assets/image%20%28146%29.png)
 
