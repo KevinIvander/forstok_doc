@@ -49,7 +49,9 @@ Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berik
 
 ### **Adjust stock by Scanning barcode** 
 
-Sebelum memulai update stock menggunakan barcode, pastikan Anda sudah mengiput barcode item Anda. Jika belum berikut panduan untuk menginput barcode 
+Sebelum memulai update stock menggunakan barcode, pastikan Anda sudah mengiput barcode item Anda. Jika belum berikut panduan untuk menginput barcode.
+
+**How to connect Barcode Scanner**:  Konekan barcode scanner melalui USB / bluetooh ke computer atau table. 
 
 {% page-ref page="create-barcode-label.md" %}
 
