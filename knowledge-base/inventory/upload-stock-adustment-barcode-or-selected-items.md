@@ -6,7 +6,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan scan barcode atau selected item, berik
 
 1. Pilih sku yang akan di update stock. Pilih Adjust Stock
 
-![](../../.gitbook/assets/image%20%28349%29.png)
+![](../../.gitbook/assets/image%20%28350%29.png)
 
 2. Adjustment untuk update stock ada 3 type:
 
@@ -17,7 +17,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan scan barcode atau selected item, berik
 * Date : Tanggal update stock
 * Reference \# : Nomor referensi. Boleh kosong atau di input
 
-![](../../.gitbook/assets/image%20%28348%29.png)
+![](../../.gitbook/assets/image%20%28349%29.png)
 
 3. Pilih type stock yang akan di update Final Qty, Adjust Qty +, atau Adjust Qty -. 
 
@@ -27,11 +27,11 @@ Untuk Adjust Stock ada 2 cara bisa dengan scan barcode atau selected item, berik
 
 * **Adjust Qty \(+\)**. Input Qty yang akan di tambahkan. Misal stock sebelumnya 20 dan ingin menambahkan 5. Cukup input 5 pada Qty Adjusted. Maka New Qty On Hand bertambah jadi 25
 
-![](../../.gitbook/assets/image%20%28345%29.png)
+![](../../.gitbook/assets/image%20%28346%29.png)
 
 * **Adjust Qty \(-\)**.  Untuk mengurangi stock yang ada saat ini. Misal stock saat ini 20 ingin dikurangi 5. Maka input 5 pada Qty Adjusted. Maka New Qty On Hand berkurang jadi 15
 
-![](../../.gitbook/assets/image%20%28346%29.png)
+![](../../.gitbook/assets/image%20%28347%29.png)
 
 4. Jika ingin menambahkan sku lain untuk update stock. Pilih Select items
 
@@ -43,7 +43,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan scan barcode atau selected item, berik
 
 4. Untuk melihat berhasil terupdate bisa lihat dari Stock History
 
-![](../../.gitbook/assets/image%20%28347%29.png)
+![](../../.gitbook/assets/image%20%28348%29.png)
 
  
 
@@ -59,7 +59,9 @@ Untuk melakukan adjustment qty dengan scan barcode bisa dengan melakukan langkah
 
 ![](../../.gitbook/assets/image%20%28342%29.png)
 
+3. Cek stock history, maka stock berhasil terupdate
 
+![](../../.gitbook/assets/image%20%28345%29.png)
 
 \*\*\*\*
 
