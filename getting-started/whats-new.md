@@ -53,12 +53,7 @@ Stock Adjustment Type**:**
 ### Orders Filter
 
 * **Orders Filter**. You can filter order operational processing. Which is Sales Order, Shipment, Invoice, and Return.
-
-![](../.gitbook/assets/image%20%28302%29.png)
-
 * **Picked & Packed.** You can process the pick list and pick list first if there are new orders coming in \(Open\). If you process the pick list and pack list first, which is not already in the RTS just for print pick or pack list, then you can filter by picked and packed.
-
-![](../.gitbook/assets/image%20%28303%29.png)
 
 {% page-ref page="../knowledge-base/pengambilan-picking/filter-picked-orders.md" %}
 
