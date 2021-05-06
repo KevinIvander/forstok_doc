@@ -17,7 +17,7 @@
 3. Input stock yang akan di update.
 
 * Jika penambahan stock \(+\) cukup input **tanpa** tanda +
-* Jika pengurangan stock \(-\) input **dengan menambahan tanda -**
+* Jika pengurangan stock \(-\) input **dengan menambahkan tanda -**
 
 ![](../../.gitbook/assets/image%20%28314%29.png)
 
