@@ -1,7 +1,3 @@
----
-description: Upload barcode berfungsi untuk jika Anda
----
-
 # Upload Barcode
 
 Anda sekarang dapat menyesuaikan stok tanpa mengunggah excel. Gunakan scanner barcode untuk memilih produk dan penghitungan. Daftarkan barcode Anda terlebih dahulu dengan mengunggah di template produk utama.
