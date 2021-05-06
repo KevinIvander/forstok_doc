@@ -20,15 +20,9 @@ Here's a sneak-peak of what's coming:
 
 Create Stock Adjustment via Barcode or Selected items
 
-![](../.gitbook/assets/image%20%28331%29.png)
+{% page-ref page="../knowledge-base/inventory/upload-stock-adustment-barcode-or-selected-items.md" %}
 
-Stock Adjustment Type : 
 
-* Final qty : Ideal for Stock Opname. Input "New Qty on Hand" to replace with Final Qty. 
-* Adjust Qty \(+\) : Ideal for Stock Inbound 
-* Adjust Qty \(-\) : Ideal for Stock Outbound
-
-![](../.gitbook/assets/image%20%28329%29.png)
 
 ## May 3, 2021
 
