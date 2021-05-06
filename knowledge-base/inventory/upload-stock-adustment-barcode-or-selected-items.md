@@ -1,6 +1,6 @@
 # Upload Stock Adjustment \(interface\)
 
-Untuk Adjust Stock ada 2 cara bisa dengan scan barcode atau selected item, berikut detailnya : 
+Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berikut detailnya : 
 
 **Adjust Stock**
 
