@@ -20,7 +20,7 @@ Here's a sneak-peak of what's coming:
 
 Create Stock Adjustment via Barcode or Selected items
 
-{% page-ref page="../knowledge-base/inventory/upload-stock-adustment-barcode-or-selected-items.md" %}
+{% page-ref page="../knowledge-base/inventory/upload-stock-adjustment-interface.md" %}
 
 ## May 3, 2021
 
