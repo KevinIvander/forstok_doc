@@ -23,7 +23,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berik
 
 * **Final Qty.** Input qty yang akan di update pada kolom New Qty on Hand. untuk reason boleh di pilih atau tidak. Lalu save
 
-![](../../.gitbook/assets/image%20%28340%29.png)
+![](../../.gitbook/assets/image%20%28345%29.png)
 
 * **Adjust Qty \(+\)**. Input Qty yang akan di tambahkan. Misal stock sebelumnya 20 dan ingin menambahkan 5. Cukup input 5 pada Qty Adjusted. Maka New Qty On Hand bertambah jadi 25
 
@@ -57,7 +57,7 @@ Berikut langkah-langkah untuk update stock menggunakan scan barcode.
 
 1. Scan barcode item yang akan di tambahkan stocknya
 
-![](../../.gitbook/assets/image%20%28339%29.png)
+![](../../.gitbook/assets/image%20%28340%29.png)
 
 2. Jika ingin input stock lebih bisa scan beberapa kali barcode tsb. Misal ingin update stock jadi 5 maka bisa scan 5 kali barcode tsb. Lalu save
 
@@ -65,7 +65,7 @@ Berikut langkah-langkah untuk update stock menggunakan scan barcode.
 
 3. Cek stock history untuk melihat stock berhasil terupdate
 
-![](../../.gitbook/assets/image%20%28345%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 \*\*\*\*
 
