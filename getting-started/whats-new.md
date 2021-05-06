@@ -22,8 +22,6 @@ Create Stock Adjustment via Barcode or Selected items
 
 {% page-ref page="../knowledge-base/inventory/upload-stock-adustment-barcode-or-selected-items.md" %}
 
-
-
 ## May 3, 2021
 
 ### Stock Adjustment via Excel V2
