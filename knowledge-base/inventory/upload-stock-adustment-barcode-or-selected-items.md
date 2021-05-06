@@ -51,7 +51,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan scan barcode atau selected item, berik
 
 Untuk melakukan adjustment qty dengan scan barcode bisa dengan melakukan langkah - langkah berikut : 
 
-1 Scan barcode item yang akan di tambahkan stocknya
+1. Scan barcode item yang akan di tambahkan stocknya
 
 ![](../../.gitbook/assets/image%20%28339%29.png)
 
