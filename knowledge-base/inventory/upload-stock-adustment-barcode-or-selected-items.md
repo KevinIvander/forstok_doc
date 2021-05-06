@@ -1,4 +1,4 @@
-# Upload Stock Adustment \(interface\)
+# Upload Stock Adjustment \(interface\)
 
 Pada Menu Item Forstok pilih +Item lalu pilih Create stock adjustment 
 
