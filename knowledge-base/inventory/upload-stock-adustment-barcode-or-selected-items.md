@@ -1,8 +1,4 @@
----
-description: Untuk menginputkan stok bisa dengan menggunakan scan barcode atau pilih item.
----
-
-# Upload Stock Adustment Barcode or Selected Items
+# Upload Stock Adustment \(interface\)
 
 Pada Menu Item Forstok pilih +Item lalu pilih Create stock adjustment 
 
