@@ -4,6 +4,10 @@ Anda sekarang dapat menyesuaikan stok tanpa mengunggah excel. Gunakan scanner ba
 
 Berikut langkah-langkah untuk menginput barcode:
 
+{% hint style="info" %}
+**How to connect Barcode Scanner**:  Konekan barcode scanner melalui USB / bluetooth ke computer atau table. 
+{% endhint %}
+
 1. Pilih Upload Updated Master Items
 
 ![](../../.gitbook/assets/image%20%28352%29.png)
