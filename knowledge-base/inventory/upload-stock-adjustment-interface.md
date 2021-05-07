@@ -21,7 +21,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berik
 
 3. Pilih type stock yang akan di update Final Qty, Adjust Qty +, atau Adjust Qty -. 
 
-* **Final Qty.** Input qty yang akan di update pada kolom New Qty on Hand. untuk reason boleh di pilih atau tidak. Lalu save
+* **Final Qty.** Input qty yang akan di update pada kolom New Qty on Hand. untuk reason boleh di pilih atau tidak \(opsional\), lalu save
 
 ![](../../.gitbook/assets/image%20%28345%29.png)
 
@@ -51,7 +51,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berik
 
 Sebelum memulai update stock menggunakan barcode, pastikan Anda sudah mengiput barcode item Anda. Jika belum berikut panduan untuk menginput barcode.
 
-**How to connect Barcode Scanner**:  Konekan barcode scanner melalui USB / bluetooh ke computer atau table. 
+**How to connect Barcode Scanner**:  Konekan barcode scanner melalui USB / bluetooth ke computer atau table. 
 
 {% page-ref page="create-barcode-label.md" %}
 
