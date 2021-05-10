@@ -41,13 +41,7 @@ Untuk Adjust Stock ada 2 cara bisa dengan Adjust Stock atau scan barcode , berik
 
 ![](../../.gitbook/assets/image%20%28343%29.png)
 
-4. Untuk melihat berhasil terupdate bisa lihat dari Stock History
-
-![](../../.gitbook/assets/image%20%28348%29.png)
-
- 
-
-### **Adjust stock by Scanning barcode** 
+ **Adjust stock by Scanning barcode** 
 
 Sebelum memulai update stock menggunakan barcode, pastikan Anda sudah mengiput barcode item Anda. Jika belum berikut panduan untuk menginput barcode.
 
@@ -64,10 +58,6 @@ Berikut langkah-langkah untuk update stock menggunakan scan barcode.
 2. Jika ingin input stock lebih bisa scan beberapa kali barcode tsb. Misal ingin update stock jadi 5 maka bisa scan 5 kali barcode tsb. Lalu save
 
 ![](../../.gitbook/assets/image%20%28342%29.png)
-
-3. Cek stock history untuk melihat stock berhasil terupdate
-
-![](../../.gitbook/assets/image%20%28353%29.png)
 
 \*\*\*\*
 
