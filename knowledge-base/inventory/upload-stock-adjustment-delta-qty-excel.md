@@ -37,7 +37,5 @@ Contoh sku:
 WRL500 stock sebelumnya 30 + 5 = 35  
 CRM1000 stock sebelumnya 30 - 5 = 25
 
-![](../../.gitbook/assets/image%20%28322%29.png)
-
 
 
