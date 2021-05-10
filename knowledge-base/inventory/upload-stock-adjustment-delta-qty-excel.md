@@ -14,7 +14,7 @@
 
 ![](../../.gitbook/assets/screen-shot-2021-03-31-at-4.07.46-pm.png)
 
-3. Input stock yang akan di update.
+3. Input stock yang akan di update pada kolom Qty Change.
 
 * Jika penambahan stock \(+\) cukup input **tanpa** tanda +
 * Jika pengurangan stock \(-\) input **dengan menambahkan tanda -**
@@ -31,11 +31,7 @@
 
 ![](../../.gitbook/assets/image%20%28318%29.png)
 
-6. Berikut tampilan hasil update stock delta \(+/-\)
 
-Contoh sku:  
-WRL500 stock sebelumnya 30 + 5 = 35  
-CRM1000 stock sebelumnya 30 - 5 = 25
 
 
 
