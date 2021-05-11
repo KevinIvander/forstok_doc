@@ -21,7 +21,11 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 Misal yang ada di gudang saat ini ada 10, maka di Forstok juga input 10.
 
 {% hint style="info" %}
-Jika ada sku stocknya tidak ingin di update, bisa dikosongkan saja. Jika kosong kita akan ignore. Kalau di isi, kita akan export juga meskipun valuenya sama
+Qty fisik terbaru di gudang yang bisa di jual.
+
+Jika diisi, value akan di export ke sales channel mesikpun value sama. Jika di kosongin, akan di skip export. \(format number = &gt; 0\).
+
+Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negative. Arti nya ada kekurangan qty. Qty negative bisa di jadikan acuan untuk bikin PO baru ke supplier.
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%28326%29.png)
