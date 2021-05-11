@@ -16,6 +16,10 @@
 
 3. Input stock yang akan di update pada kolom Qty Change.
 
+{% hint style="info" %}
+Jika ada sku stocknya tidak ingin di update, bisa dikosongkan saja. Jika kosong kita akan ignore. Kalau di isi, kita akan export juga meskipun valuenya sama
+{% endhint %}
+
 * Jika penambahan stock \(+\) cukup input **tanpa** tanda +
 * Jika pengurangan stock \(-\) input **dengan menambahkan tanda -**
 
