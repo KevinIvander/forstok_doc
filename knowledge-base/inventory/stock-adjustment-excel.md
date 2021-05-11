@@ -20,6 +20,10 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 Misal yang ada di gudang saat ini ada 10, maka di Forstok juga input 10.
 
+{% hint style="info" %}
+Jika ada sku stocknya tidak ingin di update, bisa dikosongkan saja. Jika kosong kita akan ignore. Kalau di isi, kita akan export juga meskipun valuenya sama
+{% endhint %}
+
 ![](../../.gitbook/assets/image%20%28326%29.png)
 
 4. Upload dan import file tsb
