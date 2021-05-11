@@ -4,7 +4,13 @@
 
 ![](../../.gitbook/assets/upload-stock-adjustment-delta-qty.gif)
 
+{% hint style="info" %}
+Qty fisik terbaru di gudang yang bisa di jual.
 
+Jika diisi, value akan di export ke sales channel mesikpun value sama. Jika di kosongin, akan di skip export. \(format number = &gt; 0\).
+
+Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negative. Arti nya ada kekurangan qty. Qty negative bisa di jadikan acuan untuk bikin PO baru ke supplier.
+{% endhint %}
 
 1. Pada menu Item Forstok pilih tanda panah berikut dan Upload Stock Adjustment
 
@@ -17,7 +23,11 @@
 3. Input stock yang akan di update pada kolom Qty Change.
 
 {% hint style="info" %}
-Jika ada sku stocknya tidak ingin di update, bisa dikosongkan saja. Jika kosong kita akan ignore. Kalau di isi, kita akan export juga meskipun valuenya sama
+Qty fisik terbaru di gudang yang bisa di jual.
+
+Jika diisi, value akan di export ke sales channel mesikpun value sama. Jika di kosongin, akan di skip export. \(format number = &gt; 0\).
+
+Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negative. Arti nya ada kekurangan qty. Qty negative bisa di jadikan acuan untuk bikin PO baru ke supplier.
 {% endhint %}
 
 * Jika penambahan stock \(+\) cukup input **tanpa** tanda +
