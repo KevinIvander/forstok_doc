@@ -6,46 +6,19 @@ description: Bagaimana Set Priority Channel
 
 Priority channel merupakan Barang dengan stok rendah akan secara otomatis tidak aktif di semua saluran kecuali saluran prioritas Anda. Barang-barang itu akan secara otomatis diaktifkan ketika mengisi kembali lebih tinggi dari ambang batas stok rendah.
 
+Misal stock sisa 2 hanya aktif di channel Shopee saja. Channel lain selain shopee stock akan out of stock.
+
 Berikut langkah-langkah yang dilakukan untuk set priority channel : 
 
-1. Klik setting pada pojok kanan atas. seperti pada gambar
+1. Pada menu setiing klik Inventory
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48017648136/original/JEZJFHW2V9KXQSr2mZerNJRsuPV09wkTwQ.png?1575284655)
+![](../../.gitbook/assets/image%20%28359%29.png)
 
-2. Klik Inventory.   
+2. Pada Low stock qty input stock yang akan di aktifkan untuk prioritas channel dan pilih marketplace yang akan di aktifkan. Lalu save
 
+Maka saat stock tinggal 2 hanya aktif untuk channel yang di prioritaskan.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
-
-
-
-3. Pada halaman inventory, klik email alert. untuk mengaktifkan notifikasi otomatis ke email apabila stok sudah mencapai batas yang ditentukan.
-
-![](../../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28360%29.png)
 
 
-
-4. Lalu bisa dipilih waktu pengiriman email notifikasi, secara otomatis email akan dikirim sesuai dengan waktu yang ditentukan.
-
-![](../../.gitbook/assets/image%20%28207%29.png)
-
-5. Masukkan alamat email tujuannya, bisa ke beberapa email
-
-![](../../.gitbook/assets/image%20%28248%29.png)
-
-6. Kemudian, cheklist priority channel dan pilih sales channel apa yang akan di buat sebagai priority channel.
-
-![](../../.gitbook/assets/image%20%28214%29.png)
-
-7. status ubah menjadi enable dan low stock di set sesuai dengan kebutuhan.
-
-![](../../.gitbook/assets/image%20%28197%29.png)
-
-8. Klik Save
-
-![](../../.gitbook/assets/image%20%28167%29.png)
-
-**Notes** : 
-
-* Untuk menentukan minimal stok yang akan dibuat priority channel bisa di set di _low stock Qty._
 
