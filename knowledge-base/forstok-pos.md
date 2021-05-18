@@ -24,6 +24,8 @@ Untuk melisting item POS tidak perlu Mapping Category, jadi tinggal Submit. Nant
 
 4. Kembali ke menu Item Forstok untuk memastikan item POS tsb sudah terlisting. Jika sudah terlisting maka item POS sudah grouping/linking dengan marketplace lainnya.
 
+**B. Create Sales Order**
+
 Jika ada orderan POS, bisa create manual sales order untuk proses orderan. Saat orderan tercreate makan stock juga ikut terpotong. Berikut panduan create sales order
 
 {% page-ref page="sales-orders/create-sales-order.md" %}
