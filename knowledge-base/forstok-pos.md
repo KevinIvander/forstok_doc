@@ -24,38 +24,9 @@ Untuk melisting item POS tidak perlu Mapping Category, jadi tinggal Submit. Nant
 
 4. Kembali ke menu Item Forstok untuk memastikan item POS tsb sudah terlisting. Jika sudah terlisting maka item POS sudah grouping/linking dengan marketplace lainnya.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926685/original/CsAgMwAGQpwoOxGur1jxcmdujyEyx2NEyA.png?1584082945)
+Jika ada orderan POS, bisa create manual sales order untuk proses orderan. Saat orderan tercreate makan stock juga ikut terpotong. Berikut panduan create sales order
 
-**B. Create Order POS**
+{% page-ref page="sales-orders/create-sales-order.md" %}
 
-1. Pada menu Order Forstok pilih Order-POS.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926682/original/cbVhrNtbpg0BbqT9gns2h3bvXR_vozp2wQ.png?1584082944)
-
-2. Menu order Forstok akan menampilkan gallery item yang sudah di listing ke channel POS. Maka step selanjutnya search Item yang akan di create Order.
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926686/original/I82jPzgJIpvK05Bbt-SPbmCb8gXHwxBH3A.png?1584082945)
-
-3. Sebelum memproses atau checkout harap input data customer terlebih dahulu. Pada Find or Add new customer, jika data customer sudah pernah terdaftar maka tinggal di pilih dan jika customer baru input Customer Information terlebih dahulu.  
-Kegunaan Customer information untuk Shipping Label.
-
-* Add customer
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926694/original/Psj63ErjvfTTMyTMWqxNU2nJ0Oe32k1_Lw.png?1584082947)
-
-4. Seller bisa menambahkan Discount atau Shipping lalu Checkout.
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926695/original/utW_49uTcauYFLWvUnwTJuKt4LTKrsVavg.png?1584082948)
-
-5. Pilih Payment Method.
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926687/original/D32wXmSBFLiUYd9xeCIBSanrb4t_yifHWA.png?1584082946)
-
-6. Kembali kembali menu Order Forstok, dan pilih order yang di create tadi, lalu tinggal di print Shipping Labelnya. Maka stock untuk item tsb juga akan ikut terpotong untuk marketplace lainnya.
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926690/original/f1AP8JW_pwPUCuboTwYucy0E8_hOR37JgQ.png?1584082946)
-
-7. Berikut tampilan Shipping Label Forstok.
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926693/original/XvKeqOwv4jNGZIoAzX5aayhol1ifjJUI9Q.png?1584082947)
 
