@@ -6,10 +6,11 @@ Api Shopee mempunyai masa tenggang waktu 1 tahun dari awal pertama kali integrat
 
 Harap melakukan langkah-langkah berikut untuk mengaktifkan kembali API Shopee :
 
-1. Seller sambil log in akun Forstok [https://www.forstok.com](https://www.forstok.com/) dan seller center Shopee [https://seller.shopee.co.id/](https://seller.shopee.co.id/)
+1. Akan ada pop up untuk reconnect jika API Anda akan kadaluarsa. Klik Reconnect
 
-2. Lalu klik link berikut [https://www.forstok.com/dashboard/channels/integrations/shopee/setup](https://www.forstok.com/dashboard/channels/integrations/shopee/setup)  
-Input akses Log in Shopee, jangan lupa filteran originnya pilih ID atau Indonesia
+![](../../.gitbook/assets/image%20%28361%29.png)
+
+2.Input akses Log in Shopee, jangan lupa filteran originnya pilih ID atau Indonesia
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48059666139/original/hU2Lz1L-AyXqbSlCVUGPlMWolCLKGhY9DQ.png?1600415480)
 
