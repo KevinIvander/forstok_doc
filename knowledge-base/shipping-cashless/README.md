@@ -1,8 +1,7 @@
 ---
 description: >-
-  Fitur pengiriman terintegrasi diperuntukan untuk Webstore platform seperti
-  Shopify, Magento, Woocommerce dan Custom. Pengiriman Marketplace akan
-  menggunakan pengiriman dari Marketplace (Cashless)
+  Fitur pengiriman terintegrasi diperuntukan untuk semua Order di luar
+  Marketplace seperti custom webstore,  Shopify, Magento, Woocommerce, dll.
 ---
 
 # Pengiriman \(Logistic\)
