@@ -12,5 +12,7 @@ You can now accept Regular Service  for your website.  It's an add-on service fr
 Please contact Forstok to enable this feature. Top up payment is required. 
 {% endhint %}
 
+### Video
+
 ![](../../.gitbook/assets/print-auto-awb.gif)
 
