@@ -26,12 +26,12 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 * Reserved Qty tidak di perbolehkan di edit
 {% endhint %}
 
-
-
-Contoh 1:  
+Contoh 1  
+  
 SKU: KIZIBLOSSOM0445  
 Current Qty On Hand: 1  
 Current Qty Reserved: 0  
+  
 Ingin mengupdate Final Qty jadi 10. Maka stock yang akan di input pada kolom New Qty On Hand adalah 10. karena tidak ada reserved maka stock akan terupdate jadi 10.
 
 ![](../../.gitbook/assets/image%20%28365%29.png)
@@ -44,20 +44,18 @@ Current Qty Reserved: 3
 Maka available 7  
 10 - 3 = 7  
   
-Berarti ada 3 stock yang di reserved atau ada pending order pada order.  
+Berarti ada 3 stock yang di reserved atau ada pending payment pada order. 
+
+Harap update stock dengan sudah mengurangi Reserved, jika update stock kurang dari angka reserved stock, maka available akan minus \(-\). Stock minus Forstok akan export 0 atau kosong.  
   
-Jika ternyata stock yang tersedia hanya 4, jadi 
+Misal   
+Currenty Qty on Hand: 10  
+Current Qty Reserved: 3  
+Ternyata pada New Qty On Hand update: 2  
+Jadi 2- 3 = -1   
+
 
 ![](../../.gitbook/assets/image%20%28366%29.png)
-
-{% hint style="info" %}
-Qty fisik terbaru di gudang yang bisa di jual.  
-Misal yang ada di gudang saat ini ada 10, maka di Forstok juga input 10 pada kolom  New Qty On Hand.
-
-Contoh:
-{% endhint %}
-
-![](../../.gitbook/assets/image%20%28364%29.png)
 
 {% hint style="warning" %}
 * Patokan stock di Forstok yang akan di export ke channel yaitu status **Available**
