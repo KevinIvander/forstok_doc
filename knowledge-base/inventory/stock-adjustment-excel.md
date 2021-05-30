@@ -32,7 +32,7 @@ SKU: KIZIBLOSSOM0445
 Current Qty On Hand: 1  
 Current Qty Reserved: 0  
   
-Ingin mengupdate Final Qty jadi 10. Maka stock yang akan di input pada kolom New Qty On Hand adalah 10. karena tidak ada reserved maka stock akan terupdate jadi 10.
+Ingin mengupdate Final Qty jadi 10. Maka stock yang akan di input pada kolom New Qty On Hand adalah 10. karena tidak ada reserved maka stock akan terupdate jadi 10 pada Qty On Hand
 
 ![](../../.gitbook/assets/image%20%28365%29.png)
 
