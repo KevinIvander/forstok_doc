@@ -18,19 +18,23 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 3. Input stock yang akan di update pada kolom New Qty On Hand 
 
-Misal yang ada di gudang saat ini ada 10, maka di Forstok juga input 10.
-
 {% hint style="info" %}
-Qty fisik terbaru di gudang yang bisa di jual.
+Qty fisik terbaru di gudang yang bisa di jual.  
+Misal yang ada di gudang saat ini ada 10, maka di Forstok juga input 10 pada kolom  New Qty On Hand.
 
-Jika diisi, value akan di export ke sales channel mesikpun value sama. Jika di kosongin, akan di skip export. \(format number = &gt; 0\).
-
-Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negative. Arti nya ada kekurangan qty. Qty negative bisa di jadikan acuan untuk bikin PO baru ke supplier.
+Contoh:
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28326%29.png)
+![](../../.gitbook/assets/image%20%28364%29.png)
 
-4. Upload dan import file tsb
+{% hint style="warning" %}
+* Patokan stock di Forstok yang akan di export ke channel yaitu status **Available**
+* Saat melakukan update stock kolom tidak boleh di hapus. Baris boleh di hapus jika tujuannya hanya untuk update stock beberapa sku yang di pilih saja
+* Jangan pernah merubah format kolom atau merubah file xls
+* Jika ingin menjumlahkan dengan rumus vlookup harap dilakukan diluar format original file update stock Forstok. Atau pada update stock di New Qty On Hand tidak ada rumus. Karena akan failed saat export data ke channel
+{% endhint %}
+
+4. Setelah penginputan stock pada New Qty On Hand, upload dan import file tsb
 
 ![](../../.gitbook/assets/image%20%28321%29.png)
 
