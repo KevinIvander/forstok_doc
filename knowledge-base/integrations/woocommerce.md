@@ -1,5 +1,7 @@
 # Woocommerce
 
+![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.51.23-pm.png)
+
 {% hint style="warning" %}
 Limitasi:
 
