@@ -1,9 +1,15 @@
 # Shopee
 
-## Cara Integrasi Shopee \(Video\)
+![](../../.gitbook/assets/screen-shot-2021-05-31-at-12.15.32-pm.png)
 
 {% hint style="warning" %}
 **Penting!**  Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+{% endhint %}
+
+## Cara Integrasi Shopee \(Video\)
+
+{% hint style="warning" %}
+\*\*\*\*
 {% endhint %}
 
 ![](../../.gitbook/assets/23.gif)
