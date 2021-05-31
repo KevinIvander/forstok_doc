@@ -1,5 +1,7 @@
 # Magento 2.0
 
+![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.51.54-pm.png)
+
 {% hint style="success" %}
 Untuk integrasi Magento harap hubungi tim kami di email onboarding@forstok.com  
 
