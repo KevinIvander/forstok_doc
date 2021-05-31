@@ -1,5 +1,7 @@
 # Shopify
 
+![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.16.24-pm.png)
+
 {% hint style="info" %}
 Untuk integrasi Shopify ada 2 point:  
 1. Integrasi Shopify ke Forstok  
