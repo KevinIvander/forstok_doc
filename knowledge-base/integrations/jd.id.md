@@ -1,5 +1,7 @@
 # JD.ID
 
+![](../../.gitbook/assets/screen-shot-2021-05-31-at-12.22.37-pm.png)
+
 {% hint style="warning" %}
 **Penting!**  Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
 {% endhint %}
