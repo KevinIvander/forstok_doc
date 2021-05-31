@@ -4,13 +4,13 @@ description: Bagaimana untuk Melakukan Update Status ke Ready to Ship (Single Or
 
 # Ready to Ship
 
-Berikut merupakan langkah-langkah yang dilakukan untuk mengubah status menjadi RTS \(Ready To Ship\) : 
+Berikut merupakan langkah-langkah yang dilakukan untuk mengubah status menjadi RTS \(Ready To Ship\): 
 
 1. Pilih ke halaman Order.
 
 2. Pilih Order dari status Open atau Printed yang akan diubah menjadi RTS. 
 
-3. Pada Right pannel pilih update status lalu pilih upadate to ready to ship. 
+3. Pada Right pannel pilih update status lalu pilih update to Ready to ship/ Request Pickup. 
 
 ![](../../.gitbook/assets/image%20%28159%29.png)
 
