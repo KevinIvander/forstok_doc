@@ -1,2 +1,0 @@
-# Templates \(Coming Soon\)
-

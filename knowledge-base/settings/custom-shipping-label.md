@@ -1,4 +1,4 @@
-# Custom Shipping Label
+# Template Shipping Label
 
 You can print all Marketplaces and e-commerce website shipping label in 1 format. This format is ideal for Thermal printer 10x15cm. 
 
