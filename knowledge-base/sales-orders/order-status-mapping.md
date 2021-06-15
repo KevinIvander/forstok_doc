@@ -43,7 +43,7 @@
       <td style="text-align:left"><b>Pending payment</b>
       </td>
       <td style="text-align:left">Belum bayar</td>
-      <td style="text-align:left">Mark as Paid (For Webstore only)</td>
+      <td style="text-align:left">Mark as Paid (Webstore only)</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Pending Courier</b>
@@ -56,7 +56,7 @@
       </td>
       <td style="text-align:left">Perlu dikirim</td>
       <td style="text-align:left">
-        <p>Create picklist</p>
+        <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
         <p>Mark as Ready to Ship</p>
       </td>
