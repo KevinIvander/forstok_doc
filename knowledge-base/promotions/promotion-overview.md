@@ -106,6 +106,6 @@ description: Promotion type and availability
 
 | **Promotion Type** | **Forstok Feature Availability** | **Notes** |
 | :--- | :--- | :--- |
-| **Promo Harga Coret** | **Available** | **Available in API** |
-| **Promo Voucher** | **Available** | **Available in API** |
+| **Promo Harga Coret** | **Coming Soon** | **Available in API** |
+| **Promo Voucher** | **Coming Soon** | **Available in API** |
 
