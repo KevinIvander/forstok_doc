@@ -7,7 +7,7 @@
 
 **Open:** Sales order baru yang bisa di process.
 
-**Picked**: 
+**Picked \(optional\)**: 
 
 **Packed**:
 
