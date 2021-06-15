@@ -21,16 +21,16 @@
 
 | Forstok Status | Tokopedia Status | Action in Forstok |
 | :--- | :--- | :--- |
-| **Pending payment** | Belum bayar |  |
+| **Pending payment** |  |  |
 | **Pending Courier** |  | \*\*\*\* |
-| **Open** | Perlu dikirim | Create Picklist |
+| **Open** | Pesanan Baru | Create Picklist |
 | **Picked** |  | Create Package |
-| **Packed** | Perlu diprocess | Mark Ready to Ship |
-| **Ready to Ship** | Telah diprocess | \*\*\*\* |
+| **Packed** |  | Mark Ready to Ship |
+| **Ready to Ship** | Siap dikirim | \*\*\*\* |
 | **Ready to Print** |  | Print Shipping Label |
 | **Printed** |  |  |
-| **Shipped** |  | \*\*\*\* |
-| **Delivered** |  | Create Sales Return |
+| **Shipped** | Dalam pengiriman | \*\*\*\* |
+| **Delivered** | Pesanan Selesai | Create Sales Return |
 | **Cancelled** |  | \*\*\*\* |
 | **Returned** |  | \*\*\*\* |
 
