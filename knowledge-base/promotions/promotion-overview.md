@@ -4,7 +4,7 @@
 
 ### Shopee
 
-![](../../.gitbook/assets/screen-shot-2021-06-15-at-11.34.41-am.png)
+![](../../.gitbook/assets/screen-shot-2021-06-15-at-11.37.14-am.png)
 
 ### Tokopedia
 
