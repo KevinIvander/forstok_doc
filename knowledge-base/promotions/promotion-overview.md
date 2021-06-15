@@ -28,11 +28,9 @@ description: Promotion type and availability
 | **Voucher Gratis Ongkir** | Not available | Not available in API yet |
 | **Toko Member** | Not available | Not available in API yet |
 
+## Blibli
 
+## JD
 
-
-
-### Blibli
-
-### JD
+## Zalora
 
