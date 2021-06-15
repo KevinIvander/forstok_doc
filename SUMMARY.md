@@ -117,6 +117,7 @@
   * [Mark Invoice as Written Off](knowledge-base/sales-invoices/mark-invoice-as-written-off.md)
   * [Export Invoice \(Excel\)](knowledge-base/sales-invoices/export-invoice-excel.md)
 * [Pembayaran Diterima \(Payout\)](knowledge-base/payment-received/README.md)
+  * [Payout Overview](knowledge-base/payment-received/payout-overview.md)
   * [Create Payment Received](knowledge-base/payment-received/create-payment-received-1.md)
   * [Import Payout from Channel](knowledge-base/payment-received/import-payout-from-channel.md)
   * [Upload Payment Received \(xls](knowledge-base/payment-received/create-payment-received-xls-coming-soon.md)
