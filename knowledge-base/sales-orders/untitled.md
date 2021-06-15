@@ -1,5 +1,11 @@
 # Order Overview
 
+## Apa itu Sales Order \(Penjualan\)?
+
+Sales Order adalah dokumen keuangan yang mengkonfirmasi penjualan yang akan datang. Ini merinci jumlah, harga, dan detail pengiriman yang tepat dari produk atau layanan yang dijual. 
+
+
+
 Pada menu order ini seller dapat memproses orderan dari Forstok. Seperti update ready to ship, print shipping label, print pick list dan pack list.  
 Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
 
