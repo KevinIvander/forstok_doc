@@ -1,8 +1,10 @@
+---
+description: Promotion type and availability
+---
+
 # Promotion Overview
 
-## Promotion type and availability
-
-### Shopee
+## Shopee
 
 | **Promotion Type** | **Forstok Feature Availability** | **Note** |
 | :--- | :--- | :--- |
@@ -15,7 +17,9 @@
 | **Voucher Toko Saya** | Not available | Not available in API yet |
 | **Koin Penjual** | Not available | Not available in API yet |
 
-### Lazada
+## Lazada
+
+
 
 
 
