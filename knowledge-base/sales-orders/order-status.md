@@ -35,7 +35,7 @@
     <tr>
       <th style="text-align:left">Forstok Status</th>
       <th style="text-align:left">Shopee Status</th>
-      <th style="text-align:left">Forstok Action</th>
+      <th style="text-align:left">Actions in Forstok</th>
     </tr>
   </thead>
   <tbody>
