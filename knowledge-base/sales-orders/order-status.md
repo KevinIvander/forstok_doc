@@ -9,7 +9,7 @@
 
 **Picked \(optional\)**: Sales orders yang telah di pickup produknya. Next action: Create package document
 
-**Packed**:
+**Packed**: Sales orders yang telah di packaging. 
 
 **Ready to Ship:**
 
