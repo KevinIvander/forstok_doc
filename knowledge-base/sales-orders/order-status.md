@@ -98,7 +98,7 @@
       <td style="text-align:left"><b>Shipped</b>
       </td>
       <td style="text-align:left">Dikirim</td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">Mark as Delivered (Manual AWB only)</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
