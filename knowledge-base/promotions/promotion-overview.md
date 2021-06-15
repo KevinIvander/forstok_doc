@@ -6,7 +6,7 @@ description: Promotion type and availability
 
 ## Shopee
 
-| **Promotion Type** | **Forstok Feature Availability** | **Note** |
+| **Promotion Type** | **Forstok Feature Availability** | **Notes** |
 | :--- | :--- | :--- |
 | **Voucher Toko Saya** | Not available | Not available in API yet |
 | **Promo Toko** | **Coming Soon** | **Available In API** |
@@ -17,7 +17,16 @@ description: Promotion type and availability
 | **Voucher Toko Saya** | Not available | Not available in API yet |
 | **Koin Penjual** | Not available | Not available in API yet |
 
-## Lazada
+## Tokopedia
+
+| Promotion Type | Forstok Feature Availability | Notes |
+| :--- | :--- | :--- |
+| **Bebas Ongkir** | Not available | Not available in API yet |
+| **Voucher Cashback** | Not available | Not available in API yet |
+| **Diskon Toko** | **Coming Soon** | **Available In API** |
+| **Kupon Follower Baru** | Not available | Not available in API yet |
+| **Voucher Gratis Ongkir** | Not available | Not available in API yet |
+| **Toko Member** | Not available | Not available in API yet |
 
 
 
