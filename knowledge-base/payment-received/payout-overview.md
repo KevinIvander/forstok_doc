@@ -4,6 +4,8 @@ description: Payout type and availability
 
 # Payout Overview
 
+**Payout / Payment Received/ Pelunasan** adalah amount yang dibayarkan oleh marketplace ke seller terhadap invoice yang sudah dibuat.    
+
 {% hint style="info" %}
 **Global**:  Showing amount from multiple sales order/ invoices / per statement
 
