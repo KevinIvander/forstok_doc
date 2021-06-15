@@ -5,9 +5,9 @@
 
 **Pending Courier:** Sales order \(Shopee Only\) yang couriernya belum ditentukan oleh Marketplace. Seller belum bisa memproses orderanya. Setelah marketplace menentukan courier nya, status order akan berubah menjadi **Open** secara otomatis.
 
-**Open:** Sales order baru yang bisa di process. Next actions: Create picklist untuk create document picking, Create packages untuk create document packing. Mark as Ready to Ship untuk ambil AWB.
+**Open:** Sales order baru yang bisa di process. Next actions: Create picklist document , Create packages document. atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi. 
 
-**Picked \(optional\)**: Sales orders yang telah di pickup
+**Picked \(optional\)**: Sales orders yang telah di pickup produknya. Next action: Create package document
 
 **Packed**:
 
