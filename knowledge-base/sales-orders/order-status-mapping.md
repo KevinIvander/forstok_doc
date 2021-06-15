@@ -12,10 +12,11 @@
 | **Ready to Ship** | Telah diprocess | \*\*\*\* |
 | **Ready to Print** |  | Print Shipping Label |
 | **Printed** |  |  |
-| **Shipped** |  | \*\*\*\* |
+| **Shipped** | Dikirim | \*\*\*\* |
 | **Delivered** |  | Create Sales Return |
-| **Cancelled** |  | \*\*\*\* |
-| **Returned** |  | \*\*\*\* |
+| **Completed** | Selesai |  |
+| **Cancelled** | Pembatalan | \*\*\*\* |
+| **Returned** | Pengembalian | \*\*\*\* |
 
 ## Tokopedia
 
