@@ -70,6 +70,7 @@
       <td style="text-align:left">
         <p>Create Package</p>
         <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
         <p>Cancel order</p>
       </td>
     </tr>
@@ -79,6 +80,7 @@
       <td style="text-align:left">Perlu diprocess</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
         <p>Cancel order</p>
       </td>
     </tr>
