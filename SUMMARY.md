@@ -128,6 +128,7 @@
   * [Create Item Received](knowledge-base/sales-returns/create-item-received.md)
   * [Export Returns \(Excel\)](knowledge-base/sales-returns/export-returns-excel.md)
 * [Promosi \(Promotion\)](knowledge-base/promotions/README.md)
+  * [Promotion Overview](knowledge-base/promotions/promotion-overview.md)
   * [Create Promotion](knowledge-base/promotions/create-promotion.md)
 * [Pelanggan \(Customer\)](knowledge-base/untitled/README.md)
   * [Customer Overview](knowledge-base/untitled/customer-overview.md)
