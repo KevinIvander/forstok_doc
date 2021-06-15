@@ -90,7 +90,7 @@
   * [Izin Pengguna](knowledge-base/gudang-warehouse/izin-pengguna.md)
 * [Penjualan \(Orders\)](knowledge-base/sales-orders/README.md)
   * [Order Overview](knowledge-base/sales-orders/untitled.md)
-  * [Order Status](knowledge-base/sales-orders/order-status-mapping.md)
+  * [Order Status](knowledge-base/sales-orders/order-status.md)
   * [Create Sales Order](knowledge-base/sales-orders/create-sales-order.md)
   * [Create Dropship Order](knowledge-base/sales-orders/create-dropship-order.md)
   * [Import Sales Orders \(Coming soon\)](knowledge-base/sales-orders/import-sales-orders.md)
