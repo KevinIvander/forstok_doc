@@ -4,6 +4,14 @@ description: Payout type and availability
 
 # Payout Overview
 
+{% hint style="info" %}
+**Global**:  Showing amount from multiple sales order/ invoices / per statement
+
+**Order level:** Showing amount per sales order / invoice
+
+**Item Level**: Showing amount at per item
+{% endhint %}
+
 ## Shopee
 
 | Type | Forstok Availability | Note |
