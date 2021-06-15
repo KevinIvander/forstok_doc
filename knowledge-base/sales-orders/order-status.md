@@ -49,8 +49,7 @@
       <td style="text-align:left"><b>Pending Courier</b>
       </td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left"><b>-</b>
-      </td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Open</b>
@@ -95,8 +94,7 @@
         <p>Perlu Dikirim /</p>
         <p>Telah diprocess</p>
       </td>
-      <td style="text-align:left"><b>-</b>
-      </td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Ready to Print</b>
