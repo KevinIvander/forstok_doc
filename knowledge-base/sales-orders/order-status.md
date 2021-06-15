@@ -59,6 +59,8 @@
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
         <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel Order</p>
       </td>
     </tr>
     <tr>
@@ -68,13 +70,17 @@
       <td style="text-align:left">
         <p>Create Package</p>
         <p>Mark as Ready to Ship</p>
+        <p>Cancel order</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
       <td style="text-align:left">Perlu diprocess</td>
-      <td style="text-align:left">Mark as Ready to Ship</td>
+      <td style="text-align:left">
+        <p>Mark as Ready to Ship</p>
+        <p>Cancel order</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
