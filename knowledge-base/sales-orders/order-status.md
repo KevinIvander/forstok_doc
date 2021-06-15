@@ -9,7 +9,7 @@
 
 **Picked \(optional\)**: Sales orders yang telah di pickup produknya. Next action: Create package document
 
-**Packed**: Sales orders yang telah di packaging. 
+**Packed**: Sales orders yang telah di packaging. Beberapa Marketplace 
 
 **Ready to Ship:**
 
@@ -77,7 +77,10 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Perlu diprocess</td>
+      <td style="text-align:left">
+        <p>Perlu Di kirim /</p>
+        <p>Perlu diprocess</p>
+      </td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -87,7 +90,10 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">
+        <p>Perlu Di kirim /</p>
+        <p>Telah diprocess</p>
+      </td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
     </tr>
     <tr>
