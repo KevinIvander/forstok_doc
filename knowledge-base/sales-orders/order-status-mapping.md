@@ -1,4 +1,32 @@
-# Order Status Mapping
+# Order Status
+
+{% hint style="info" %}
+**Pending Payment**:  Sales order yang belum dibayar oleh pembeli. Seller tidak bisa memproses orderanya. Setelah pembeli membayar, status order akan berubah jadi **Open** secara otomatis.
+
+**Pending Courier:** Sales order \(Shopee Only\) yang couriernya belum ditentukan oleh Marketplace. Seller belum bisa memproses orderanya. Setelah marketplace menentukan courier nya, status order akan berubah menjadi **Open** secara otomatis.
+
+**Open:** Sales order baru yang bisa di process.
+
+**Picked**: 
+
+**Packed**:
+
+**Ready to Ship:**
+
+**Ready to Print:**
+
+**Printed:**
+
+**Shipped:**
+
+**Delivered:**
+
+**Completed:**
+
+**Cancelled:**
+
+**Returned:**
+{% endhint %}
 
 ## Shopee 
 
