@@ -23,7 +23,7 @@
 
 **Delivered:** Status berubah menjadi Delivered secara ****otomatis jika paket telah diterima oleh customer.
 
-**Completed:** Status berubah menjadi Completed secara otomatis jika paket status menjadi delivered dan invoice status menjadi dibayar.
+**Completed:** Status berubah menjadi Completed secara otomatis jika paket telah diterima oleh customer dan invoice sudah dibayar oleh Marketplace / customer.
 
 **Cancelled:** Status berubah menjadi cancelled jika customer atau seller membatalkan order tersebut
 
