@@ -33,7 +33,7 @@
 {% hint style="warning" %}
 ## Forstok Order Actions
 
-**Mark as Paid:** Merubah Status Order dari ****Pending payment/Belum dibayar ke Paid/dibayar. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) melalui pembayaran manual \(Bank Transfer\)
+**Mark as Paid:** Merubah status pembayaran order dari ****Pending Payment/Belum Dibayar ke Paid/Dibayar secara manual. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) melalui pembayaran manual \(Bank Transfer\)
 
 **Create Picklist**:  Membuat picklist documen berisikan daftar produk untuk diambil didalam warehouse untuk memenuhi pesanan. Setelah produk diambil, status order berubah menjadi picked.
 
