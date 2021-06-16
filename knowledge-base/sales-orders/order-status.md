@@ -50,6 +50,18 @@
 **Create Sales Return:**
 {% endhint %}
 
+## Order Status Mapping
+
+[Shopee](https://docs.forstok.com/knowledge-base/sales-orders/order-status#shopee)
+
+[Tokopedia](https://docs.forstok.com/knowledge-base/sales-orders/order-status#tokopedia)
+
+[Lazada](https://docs.forstok.com/knowledge-base/sales-orders/order-status#lazada)
+
+[Blibli](https://docs.forstok.com/knowledge-base/sales-orders/order-status#blibli)
+
+[JD.ID](https://docs.forstok.com/knowledge-base/sales-orders/order-status#jd-id)
+
 ## Shopee 
 
 <table>
