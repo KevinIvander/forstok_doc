@@ -9,9 +9,9 @@
 
 **Open:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi. 
 
-**Picked**: Sales order yang telah diambil produknya. Next action: Create package
+**Picked**: Sales order yang telah diambil produknya dari rak didalam gudang. Next action: Create package
 
-**Packed**: Sales orders yang telah di packaging. Beberapa Marketplace 
+**Packed**: Sales orders yang telah di packaging.  
 
 **Ready to Ship:** Sales order yang sudah siap dikirim atau tunggu diambil oleh courier. 
 
@@ -35,9 +35,9 @@
 
 **Mark as Paid:** Merubah status pembayaran order dari ****Pending Payment/Belum Dibayar ke Paid/Dibayar secara manual. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) melalui pembayaran manual \(Bank Transfer\)
 
-**Create Picklist**:  Membuat picklist documen berisikan daftar produk untuk diambil didalam warehouse untuk memenuhi pesanan. Setelah produk diambil, status order berubah menjadi picked.
+**Create Picklist**:  Membuat picklist dokumen berisikan daftar produk untuk diambil didalam warehouse untuk memenuhi pesanan. Setelah produk diambil, status order berubah menjadi Picked.
 
-**Create Package:** Membuat package document
+**Create Package:** Membuat package dokument berisikan daftar product untuk dikemas didalam satu order untuk memenuhi pesanan. Setelah produk dikemas, status order berubah menjadi Packed. 
 
 **Mark as Ready to Ship:** Merubah status order dari open/packed menjadi Ready to Ship/ Siap dikirim. Action ini sekaligus akan menarik data AWB/nomer resi dari courier yang teringrasi untuk bisa Print Shipping Label.
 
