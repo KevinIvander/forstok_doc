@@ -67,13 +67,13 @@ description: Promotion type and availability
 | **Bundling Promotion** | - | Not available in API yet |
 | **Free Gift** | - | Not available in API yet |
 | **Wholesale \(min.purchase\)** | - | Not available in API yet |
-| **Shipping Promotion** | Not Available | Not available in API yet |
-| **Sharebuy** | Not available | Not available in API yet |
-| **Slash** | Not available | Not available in API yet |
-| **Affiliate Program** | Not available | Not available in API yet |
-| **Sponsored Search** | Not available | Not available in API yet |
-| **Creativity** | Not available | Not available in API yet |
-| **Contract Booth** | Not available | Not available in API yet |
+| **Shipping Promotion** | - | Not available in API yet |
+| **Sharebuy** | - | Not available in API yet |
+| **Slash** | - | Not available in API yet |
+| **Affiliate Program** | - | Not available in API yet |
+| **Sponsored Search** | - | Not available in API yet |
+| **Creativity** | - | Not available in API yet |
+| **Contract Booth** | - | Not available in API yet |
 
 ## Zalora
 
@@ -91,16 +91,16 @@ description: Promotion type and availability
 
 | **Promotion Type** | **Forstok Feature Availability** | **Notes** |
 | :--- | :--- | :--- |
-| **Push** | Not available | Not available in API yet |
-| **Promoted Push** | Not available | Not available in API yet |
+| **Push** | - | Not available in API yet |
+| **Promoted Push** | - | Not available in API yet |
 | **Promo Pelapak** | **Available** | **Available in API** |
-| **Manajemen Pesan Promosi** | Not available | Not available in API yet |
-| **Barang Unggulan** | Not available | Not available in API yet |
-| **Promoted Keyword** | Not available | Not available in API yet |
-| **Sebar Promosi** | Not available | Not available in API yet |
-| **Voucher Lapak** | Not available | Not available in API yet |
-| **Poster Promosi** | Not available | Not available in API yet |
-| **Kumpulink** | Not available | Not available in API yet |
+| **Manajemen Pesan Promosi** | - | Not available in API yet |
+| **Barang Unggulan** | - | Not available in API yet |
+| **Promoted Keyword** | - | Not available in API yet |
+| **Sebar Promosi** | - | Not available in API yet |
+| **Voucher Lapak** | - | Not available in API yet |
+| **Poster Promosi** | - | Not available in API yet |
+| **Kumpulink** | - | Not available in API yet |
 
 ## Elevania
 
