@@ -9,7 +9,7 @@
 
 **Open:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi. 
 
-**Picked \(optional\)**: Sales order yang telah diambil produknya. Next action: Create package
+**Picked**: Sales order yang telah diambil produknya. Next action: Create package
 
 **Packed**: Sales orders yang telah di packaging. Beberapa Marketplace 
 
@@ -49,18 +49,6 @@
 
 **Create Sales Return:**
 {% endhint %}
-
-## Order Status Mapping
-
-[Shopee](https://docs.forstok.com/knowledge-base/sales-orders/order-status#shopee)
-
-[Tokopedia](https://docs.forstok.com/knowledge-base/sales-orders/order-status#tokopedia)
-
-[Lazada](https://docs.forstok.com/knowledge-base/sales-orders/order-status#lazada)
-
-[Blibli](https://docs.forstok.com/knowledge-base/sales-orders/order-status#blibli)
-
-[JD.ID](https://docs.forstok.com/knowledge-base/sales-orders/order-status#jd-id)
 
 ## Shopee 
 
