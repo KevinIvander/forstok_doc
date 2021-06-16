@@ -9,11 +9,11 @@
 
 **Open:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi. 
 
-**Picked \(optional\)**: Sales orders yang telah diambil produknya. Next action: Create package
+**Picked \(optional\)**: Sales order yang telah diambil produknya. Next action: Create package
 
 **Packed**: Sales orders yang telah di packaging. Beberapa Marketplace 
 
-**Ready to Ship:**
+**Ready to Ship:** Sales order yang sudah siap dikirim atau tunggu diambil oleh courier. 
 
 **Ready to Print:**
 
