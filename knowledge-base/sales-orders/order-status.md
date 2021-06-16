@@ -43,11 +43,11 @@
 
 **Mark as Delivered**:  Mengganti status order dari Shipped / Sudah dikirim ke Delivered / Sudah Diterima ****oleh pembeli. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) yang melalui courier manual/non integrated.
 
-**Create Invoice:**  
+**Create Invoice:**  Membuat invoice document berisikan informasi nominal yang harus dibayarkan untuk order tersebut. Invoice yang sudah terbuat dapat dikonfirmasi pembayarannya, edit invoice, atau void/write off invoice tersebut.
 
-**Cancel Order:** 
+**Cancel Order:**  Mengganti status order menjadi Cancelled dan melakukan cancel order pada marketplace juga.
 
-**Create Sales Return:**
+**Create Sales Return:**  Membuat return document berisikan informasi pengembalian barang yang dilakukan oleh buyer. Return yang sudah terbuat dapat dikonfirmasi penerimaan barangnya, edit return, atau delete return. Saat konfirmasi return tersebut, user dapat memilih untuk restock barangnya atau tidak.
 {% endhint %}
 
 ## Shopee 
