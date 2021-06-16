@@ -33,15 +33,15 @@
 {% hint style="warning" %}
 ## Forstok Order Actions
 
-**Mark as Paid:** Merubah status pembayaran order dari ****Pending Payment/Belum Dibayar ke Paid/Dibayar secara manual. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) melalui pembayaran manual \(Bank Transfer\)
+**Mark as Paid:**  Mengganti status pembayaran order dari ****Pending Payment/Belum Dibayar ke Paid/Dibayar secara manual. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) melalui pembayaran manual \(Bank Transfer\)
 
 **Create Picklist**:  Membuat picklist dokumen berisikan daftar produk untuk diambil didalam warehouse untuk memenuhi pesanan. Setelah produk diambil, status order berubah menjadi Picked.
 
 **Create Package:** Membuat package dokument berisikan daftar product untuk dikemas didalam satu order untuk memenuhi pesanan. Setelah produk dikemas, status order berubah menjadi Packed. 
 
-**Mark as Ready to Ship:** Merubah status order dari open/packed menjadi Ready to Ship/ Siap dikirim. Action ini sekaligus akan menarik data AWB/nomer resi dari courier yang teringrasi untuk bisa Print Shipping Label.
+**Mark as Ready to Ship:** Mengganti status order dari open/packed menjadi Ready to Ship/ Siap dikirim. Action ini sekaligus akan menarik data AWB/nomer resi dari courier yang teringrasi untuk bisa Print Shipping Label.
 
-**Mark as Delivered**:  Merubah status order dari Shipped / Sudah dikirim ke Delivered / Sudah Diterima ****oleh pembeli. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) yang melalui courier manual/non integrated.
+**Mark as Delivered**:  Mengganti status order dari Shipped / Sudah dikirim ke Delivered / Sudah Diterima ****oleh pembeli. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) yang melalui courier manual/non integrated.
 
 **Create Invoice:**  
 
