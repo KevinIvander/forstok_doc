@@ -252,7 +252,7 @@
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dibatalkan</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
