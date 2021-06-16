@@ -444,7 +444,510 @@
   </tbody>
 </table>
 
-## 
+## JD.ID
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Forstok Status</th>
+      <th style="text-align:left">Lazada Status</th>
+      <th style="text-align:left">Action in Forstok</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pending payment</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Pending Courier</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Open</b>
+      </td>
+      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">
+        <p>Create Picklist (Optional)</p>
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel Order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Picked</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Packed</b>
+      </td>
+      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Ship</b>
+      </td>
+      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Print</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Print Shipping Label</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Printed</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Shipped</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Delivered</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Create Sales Return</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cancelled</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Returned</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+  </tbody>
+</table>
+
+## Zalora
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Forstok Status</th>
+      <th style="text-align:left">Lazada Status</th>
+      <th style="text-align:left">Action in Forstok</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pending payment</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Pending Courier</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Open</b>
+      </td>
+      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">
+        <p>Create Picklist (Optional)</p>
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel Order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Picked</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Packed</b>
+      </td>
+      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Ship</b>
+      </td>
+      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Print</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Print Shipping Label</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Printed</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Shipped</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Delivered</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Create Sales Return</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cancelled</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Returned</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+  </tbody>
+</table>
+
+## Bukalapak
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Forstok Status</th>
+      <th style="text-align:left">Lazada Status</th>
+      <th style="text-align:left">Action in Forstok</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pending payment</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Pending Courier</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Open</b>
+      </td>
+      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">
+        <p>Create Picklist (Optional)</p>
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel Order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Picked</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Packed</b>
+      </td>
+      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Ship</b>
+      </td>
+      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Print</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Print Shipping Label</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Printed</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Shipped</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Delivered</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Create Sales Return</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cancelled</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Returned</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+  </tbody>
+</table>
+
+## Zilingo
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Forstok Status</th>
+      <th style="text-align:left">Lazada Status</th>
+      <th style="text-align:left">Action in Forstok</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pending payment</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Pending Courier</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Open</b>
+      </td>
+      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">
+        <p>Create Picklist (Optional)</p>
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel Order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Picked</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Packed</b>
+      </td>
+      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Ship</b>
+      </td>
+      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Print</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Print Shipping Label</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Printed</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Shipped</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Delivered</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Create Sales Return</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cancelled</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Returned</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+  </tbody>
+</table>
+
+## Shopify
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Forstok Status</th>
+      <th style="text-align:left">Lazada Status</th>
+      <th style="text-align:left">Action in Forstok</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Pending payment</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Pending Courier</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Open</b>
+      </td>
+      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">
+        <p>Create Picklist (Optional)</p>
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel Order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Picked</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Create Package</p>
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Packed</b>
+      </td>
+      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">
+        <p>Mark as Ready to Ship</p>
+        <p>Create Sales Invoice</p>
+        <p>Cancel order</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Ship</b>
+      </td>
+      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Ready to Print</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Print Shipping Label</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Printed</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Shipped</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Delivered</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">Create Sales Return</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Cancelled</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Returned</b>
+      </td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Shopee 
 
