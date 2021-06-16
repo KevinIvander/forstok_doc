@@ -584,7 +584,7 @@
     <tr>
       <td style="text-align:left"><b>Pending payment</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Pending</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -596,7 +596,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">Pending</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -619,7 +619,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -629,7 +629,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">Ready to Ship</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -647,25 +647,28 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Shipped</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Completed</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Canceled</p>
+        <p>Delivery Failed</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Returned</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Returned</td>
       <td style="text-align:left">-</td>
     </tr>
   </tbody>
@@ -798,7 +801,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">Menunggu Konfirmasi</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -821,7 +824,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -831,7 +834,10 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">
+        <p>Menunggu Permintaan Pengambilan</p>
+        <p>Pengambilan Pesanan Sudah Dijadwalkan</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -849,25 +855,28 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Sedang Transit</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Telah Diterima</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Dibatalkan Oleh Penjual</p>
+        <p>Dibatalkan Oleh Pembeli</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Returned</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Canceled by Buyer (Package Returned)</td>
       <td style="text-align:left">-</td>
     </tr>
   </tbody>
@@ -887,7 +896,7 @@
     <tr>
       <td style="text-align:left"><b>Pending payment</b>
       </td>
-      <td style="text-align:left">Belum bayar</td>
+      <td style="text-align:left">Belum Dibayar</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -899,7 +908,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Perlu dikirim</td>
+      <td style="text-align:left">Pesanan Baru</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -922,7 +931,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Perlu diprocess</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -932,7 +941,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">Perlu Dikirim</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -950,25 +959,31 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dalam Pengiriman</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Diterima</p>
+        <p>Terkonfirmasi</p>
+      </td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Pembatalan</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Returned</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Pengembalian</p>
+        <p>Penukaran</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
   </tbody>
@@ -1196,7 +1211,7 @@
     <tr>
       <td style="text-align:left"><b>Pending payment</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Unpaid</td>
       <td style="text-align:left">Mark as Paid (For Bank Transfer)</td>
     </tr>
     <tr>
@@ -1208,7 +1223,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">Open</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -1231,7 +1246,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -1241,7 +1256,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -1265,7 +1280,10 @@
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Fulfilled</p>
+        <p>Closed</p>
+      </td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
@@ -1297,7 +1315,7 @@
     <tr>
       <td style="text-align:left"><b>Pending payment</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Pembayaran Tertunda</td>
       <td style="text-align:left">Mark as Paid (For Bank Transfer)</td>
     </tr>
     <tr>
@@ -1309,7 +1327,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">Diproses</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -1332,7 +1350,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -1342,7 +1360,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">Diproses</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -1366,19 +1384,22 @@
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Selesai</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Cancel Request</p>
+        <p>Dibatalkan</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Returned</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dana Dikembalikan</td>
       <td style="text-align:left">-</td>
     </tr>
   </tbody>
