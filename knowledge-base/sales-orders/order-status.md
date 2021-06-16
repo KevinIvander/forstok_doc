@@ -492,7 +492,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">Awaiting Shipment</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -515,7 +515,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -525,7 +525,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">Ready Shipment</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -543,25 +543,28 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Awaiting Acceptance</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Completed</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Canceled</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Returned</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Awaiting Refuse Confirmation</p>
+        <p>Rejected</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
   </tbody>
