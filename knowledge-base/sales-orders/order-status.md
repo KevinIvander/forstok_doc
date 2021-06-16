@@ -9,25 +9,25 @@
 
 **Open:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi. 
 
-**Picked**: Sales order yang telah diambil produknya dari rak didalam gudang. Next action: Create package
+**Picked**: Sales order yang produknya telah diambil dari rak didalam gudang. Next action: Create package
 
-**Packed**: Sales orders yang telah di packaging.  
+**Packed**: Sales orders yang produknya telah di packaging.  
 
 **Ready to Ship:** Sales order yang sudah siap dikirim atau tunggu diambil oleh courier. 
 
-**Ready to Print:** AWB / no resi sudah tersimpan disystem nya Forstok. Shipping Label siap diprint.
+**Ready to Print:** AWB/nomor resi sudah tersimpan pada Forstok. Shipping Label dapat diprint.
 
-**Printed:**  Shipping label yang sudah diprint untuk order itu.
+**Printed:**  Status akan berubah menjadi **Printed** jika shipping label sudah diprint.
 
-**Shipped:** Status berubah menjadi Shipped secara otomatis jika ****paket telah diambil oleh courier.  
+**Shipped:** Status berubah menjadi **Shipped** secara otomatis jika ****paket telah diambil oleh courier.  
 
-**Delivered:** Status berubah menjadi Delivered secara ****otomatis jika paket telah diterima oleh customer.
+**Delivered:** Status berubah menjadi **Delivered** secara ****otomatis jika paket telah diterima oleh customer.
 
-**Completed:** Status berubah menjadi Completed secara otomatis jika paket telah diterima oleh customer dan invoice sudah dibayar oleh Marketplace / customer.
+**Completed:** Status berubah menjadi **Completed** secara otomatis jika paket telah diterima oleh customer dan invoice sudah dibayar oleh Marketplace / customer.
 
 **Cancelled:** Status berubah menjadi cancelled jika customer atau seller membatalkan order tersebut
 
-**Returned:** Status berubah menjadi returned jika seller sudah membuat Sales Return dan Confirm received item/ konfirmasi barang sudah di terima digudang seller.
+**Returned:** Status berubah menjadi **Returned** jika seller sudah membuat Sales Return dan Confirm received item/konfirmasi barang sudah di terima digudang seller.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -290,7 +290,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Perlu dikirim</td>
+      <td style="text-align:left">Untuk Dikemas</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -313,7 +313,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Perlu diprocess</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -323,7 +323,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">Atur Pengiriman</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -341,25 +341,25 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dalam Pengiriman</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Diterima</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dibatalkan</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Returned</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Pengembalian Barang/Dana</td>
       <td style="text-align:left">-</td>
     </tr>
   </tbody>
@@ -414,7 +414,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">Dalam Proses</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -424,7 +424,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">Dalam Proses</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -442,19 +442,19 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dalam Proses</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Delivered</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Batal</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -694,7 +694,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Baru</td>
+      <td style="text-align:left">Dibayar</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -717,7 +717,7 @@
     <tr>
       <td style="text-align:left"><b>Packed</b>
       </td>
-      <td style="text-align:left">Dalam proces</td>
+      <td style="text-align:left">Diproses</td>
       <td style="text-align:left">
         <p>Mark as Ready to Ship</p>
         <p>Create Sales Invoice</p>
@@ -727,7 +727,7 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">Diproses</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -745,25 +745,25 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dikirim</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Selesai</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Respon Pembatalan</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Returned</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Dikembalikan</td>
       <td style="text-align:left">-</td>
     </tr>
   </tbody>
@@ -1086,7 +1086,7 @@
     <tr>
       <td style="text-align:left"><b>Pending payment</b>
       </td>
-      <td style="text-align:left">Belum bayar</td>
+      <td style="text-align:left">-</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -1098,7 +1098,7 @@
     <tr>
       <td style="text-align:left"><b>Open</b>
       </td>
-      <td style="text-align:left">Perlu dikirim</td>
+      <td style="text-align:left">Submitted</td>
       <td style="text-align:left">
         <p>Create Picklist (Optional)</p>
         <p>Create Package</p>
@@ -1131,7 +1131,10 @@
     <tr>
       <td style="text-align:left"><b>Ready to Ship</b>
       </td>
-      <td style="text-align:left">Telah diprocess</td>
+      <td style="text-align:left">
+        <p>Driver Allocated</p>
+        <p>Driver Arrived</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
@@ -1149,19 +1152,22 @@
     <tr>
       <td style="text-align:left"><b>Shipped</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Collected</td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">Delivered</td>
       <td style="text-align:left">Create Sales Return</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Cancelled</b>
       </td>
-      <td style="text-align:left">-</td>
+      <td style="text-align:left">
+        <p>Cancelled</p>
+        <p>Failed</p>
+      </td>
       <td style="text-align:left">-</td>
     </tr>
     <tr>
