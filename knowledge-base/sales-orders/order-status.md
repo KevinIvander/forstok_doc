@@ -33,21 +33,21 @@
 {% hint style="warning" %}
 ## Forstok Order Actions
 
-**Mark as Paid:** Merubah Status Order dari ****Pending payment/Belum dibayar ke Paid/dibayar. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau custom webstore\) melalui pembayaran manual \(Bank Transfer\)
+**Mark as Paid:** Merubah Status Order dari ****Pending payment/Belum dibayar ke Paid/dibayar. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) melalui pembayaran manual \(Bank Transfer\)
 
 **Create Picklist**:  Membuat picklist documen berisikan daftar produk untuk diambil didalam warehouse untuk memenuhi pesanan. Setelah produk diambil, status order berubah menjadi picked.
 
-**Create Package:** Sales order \(Shopee Only\) yang couriernya belum ditentukan oleh Marketplace. .
+**Create Package:** Membuat package document
 
-**Mark as Ready to Ship:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status
+**Mark as Ready to Ship:** Merubah status order dari open/packed menjadi Ready to Ship/ Siap dikirim. Action ini sekaligus akan menarik data AWB/nomer resi dari courier yang teringrasi untuk bisa Print Shipping Label.
 
-**Mark as Delivered**:  Sales order yang belum dibayar oleh pembeli. Seller tidak bisa memproses orderanya. Setelah pembeli .
+**Mark as Delivered**:  Merubah status order dari Shipped / Sudah dikirim ke Delivered / Sudah Diterima ****oleh pembeli. Action ini hanya muncul khusus Webstore \(Shopify, Magento, Woocommerce atau Custom Webstore\) yang melalui courier manual/non integrated.
 
-**Create Invoice:** Sales order \(Shopee Only\) yang couriernya belum ditentukan oleh Marketplace. 
+**Create Invoice:**  
 
-**Cancel Order:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status
+**Cancel Order:** 
 
-**Create Sales Return:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status
+**Create Sales Return:**
 {% endhint %}
 
 ## Shopee 
