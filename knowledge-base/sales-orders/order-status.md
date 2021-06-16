@@ -1,13 +1,15 @@
 # Order Status
 
-{% hint style="info" %}
+{% hint style="warning" %}
+## Forstok Order Status
+
 **Pending Payment**:  Sales order yang belum dibayar oleh pembeli. Seller tidak bisa memproses orderanya. Setelah pembeli membayar, status order akan berubah jadi **Open** secara otomatis.
 
 **Pending Courier:** Sales order \(Shopee Only\) yang couriernya belum ditentukan oleh Marketplace. Seller belum bisa memproses orderanya. Setelah marketplace menentukan courier nya, status order akan berubah menjadi **Open** secara otomatis.
 
-**Open:** Sales order baru yang bisa di process. Next actions: Create picklist document , Create packages document. atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi. 
+**Open:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi. 
 
-**Picked \(optional\)**: Sales orders yang telah di pickup produknya. Next action: Create package document
+**Picked \(optional\)**: Sales orders yang telah diambil produknya. Next action: Create package
 
 **Packed**: Sales orders yang telah di packaging. Beberapa Marketplace 
 
@@ -26,6 +28,26 @@
 **Cancelled:**
 
 **Returned:**
+{% endhint %}
+
+{% hint style="warning" %}
+## Forstok Order Actions
+
+**Mark as paid:** 
+
+**Create Picklist**:  Sales order yang belum dibayar oleh pembeli. Seller tidak bisa memproses orderanya. Setelah pembeli .
+
+**Create Package:** Sales order \(Shopee Only\) yang couriernya belum ditentukan oleh Marketplace. .
+
+**Mark as Ready to Ship:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status
+
+**Mark as Delivered**:  Sales order yang belum dibayar oleh pembeli. Seller tidak bisa memproses orderanya. Setelah pembeli .
+
+**Create Invoice:** Sales order \(Shopee Only\) yang couriernya belum ditentukan oleh Marketplace. 
+
+**Cancel Order:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status
+
+**Create Sales Return:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status
 {% endhint %}
 
 ## Shopee 
