@@ -15,19 +15,19 @@
 
 **Ready to Ship:** Sales order yang sudah siap dikirim atau tunggu diambil oleh courier. 
 
-**Ready to Print:**
+**Ready to Print:** AWB / no resi sudah tersimpan disystem nya Forstok. Shipping Label siap diprint.
 
-**Printed:**
+**Printed:**  Shipping label yang sudah diprint untuk order itu.
 
-**Shipped:**
+**Shipped:** Status berubah menjadi Shipped secara otomatis jika ****paket telah diambil oleh courier.  
 
-**Delivered:**
+**Delivered:** Status berubah menjadi Delivered secara ****otomatis jika paket telah diterima oleh customer.
 
-**Completed:**
+**Completed:** Status berubah menjadi Completed secara otomatis jika paket status menjadi delivered dan invoice status menjadi dibayar.
 
-**Cancelled:**
+**Cancelled:** Status berubah menjadi cancelled jika customer atau seller membatalkan order tersebut
 
-**Returned:**
+**Returned:** Status berubah menjadi returned jika seller sudah membuat Sales Return dan Confirm received item/ konfirmasi barang sudah di terima digudang seller.
 {% endhint %}
 
 {% hint style="warning" %}
