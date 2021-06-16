@@ -9,7 +9,7 @@ description: Promotion type and availability
 | **Promotion Type** | **Forstok Feature Availability** | **Notes** |
 | :--- | :--- | :--- |
 | **Voucher Toko Saya** | - | Not available in API yet |
-| **Promo Toko** | **Available** | **Available In API** |
+| **Promo Toko** | **Coming Soon** | **Available In API** |
 | **Paket Diskon** | **Coming Soon** | **Available In API** |
 | **Kombo Hemat** | - | Not available in API yet |
 | **Flash Sale Toko Saya** | **Coming Soon** | **Available In API** |
