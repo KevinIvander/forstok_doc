@@ -257,7 +257,7 @@
       <td style="text-align:left"><b>Pending payment</b>
       </td>
       <td style="text-align:left">Belum bayar</td>
-      <td style="text-align:left">Mark as Paid (Webstore only)</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Pending Courier</b>
@@ -320,7 +320,7 @@
       <td style="text-align:left"><b>Shipped</b>
       </td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">Mark as Delivered (Manual AWB only)</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
@@ -421,7 +421,7 @@
       <td style="text-align:left"><b>Shipped</b>
       </td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">Mark as Delivered (Manual AWB only)</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Delivered</b>
