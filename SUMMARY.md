@@ -121,7 +121,7 @@
   * [Payout Overview](knowledge-base/payment-received/payout-overview.md)
   * [Create Payment Received](knowledge-base/payment-received/create-payment-received-1.md)
   * [Import Payout from Channel](knowledge-base/payment-received/import-payout-from-channel.md)
-  * [Upload Payment Received \(xls](knowledge-base/payment-received/create-payment-received-xls-coming-soon.md)
+  * [Upload Payment Received \(xls\)](knowledge-base/payment-received/create-payment-received-xls-coming-soon.md)
   * [Export Payment Received \(Excel\)](knowledge-base/payment-received/export-payment-received-excel.md)
 * [Retur Penjualan \(Return\)](knowledge-base/sales-returns/README.md)
   * [Return Overview](knowledge-base/sales-returns/return-overview.md)

@@ -1,2 +1,2 @@
-# Upload Payment Received \(xls
+# Upload Payment Received \(xls\)
 
