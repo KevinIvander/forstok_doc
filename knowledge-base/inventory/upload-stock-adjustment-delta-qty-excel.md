@@ -16,11 +16,15 @@ Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negat
 
 ![](../../.gitbook/assets/image%20%28316%29.png)
 
-2. Pilih dan download Delta Qty \(+/-\) XLS , file bisa di download pada Notifications
+2.  ****Pilih warehouse yang akan di update stocknya
+
+![](https://lh6.googleusercontent.com/BcVzu_2Iqok9b5ggqUFbegSAkqeTJVki9v3kV7_MtIwQnuRM5ljioeoC1pllGzVKPcFrEnNwj-pPLhxC9IRaGujOhhjhJT0bhIZMf-Z0SGW-m1aRvUJwCzlIktlDvArDuXtLwqPG)
+
+3. Pilih dan download Delta Qty \(+/-\) XLS , file bisa di download pada Notifications
 
 ![](../../.gitbook/assets/screen-shot-2021-03-31-at-4.07.46-pm.png)
 
-3. Input stock yang akan di update pada kolom Qty Change.
+4. Input stock yang akan di update pada kolom Qty Change.
 
 {% hint style="info" %}
 Qty fisik terbaru di gudang yang bisa di jual.
@@ -35,13 +39,13 @@ Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negat
 
 ![](../../.gitbook/assets/image%20%28314%29.png)
 
-4. Upload dan import file tsb
+5. Upload dan import file tsb
 
 ![](../../.gitbook/assets/image%20%28321%29.png)
 
 
 
-5.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
+6.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
 
 ![](../../.gitbook/assets/image%20%28318%29.png)
 
