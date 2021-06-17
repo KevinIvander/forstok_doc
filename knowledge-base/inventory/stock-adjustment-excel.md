@@ -12,11 +12,15 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 ![](../../.gitbook/assets/image%20%28316%29.png)
 
-2. Pilih dan FInal Qty \(xls\), file bisa di download pada Notifications
+2.  ****Pilih warehouse yang akan di update stocknya
+
+![](https://lh6.googleusercontent.com/BcVzu_2Iqok9b5ggqUFbegSAkqeTJVki9v3kV7_MtIwQnuRM5ljioeoC1pllGzVKPcFrEnNwj-pPLhxC9IRaGujOhhjhJT0bhIZMf-Z0SGW-m1aRvUJwCzlIktlDvArDuXtLwqPG)
+
+3. Pilih dan FInal Qty \(xls\), file bisa di download pada Notifications
 
 ![](../../.gitbook/assets/image%20%28315%29.png)
 
-3. Input stock yang akan di update pada kolom New Qty On Hand 
+4. Input stock yang akan di update pada kolom New Qty On Hand 
 
 {% hint style="info" %}
 **Penting!**
@@ -64,11 +68,11 @@ Jadi 2- 3 = -1
 * Jika ingin menjumlahkan dengan rumus vlookup harap dilakukan diluar format original file update stock Forstok. Atau pada update stock di New Qty On Hand tidak ada rumus. Karena akan failed saat export data ke channel
 {% endhint %}
 
-4. Setelah penginputan stock pada New Qty On Hand, upload dan import file tsb
+5. Setelah penginputan stock pada New Qty On Hand, upload dan import file tsb
 
 ![](../../.gitbook/assets/image%20%28321%29.png)
 
-5.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
+6.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
 
 ![](../../.gitbook/assets/image%20%28318%29.png)
 
