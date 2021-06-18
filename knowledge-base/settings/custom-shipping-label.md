@@ -8,7 +8,7 @@ You can print all Marketplaces and e-commerce website shipping label in 1 format
 Please contact Forstok support to enable this feature.
 {% endhint %}
 
-Download sample file here
+### Download sample file here below
 
-{% file src="../../.gitbook/assets/forstok-custom-shipping-label.pdf" caption="Download sample file Shipping Label thermal 10x15cm" %}
+{% file src="../../.gitbook/assets/forstok-custom-shipping-label.pdf" caption="Forstok Custom Shipping Label \(Thermal 10x15cm\)" %}
 
