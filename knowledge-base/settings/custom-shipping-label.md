@@ -10,3 +10,5 @@ Please contact Forstok support to enable this feature.
 
 Download sample file here
 
+{% file src="../../.gitbook/assets/forstok-custom-shipping-label.pdf" caption="Download sample file Shipping Label thermal 10x15cm" %}
+
