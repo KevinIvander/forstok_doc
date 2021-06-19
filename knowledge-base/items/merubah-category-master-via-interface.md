@@ -1,6 +1,6 @@
 # Merubah Category Master \(via Interface\)
 
-1. Pilih category yang akan di perbaiki, lalu apply. Atau bisa pilih berdasakan kode sku. Lalu klik Edit Item
+1. Pilih category yang akan di perbaiki, lalu apply
 
 ![](../../.gitbook/assets/image%20%28371%29.png)
 
