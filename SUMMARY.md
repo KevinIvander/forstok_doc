@@ -74,6 +74,7 @@
   * [Edit item](knowledge-base/items/edit-item.md)
   * [Master Produk \(Bulk Update Items excel\)](knowledge-base/items/master-produk.md)
   * [Cara Listing The F Thing \(menggunakan Cross Listing\)](knowledge-base/items/cara-listing-the-f-thing-menggunakan-cross-listing.md)
+  * [Merubah Category Master \(via Interface\)](knowledge-base/items/merubah-category-master-via-interface.md)
 * [Inventaris \(Inventory\)](knowledge-base/inventory/README.md)
   * [Create Stock Adjustment \(interface\)](knowledge-base/inventory/upload-stock-adjustment-interface.md)
   * [Upload Stock Adjustment Final Qty \(xls\)](knowledge-base/inventory/stock-adjustment-excel.md)
