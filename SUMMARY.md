@@ -23,6 +23,7 @@
   * [Step 3: Linking Produk](knowledge-base/before-integrations/3.-linking-produk.md)
   * [Step 4: Bermigrasi ke Forstok](knowledge-base/before-integrations/migrate-to-forstok.md)
   * [Cara Penginputan Kode SKU di Marketplace](knowledge-base/before-integrations/cara-penginputan-kode-sku-di-marketplace.md)
+  * [Cara Akses Forstok di mobile phone atau tab](knowledge-base/before-integrations/cara-akses-forstok-di-mobile-phone-atau-tab.md)
 * [Integrasi](knowledge-base/integrations/README.md)
   * [Shopee](knowledge-base/integrations/shopee.md)
   * [Tokopedia](knowledge-base/integrations/tokopedia.md)
