@@ -22,14 +22,6 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 4. Input stock yang akan di update pada kolom New Qty On Hand 
 
-{% hint style="info" %}
-**Penting!**
-
-* Patokan stock di Forstok yang akan di export ke channel yaitu status **Available**
-* Current Qty Reserved : adalah jika ada stock reserved pada status Pending Payment pada order. Dimana stock tsb sudah reserved di marketplace. Jika terjadi pembatalan order customer tidak bayar atau sudah hapis waktu pembayaran maka stock akan kembali maka Available stock akan bertambah
-* Reserved Qty tidak di perbolehkan di edit
-{% endhint %}
-
 Contoh 1  
   
 SKU: KIZIBLOSSOM0445  
