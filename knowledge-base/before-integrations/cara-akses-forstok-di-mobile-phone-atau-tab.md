@@ -14,5 +14,5 @@ Maka tampilan seperti berikut, ini tampilan Forstok mobile phone:
 
 3. Maka tampilan sudah sama seperti yang PC
 
-![](../../.gitbook/assets/image%20%28377%29.png)
+![](../../.gitbook/assets/image%20%28379%29.png)
 

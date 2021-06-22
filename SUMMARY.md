@@ -16,6 +16,7 @@
 ## Knowledge base
 
 * [Pengaturan awal \(Setup\)](knowledge-base/before-integrations/README.md)
+  * [About Forstok](knowledge-base/before-integrations/about-forstok.md)
   * [Onboarding Steps](knowledge-base/before-integrations/onboarding-steps.md)
   * [Step 1: Pencocokan Kode SKU](knowledge-base/before-integrations/step-1.md)
   * [Step 1A: Jika Kode SKU belum rapi](knowledge-base/before-integrations/step-1a-jika-kode-sku-belum-rapi.md)
