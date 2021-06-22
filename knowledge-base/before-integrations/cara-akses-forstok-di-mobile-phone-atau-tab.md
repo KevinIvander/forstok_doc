@@ -10,9 +10,9 @@ Maka tampilan seperti berikut, ini tampilan Forstok mobile phone:
 
 2. Jika Anda ingin merubah tampilan sama seperti yang PC, Anda tinggal ganti tampilannya menjadi desktop site
 
-![](../../.gitbook/assets/image%20%28376%29.png)
+![](../../.gitbook/assets/image%20%28378%29.png)
 
 3. Maka tampilan sudah sama seperti yang PC
 
-![](../../.gitbook/assets/image%20%28379%29.png)
+![](../../.gitbook/assets/image%20%28382%29.png)
 

@@ -9,6 +9,12 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 
 ![](../../.gitbook/assets/image%20%28130%29.png)
 
+![](../../.gitbook/assets/image%20%28377%29.png)
+
+![](../../.gitbook/assets/image%20%28376%29.png)
+
+![](../../.gitbook/assets/image%20%28380%29.png)
+
 **Untuk memulai penggunaan Forstok ada 4 step:**
 
 **Step 1: Pencocokan Kode SKU semua marketplace**
