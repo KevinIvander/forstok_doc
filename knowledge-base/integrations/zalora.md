@@ -31,5 +31,7 @@ Pilih Settings &gt; Integration Management
 
 6. Pada Product Catalog pilih **Sync Product from Zalora --**&gt;**Next --**&gt; pilih **Finish**
 
+![](../../.gitbook/assets/image%20%28374%29.png)
+
 7. Maka Zalora berhasil integrasi ke Forstok dan sedang proses import produk. 
 
