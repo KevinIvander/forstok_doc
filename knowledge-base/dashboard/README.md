@@ -10,7 +10,7 @@ Berikut merupakan detail penjelasan untuk masing masing section :
 
 **A. Menu Bar**
 
-* **Forstok Dashboard :** tampilan depan Forstok yang terdapat bagian-bagian untuk melihat Pending Actions, Pending Orders, Sales Reports, dan Total Item.
+* **Forstok Dashboard : T**ampilan depan Forstok yang terdapat bagian-bagian untuk melihat Pending Actions, Pending Orders, Sales Reports, dan Total Item.
 * **Items Menu** : untuk mengelola item yang di edit seperti update stock, harga, sampai proses listing-listing produk.
 * **Orders Menu** : untuk memproses orderan ready to ship, print shipping label, detail order dan lain-lain.
 * **Customers Menu** : untuk melihat dan mendownload data customer.

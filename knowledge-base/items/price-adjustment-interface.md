@@ -9,7 +9,8 @@ Langkah-langkah yang bisa dilakukan untuk adjust quantity adalah :
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48018035513/original/1hitgj6TUJVJJ6qVn7vR9kNkpaoonhmqyg.png?1575456436)
 
-   3. Input jumlah price pada kolom **new price reguler**. Lalu Save.
+   3. Scroll ke kanan dan input jumlah price di setiap marketplace atau kolom tersebut. Lalu **Save**.  
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48018036052/original/aHOkE3C5uYqkGtuKHHIGhbSmRSuEL8gXkg.png?1575456582)
+
+![](https://lh4.googleusercontent.com/BA-oOvWCmBcB3DmjccKWgOC29Vi0ejgjouKcjl1wWJ_wQL-LBywItEQILU28OXQYFxZKwNMofORXlMrMnKNZ8Y6GtDXelwN1aWT1mIxaofdi6BbwS8GNSCvxOqBR1xdRlCYwRj1k)
 

@@ -4,9 +4,9 @@ Anda bisa menambahkan master produk dimana bisa menjadi acuan master produk Anda
 
 Berikut merupakan langkah-langkah yang dilakukan untuk create master produk : 
 
-1. Klik Bulk Create Item pada halaman item. 
+1. Klik Upload New Master Items pada halaman item. 
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48084850288/original/Jskpc1nAStAvy56AfsPl6i5BpCBdSMgCKA.png?1612289557)
+![](https://lh3.googleusercontent.com/ZkoMRGc2b5dCWHpJDdy3nKLwJ__EZgZbxBzCCLLawS93MOAMuQZHFM9j7tZsjb1uvms3esF4T5SaC_AmVMcuMHmJwJ882_5YUixgbr2GXiSd0NbfuhIw0K4u0xyPyEwwHVIN8J7N)
 
 2. Lalu download template csv. 
 

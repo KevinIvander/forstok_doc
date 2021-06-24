@@ -2,16 +2,17 @@
 
 Berikut langkah-langkah listing item baru yang belum ada di marketplace:  
   
-1. Pada menu Item pilih +Item --&gt; Add Items
+1. Pada menu Item pilih +Item --&gt; Add Items  
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083831455/original/OVF_HPkvqqcqqQ0DMkNIUXTh-i-E4wdXbw.png?1611804735)
 
-2. Pilih master category --&gt; pilih tujuan marketplace yang akan listingkan --&gt; mappingkan category tujuan marketplace , lalu Continue
+![](https://lh5.googleusercontent.com/pfVKjFa0mkT4u6q0iIfFkHpmovuJDuaIXm7FfIQLAFe8xMAKVE9twbygm4zZPWN6rtAmifHLQu3iaxRZGmkcWh9Xohzr0ktTmCIW_7EsALqUK-nQNg3M5H2RCv7bjtt8xggzidEr)
+
+2. Pilih master category --&gt; pilih tujuan marketplace yang akan di listingkan --&gt; mappingkan/ pilih category tujuan marketplace , lalu Continue
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083831682/original/60mzAybEIM-GFDKinTzFQrJ_UiRmdWLcXA.png?1611804992)
 
 3. Pilih Add Items --&gt;Input Nama Produk pada 'Item Name'  
-Note: Jika produk Anda mempunyai variant harap centang checkbox berikut dan isi Option Type dan Option Name sesuai produk variant Anda.  
+Note: Jika produk Anda mempunyai variant harap klik checkbox berikut dan isi Option Type dan Option Name sesuai produk variant Anda.  
 Jika produk Anda tidak mempunyai variant tidak perlu centang checkbox tersebut.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083831895/original/vQrpoG_i98kRCI98U95Y--arcOmRHOed8g.png?1611805183)
