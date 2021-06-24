@@ -2,7 +2,7 @@
 
 **Tentang Forstok**
 
-Forstok merupakan plaftform multi channel seller yang memudahkan seller-seller yang sudah berjualan di marketplace atau webstore dalam mengelola inventory, upload produk, proses order, proses operational dalam satu dashbord**.**
+Forstok merupakan plaftform multi channel selling yang memudahkan seller-seller yang sudah berjualan di marketplace atau webstore dalam mengelola inventory, upload produk, proses order, semua kegiatan operational online bisa di proses dalam satu dashboard.
 
 ![](../../.gitbook/assets/image%20%28379%29.png)
 
