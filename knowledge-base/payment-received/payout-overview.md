@@ -55,10 +55,10 @@ description: Payout type and availability
 | Type | Forstok Availability | Note |
 | :--- | :--- | :--- |
 | **Payout amount** \(Global\) | **Coming Soon**  | API available |
-| **Payout amount** \(Order level\) | Not available | API not available |
+| **Payout amount** \(Order level\) | **Coming Soon** | API available |
 | **Payout amount**  \(Item level\) | Not available | API not available |
 | **Commission Fee** \(Global\) | **Coming Soon** | API available |
-| **Commission Fee** \(Order Level\) | Not available | API not available |
+| **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
 | **Commission Fee** \(Item Level\) | Not available | API not available |
 | **Tax** | **Coming Soon** | API available |
 
