@@ -24,6 +24,9 @@ description: Payout type and availability
 | **Commission Fee** \(Global\) | -  | API not available |
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Item Level\) | **-** | API not available |
+| **Payout/Settlement ID** \(Global\) | - | API not available |
+| **Payout/Settlement ID** \(Order Level\) | Yes | API available |
+| **Payout/Settlement ID** \(Item Level\) | - | API not available |
 | **Payout period**   | **Delivered Order** |  |
 
 ## Tokopedia
@@ -36,6 +39,9 @@ description: Payout type and availability
 | **Commission Fee** \(Global\) | -  | API not available |
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Item Level\) | - | API not available |
+| **Payout/Settlement ID** \(Global\) | - | API not available |
+| **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
+| **Payout/Settlement ID** \(Item Level\) | - | API not available |
 | **Payout period** | **Delivered Order** | API not available |
 
 ## Lazada
@@ -49,6 +55,9 @@ description: Payout type and availability
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Item Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Item Level\) | **Yes \(Coming Soon\)**  | API available |
+| **Payout/Settlement ID** \(Global\) | **Yes** | API available |
+| **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
+| **Payout/Settlement ID** \(Item Level\) | **Yes** |  |
 | **Payout period** | **Weekly**  | API not available |
 
 ## Blibli
@@ -61,6 +70,9 @@ description: Payout type and availability
 | **Commission Fee** \(Global\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Item Level\) | - | API not available |
+| **Payout/Settlement ID** \(Global\) | **Yes** | API available |
+| **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
+| **Payout/Settlement ID** \(Item Level\) | **Yes** | API available |
 | **Payout period** | **Weekly** | API available |
 
 ## 
