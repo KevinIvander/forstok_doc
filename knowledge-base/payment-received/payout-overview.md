@@ -25,7 +25,7 @@ description: Payout type and availability
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Item Level\) | **-** | API not available |
 | **Payout/Settlement ID** \(Global\) | - | API not available |
-| **Payout/Settlement ID** \(Order Level\) | Yes | API available |
+| **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
 | **Payout/Settlement ID** \(Item Level\) | - | API not available |
 | **Payout period**   | **Delivered Order** |  |
 
