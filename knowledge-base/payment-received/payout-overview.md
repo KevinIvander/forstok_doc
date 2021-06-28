@@ -42,7 +42,7 @@ description: Payout type and availability
 | **Payout/Settlement ID** \(Global\) | - | API not available |
 | **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
 | **Payout/Settlement ID** \(Item Level\) | - | API not available |
-| **Payout period** | **Delivered Order** | API not available |
+| **Payout period** | **When order is delivered** | API not available |
 
 ## Lazada
 
