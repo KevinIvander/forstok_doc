@@ -24,7 +24,7 @@ description: Payout type and availability
 | **Commission Fee** \(Global\) | Not available | API not available |
 | **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
 | **Commission Fee** \(Item Level\) | Not available | API not available |
-| **Tax** | Not available | API not available |
+| **Availability**   | **Delivered Order** |  |
 
 ## Tokopedia
 
@@ -36,7 +36,7 @@ description: Payout type and availability
 | **Commission Fee** \(Global\) | Not available | API not available |
 | **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
 | **Commission Fee** \(Item Level\) | Not available | API not available |
-| **Tax** | Not available | API not available |
+| **Availability** | **Delivered Order** | API not available |
 
 ## Lazada
 
@@ -48,7 +48,7 @@ description: Payout type and availability
 | **Commission Fee** \(Global\) | **Coming Soon** | API available |
 | **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
 | **Commission Fee** \(Item Level\) | **Coming Soon** | API available |
-| **Tax** | Not available | API not available |
+| **Availability** | **Weekly settlement** | API not available |
 
 ## Blibli
 
