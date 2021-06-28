@@ -18,25 +18,25 @@ description: Payout type and availability
 
 | Type | Forstok Availability | Note |
 | :--- | :--- | :--- |
-| **Payout amount** \(Global\) | Not available **** | API not available |
+| **Payout amount** \(Global\) | - **** | API not available |
 | **Payout amount** \(Order level\) | **Coming Soon** | API available |
-| **Payout amount**  \(Item level\) | Not available | API not available |
-| **Commission Fee** \(Global\) | Not available | API not available |
+| **Payout amount**  \(Item level\) | - | API not available |
+| **Commission Fee** \(Global\) | -  | API not available |
 | **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
-| **Commission Fee** \(Item Level\) | Not available | API not available |
-| **Availability**   | **Delivered Order** |  |
+| **Commission Fee** \(Item Level\) | -  | API not available |
+| **Payout period**   | **Delivered Order** |  |
 
 ## Tokopedia
 
 | Type | Forstok Availability | Note |
 | :--- | :--- | :--- |
-| **Payout amount** \(Global\) | Not available **** | API not available |
+| **Payout amount** \(Global\) | -  **** | API not available |
 | **Payout amount** \(Order level\) | **Coming Soon** | API available |
-| **Payout amount**  \(Item level\) | Not available | API not available |
-| **Commission Fee** \(Global\) | Not available | API not available |
+| **Payout amount**  \(Item level\) | -  | API not available |
+| **Commission Fee** \(Global\) | -  | API not available |
 | **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
-| **Commission Fee** \(Item Level\) | Not available | API not available |
-| **Availability** | **Delivered Order** | API not available |
+| **Commission Fee** \(Item Level\) | -  | API not available |
+| **Payout period** | **Delivered Order** | API not available |
 
 ## Lazada
 
@@ -48,7 +48,7 @@ description: Payout type and availability
 | **Commission Fee** \(Global\) | **Coming Soon** | API available |
 | **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
 | **Commission Fee** \(Item Level\) | **Coming Soon** | API available |
-| **Availability** | **Weekly settlement** | API not available |
+| **Payout period** | **Weekly**  | API not available |
 
 ## Blibli
 
@@ -56,11 +56,11 @@ description: Payout type and availability
 | :--- | :--- | :--- |
 | **Payout amount** \(Global\) | **Coming Soon**  | API available |
 | **Payout amount** \(Order level\) | **Coming Soon** | API available |
-| **Payout amount**  \(Item level\) | Not available | API not available |
+| **Payout amount**  \(Item level\) | -  | API not available |
 | **Commission Fee** \(Global\) | **Coming Soon** | API available |
 | **Commission Fee** \(Order Level\) | **Coming Soon** | API available |
-| **Commission Fee** \(Item Level\) | Not available | API not available |
-| **Tax** | **Coming Soon** | API available |
+| **Commission Fee** \(Item Level\) | -  | API not available |
+| **Payout period** | **Weekly** | API available |
 
 ## 
 
