@@ -20,13 +20,8 @@ description: Payout type and availability
 | :--- | :--- | :--- |
 | **Payout amount** \(Global\) | - **** | API not available |
 | **Payout amount** \(Order level\) | **Yes \(Coming Soon\)**  | API available |
-| **Payout Amount** \(Item level\) | - | API not available |
 | **Commission Fee** \(Global\) | -  | API not available |
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
-| **Commission Fee** \(Item Level\) | **-** | API not available |
-| **Payout/Settlement ID** \(Global\) | - | API not available |
-| **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
-| **Payout/Settlement ID** \(Item Level\) | - | API not available |
 | **Payout period**   | **When order is delivered** |  |
 
 ## Tokopedia
@@ -48,16 +43,13 @@ description: Payout type and availability
 
 | Type | Forstok Availability | Note |
 | :--- | :--- | :--- |
-| **Payout amount** \(Global\) | **Yes \(Coming Soon\)**  | API available |
-| **Payout amount** \(Order level\) | **Yes \(Coming Soon\)**  | API available |
-| **Payout Amount** \(Item level\) | **Yes \(Coming Soon\)**  | API available |
+| **Payout amount** \(Total orders\) | **Yes \(Coming Soon\)**  | API available |
+| **Payout amount** \(Per order\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Global\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Item Level\) | **Yes \(Coming Soon\)**  | API available |
-| **Commission Fee** \(Item Level\) | **Yes \(Coming Soon\)**  | API available |
 | **Payout/Settlement ID** \(Global\) | **Yes** | API available |
 | **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
-| **Payout/Settlement ID** \(Item Level\) | **Yes** |  |
 | **Payout period** | **Weekly**  | API not available |
 
 ## Blibli
@@ -66,13 +58,10 @@ description: Payout type and availability
 | :--- | :--- | :--- |
 | **Payout amount** \(Global\) | **Yes \(Coming Soon\)**   | API available |
 | **Payout amount** \(Order level\) | **Yes \(Coming Soon\)**  | API available |
-| **Payout Amount** \(Item level\) | - | API not available |
 | **Commission Fee** \(Global\) | **Yes \(Coming Soon\)**  | API available |
 | **Commission Fee** \(Order Level\) | **Yes \(Coming Soon\)**  | API available |
-| **Commission Fee** \(Item Level\) | - | API not available |
 | **Payout/Settlement ID** \(Global\) | **Yes** | API available |
 | **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
-| **Payout/Settlement ID** \(Item Level\) | **Yes** | API available |
 | **Payout period** | **Weekly** | API available |
 
 ## 
