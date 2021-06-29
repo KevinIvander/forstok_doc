@@ -7,7 +7,7 @@ description: Payout type and availability
 **Payout / Payment Received/ Pelunasan** adalah amount yang dibayarkan oleh marketplace ke seller terhadap satu atau multiple invoice yang sudah dibuat.    
 
 {% hint style="info" %}
-**Global**:  Showing amount from multiple sales order/ invoices / per statement
+**Global**:  Showing total amount from multiple sales order/ invoices / per statement
 
 **Order level:** Showing amount per sales order / invoice
 
@@ -27,7 +27,7 @@ description: Payout type and availability
 | **Payout/Settlement ID** \(Global\) | - | API not available |
 | **Payout/Settlement ID** \(Order Level\) | **Yes** | API available |
 | **Payout/Settlement ID** \(Item Level\) | - | API not available |
-| **Payout period**   | **Delivered Order** |  |
+| **Payout period**   | **When order is delivered** |  |
 
 ## Tokopedia
 
