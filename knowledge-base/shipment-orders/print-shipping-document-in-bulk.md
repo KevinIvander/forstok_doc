@@ -1,8 +1,10 @@
+---
+description: You can print shipping label with AWB
+---
+
 # Print Shipping Documents
 
 ## Video
-
-You can print Marketplace shipping documents
 
 ![](../../.gitbook/assets/new-download-shipping-label.gif)
 
