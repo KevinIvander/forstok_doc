@@ -1,10 +1,14 @@
 # Print Shipping Documents
 
-You can print Marketplace shipping documents in Forstok
+## Video
 
-![](../../.gitbook/assets/order-printdoc.gif)
+You can print Marketplace shipping documents
+
+![](../../.gitbook/assets/new-download-shipping-label.gif)
 
 1. View order page
-2. Select multiple orders from checkbox
-3. Select Print Shipping document
+2. Filter order with status ready to Ship
+3. Filter order by channel/store
+4. Print Shipping Label
+5. Check log activity to download shipping labe
 
