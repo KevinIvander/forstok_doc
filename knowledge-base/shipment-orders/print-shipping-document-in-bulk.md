@@ -32,5 +32,5 @@ Step by step
 
 ![](../../.gitbook/assets/image%20%28393%29.png)
 
-![](../../.gitbook/assets/image%20%28392%29.png)
+![](../../.gitbook/assets/image%20%28395%29.png)
 
