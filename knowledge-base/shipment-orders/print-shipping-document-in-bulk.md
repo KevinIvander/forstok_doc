@@ -8,7 +8,7 @@ description: You can print shipping label with AWB
 
 ![](../../.gitbook/assets/new-download-shipping-label.gif)
 
-Step by step
+**Step by step**
 
 1. View order page
 
