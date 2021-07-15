@@ -6,7 +6,7 @@ You can print all Marketplaces and e-commerce website shipping label in 1 format
 
 ![](../../.gitbook/assets/screen-shot-2021-06-14-at-11.37.11-am.png)
 
-### Download sample file here
+### Download sample files here
 
 {% file src="../../.gitbook/assets/forstok-custom-shipping-label-a6.pdf" caption="Forstok Custom Shipping Label \(A6\)" %}
 
