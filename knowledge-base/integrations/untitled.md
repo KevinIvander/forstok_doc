@@ -18,7 +18,7 @@ Pastikan terlebih dahulu  pada akun Forstok export item atau sync item sudah di 
 
 1 Shopee
 
-* Buka seller center Shopee
+* Log in ke seller center Shopee
 * Pilih Platform channel
 * Lalu klik pisahkan, konfirmasi
 
@@ -28,11 +28,33 @@ Maka integrasi API Shopee dengan Forstok sudah terputus.
 
 2. Zalora
 
-* Buka seller center Zalora
+* Log in seller center Zalora
 * Pilih settings --&gt; Integration Management
 * Hapus User ID dan API Key, lau excute
 
 Maka integrasi API Shopee dengan Forstok sudah terputus.
 
 ![](../../.gitbook/assets/image%20%28368%29.png)
+
+3. Blibli
+
+* Log in ke seller center Blibli
+* Pada sebelah kanan atas pilih seller API manager
+
+![](../../.gitbook/assets/image%20%28399%29.png)
+
+* Pada API seller Key klik revoke dan pada API client ID klik Unbid
+
+![](../../.gitbook/assets/image%20%28398%29.png)
+
+* Jika sudah kosong seua, maka Blilbli sudah tidak terhubung dengan Forstok.
+
+{% hint style="warning" %}
+Untuk marketplace:
+
+* Tokopedia --&gt; Harap hubungi tim Onboarding Forstok untuk dibantu dilakukan pemutusan akun Tokopedia anda dari dev console Tokopedia
+* Lazada, Bukalapak, JD.ID tidak perlu ada action lagi untuk pemutusan. Saat sudah di sync off sudah otomatis tidak terhubung lagi
+{% endhint %}
+
+
 
