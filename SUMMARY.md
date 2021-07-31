@@ -51,7 +51,7 @@
   * [Reconnect Blibli](knowledge-base/integrations/reconnect-blibli.md)
   * [Reconnect Bukalapak](knowledge-base/integrations/reconnect-bukalapak.md)
   * [Reconnect Lazada](knowledge-base/integrations/reconnect-lazada.md)
-  * [Disconnect Channel](knowledge-base/integrations/untitled.md)
+  * [Disconnect Channel](knowledge-base/integrations/disconnect.md)
 * [Dashboard](knowledge-base/dashboard/README.md)
   * [Dashboard](knowledge-base/dashboard/introduction-to-dashboard.md)
 * [Produk \(Items\)](knowledge-base/items/README.md)
