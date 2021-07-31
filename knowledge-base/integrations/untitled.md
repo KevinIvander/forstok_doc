@@ -47,13 +47,15 @@ Maka integrasi API Shopee dengan Forstok sudah terputus.
 
 ![](../../.gitbook/assets/image%20%28398%29.png)
 
-* Jika sudah kosong seua, maka Blilbli sudah tidak terhubung dengan Forstok.
+* Jika sudah kosong semua, maka Blibli sudah tidak terhubung lagi dengan Forstok.
 
 {% hint style="warning" %}
 Untuk marketplace:
 
 * Tokopedia --&gt; Harap hubungi tim Onboarding Forstok untuk dibantu dilakukan pemutusan akun Tokopedia anda dari dev console Tokopedia
 * Lazada, Bukalapak, JD.ID tidak perlu ada action lagi untuk pemutusan. Saat sudah di sync off sudah otomatis tidak terhubung lagi
+
+Setelah semua disconnect selesai dilakukan harap hubungi tim Forstok kembali untuk dilakukan penghapusan data.
 {% endhint %}
 
 
