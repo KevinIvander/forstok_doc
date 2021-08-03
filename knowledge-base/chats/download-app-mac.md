@@ -1,4 +1,4 @@
-# Download App
+# Download App \(Mac\)
 
 ## Cara Mendownload Forstok Chat \(Step-by-step\)
 
@@ -6,13 +6,17 @@ Aggregate marketplace chats in one Dashboard.
 
 Available chat: Whatsapp, Messenger, Tokopedia, Shopee, JD, Blibli, Lazada, Bukalapak, Shopify
 
-#### 1. Download windows or Mac app and Install App
+### 1. Download  Mac app 
 
 Mac: [https://forstokchat.s3-ap-southeast-1.amazonaws.com/Mac/Forstok+Chat-1.0.0.dmg](https://forstokchat.s3-ap-southeast-1.amazonaws.com/Mac/Forstok+Chat-1.0.0.dmg)
 
-Windows: [https://forstokchat.s3-ap-southeast-1.amazonaws.com/Win/Forstok+Chat+Setup+1.0.0.exe](https://forstokchat.s3-ap-southeast-1.amazonaws.com/Win/Forstok+Chat+Setup+1.0.0.exe)
+### **2. Install App**
 
-**2. Login using Forstok account** 
+![1. Copy file to Applications folder](../../.gitbook/assets/screen-shot-2021-08-03-at-2.16.10-pm.png)
+
+![2. Go to System Preferences / Security &amp; Privacy. Click Open Anyway](../../.gitbook/assets/screen-shot-2021-08-03-at-2.12.56-pm.png)
+
+**3. Login using Forstok account** 
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
