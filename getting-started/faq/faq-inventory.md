@@ -1,6 +1,6 @@
 # FAQ - Inventory
 
-## Apa arti nya Qty on hand, Qty Reserved, Qty Available?
+## Apa bedanya Qty on hand, Qty Reserved, Qty Available?
 
 ![](../../.gitbook/assets/qty-type-in-forstok.png)
 
