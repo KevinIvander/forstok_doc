@@ -30,3 +30,5 @@ Tapi ****jika anda mengunakan inventory system seperti Forstok, anda hanya perlu
 
 ![Template update stock using Qty Changed](../../.gitbook/assets/qty-update-delta.png)
 
+{% file src="../../.gitbook/assets/sample-template-update-stock-forstok.xlsx" caption="Sample Template update stock Forstok" %}
+
