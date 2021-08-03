@@ -7,7 +7,7 @@
 * [What's New](getting-started/whats-new.md)
 * [FAQ](getting-started/faq/README.md)
   * [FAQ - Onboarding](getting-started/faq/faq-onboarding.md)
-  * [FAQ - Items](getting-started/faq/faq-items.md)
+  * [FAQ - Inventory](getting-started/faq/faq-inventory.md)
   * [FAQ - Orders](getting-started/faq/faq-orders-1.md)
 * [Forstok API Doc](getting-started/api-integration.md)
 * [Batasan \(Limitations\)](getting-started/limitations.md)
