@@ -8,9 +8,9 @@
 
 Qty on Hand - Reserved Qty = Available Qty
 
-* **Qty on Hand**: Jumlah item fisik di gudang
+* **Qty on Hand**: Jumlah item fisik di gudang yang siap dijual. \(Tidak termasuk stok yang rusak\)
 * **Qty Reserved:** Jumlah item ditahan yang belum diproses untuk suatu order. Status Pending payment \(belum dibayar\) atau open \(perlu di proses\).
-* **Qty Available:** Jumlah sisa item yang bisa dibeli.
+* **Qty Available:** Jumlah sisa item yang bisa dibeli. \(Dihitung oleh sistem secara otomatis\) 
 
 {% hint style="danger" %}
 Jika system anda hanya mempunyai satu tipe stok seperti di Shopify, Tokopedia, Shopee, POS system, Qty tersebut adalah **Qty available**. 
