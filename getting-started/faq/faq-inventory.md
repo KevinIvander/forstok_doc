@@ -15,9 +15,9 @@ Qty on Hand - Reserved Qty = Available Qty
 {% hint style="danger" %}
 Jika system anda hanya mempunyai satu tipe stok seperti di Shopify, Tokopedia, Shopee, POS system, Qty tersebut adalah **Qty available**. 
 
-**Scenario:** Qty fisik digudang = **10**. Terjadi order qty **2 tetapi belum di proses**, secara system qty langsung berkurang jadi **8.** Apabila anda melakukan stock opnam digudang, secara qty fisik masih = **10.** Jika anda update stock menjadi **10** dan order yang belum di proces tadi dibatalkan oleh customer karena tidak jadi bayar atau berubah pikiran, maka **Order Qty 2** akan di balikan ke system secara otomatis. Qty baru anda menjadi **12** sedangkan qty fisik digudang = **10.**
+**Scenario:** Qty fisik digudang = **10**. Terjadi order **Qty 2 tetapi belum di proses**, secara system qty langsung berkurang **Qty 8.** Apabila anda melakukan stock opnam digudang, secara Qty fisik digudang masih = **10.** Jika anda update stock menjadi  **Qty** **10** dan order yang belum di proces tadi dibatalkan oleh customer karena tidak jadi bayar atau berubah pikiran, maka **Order Qty 2** akan di balikan ke system secara otomatis. Qty baru anda menjadi **12** sedangkan qty fisik digudang = **10.**
 
-Tapi ****jika anda mengunakan inventory system seperti Forstok, anda hanya perlu **update ke Qty on Hand sesuai jumlah item fisik digudang.** 
+Tapi ****jika anda mengunakan inventory system seperti Forstok, anda hanya perlu **update ke Qty on Hand sesuai jumlah item fisik digudang. Jadi Qty on Hand = 10, Qty reserved 2, Qty available 8. Jika order dibatalkan, Qty on hand 10, Qt reserved 0, Qty available 8.** Scenario diatas tidak akan terjadi. 
 {% endhint %}
 
 
