@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [What's New](getting-started/whats-new.md)
-* [FAQ](getting-started/faq/README.md)
+* [Knowledge](getting-started/faq/README.md)
   * [FAQ - Onboarding](getting-started/faq/faq-onboarding.md)
   * [FAQ - Inventory](getting-started/faq/faq-inventory.md)
   * [FAQ - Orders](getting-started/faq/faq-orders-1.md)
