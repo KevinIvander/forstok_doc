@@ -12,3 +12,13 @@ Qty on Hand - Reserved Qty = Available Qty
 * **Qty Reserved:** Jumlah item ditahan yang belum diproses untuk suatu order
 * **Qty Available:** Jumlah sisa item yang bisa dibeli.
 
+{% hint style="danger" %}
+Jika system anda hanya mempunyai satu tipe stok, seperti di Shopify, Tokopedia, Shopee, itu adalah **Qty available**. 
+{% endhint %}
+
+### **Cara quantity**  
+
+
+
+
+
