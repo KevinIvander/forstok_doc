@@ -20,7 +20,11 @@ Jika system anda hanya mempunyai satu tipe stok seperti di Shopify, Tokopedia, S
 Tapi ****jika anda mengunakan inventory system seperti Forstok, anda hanya perlu **update ke Qty on Hand sesuai jumlah item fisik digudang. Jadi Qty on Hand = 10, Qty reserved 2, Qty available 8. Jika order dibatalkan, Qty on hand 10, Qt reserved 0, Qty available 8.** Scenario diatas tidak akan terjadi. 
 {% endhint %}
 
+## Template Update stock di Forstok
 
+![](../../.gitbook/assets/screen-shot-2021-08-03-at-10.36.26-am.png)
+
+Contoh file
 
 
 
