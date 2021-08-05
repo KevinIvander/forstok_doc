@@ -55,6 +55,14 @@ Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Sho
 **URL:** [**https://order.forstok.com/channels/shopify**  
 ](https://orders.forstok.com/channels)**Webhook API version: pilih yang Latest**
 
+Order/create   
+****orders/cancelled   
+orders/create   
+orders/fulfilled   
+orders/paid   
+orders/partially\_fulfilled   
+orders/updated
+
 ![](../../.gitbook/assets/image%20%28400%29.png)
 
 \*\*\*\*
