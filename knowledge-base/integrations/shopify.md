@@ -39,9 +39,7 @@ Untuk integrasi Shopify ada 2 point:
 
 ## Mendaftarkan webhook
 
-
-
-Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Shopify
+Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Shopify. _Webhook_ atau yang biasa disebut _callback_ adalah cara bagi suatu aplikasi untuk menyediakan aplikasi lain dengan informasi _real-time_. Jika sudah mendaftarkan webhook ini, maka jika terjadi order baru atau order update dari Shopify system akan dikirim ke Forstok application secara real-time.
 
 1. Log ke Shopify,  pilih **Settings** pada menu di sebelah kiri → lalu klik **Notifications**
 
