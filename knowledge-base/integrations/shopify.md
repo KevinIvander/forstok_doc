@@ -58,7 +58,8 @@ Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Sho
 Order/creation  
 orders/fulfillment   
 orders/payment   
-orders/update order/cancellation
+orders/update   
+order/cancellation
 
 ![](../../.gitbook/assets/image%20%28400%29.png)
 
