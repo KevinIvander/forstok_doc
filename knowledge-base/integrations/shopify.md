@@ -52,12 +52,10 @@ Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Sho
 ![](https://lh5.googleusercontent.com/EzAl2S-BqUVGxI3Nx0pqu5sGSS6Bnef5gshDxLYejq5YNKYljFBABsd5X4E12g5K6A7JdC2ZtIpJ4vBYsxfh57Gmta7eimJH3XGTmANpPM9-nkPT8lhtxnDXx6bVFaK72DdE-1j0)
 
 3. Pada Add a webhook input:  
-**URL:** [**https://orders.forstok.com/channels**  
-](https://orders.forstok.com/channels)**Webhook API version: 2020-04 \(Latest\)**
+**URL:** [**https://order.forstok.com/channels/shopify**  
+](https://orders.forstok.com/channels)**Webhook API version: pilih yang Latest**
 
-
-
-![](https://lh3.googleusercontent.com/8D4gbYGWQZclUiyZftrWRqs0SzxleXdURTx4WmkXpvXu6QWHZI6KaI2Ele1Cb3Sb85DeOaoOGs376FtnTDjA1whnKBYreHAteB-3SSXqha8ysc8kXICo15aULEKQeFDzg_voy3dL)
+![](../../.gitbook/assets/image%20%28400%29.png)
 
 \*\*\*\*
 
