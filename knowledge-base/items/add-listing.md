@@ -24,7 +24,7 @@ Kenapa sync export perlu ON sebelum listing?
 --&gt; Supaya item yang di listing, update stock, edit, update harga yang di lakukan dari Forstok bisa terupdate atau mirroring ke marketplace.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28402%29.png)
+![](../../.gitbook/assets/image%20%28404%29.png)
 
 2. Master item sudah di upload atau item yang akan di listingkan sudah ada di Forstok hasil import item channel sebelumnya.
 
