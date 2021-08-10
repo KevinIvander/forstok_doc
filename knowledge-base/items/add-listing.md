@@ -16,7 +16,7 @@ Video Panduan: [https://www.loom.com/share/5d4fe85b8a5947a9834d817c9fe735f9](htt
 
 Panduan mengaktifkan export item
 
-
+{% page-ref page="../integrations/mengaktifkan-export-item.md" %}
 
 {% hint style="warning" %}
 Kenapa sync export perlu ON sebelum listing?
