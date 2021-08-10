@@ -14,7 +14,7 @@ Pastikan terlebih dahulu  pada akun Forstok export item atau sync item sudah di 
 * Plilih settings
 * Pada sync item anda geser jadi disablle /Off
 
-![](../../.gitbook/assets/image%20%28369%29.png)
+![](../../../.gitbook/assets/image%20%28369%29.png)
 
 1 Shopee
 
@@ -24,7 +24,7 @@ Pastikan terlebih dahulu  pada akun Forstok export item atau sync item sudah di 
 
 Maka integrasi API Shopee dengan Forstok sudah terputus.
 
-![](../../.gitbook/assets/image%20%28367%29.png)
+![](../../../.gitbook/assets/image%20%28367%29.png)
 
 2. Zalora
 
@@ -34,18 +34,18 @@ Maka integrasi API Shopee dengan Forstok sudah terputus.
 
 Maka integrasi API Shopee dengan Forstok sudah terputus.
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](../../../.gitbook/assets/image%20%28368%29.png)
 
 3. Blibli
 
 * Log in ke seller center Blibli
 * Pada sebelah kanan atas pilih seller API manager
 
-![](../../.gitbook/assets/image%20%28399%29.png)
+![](../../../.gitbook/assets/image%20%28399%29.png)
 
 * Pada API seller Key klik revoke dan pada API client ID klik Unbid
 
-![](../../.gitbook/assets/image%20%28398%29.png)
+![](../../../.gitbook/assets/image%20%28398%29.png)
 
 * Jika sudah kosong semua, maka Blibli sudah tidak terhubung lagi dengan Forstok.
 
