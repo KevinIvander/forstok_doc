@@ -12,5 +12,9 @@ Sebelum integrasi ke JD.ID pastikan toko Anda sudah **Qualified Seller.** Karena
 ****Untuk mendaftar menjadi Qualified Seller bisa dilihat di link berikut:  
 ****[https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat\_194.html](https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat_194.html)  
   
-****Setelah Toko Anda sudah terdaftar sebagai Qualified Seller, untuk JD.ID ini Anda harus request API Key terlebih dahulu langsung dari web yang diberikan tim JD.ID. Langkah awal untuk mendapatkan  API JD.ID:
+****
+
+{% hint style="info" %}
+Untuk JD.ID dibantu tim Forstok untuk integrasikan. Mohon untuk email tim Onboarding kami di onboarding@forstok.com untuk mendapatkan informasi lebih lanjut mengenai integrasi JD.ID
+{% endhint %}
 
