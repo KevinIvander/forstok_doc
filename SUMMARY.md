@@ -56,7 +56,6 @@
 * [Dashboard](knowledge-base/dashboard/README.md)
   * [Dashboard](knowledge-base/dashboard/introduction-to-dashboard.md)
 * [Produk \(Items\)](knowledge-base/items/README.md)
-  * [Mengaktifkan Export Item](knowledge-base/items/mengaktifkan-export-item.md)
   * [Item Overview](knowledge-base/items/item-overview.md)
   * [Add Items \(Create New Items\)](knowledge-base/items/add-items.md)
   * [Impor produk dari channel](knowledge-base/items/import-product-from-channels.md)
