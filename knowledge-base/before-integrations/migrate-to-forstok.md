@@ -22,9 +22,9 @@ Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua
 
 **B. Bulk Update Qty**
 
-1. Pada menu Item Forstok pilih tanda panah berikut dan klik Upload Stock Adjustment \(Beta\)
+1. Pada menu Item Forstok pilih tanda panah berikut dan klik Upload Stock Adjustment 
 
-![](../../.gitbook/assets/image%20%28304%29.png)
+![](../../.gitbook/assets/image%20%28408%29.png)
 
 2. Download template Update Quanity \(csv\). File bisa di download pada menu notification Forstok yang ada pada kanan atas \(simbol lonceng\).
 
@@ -46,4 +46,8 @@ Jangan lupa unprotect file. Password: forstok123
 5. Untuk melihat hasil update qty tsb klik icon Notifications. Hasilnya bisa dilihat dari activity tsb. Untuk melihat activity lebih lengkap bisa klik More Activity
 
 ![](../../.gitbook/assets/image%20%288%29.png)
+
+6. Untuk memastikan kembali stock sudah berhasil terupdate pilih salah satu sku lalu cek di seller center atau dari link produk
+
+![](../../.gitbook/assets/image%20%28407%29.png)
 
