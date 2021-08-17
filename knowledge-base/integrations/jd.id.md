@@ -52,18 +52,15 @@ Video panduan: [https://www.loom.com/share/5440127537684caa9b37aaeb34f9df0e](htt
 
 ![](https://lh5.googleusercontent.com/M7uaep58Wdz8r2X9DPuqImMxLN0lXsdgEmLc0_2_q_Nq1MyPM_mJQAayQCzIMNaf_rXE7FjIIAn_OFBaX5drccKWNT-1Pf-OsyCdHY4g-W0TB8JcFnHsC8LsOCngXnzprARG0ND2)
 
-7. Create App pada App Name input Nama Toko Anda di JD.ID  
+7. Create App pada App Name input Nama Toko Anda di JD.ID
 
+![](../../.gitbook/assets/image%20%28409%29.png)
 
-![](https://lh6.googleusercontent.com/LXf3WNLSsDiKcMMI8C9GtFnWG19B5zmXx5EoKv36ASxn65kKLuyPaXyG9RpFG1-pHIULSpL0NMX2yJw5jXZrStnmbRe9QHs7HnPu005WlhZNqTkYlzKE_hV70kDwTIqbvJdlQJ_e)
-
-8. Pilih publidh App  
-
+8. Pilih publish App
 
 ![](https://lh5.googleusercontent.com/fqLjdYHqZmeYdB7-sKbcTQuHO9as1wGY_7LRvPLkydR-U57oVkYu6PJeRHfNUkXQGb8cIXlm7MtI6agDNJLCTq_w7Xa_0UZo3n1drCv_kBq1x0lLiVQFx60q6hV9JOtKzvHmcO1P)
 
-9. Pilih confirm  
-
+9. Pilih confirm
 
 ![](https://lh3.googleusercontent.com/H16CBg3i1OQ53Zpd9J7Ux74WbdO-YK5qCFKBXk5W5_INAMtygitVPQ47Jn2O0xP_D1M3SuvQJJVG0NVA8Y2ntDswYLRy4iZ5JZKiG5tq0ZyJ_8T1fagGs1vUThefZzAqOJ9Eiqs-)
 
