@@ -54,7 +54,7 @@ Video panduan: [https://www.loom.com/share/5440127537684caa9b37aaeb34f9df0e](htt
 
 7. Create App pada App Name input Nama Toko Anda di JD.ID
 
-![](../../.gitbook/assets/image%20%28409%29.png)
+![](../../.gitbook/assets/image%20%28410%29.png)
 
 8. Pilih publish App
 
@@ -80,9 +80,9 @@ Input URL Callback, lau save:
 12. Masukin ke akun Forstok Anda, kita mulai integrasikan API JD.ID ke Forstok.  
 Pilih integration pada kanan atas, lalu pilih Add Integration. Lalu pilih JD.ID
 
-![](https://lh4.googleusercontent.com/GPCUXoSZlSIra-74TXA8_eIjVcsVEgTas93U_txqSAt0du89Pjva4PRk9YXKX3WuYHnvwKFs6TOO0xXKzDKpMbA99Rr6RW0g8aDMNR_Ce_72gVxOmjK512CAd0N_dc2DqLoDm0oI)
-
 ![](https://lh3.googleusercontent.com/eU0sSGleiF7yTRexdL6G9iU61iVoi874rOHvxivBIHIx432gwjsLKI2uFf5g_GAiHADEhAyq9Cw3HIes2WJu1YoMzADr9d-WAqRWZxX5NnYwhH3ySN3eyL9rw0xdIgW0zDTNMNM1)
+
+![](../../.gitbook/assets/image%20%28409%29.png)
 
 13. Input Shop ID, API Key, API Secret yang di dapat dari dev console JD.ID tadi.  
 ****
