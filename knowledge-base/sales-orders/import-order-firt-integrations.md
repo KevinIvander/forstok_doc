@@ -10,9 +10,9 @@ Berikut list Import Order First Connect to Forstok :
 | Zalora | Setelah 30 hari yang lalu |
 | Tokopedia | Setelah 2 hari yang lalu |
 | Blibli | Setelah 30 hari yang lalu |
-| Lazada | Setelah 4 jam yang lalu |
-| JD.ID | Setelah 14 hari |
-| Shopee | Setelah 2 jam yang lalu |
+| Lazada | Setelah 5 hari yang lalu |
+| JD.ID | Setelah 9 hari yang lalu |
+| Shopee | Setelah 9 hari yang lalu |
 | Elevenia | Setelah 30 hari yang lalu |
 | Woocommerce | Setelah 14 hari  |
 | Shopify | Setelah 30 hari yang lalu |
