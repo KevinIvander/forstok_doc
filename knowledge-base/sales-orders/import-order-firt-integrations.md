@@ -1,6 +1,6 @@
 # Import Order First Integrations
 
-Saat pertama kita memulai integrasi marketplace ke Forstok, marketplace mempunyai limitasi saat list order yang bisa masuk melalui API. Jadi bukan pertama ada order di marketplace itu juga masuk ke Forstok.  
+Saat pertama kita memulai integrasi marketplace ke Forstok, marketplace mempunyai limitasi saat list order yang bisa masuk melalui API.   
 Misal mulai integrasi marketplace tanggal 5 Januari 2020, karena kentuan polling order yang masuk melalui API untuk pertama integrasi **2 hari yang lalu** maka orderan yg di tarik hanya dari tgl 3 Januari 2020. Karena limitasi API polling order yang disediakan oleh marketplace.
 
 Berikut list Import Order First Connect to Forstok : 
