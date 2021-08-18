@@ -5,7 +5,7 @@ Misal mulai pertama integrasi marketplace Tokopedia tanggal 5 Januari 2020, kare
 
 Berikut list Import Order First Connect to Forstok : 
 
-| Channel | Time limitation \(Poling order created\) |
+| **Channel** | **Time limitation \(Poling order created\)** |
 | :--- | :--- |
 | Zalora | Setelah 30 hari yang lalu |
 | Tokopedia | Setelah 2 hari yang lalu |
