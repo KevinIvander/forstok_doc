@@ -30,13 +30,44 @@ Contoh Faktur Penjualan dari orderan Marketplace:
 
 
 
-Status orderan yang akan masuke ke Jurnal
+**Status orderan yang akan masuk ke Jurnal**
 
-| **Forstok** | Jurnal |
-| :--- | :--- |
-| Open | Open |
-| Printed | Open |
-| Ready to Ship | Paid |
-| Shipped | Paid |
-| Delivered | Paid |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Forstok</b>
+      </th>
+      <th style="text-align:left">Jurnal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Pending Payment</td>
+      <td style="text-align:left">
+        <p>Tidak masuk ke Jurnal. Karena</p>
+        <p>buyer pasti sudah bayar atau tidak</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Open</td>
+      <td style="text-align:left">Open</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Printed</td>
+      <td style="text-align:left">Open</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ready to Ship</td>
+      <td style="text-align:left">Paid</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Shipped</td>
+      <td style="text-align:left">Paid</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Delivered</td>
+      <td style="text-align:left">Paid</td>
+    </tr>
+  </tbody>
+</table>
 
