@@ -28,5 +28,15 @@ Contoh Faktur Penjualan dari orderan Marketplace:
 
 ![](https://lh5.googleusercontent.com/xPzN1XXoK649YLGTyungNBa3LDkMMosU73XJ8QhNOjfhWnuduEy2YT3cY9LHxkKT1HTbVljqUT93-lBAtjnxYiufdasRV3yNTBXpj6IczEbhXLqnAzvTLqhNVv7C0FtXjE8mayAaO3k)
 
-![](https://lh4.googleusercontent.com/pk4gBJhuopWW4t2qpN7pMtF_B2Dlbkff1I1E94frmSpknZ8HoRNoEwF-eSvwGu3UOT9ZS7R9UQcYhvOXlh-Y05lkI2RiL5TxpgtROfTqtdnI_ha6uKWmdwkxQWeM7lHlv6MHi3gdvXU)
+
+
+Status orderan yang akan masuke ke Jurnal
+
+| **Forstok** | Jurnal |
+| :--- | :--- |
+| Open | Open |
+| Printed | Open |
+| Ready to Ship | Paid |
+| Shipped | Paid |
+| Delivered | Paid |
 
