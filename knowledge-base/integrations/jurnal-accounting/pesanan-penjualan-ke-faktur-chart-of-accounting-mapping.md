@@ -40,4 +40,5 @@ Contoh Faktur Penjualan dari orderan Marketplace:
 | Ready to Ship | Paid |
 | Shipped | Paid |
 | Delivered | Paid |
+| Cancelled | Cancelled |
 
