@@ -37,8 +37,8 @@ Contoh Faktur Penjualan dari orderan Marketplace:
 | Pending Payment | Tidak masuk ke Jurnal. Karena buyer  belum pasti sudah bayar atau tidak |
 | Open | Open |
 | Printed | Open |
-| Ready to Ship | Paid |
-| Shipped | Paid |
+| Ready to Ship | Open |
+| Shipped | Open |
 | Delivered | Paid |
 | Cancelled | Cancelled |
 
