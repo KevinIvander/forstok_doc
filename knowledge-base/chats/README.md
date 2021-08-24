@@ -7,7 +7,10 @@ description: >-
 # Forstok Chat
 
 {% hint style="info" %}
-Download Forstok Chat:  
+Download Forstok Chat \(Mac\):  
+[https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
+
+Download Forstok Chat Windows:  
 [https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
 {% endhint %}
 
