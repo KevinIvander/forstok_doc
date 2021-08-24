@@ -16,7 +16,7 @@ Pastikan terlebih dahulu  pada akun Forstok export item atau sync item sudah di 
 
 ![](../../.gitbook/assets/image%20%28369%29.png)
 
-1 Shopee
+**1 .Shopee**
 
 * Log in ke seller center Shopee
 * Pilih Platform channel
@@ -26,7 +26,7 @@ Maka integrasi API Shopee dengan Forstok sudah terputus.
 
 ![](../../.gitbook/assets/image%20%28367%29.png)
 
-2. Zalora
+**2. Zalora**
 
 * Log in seller center Zalora
 * Pilih settings --&gt; Integration Management
@@ -36,7 +36,7 @@ Maka integrasi API Shopee dengan Forstok sudah terputus.
 
 ![](../../.gitbook/assets/image%20%28368%29.png)
 
-3. Blibli
+**3. Blibli**
 
 * Log in ke seller center Blibli
 * Pada sebelah kanan atas pilih seller API manager
