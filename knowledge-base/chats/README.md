@@ -8,10 +8,10 @@ description: >-
 
 {% hint style="info" %}
 Download Forstok Chat \(Mac\):  
-[https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
+[https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app-mac)
 
 Download Forstok Chat Windows:  
-[https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
+[https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app-windows)
 {% endhint %}
 
 
