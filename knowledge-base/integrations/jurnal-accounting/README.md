@@ -6,9 +6,9 @@ Ada 3  panduan fitur untuk menggunakan Jurnal di Forstok:
 
 1. Produk Import \(Jurnal ke Forstok\)
 2. Sinkronisasi stok \(Jurnal ke Forstok\)
-3. Pesanan penjualan ke Faktur \(Chart of Accounting Mapping\)
+3. Forstok Sales order ke Jurnal Invoice \(Chart of Accounting Mapping\)
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/screen-shot-2021-08-27-at-10.50.08-am.png)
 
-## 
+
 
