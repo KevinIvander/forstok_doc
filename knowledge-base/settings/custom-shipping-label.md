@@ -4,9 +4,9 @@ Please contact Forstok support to enable this feature.
 
 You can print all Marketplaces and e-commerce website shipping label in 1 format. This format is ideal for Thermal printer 10x15cm. 
 
-![Shipping Label](../../.gitbook/assets/screen-shot-2021-06-14-at-11.37.11-am.png)
+![Shipping Label A6](../../.gitbook/assets/screen-shot-2021-06-14-at-11.37.11-am.png)
 
-![](../../.gitbook/assets/forstok-print-label.gif)
+![Forstok Print Shipping Label A6](../../.gitbook/assets/forstok-print-label.gif)
 
 ## Shipping Label: paper size A6 \(Thermal Printer 10x15cm\)
 
