@@ -145,3 +145,19 @@ Zalora hanya bisa edit Kode SKU per item belum bisa menggunakan excel secara mas
 
 ![](../../.gitbook/assets/image%20%2889%29.png)
 
+**6. Woocommerce**
+
+Log in terlebih dahulu ke seller center Woocommerce 
+
+* Pada menu produk - Pilih semua produk
+
+![](../../.gitbook/assets/image%20%28411%29.png)
+
+* Lalu pilih edit cepat
+
+![](../../.gitbook/assets/image%20%28413%29.png)
+
+* Input kode sku pada kolom SKU - lalu perbarui 
+
+![](../../.gitbook/assets/image%20%28412%29.png)
+
