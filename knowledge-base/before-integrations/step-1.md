@@ -1,3 +1,7 @@
+---
+description: Optional.
+---
+
 # Step 1: Pencocokan Kode SKU
 
 **Apa itu Kode SKU?**
