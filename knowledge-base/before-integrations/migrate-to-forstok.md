@@ -1,4 +1,4 @@
-# Step 4: Bermigrasi ke Forstok
+# Step 4: Sync Stok
 
 Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua marketplace. Ini point utama seller menggunakan fitur Forstok. Dimana seller sudah berkomitmen menggunakan Forstok untuk mengelola stock dan proses operational online.
 

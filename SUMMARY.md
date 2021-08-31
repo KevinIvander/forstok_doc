@@ -20,7 +20,7 @@
   * [Step 1: Pencocokan Kode SKU](knowledge-base/before-integrations/step-1.md)
   * [Step 2: Integration marketplace dan import produk](knowledge-base/before-integrations/integrasi-marketplace.md)
   * [Step 3: Linking Produk](knowledge-base/before-integrations/3.-linking-produk.md)
-  * [Step 4: Bermigrasi ke Forstok](knowledge-base/before-integrations/migrate-to-forstok.md)
+  * [Step 4: Sync Stok](knowledge-base/before-integrations/migrate-to-forstok.md)
   * [Cara Log In Forstok](knowledge-base/before-integrations/cara-log-in-forstok.md)
   * [Cara Penginputan Kode SKU di Marketplace](knowledge-base/before-integrations/cara-penginputan-kode-sku-di-marketplace.md)
   * [Cara Akses Forstok di mobile phone atau tab](knowledge-base/before-integrations/cara-akses-forstok-di-mobile-phone-atau-tab.md)
