@@ -12,6 +12,12 @@ SKU adalah kombinasi huruf atau angka yang dapat menjadi kode unik untuk identif
 
 Kode SKU penting dan bermanfaat sebagai referensi umum untuk melacak inventaris di setiap bagian bisnis Anda.
 
+{% hint style="danger" %}
+Jika kode SKU belum rapi maka akan ada resiko yang terjadi. Yaitu saat import produk ke Forstok akan terbaca sku yang berbeda walaupun masih item yang sama. Jadi stock tidak akan match dan terjadi duplicate SKU.
+{% endhint %}
+
+
+
 **Praktik Terbaik untuk kode SKU**
 
 1. Jadikan mereka unik - Buat kode SKU unik untuk setiap item inventaris yang Anda jual dan jangan pernah menggunakan kembali kode SKU untuk item yang tidak Anda jual lagi
