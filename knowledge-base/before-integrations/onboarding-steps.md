@@ -5,18 +5,6 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 * [x] Sudah membuka toko di Marketplace
 * [x] Pastikan kode SKU sudah sama di tiap marketplace dan sudah di input semua
 
-**Timeline Onboarding Forstok**
-
-![](../../.gitbook/assets/image%20%28130%29.png)
-
-![](../../.gitbook/assets/image%20%28377%29.png)
-
-![](../../.gitbook/assets/image%20%28376%29.png)
-
-![](../../.gitbook/assets/image%20%28380%29.png)
-
-![](../../.gitbook/assets/image%20%28384%29.png)
-
 **Untuk memulai penggunaan Forstok ada 4 step:**
 
 **Step 1:** [**Pencocokan Kode SKU semua marketplace**](step-1.md)\*\*\*\*
@@ -26,4 +14,16 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 **Step 3:** [**Linking produk**](3.-linking-produk.md)\*\*\*\*
 
 **Step 4:** [**Sync Stok**](migrate-to-forstok.md)\*\*\*\*
+
+\*\*\*\*
+
+## Basic Knowledge about SKU
+
+![](../../.gitbook/assets/image%20%28376%29.png)
+
+![](../../.gitbook/assets/image%20%28380%29.png)
+
+![](../../.gitbook/assets/image%20%28384%29.png)
+
+\*\*\*\*
 
