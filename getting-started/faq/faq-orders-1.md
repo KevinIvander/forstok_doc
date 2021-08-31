@@ -1,7 +1,5 @@
 # FAQ - Orders
 
-
-
 ## Kenapa bisa terjadi Oversell?
 
 Beberapa faktor yang menyebabkan oversell:
