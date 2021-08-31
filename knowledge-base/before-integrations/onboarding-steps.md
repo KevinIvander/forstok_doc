@@ -25,5 +25,5 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 
 **Step 3:** [**Linking produk**](3.-linking-produk.md)\*\*\*\*
 
-**Step 4:** [**Bermigrasi ke Forstok**](migrate-to-forstok.md)\*\*\*\*
+**Step 4:** [**Sync Stok**](migrate-to-forstok.md)\*\*\*\*
 
