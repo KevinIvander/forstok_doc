@@ -26,7 +26,7 @@ Berikut merupakan detail penjelasan untuk masing masing section :
 
 ![](../../.gitbook/assets/image%20%28124%29.png)
 
-* SKU code is not matched: berkemungkinan ada 2 kondisi. 1. Item tsb Kode sku yang beda di tiap marketplace atau di jual di satu marketplace saja action: Langsung confirm 2. Item tsb yang sama dijual di beberapa marketplace tapi salah penginputan kode sku. action: Perlu di perbaiki di seller center marketplace.
+* SKU code is not matched: berkemungkinan ada 2 kondisi. 1. Item tsb Kode sku yang beda di tiap marketplace atau di jual di satu marketplace saja action: Langsung confirm 2. Item tsb yang sama dijual di beberapa marketplace tapi salah penginputan kode sku. action: Perlu di perbaiki di seller center marketplace. Lalu hapus sku yang lama di Forstok lalu di sync atau import ulang ke Forstok \(Tujuan untuk mereplace sku yang sudah di perbaiki tadi\)
 * SKU Code is matched: Adalah kode SKU sudah linking dengan marketplace lain atau sudah sama. action: Langsung confirm
 * SKU code is empty: Adalah kode SKU masih kosong atau belum di isi dari seller center. action: Kode sku di isi dari marketplace.
 * SKU code is duplicate: Adalah  kode SKU duplicate atau sama di seller center. action: Perlu di perbaiki di seller center marketplace
