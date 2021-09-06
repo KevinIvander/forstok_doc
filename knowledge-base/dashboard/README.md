@@ -29,7 +29,11 @@ Berikut merupakan detail penjelasan untuk masing masing section :
 * SKU code is not matched: berkemungkinan ada 2 kondisi. 1. Item tsb Kode sku yang beda di tiap marketplace atau di jual di satu marketplace saja action: Langsung confirm 2. Item tsb yang sama dijual di beberapa marketplace tapi salah penginputan kode sku. action: Perlu di perbaiki di seller center marketplace. Lalu hapus sku yang lama di Forstok lalu di sync atau import ulang ke Forstok \(Tujuan untuk mereplace sku yang sudah di perbaiki tadi\)
 * SKU Code is matched: Adalah kode SKU sudah linking dengan marketplace lain atau sudah sama. action: Langsung confirm
 * SKU code is empty: Adalah kode SKU masih kosong atau belum di isi dari seller center. action: Kode sku di isi dari marketplace.
-* SKU code is duplicate: Adalah  kode SKU duplicate atau sama di seller center. action: Perlu di perbaiki di seller center marketplace
+* SKU code is duplicate: Adalah  kode SKU duplicate atau sama di seller center.
+
+  Duplicate sku: Ada item yang kode skunya sama. Ada 2 kondisi:   
+  1. Duplicate produk yang sama: misal produk kamera 123 ada 2 buah di shopee tapi kode skunya sama: Action: Tinggal confirm replace di forstok   
+  2. Duplicate produk yang berbeda: misal kamera 123 dan kamera 345 di shopee kodenya sama percis. Action: Harus di perbaiki di seller center, yg ada di forstok di hapus lalu di sync/import ulang
 
 2.  **Pending Orders**
 
