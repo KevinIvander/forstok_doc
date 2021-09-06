@@ -1,4 +1,4 @@
-# Category
+# Category Mapping
 
 Category Mapping ini biasa digunakan untuk listing. Sehingga memudahkan Anda dalam melakukan listing dari Forstok. Pada saat kita sudah menentukan _DestinationCategory_ pada _Master Category_ maka ketika akan di listing _category_ tersebut akan otomatis terpilih. Berikut merupakan langkah-langkah yang dilakukan untuk membuat _Category Mapping_ : 
 

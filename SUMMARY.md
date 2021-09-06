@@ -154,7 +154,7 @@
   * [Users & Roles](knowledge-base/settings/users-and-roles.md)
   * [Billing & Plans \(Coming Soon\)](knowledge-base/settings/billing-and-plans.md)
   * [Taxes \(Coming Soon\)](knowledge-base/settings/taxes.md)
-  * [Category](knowledge-base/settings/category.md)
+  * [Category Mapping](knowledge-base/settings/category.md)
   * [Manage Warehouse](knowledge-base/settings/manage-warehouse-list.md)
   * [Template Shipping Label](knowledge-base/settings/custom-shipping-label.md)
   * [Latitude / Longitude](knowledge-base/settings/latlong.md)
