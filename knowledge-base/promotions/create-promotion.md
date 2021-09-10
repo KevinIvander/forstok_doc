@@ -6,9 +6,23 @@ description: Tentang Promotion
 
 Menu Promotions adalah untuk mengatur scheduling harga coret. Jadi harga coret tsb periodenya bisa di datur dari kapan sampai kapan. Ini berlaku untuk item mempunyai 2 harga yaitu reguler price dan harga coret pada menu edit item. Biasanya terdapat pada marketplace: Lazada, Blibli, Bukalapak.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+Step by Step create Promotion Price
 
-A. Promotions - New Promotion Untuk mengatur item yang akan dibuat periode harga coret
+1. Pilih menu promotion - lalu create new promotion
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%28417%29.png)
+
+2. Input Promotion Tittle, Pilih channel yang akan ikut promosi, buat periode promosinya dari kapan sampai kapan, lalu input sku yang akan ikut promosi, dan input harga promosi lalu save.  
+  
+Note: Jika periode promo sudah selesai, makan harga akan kembali ke reguler price
+
+![](../../.gitbook/assets/image%20%28415%29.png)
+
+3. Berikut tampilan jika harga promo sudah di set up
+
+![](../../.gitbook/assets/image%20%28414%29.png)
+
+
+
+
 
