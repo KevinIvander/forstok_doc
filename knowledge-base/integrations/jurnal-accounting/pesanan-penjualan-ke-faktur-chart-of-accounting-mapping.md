@@ -40,5 +40,6 @@ Contoh Faktur Penjualan dari orderan Marketplace:
 | Ready to Ship | Open |
 | Shipped | Open |
 | Delivered | Paid |
-| Cancelled | Cancelled |
+| Cancelled | Akan terhapus secara otomatis di Jurnal |
+| Return | Akan terhapus secara otomatis di Jurnal |
 
