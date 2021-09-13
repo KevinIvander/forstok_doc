@@ -70,10 +70,9 @@ Video panduan: [https://www.loom.com/share/5440127537684caa9b37aaeb34f9df0e](htt
 ![](https://lh5.googleusercontent.com/HcNoUyJRo3o3ssZtMuf6f7GDWW90gsaOACj34TM256ue43fY4cInRXOX-s9yPd6gHATcR1qbfeG0ohLw85DXxQI0NtvVhK4H6hiCTZywFjZcBHJTZRfOTVfJSdrpjhZgXOdI0e2D)
 
 11. PIlih App Setting  
-Input URL Callback, lau save:
+Input URL Callback pada \*Callback URL:
 
-[https://www.forstok.com/dashboard/channels/integrations/jd/setup  
-](https://www.forstok.com/dashboard/channels/integrations/jd/setup)
+[https://www.forstok.com/dashboard/channels/integrations/jd/setup](https://www.forstok.com/dashboard/channels/integrations/jd/setup)
 
 ![](https://lh6.googleusercontent.com/IRbJz2M4R5EK7swczSHEq47EUJfUVphx9vpX4TRYS9rs979t8Xag75zrg2cjMdDcTi6kHCA6LndFRayv0SHDXM4Tnt2SyrZQAoZD7WlJzccT5GbmMxIt2P48n983dzsd7XpzSjNj)
 
