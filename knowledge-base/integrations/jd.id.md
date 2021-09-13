@@ -76,7 +76,7 @@ Input URL Callback pada \*Callback URL:
 
 ![](https://lh6.googleusercontent.com/IRbJz2M4R5EK7swczSHEq47EUJfUVphx9vpX4TRYS9rs979t8Xag75zrg2cjMdDcTi6kHCA6LndFRayv0SHDXM4Tnt2SyrZQAoZD7WlJzccT5GbmMxIt2P48n983dzsd7XpzSjNj)
 
-12. Masukin ke akun Forstok Anda, kita mulai integrasikan API JD.ID ke Forstok.  
+12. Masuk ke akun Forstok Anda, kita mulai integrasikan API JD.ID ke Forstok.  
 Pilih integration pada kanan atas, lalu pilih Add Integration. Lalu pilih JD.ID
 
 ![](https://lh3.googleusercontent.com/eU0sSGleiF7yTRexdL6G9iU61iVoi874rOHvxivBIHIx432gwjsLKI2uFf5g_GAiHADEhAyq9Cw3HIes2WJu1YoMzADr9d-WAqRWZxX5NnYwhH3ySN3eyL9rw0xdIgW0zDTNMNM1)
