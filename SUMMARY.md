@@ -161,6 +161,7 @@
 * [Pengiriman \(Logistic\)](knowledge-base/shipping-cashless/README.md)
   * [On Demand Services](knowledge-base/shipping-cashless/ondemand-services.md)
   * [Regular Services](knowledge-base/shipping-cashless/regular-services.md)
+  * [On- demand step by step](knowledge-base/shipping-cashless/on-demand-step-by-step.md)
 * [Notifikasi](knowledge-base/notifications/README.md)
   * [Notifications](knowledge-base/notifications/notifications-1.md)
 * [Forstok POS](knowledge-base/forstok-pos.md)
