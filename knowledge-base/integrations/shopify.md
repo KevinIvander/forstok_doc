@@ -14,9 +14,12 @@ Untuk integrasi Shopify ada 2 point:
 1.Buka Link berikut:  
 [**https://www.forstok.com/dashboard/channels/integrations/shopify/setup**](https://www.forstok.com/dashboard/channels/integrations/shopify/setup)  
   
-****2. Lalu isi kolom sesuai dengan alamat web shopify &gt; lalu klik **Install Shopify**
+****2. Input URL Link myshopify
 
-![](https://lh3.googleusercontent.com/hQBS5If8bHlVVrrdKZTc4tctcE8YQivr4mT744nJLKHeA2lFC4wUaTJvj2ZH3_PYJ0udqqAe-phpNKwyZ45lej59hRrwf7PTjg5xTlgCMAbYnWP0Gn6yHCmqROSqo37jW0W4JEqh)
+**Contoh URL Link:**  [onycha.myshopify.com](http://onycha.myshopify.com/)  
+
+
+![](../../.gitbook/assets/image%20%28421%29.png)
 
 3. Scroll kebawah lalu klik **Install Unlisted App**  
 
