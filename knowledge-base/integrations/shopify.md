@@ -10,6 +10,8 @@ Untuk integrasi Shopify ada 2 point:
 
 ## Integrasi
 
+Pastikan Anda sudah Log In ke seller center Shopify atau akun Shopify
+
   
 1.Buka Link berikut:  
 [**https://www.forstok.com/dashboard/channels/integrations/shopify/setup**](https://www.forstok.com/dashboard/channels/integrations/shopify/setup)  
