@@ -60,5 +60,9 @@ Input Flat Rate Shipping Fee \(Ongkir\)
 
 ![](../../.gitbook/assets/screen-shot-2021-09-17-at-12.28.30-pm.png)
 
+Add Rate. Flat Rate. You can always update the shipping rate later once you have average shipping fee based on usage. 
+
+![](../../.gitbook/assets/screen-shot-2021-09-17-at-12.28.54-pm.png)
+
 
 

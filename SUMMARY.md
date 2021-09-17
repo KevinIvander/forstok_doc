@@ -161,7 +161,6 @@
 * [Pengiriman \(Logistic\)](knowledge-base/shipping-cashless/README.md)
   * [On Demand Services](knowledge-base/shipping-cashless/ondemand-services.md)
   * [On- demand step by step](knowledge-base/shipping-cashless/on-demand-step-by-step.md)
-  * [Shopify Shipping Setting](knowledge-base/shipping-cashless/shopify-shipping-setting.md)
   * [Regular Services](knowledge-base/shipping-cashless/regular-services.md)
 * [Notifikasi](knowledge-base/notifications/README.md)
   * [Notifications](knowledge-base/notifications/notifications-1.md)
