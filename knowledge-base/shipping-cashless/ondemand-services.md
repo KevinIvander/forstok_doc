@@ -31,6 +31,10 @@ Please contact Forstok to enable this feature. Top up payment is required.
 
 ## Limitation for Shopify
 
+{% hint style="danger" %}
+Shopify Checkout can't be customized to add Map coordinate. Gosend shipping required Map coordinate to get Latitude and Longitude.
+{% endhint %}
+
 1. **Flat shipping Fee**. 
 2. **Manual input Latitude and Longitude**
 
@@ -38,11 +42,23 @@ Please contact Forstok to enable this feature. Top up payment is required.
 
 ![2. Manual input Latitude and Longitude](../../.gitbook/assets/screen-shot-2021-04-06-at-4.23.34-pm.png)
 
+## Shopify Shipping Setup
 
+Shopify -&gt; Settings / Shipping and delivery
 
+![](../../.gitbook/assets/screen-shot-2021-09-17-at-12.22.50-pm.png)
 
+Create New profile
 
+![](../../.gitbook/assets/screen-shot-2021-09-17-at-12.23.27-pm.png)
 
+Create Shipping Zone
+
+![](../../.gitbook/assets/screen-shot-2021-09-17-at-12.29.52-pm.png)
+
+Input Flat Rate Shipping Fee \(Ongkir\)
+
+![](../../.gitbook/assets/screen-shot-2021-09-17-at-12.28.30-pm.png)
 
 
 
