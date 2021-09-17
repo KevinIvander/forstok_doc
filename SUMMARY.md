@@ -87,6 +87,7 @@
   * [Stock History](knowledge-base/inventory/stock-history.md)
   * [Bin Location](knowledge-base/inventory/bin-location.md)
   * [Upload Barcode](knowledge-base/inventory/create-barcode-label.md)
+  * [Create & Print Barcode](knowledge-base/inventory/create-and-print-barcode.md)
 * [Gudang \(Warehouses\)](knowledge-base/gudang-warehouse/README.md)
   * [Tambah Gudang](knowledge-base/gudang-warehouse/tambah-gudang.md)
   * [Mengelola gudang](knowledge-base/gudang-warehouse/mengelola-gudang.md)
