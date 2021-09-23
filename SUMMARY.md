@@ -118,6 +118,7 @@
   * [Print Handover list](knowledge-base/handover/print-handover-coming-soon.md)
 * [Faktur Penjualan \(Invoice\)](knowledge-base/sales-invoices/README.md)
   * [Invoice Overview](knowledge-base/sales-invoices/invoice-overview.md)
+  * [Invoice Settings](knowledge-base/sales-invoices/invoice-settings.md)
   * [Create Sales Invoice](knowledge-base/sales-invoices/create-sales-invoice.md)
   * [Edit Invoice](knowledge-base/sales-invoices/edit-invoice.md)
   * [Mark Invoice as Void](knowledge-base/sales-invoices/mark-invoice-as-void.md)
