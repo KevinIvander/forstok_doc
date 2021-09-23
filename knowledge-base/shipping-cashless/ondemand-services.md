@@ -21,7 +21,15 @@ If you use Magento, Woocommerce or custom Website, discuss with your vendor to i
 
 ![1. Flat shipping fee](../../.gitbook/assets/flat-shipping-fee.png)
 
-![2. Manual input Latitude and Longitude](../../.gitbook/assets/screen-shot-2021-04-06-at-4.23.34-pm.png)
+![2. Lat/Long sudah langsung terassign](../../.gitbook/assets/image%20%28422%29.png)
+
+3. Update status Ready to Ship
+
+![](../../.gitbook/assets/image%20%28424%29.png)
+
+4. Pilih instand couriernya, lalu klik Update. Maka status berubah jadi Ready to Ship dan siap di pick up
+
+![](../../.gitbook/assets/image%20%28423%29.png)
 
 
 
