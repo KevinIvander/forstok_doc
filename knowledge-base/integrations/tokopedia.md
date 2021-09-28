@@ -12,7 +12,6 @@
 
 * [x] Toko sudah Official Store atau Power Merchant
 * [x] Pastikan Toko Anda tidak connect atau terintegrasi dengan sistem lain
-* [x] Pastikan Toko Anda dalam keadaan aktif, tidak dalam masa libur toko
 * [x] Email ke tim Forstok untuk mendapatkan API Tokopedia/Shop ID
 
 {% hint style="success" %}
