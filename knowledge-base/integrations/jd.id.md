@@ -16,7 +16,7 @@ Sebelum integrasi ke JD.ID pastikan toko Anda sudah **Qualified Seller.** Karena
 1. Log in ke akun JD.ID seller [https://seller.jd.id/](https://seller.jd.id/)
 2. Log in ke dev console jd.id [https://open-console.jd.id/](https://open-console.jd.id/)
 
-Untuk URL Callback pake ini : [https://www.forstok.com/dashboard/channels/integrations/jd/setup](https://www.forstok.com/dashboard/channels/integrations/jd/setup)
+Untuk URL Callback menggunakan link berikut : [https://www.forstok.com/dashboard/channels/integrations/jd/setup](https://www.forstok.com/dashboard/channels/integrations/jd/setup)
 
 Video panduan: [https://www.loom.com/share/5440127537684caa9b37aaeb34f9df0e](https://www.loom.com/share/5440127537684caa9b37aaeb34f9df0e)
 {% endhint %}
