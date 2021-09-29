@@ -1,4 +1,4 @@
-# Reconnect Bukalapak
+# Reconnect Bukalapak \(Dari Pop-up\)
 
 Jika Anda merubah akses Bukalapak maka di Forstok API Bukalapak otomatis akan non aktif. Untuk mengaktifkan kembali Bukalapak di Forstok. Maka ada pop-up di akun Forstok Anda untuk mengaktifkan kembali. Berikut langkah-langkah mengaktifkan kembali Bukalapak
 
