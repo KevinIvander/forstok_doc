@@ -8,14 +8,14 @@ Membuat Produk pada Jurnal:
 
 ![](../../../.gitbook/assets/image-20201229-045016.png)
 
-* Isi form pembuatan produk 
-* Isi harga barang pada kolom unit price.
-* Stock Tracking harus di centang agar dapat melakukan penyesuaian stock dari Jurnal ke Forstok.
-* Klik  tombol "Create Product" dan produk baru akan terbuat.
+* Isi form pembuatan produk
 
 ![](../../../.gitbook/assets/image-20201229-045159.png)
 
-![](../../../.gitbook/assets/image-20201229-045410.png)
+* Isi harga barang pada kolom unit price.
+* Stock Tracking harus di centang agar dapat melakukan penyesuaian stock dari Jurnal ke Forstok. Klik  tombol "Create Product" dan produk baru akan terbuat.
+
+![](../../../.gitbook/assets/image%20%28430%29.png)
 
 * Kemudian klik tombol "Import produk" untuk mengimpor produk dari Jurnal yang belum terdaftar di Forstok. **Menambahkan produk baru di Jurnal tidak akan otomatis menambahkan produk di Forstok.** Ulangi langkah “Impor produk” ini setiap kali Anda menambahkan produk baru di Jurnal.
 
