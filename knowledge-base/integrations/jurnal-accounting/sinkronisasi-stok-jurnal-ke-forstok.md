@@ -14,7 +14,10 @@ Sinkronisasi stok hanya satu arah dari Jurnal ke Forstok. Memperbarui stok di Fo
 
 ![](https://lh4.googleusercontent.com/s-qk55n2qaVThrjPYVAW_53xqS9uF0lxg3LepelY864t-ZJUM1_XDVc91fqCoCrGeA1GZsIJuvCRs0evrFq7ozf4Ik4lRNqfx9q1uq76ZjcZT42NdTv5-23li0oOLV9GmnXrfRRgoKQ)
 
-Cara melakukan stock adjustment di Jurnal:
+Cara melakukan stock adjustment di Jurnal:  
+Pastikan "I Track Stock for This Item" di tiap produk Jurnal sudah di centang
+
+![](../../../.gitbook/assets/image%20%28433%29.png)
 
 * Klik "Products" pada menu sebelah kiri.
 * Klik "Create new" dan pilih "Stock Adjustment".
