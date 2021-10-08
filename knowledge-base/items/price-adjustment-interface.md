@@ -1,4 +1,4 @@
-# Price Adjustment
+# Price Adjustment \(interface\)
 
 Langkah-langkah yang bisa dilakukan untuk adjust quantity adalah :  
    1. Pilih item yang akan di rubah harganya
