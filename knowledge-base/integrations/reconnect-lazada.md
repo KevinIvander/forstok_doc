@@ -13,9 +13,8 @@ description: >-
 
 1. Pada menu item di Forstok akan muncul pop-up re-connect Lazada. Pilih Update Password
 
-![](../../.gitbook/assets/image%20%28219%29.png)
+![](<../../.gitbook/assets/image (219).png>)
 
-2. Input akses Lazada. Maka Lazada akan otomatis terhubung kembali
+2\. Input akses Lazada. Maka Lazada akan otomatis terhubung kembali
 
-![](../../.gitbook/assets/image%20%2826%29.png)
-
+![](<../../.gitbook/assets/image (26).png>)

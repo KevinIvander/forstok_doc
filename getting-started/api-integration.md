@@ -12,15 +12,14 @@ description: >-
 
 1. Create master products from ERP to Forstok
 2. Stock adjustment from ERP to Sales Channels
-3. Price adjustment from ERP to Sales Channels \(Regular price\)
+3. Price adjustment from ERP to Sales Channels (Regular price)
 4. New orders from Sales Channel to ERP
-5. Update order status from ERP to Sales Channels and get Cashless shipping documents 
+5. Update order status from ERP to Sales Channels and get Cashless shipping documents&#x20;
 
-**See our API documentation here:** [https://apiseller.forstok.com](https://apiseller.forstok.com/?version=latest)
+**See our API documentation here: **[https://apiseller.forstok.com](https://apiseller.forstok.com/?version=latest)
 
 {% hint style="info" %}
 Contact us from API key access
 {% endhint %}
 
-\*\*\*\*
-
+****

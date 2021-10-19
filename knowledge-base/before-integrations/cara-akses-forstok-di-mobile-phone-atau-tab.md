@@ -6,13 +6,12 @@ Saat ini Forstok belum ada app store, tapi Anda tidak perlu khawatir Anda tetap 
 
 Maka tampilan seperti berikut, ini tampilan Forstok mobile phone:
 
-![](../../.gitbook/assets/image%20%28375%29.png)
+![](<../../.gitbook/assets/image (375).png>)
 
-2. Jika Anda ingin merubah tampilan sama seperti yang PC, Anda tinggal ganti tampilannya menjadi desktop site
+2\. Jika Anda ingin merubah tampilan sama seperti yang PC, Anda tinggal ganti tampilannya menjadi desktop site
 
-![](../../.gitbook/assets/image%20%28378%29.png)
+![](<../../.gitbook/assets/image (378).png>)
 
-3. Maka tampilan sudah sama seperti yang PC
+3\. Maka tampilan sudah sama seperti yang PC
 
-![](../../.gitbook/assets/image%20%28382%29.png)
-
+![](<../../.gitbook/assets/image (382).png>)

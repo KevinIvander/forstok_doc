@@ -8,15 +8,14 @@
 
 1. Pada menu order klik menu **+order** lalu klik **create sales order**
 
-![](https://lh6.googleusercontent.com/emaJ1RagMoSUQEDyTyt9oEYAR-PD9p7GTuvp7nvOsRM7HyimQHXLa2JtwpQFfCtNEJfhJmSQjPQ7W4D3dOvncN3a8l0V05HyGd5IXuzWfoM3sswPBDrwzxshRNMrnAU_v3wLu02c)
+![](https://lh6.googleusercontent.com/emaJ1RagMoSUQEDyTyt9oEYAR-PD9p7GTuvp7nvOsRM7HyimQHXLa2JtwpQFfCtNEJfhJmSQjPQ7W4D3dOvncN3a8l0V05HyGd5IXuzWfoM3sswPBDrwzxshRNMrnAU\_v3wLu02c)
 
-2. Isi kolom seperti Customer Name, Ship From dan Store Name dan untuk dropship klik check box dropship order
+2\. Isi kolom seperti Customer Name, Ship From dan Store Name dan untuk dropship klik check box dropship order
 
-![](https://lh6.googleusercontent.com/_smesUjuuCdJFCvOlI6im56ZOuvidfj2PwKznuPf28-4clJVzIUylKA6HzgFhyS3vtxDss5qFMw-AiO3CcQsbJHpdYbJPgAHsrUrx9ER0TjvFhy6zZqHZM0fp0uF-F9jwUjBHnny)
+![](https://lh6.googleusercontent.com/\_smesUjuuCdJFCvOlI6im56ZOuvidfj2PwKznuPf28-4clJVzIUylKA6HzgFhyS3vtxDss5qFMw-AiO3CcQsbJHpdYbJPgAHsrUrx9ER0TjvFhy6zZqHZM0fp0uF-F9jwUjBHnny)
 
-3. Add items tersebut
+3\. Add items tersebut
 
-![](https://lh5.googleusercontent.com/rYieB2nzv3SCj5pZYZb8NM_qQfywxuvPAnQSzp96AveKHFpdr9NTg-Hl3PKyFDvNO0KhFlZXK94BnpbUL7cXilYHM22KQegJllZ7WFKUOTS6LLU8ZihMh9sEg6gINDDcsluZOtXB)
+![](https://lh5.googleusercontent.com/rYieB2nzv3SCj5pZYZb8NM\_qQfywxuvPAnQSzp96AveKHFpdr9NTg-Hl3PKyFDvNO0KhFlZXK94BnpbUL7cXilYHM22KQegJllZ7WFKUOTS6LLU8ZihMh9sEg6gINDDcsluZOtXB)
 
-4. lalu klik **Save**
-
+4\. lalu klik **Save**

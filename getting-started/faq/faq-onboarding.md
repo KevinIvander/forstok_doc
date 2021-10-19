@@ -13,10 +13,10 @@ Pastikan Anda sudah buka toko di marketplace dan sudah menginput kode sku di sem
 Untuk linking item ada 2 solusi jika kode sku berbeda:
 
 1. Seller harus perbaiki kode sku di seller center. Lalu yang sudah masuk di Forstok dan di import ulang
-2. Bisa menggunakan fitur link to another variant. Ini berfungsi untuk melinkingkan 2 item yang sama tapi kode sku berbeda. Berikut panduan untuk link to another variant: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
+2. Bisa menggunakan fitur link to another variant.\
+   Ini berfungsi untuk melinkingkan 2 item yang sama tapi kode sku berbeda. Berikut panduan untuk link to another variant: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
 
 ## Apakah di Forstok bisa membalas chat customer?
 
-Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok.   
+Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok. \
 [https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
-

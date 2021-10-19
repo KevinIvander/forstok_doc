@@ -4,27 +4,26 @@ description: Bagaimana untuk Membuat stock allocation
 
 # Create Stock Allocation
 
-Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation : 
+Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#x20;
 
-1. Pada left pannel, pilih **+item**, lalu pilih _**create stok allocation**_.\|
+1\. Pada left pannel, pilih **+item**, lalu pilih _**create stok allocation**_.|
 
-![](../../.gitbook/assets/image%20%28258%29.png)
+![](<../../.gitbook/assets/image (258).png>)
 
-1. Pilih channel mana yang akan di alokasikan stok nya. 
+1. Pilih channel mana yang akan di alokasikan stok nya.&#x20;
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](<../../.gitbook/assets/image (128).png>)
 
 
 
-2. Pilih add item, untuk menambahkan item mana saja yang stoknya akan di alokasikan. kalau sudah dipilih klik button merah add to list.
+2\. Pilih add item, untuk menambahkan item mana saja yang stoknya akan di alokasikan. kalau sudah dipilih klik button merah add to list.
 
-![](../../.gitbook/assets/image%20%2884%29.png)
+![](<../../.gitbook/assets/image (84).png>)
 
-3. Input jumlah qty yang akan di lock stok nya dan periode tanggal berjalan lock stock allocation nya. Lalu klik save.
+3\. Input jumlah qty yang akan di lock stok nya dan periode tanggal berjalan lock stock allocation nya. Lalu klik save.
 
-![](../../.gitbook/assets/image%20%28250%29.png)
+![](<../../.gitbook/assets/image (250).png>)
 
-4. Berikut tampilan jika stock allocation berhasil dibuat dari Forstok.
+4\. Berikut tampilan jika stock allocation berhasil dibuat dari Forstok.
 
-![](../../.gitbook/assets/image%20%28227%29.png)
-
+![](<../../.gitbook/assets/image (227).png>)

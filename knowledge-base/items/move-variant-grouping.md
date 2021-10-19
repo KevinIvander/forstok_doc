@@ -6,36 +6,35 @@ description: Bagaimana untuk Move Item
 
 Move item merupakan cara yang dilakukan untuk menyatukan variant yang terpisah. Contoh : Pada Variant 1 ingin di satukan dengan item yang ada pada group 2.
 
-![](../../.gitbook/assets/image%20%28189%29.png)
+![](<../../.gitbook/assets/image (189).png>)
 
-Berikut merupakan langkah-langkah yang dilakukan untuk melakukan move item \(menyatukan variant yang terpisah\) : 
+Berikut merupakan langkah-langkah yang dilakukan untuk melakukan move item (menyatukan variant yang terpisah) :&#x20;
 
-1. Pilih item yang akan di pindahkan pada group variant tujuan. 
+1\. Pilih item yang akan di pindahkan pada group variant tujuan.&#x20;
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](<../../.gitbook/assets/image (47).png>)
 
 1. Copy Nama Master item tujuan.
 
-![](../../.gitbook/assets/image%20%28216%29.png)
+![](<../../.gitbook/assets/image (216).png>)
 
- 3. Pada item yang akan dipindahkan, pilih **more** lalu pilih **move to another item p**ada right panel.
+&#x20;3\. Pada item yang akan dipindahkan, pilih **more** lalu pilih **move to another item p**ada right panel.
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](<../../.gitbook/assets/image (79).png>)
 
- 4. Pada page move to another item, paste item name yang sudah di copy sebelumnya pada kolom **move to**.
+&#x20;4\. Pada page move to another item, paste item name yang sudah di copy sebelumnya pada kolom **move to**.
 
-![](../../.gitbook/assets/image%20%28275%29.png)
+![](<../../.gitbook/assets/image (275).png>)
 
-5. Input Variasi dari item tersebut. 
+5\. Input Variasi dari item tersebut.&#x20;
 
-![](../../.gitbook/assets/image%20%28233%29.png)
+![](<../../.gitbook/assets/image (233).png>)
 
-6. Jika sudah pilih **move**. 
+6\. Jika sudah pilih **move**.&#x20;
 
-7. Item yang terpisah variasi nya akan menyatu atau grouping dengan variasi tujuan.
+7\. Item yang terpisah variasi nya akan menyatu atau grouping dengan variasi tujuan.
 
-![](../../.gitbook/assets/image%20%28280%29.png)
+![](<../../.gitbook/assets/image (280).png>)
 
-[  
+[\
 ](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48021345040/original/nIKeThziw1OYDAAvfRQiL5qd97cnj3M0cA.png?1578046925)
-

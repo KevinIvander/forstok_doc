@@ -14,7 +14,7 @@ Pastikan terlebih dahulu  pada akun Forstok export item atau sync item sudah di 
 * Plilih settings
 * Pada sync item anda geser jadi disablle /Off
 
-![](../../.gitbook/assets/image%20%28369%29.png)
+![](<../../.gitbook/assets/image (369).png>)
 
 **1 .Shopee**
 
@@ -24,43 +24,43 @@ Pastikan terlebih dahulu  pada akun Forstok export item atau sync item sudah di 
 
 Maka integrasi API Shopee dengan Forstok sudah terputus.
 
-![](../../.gitbook/assets/image%20%28367%29.png)
+![](<../../.gitbook/assets/image (367).png>)
 
 **2. Zalora**
 
 * Log in seller center Zalora
-* Pilih settings --&gt; Integration Management
+* Pilih settings --> Integration Management
 * Hapus User ID dan API Key, lau excute
 
 Maka integrasi API Shopee dengan Forstok sudah terputus.
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](<../../.gitbook/assets/image (368).png>)
 
 **3. Blibli**
 
 * Log in ke seller center Blibli
 * Pada sebelah kanan atas pilih seller API manager
 
-![](../../.gitbook/assets/image%20%28399%29.png)
+![](<../../.gitbook/assets/image (399).png>)
 
 * Pada API seller Key klik revoke dan pada API client ID klik Unbid
 
-![](../../.gitbook/assets/image%20%28398%29.png)
+![](<../../.gitbook/assets/image (398).png>)
 
 * Jika sudah kosong semua, maka Blibli sudah tidak terhubung lagi dengan Forstok.
 
-4. Lazada
+4\. Lazada
 
-![](../../.gitbook/assets/image%20%28432%29.png)
+![](<../../.gitbook/assets/image (432).png>)
 
 {% hint style="warning" %}
 Untuk marketplace:
 
-* Tokopedia --&gt; Harap hubungi tim Onboarding Forstok untuk dibantu dilakukan pemutusan akun Tokopedia anda dari dev console Tokopedia
+* Tokopedia --> Harap hubungi tim Onboarding Forstok untuk dibantu dilakukan pemutusan akun Tokopedia anda dari dev console Tokopedia
 * Bukalapak, JD.ID tidak perlu ada action lagi untuk pemutusan. Saat sudah di sync off tim Forstok akan stop polling order dan export data.
 
 Setelah semua disconnect selesai dilakukan harap hubungi tim Forstok kembali untuk dilakukan penghapusan data.
+
+
 {% endhint %}
-
-
 

@@ -10,19 +10,17 @@ Step by Step create Promotion Price
 
 1. Pilih menu promotion - lalu create new promotion
 
-![](../../.gitbook/assets/image%20%28417%29.png)
+![](<../../.gitbook/assets/image (417).png>)
 
-2. Input Promotion Tittle, Pilih channel yang akan ikut promosi, buat periode promosinya dari kapan sampai kapan, lalu input sku yang akan ikut promosi, dan input harga promosi lalu save.  
-  
+2\. Input Promotion Tittle, Pilih channel yang akan ikut promosi, buat periode promosinya dari kapan sampai kapan, lalu input sku yang akan ikut promosi, dan input harga promosi lalu save.\
+\
 Note: Jika periode promo sudah selesai, makan harga akan kembali ke reguler price
 
-![](../../.gitbook/assets/image%20%28415%29.png)
+![](<../../.gitbook/assets/image (415).png>)
 
-3. Berikut tampilan jika harga promo sudah di set up
+3\. Berikut tampilan jika harga promo sudah di set up
 
-![](../../.gitbook/assets/image%20%28414%29.png)
-
-
+![](<../../.gitbook/assets/image (414).png>)
 
 
 

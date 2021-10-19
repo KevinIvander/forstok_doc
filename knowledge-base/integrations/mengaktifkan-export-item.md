@@ -10,15 +10,14 @@ Berikut step by step aktifkan sync export:
 
 1 . Klik integrasi, lalu pilih channel yang akan di aktifkan exportnya. Lalu klik setting pada di bawah channel
 
-![](../../.gitbook/assets/image%20%28402%29.png)
+![](<../../.gitbook/assets/image (402).png>)
 
-2. Pada sync item geser tombol tersebut lalu berubah jadi ON. Jika sudah ON klik save.
+2\. Pada sync item geser tombol tersebut lalu berubah jadi ON. Jika sudah ON klik save.
 
-![](../../.gitbook/assets/image%20%28403%29.png)
+![](<../../.gitbook/assets/image (403).png>)
 
-3. Maka tanda seru sudah tidak ada. Berarti export item tersebut sudah aktif/ON.
+3\. Maka tanda seru sudah tidak ada. Berarti export item tersebut sudah aktif/ON.
 
 Anda bisa melanjutkan update stock, harga , listing, dan edit item dari Forstok.
 
-![](../../.gitbook/assets/image%20%28405%29.png)
-
+![](<../../.gitbook/assets/image (405).png>)
