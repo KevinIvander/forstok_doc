@@ -22,7 +22,7 @@ ID API Forstok yaitu: mta-api-ptforstokteknologiindonesia-9ddf9
 Merchant ID: ambil dari **Kode Token**\
 Lalu klik **hubungkan**
 
-![](<../../.gitbook/assets/image (443).png>)
+![](<../../.gitbook/assets/image (443) (1).png>)
 
 4\. Kembali ke Forstok. Pilih Integration > Add Integrations > Pilih Blibli\
 
@@ -35,7 +35,7 @@ Merchant ID: _copy paste yang di dapat dari seller center_
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48066776613/original/uyup1sGO6LUyjuG1tHVmzt-wvVLA8z1apA.png?1603735140)
 
-![](<../../.gitbook/assets/image (442).png>)
+![](<../../.gitbook/assets/image (442) (1).png>)
 
 6\.  Pilih **Sync Products from Blibli**  > lalu pilih** Next** > **Finish**
 
