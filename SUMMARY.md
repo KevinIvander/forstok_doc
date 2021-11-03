@@ -43,6 +43,7 @@
     * [Sinkronisasi stok (Jurnal ke Forstok)](knowledge-base/integrations/jurnal-accounting/sinkronisasi-stok-jurnal-ke-forstok.md)
     * [Pesanan penjualan ke Faktur (Chart of Accounting Mapping)](knowledge-base/integrations/jurnal-accounting/pesanan-penjualan-ke-faktur-chart-of-accounting-mapping.md)
     * [Terms and Conditions](knowledge-base/integrations/jurnal-accounting/terms-and-conditions.md)
+    * [Disconnect Jurnal](knowledge-base/integrations/jurnal-accounting/disconnect-jurnal.md)
     * [FAQ Jurnal](knowledge-base/integrations/jurnal-accounting/faq-jurnal.md)
   * [Pawoon POS](knowledge-base/integrations/pawoon-pos/README.md)
     * [Integrasi Pawoon](knowledge-base/integrations/pawoon-pos/integrasi-pawoon.md)
