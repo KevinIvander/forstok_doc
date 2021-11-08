@@ -104,7 +104,7 @@
 
 ## Blibli
 
-| Forstok Status      | Lazada Status | Action in Forstok                                                                                                                |
+| Forstok Status      | Blibli Status | Action in Forstok                                                                                                                |
 | ------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | -             | -                                                                                                                                |
 | **Pending Courier** | -             | -                                                                                                                                |
