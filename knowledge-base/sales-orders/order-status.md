@@ -52,21 +52,21 @@
 
 ## Shopee&#x20;
 
-| Forstok Status      | Shopee Status                                 | Actions in Forstok                                                                                                               |
-| ------------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Pending payment** | Belum bayar                                   | -                                                                                                                                |
-| **Pending Courier** | -                                             | -                                                                                                                                |
-| **Open**            | <p>Perlu Dikirim / </p><p>Perlu diprocess</p> | <p>Create Picklist (Optional)</p><p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel Order</p> |
-| **Picked**          | -                                             | <p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                  |
-| **Packed**          | -                                             | <p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                                       |
-| **Ready to Ship**   | <p>Perlu Dikirim / </p><p>Telah diprocess</p> | -                                                                                                                                |
-| **Ready to Print**  | -                                             | Print Shipping Label                                                                                                             |
-| **Printed**         | -                                             | -                                                                                                                                |
-| **Shipped**         | Dikirim                                       | -                                                                                                                                |
-| **Delivered**       | -                                             | Create Sales Return                                                                                                              |
-| **Completed**       | Selesai                                       | -                                                                                                                                |
-| **Cancelled**       | Pembatalan                                    | -                                                                                                                                |
-| **Returned**        | Pengembalian                                  | -                                                                                                                                |
+| Forstok Status      | Shopee Status                 | Actions in Forstok                                                                                                               |
+| ------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Pending payment** | Belum bayar                   | -                                                                                                                                |
+| **Pending Courier** | -                             | -                                                                                                                                |
+| **Open**            | Perlu Dikirim                 | <p>Create Picklist (Optional)</p><p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel Order</p> |
+| **Picked**          | -                             | <p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                  |
+| **Packed**          | -                             | <p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                                       |
+| **Ready to Ship**   | <p></p><p>Telah diprocess</p> | -                                                                                                                                |
+| **Ready to Print**  | -                             | Print Shipping Label                                                                                                             |
+| **Printed**         | -                             | -                                                                                                                                |
+| **Shipped**         | Dikirim                       | -                                                                                                                                |
+| **Delivered**       | -                             | Create Sales Return                                                                                                              |
+| **Completed**       | Selesai                       | -                                                                                                                                |
+| **Cancelled**       | Pembatalan                    | -                                                                                                                                |
+| **Returned**        | Pengembalian                  | -                                                                                                                                |
 
 ## Tokopedia
 
@@ -121,7 +121,7 @@
 
 ## JD.ID
 
-| Forstok Status      | Lazada Status                                      | Action in Forstok                                                                                                                |
+| Forstok Status      | JD.ID Status                                       | Action in Forstok                                                                                                                |
 | ------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | -                                                  | -                                                                                                                                |
 | **Pending Courier** | -                                                  | -                                                                                                                                |
@@ -138,7 +138,7 @@
 
 ## Zalora
 
-| Forstok Status      | Lazada Status                         | Action in Forstok                                                                                                                |
+| Forstok Status      | Zalora Status                         | Action in Forstok                                                                                                                |
 | ------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | Pending                               | -                                                                                                                                |
 | **Pending Courier** | -                                     | -                                                                                                                                |
@@ -155,7 +155,7 @@
 
 ## Bukalapak
 
-| Forstok Status      | Lazada Status     | Action in Forstok                                                                                                                |
+| Forstok Status      | Bukalapak Status  | Action in Forstok                                                                                                                |
 | ------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | -                 | -                                                                                                                                |
 | **Pending Courier** | -                 | -                                                                                                                                |
@@ -172,7 +172,7 @@
 
 ## Zilingo
 
-| Forstok Status      | Lazada Status                                                                      | Action in Forstok                                                                                                                |
+| Forstok Status      | Zilingo Status                                                                     | Action in Forstok                                                                                                                |
 | ------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | -                                                                                  | -                                                                                                                                |
 | **Pending Courier** | -                                                                                  | -                                                                                                                                |
@@ -189,7 +189,7 @@
 
 ## Elevenia
 
-| Forstok Status      | Lazada Status                       | Action in Forstok                                                                                                                |
+| Forstok Status      | Elevenia Status                     | Action in Forstok                                                                                                                |
 | ------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | Belum Dibayar                       | -                                                                                                                                |
 | **Pending Courier** | -                                   | -                                                                                                                                |
@@ -206,24 +206,24 @@
 
 ## TheFthing
 
-| Forstok Status      | Lazada Status   | Action in Forstok                                                                                                                |
-| ------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Pending payment** | Belum bayar     | -                                                                                                                                |
-| **Pending Courier** | -               | -                                                                                                                                |
-| **Open**            | Perlu dikirim   | <p>Create Picklist (Optional)</p><p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel Order</p> |
-| **Picked**          | -               | <p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                  |
-| **Packed**          | Perlu diprocess | <p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                                       |
-| **Ready to Ship**   | Telah diprocess | -                                                                                                                                |
-| **Ready to Print**  | -               | Print Shipping Label                                                                                                             |
-| **Printed**         | -               | -                                                                                                                                |
-| **Shipped**         | -               | -                                                                                                                                |
-| **Delivered**       | -               | Create Sales Return                                                                                                              |
-| **Cancelled**       | -               | -                                                                                                                                |
-| **Returned**        | -               | -                                                                                                                                |
+| Forstok Status      | TheFThing Status | Action in Forstok                                                                                                                |
+| ------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Pending payment** | Belum bayar      | -                                                                                                                                |
+| **Pending Courier** | -                | -                                                                                                                                |
+| **Open**            | Perlu dikirim    | <p>Create Picklist (Optional)</p><p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel Order</p> |
+| **Picked**          | -                | <p>Create Package</p><p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                  |
+| **Packed**          | Perlu diprocess  | <p>Mark as Ready to Ship</p><p>Create Sales Invoice</p><p>Cancel order</p>                                                       |
+| **Ready to Ship**   | Telah diprocess  | -                                                                                                                                |
+| **Ready to Print**  | -                | Print Shipping Label                                                                                                             |
+| **Printed**         | -                | -                                                                                                                                |
+| **Shipped**         | -                | -                                                                                                                                |
+| **Delivered**       | -                | Create Sales Return                                                                                                              |
+| **Cancelled**       | -                | -                                                                                                                                |
+| **Returned**        | -                | -                                                                                                                                |
 
-## GrabMart
+## Grab Mart
 
-| Forstok Status      | Lazada Status                                | Action in Forstok                                                                                                                |
+| Forstok Status      | Grab Mart Status                             | Action in Forstok                                                                                                                |
 | ------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | -                                            | -                                                                                                                                |
 | **Pending Courier** | -                                            | -                                                                                                                                |
@@ -240,7 +240,7 @@
 
 ## Shopify
 
-| Forstok Status      | Lazada Status                 | Action in Forstok                                                                                                                |
+| Forstok Status      | Shopify Status                | Action in Forstok                                                                                                                |
 | ------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | Unpaid                        | Mark as Paid (For Bank Transfer)                                                                                                 |
 | **Pending Courier** | -                             | -                                                                                                                                |
@@ -257,7 +257,7 @@
 
 ## Woocommerce
 
-| Forstok Status      | Lazada Status                          | Action in Forstok                                                                                                                |
+| Forstok Status      | Woocommerce Status                     | Action in Forstok                                                                                                                |
 | ------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | Pembayaran Tertunda                    | Mark as Paid (For Bank Transfer)                                                                                                 |
 | **Pending Courier** | -                                      | -                                                                                                                                |
@@ -274,7 +274,7 @@
 
 ## Magento
 
-| Forstok Status      | Lazada Status   | Action in Forstok                                                                                                                |
+| Forstok Status      | Magento Status  | Action in Forstok                                                                                                                |
 | ------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Pending payment** | -               | Mark as Paid (For Bank Transfer)                                                                                                 |
 | **Pending Courier** | -               | -                                                                                                                                |
