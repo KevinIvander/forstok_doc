@@ -53,10 +53,15 @@ Maka integrasi API Shopee dengan Forstok sudah terputus.
 
 ![](<../../.gitbook/assets/image (432).png>)
 
+5\. Tokopedia
+
+Masuk ke seller center Tokopedia. Pillih Apliakasi Pihak Ketiga --> hapus&#x20;
+
+![](<../../.gitbook/assets/image (440).png>)
+
 {% hint style="warning" %}
 Untuk marketplace:
 
-* Tokopedia --> Harap hubungi tim Onboarding Forstok untuk dibantu dilakukan pemutusan akun Tokopedia anda dari dev console Tokopedia
 * Bukalapak, JD.ID tidak perlu ada action lagi untuk pemutusan. Saat sudah di sync off tim Forstok akan stop polling order dan export data.
 
 Setelah semua disconnect selesai dilakukan harap hubungi tim Forstok kembali untuk dilakukan penghapusan data.
