@@ -9,14 +9,14 @@ Sales Order adalah dokumen keuangan yang mengkonfirmasi penjualan yang akan data
 Pada menu order ini seller dapat memproses orderan dari Forstok. Seperti update ready to ship, print shipping label, print pick list dan pack list.\
 Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
 
-Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
+Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan..
 
 ![](https://lh6.googleusercontent.com/0zJZfJJHI62p4tefEEuSbcwyosMQuE29T7KwqV4xOhy\_5IW3FOtEty8T0jhjXsxLwWrqnZJTcL\_C0gXvsK9smTJdrtbEOqF2OVFy5lx4nVAq3EJbAbppMJJm3AMnTIvPOFzo5063)
 
 
 
 **A. Left Panel**\
-**Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilter kurir. **
+**Kita dapat melihat status orderan yang masuk, memfilter marketplace, dan memfilter kurir.**&#x20;
 
 1\. Order POS merupakan fitur untuk membuat order baru  secara manual pada POS. Dimana berkemungkinan seller menjual secara online juga selain di marketplace mungkin seperti Instagram, Facebook, dll dimana stock masih satu stock dengan penjualan marketplace. Maka saat buat order manual POS untuk sku tsb maka stok marketplacenya juga ikut terpotong
 
@@ -59,7 +59,7 @@ Lalu di Forstok bisa proses order sekaligus banyak atau bulky. Tinggal klik chec
 
 ![](https://lh3.googleusercontent.com/LbTIZN3G6hiqa15DqGN52e29mcMx1FF4P00LP5TSjpFywi\_ar9IAvPyV9N\_0GAVDDy6OzTzKitmSVepoVxheUv\_9G8cKlCuSsUOkhR1b3GjjagqwpRwN03mN0XgpbVwWq5ItAAu5)
 
-**B. Right Panel Terdiri dari **
+**B. Right Panel Terdiri dari**&#x20;
 
 1\. Detail order berupa: item yang di order oleh customer, nama customer, alamat customer, No tlp customer, No Order dan lain-lain.
 
