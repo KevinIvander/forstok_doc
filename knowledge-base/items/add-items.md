@@ -5,7 +5,7 @@ Berikut langkah-langkah listing item baru yang belum ada di marketplace:\
 1\. Pada menu Item pilih +Item --> Add Items\
 
 
-![](https://lh5.googleusercontent.com/pfVKjFa0mkT4u6q0iIfFkHpmovuJDuaIXm7FfIQLAFe8xMAKVE9twbygm4zZPWN6rtAmifHLQu3iaxRZGmkcWh9Xohzr0ktTmCIW\_7EsALqUK-nQNg3M5H2RCv7bjtt8xggzidEr)
+![](https://lh5.googleusercontent.com/pfVKjFa0mkT4u6q0iIfFkHpmovuJDuaIXm7FfIQLAFe8xMAKVE9twbygm4zZPWN6rtAmifHLQu3iaxRZGmkcWh9Xohzr0ktTmCIW\_7EsALqUK-nQNg3M5H2RCv7bjtt8xggzidEr) ![](../../.gitbook/assets/ITEM.jpg)
 
 2\. Pilih master category --> pilih tujuan marketplace yang akan di listingkan --> mappingkan/ pilih category tujuan marketplace , lalu Continue
 
