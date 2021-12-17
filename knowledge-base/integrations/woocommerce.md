@@ -15,7 +15,7 @@ Limitasi:
 
 2\. Lalu isi kolom **store URL** sesuai dengan URL website Woocommerce anda
 
-![](https://lh6.googleusercontent.com/1w9NWe2QWa6hzIeMxsu5tQZy\_mdsD16Sd1kDYC5Kt0eSVmtLQQ3zleHNAoxibq1kn6zIoZmBo9lgKWz5S-4b8sPf8UHZdcSxdMe8SNLnc7AGqEsQB5ajbmjCOiems61Q8XIMwfmt)
+![](https://lh6.googleusercontent.com/1w9NWe2QWa6hzIeMxsu5tQZy\_mdsD16Sd1kDYC5Kt0eSVmtLQQ3zleHNAoxibq1kn6zIoZmBo9lgKWz5S-4b8sPf8UHZdcSxdMe8SNLnc7AGqEsQB5ajbmjCOiems61Q8XIMwfmt) ![](../../.gitbook/assets/url.jpg)
 
 
 
