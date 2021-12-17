@@ -12,7 +12,7 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 ![](<../../.gitbook/assets/image (316).png>)
 
-2\. ** **Pilih warehouse yang akan di update stocknya
+2\. **** Pilih warehouse yang akan di update stocknya
 
 ![](https://lh6.googleusercontent.com/BcVzu\_2Iqok9b5ggqUFbegSAkqeTJVki9v3kV7\_MtIwQnuRM5ljioeoC1pllGzVKPcFrEnNwj-pPLhxC9IRaGujOhhjhJT0bhIZMf-Z0SGW-m1aRvUJwCzlIktlDvArDuXtLwqPG)
 

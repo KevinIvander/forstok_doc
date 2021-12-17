@@ -6,7 +6,7 @@ You can now accept instant couriers service (Gosend and GrabExpress) for your we
 
 **Available Couriers:**
 
-** **![](../../.gitbook/assets/screen-shot-2021-04-06-at-3.46.14-pm.png)&#x20;
+&#x20;**** ![](../../.gitbook/assets/screen-shot-2021-04-06-at-3.46.14-pm.png)&#x20;
 
 ## Limitation for Shopify
 

@@ -3,7 +3,7 @@
 ![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.13.01-pm.png)
 
 {% hint style="warning" %}
-**Penting!  **
+**Penting!** &#x20;
 
 * Pastikan toko Anda sudah aktif tidak dalam keadaaan Holiday Mode
 * Sebelum integrasi, pasti kan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.

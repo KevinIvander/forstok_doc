@@ -8,15 +8,15 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
 
 **A. Menu Bar**
 
-* **Forstok Dashboard : **tampilan depan Forstok yang terdapat bagian-bagian untuk melihat Pending Actions, Pending Orders, Sales Reports, dan Total Item.
+* **Forstok Dashboard :** tampilan depan Forstok yang terdapat bagian-bagian untuk melihat Pending Actions, Pending Orders, Sales Reports, dan Total Item.
 * **Items Menu** : untuk mengelola item yang di edit seperti update stock, harga, sampai proses listing-listing produk.
 * **Orders Menu** : untuk memproses orderan ready to ship, print shipping label, detail order dan lain-lain.
-* **Customers Menu **: untuk melihat dan mendownload data customer.
+* **Customers Menu** : untuk melihat dan mendownload data customer.
 * **Reports Menu** : untuk mengelola laporan yang bisa di filter berdasarkan category, kode sku, item dan lain-lain.
 * **Promotion Menu**: untuk mengelola periode harga coret. Jadi harga core bisa di atur periodenya dari kapan dan sampai kapan.
 * **Notification :** digunakan untuk mengetahui log aktifitas dan notifikasi.
-* **Integrations : **Untuk integrasikan channel yang akan connectkan ke Forstok dan untuk sync import item.
-* **Settings: **Jika seller ingin mengganti password, menambahkan users and roles akun Forstok dan jika seller mengalami kendala bisa buka Help Center dan membuat ticketing pelaporan. Maka tim kami akan response dalam 1x24 jam.
+* **Integrations :** Untuk integrasikan channel yang akan connectkan ke Forstok dan untuk sync import item.
+* **Settings:** Jika seller ingin mengganti password, menambahkan users and roles akun Forstok dan jika seller mengalami kendala bisa buka Help Center dan membuat ticketing pelaporan. Maka tim kami akan response dalam 1x24 jam.
 
 **B. Forstok Dashboard**\
 ****\

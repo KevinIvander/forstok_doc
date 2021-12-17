@@ -3,7 +3,7 @@
 ![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.15.55-pm.png)
 
 {% hint style="warning" %}
-**Penting!  **Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+**Penting!**  Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
 {% endhint %}
 
 ## Cara Integrasi Lazada (Video)
@@ -19,7 +19,7 @@
 1. Pilih Menu Integration > Pilih Add integrations.
 2. Klik view untuk integrasikan Lazada.
 3. Input akses log in Lazada, lalu klik submit.
-4. Pada Product Catalog pilih **Sync Product from Lazada **>**Next **> pilih Finish.
+4. Pada Product Catalog pilih **Sync Product from Lazada** >**Next** > pilih Finish.
 5. Lazada berhasil integrasi ke Forstok dan sedang proses import produk.
 
 {% hint style="info" %}

@@ -22,7 +22,7 @@ Harap melakukan langkah-langkah berikut untuk mengaktifkan kembali API Shopee :
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48059666730/original/DgiA8ZuDVVAlyc5-arKDfvaEaHvwn0AFTQ.png?1600415691)
 
-5\. Untuk memastikan API Shopee sudah berhasil terhubung kembali. Buka seller center Shopee. Pilih **Akun**, pada **Platform Partner **cek Forstok sudah terhubung kembali atau tidak.&#x20;
+5\. Untuk memastikan API Shopee sudah berhasil terhubung kembali. Buka seller center Shopee. Pilih **Akun**, pada **Platform Partner** cek Forstok sudah terhubung kembali atau tidak.&#x20;
 
 {% hint style="info" %}
 Jika sudah terhubung harap share screenshot Platform Partner tsb ke Group WhatsApp Forstok atau bisa info melalui ticketing.

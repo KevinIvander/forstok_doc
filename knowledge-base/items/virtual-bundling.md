@@ -17,7 +17,7 @@ Choose Existing Item Bundling: Browse atau cari item bundling yang kita create t
 
 ![](<../../.gitbook/assets/image (62).png>)
 
-3\. Pada **Linked Quantity **add main item yang akan di connectkan.
+3\. Pada **Linked Quantity** add main item yang akan di connectkan.
 
 Qty pada main tsb merupakan banyaknya barang yang di tentukan untuk pemotangan stock pada main item tsb. Berlaku untuk 1 jenis item bundling.
 
@@ -38,7 +38,7 @@ Maka saat ada orderan Paket Combo Twinpack anting dan cincin, dapat 2 barang yai
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48038888773/original/7f4NsVoKMzm9VPOYUr0e0dBt-yOR3JS15w.png?1588790252)
 
-5\. Set up harga item bundling tsb,** **
+5\. Set up harga item bundling tsb, ****&#x20;
 
 **Amount** : Potongan harga untuk item bundling, jika bundling tsb dapat potongan harga.
 

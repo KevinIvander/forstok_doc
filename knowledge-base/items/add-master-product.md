@@ -21,7 +21,7 @@ Note:\
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48076128349/original/q55a-Y6aMF9rcz\_X\_Bd4k4SKZZ4pLjsx3Q.png?1607922965)
 
-**\* **Jika tidak ada item variant, untuk kolok option type, option value di kosongkan saja. Dilanjutkan untuk mengisi kolom berikutnya.
+**\*** Jika tidak ada item variant, untuk kolok option type, option value di kosongkan saja. Dilanjutkan untuk mengisi kolom berikutnya.
 
 **Contoh pengisian jika item tidak variant**
 

@@ -3,7 +3,7 @@
 ![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.54.37-pm.png)
 
 {% hint style="warning" %}
-**Penting!  **Sebelum integrasi, pasti kan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+**Penting!**  Sebelum integrasi, pasti kan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
 {% endhint %}
 
 ## Cara Integrasi Zilingo (Step-by-step)
@@ -34,6 +34,6 @@ _**Don't forget to click on the top right profile.**_
 
 ![](<../../.gitbook/assets/image (256).png>)
 
-5\. Pada Product Catalog pilih **Sync Product from Zilingo **> Next > pilih Finish
+5\. Pada Product Catalog pilih **Sync Product from Zilingo** > Next > pilih Finish
 
 6\. Zilingo berhasil integrasi ke Forstok dan sedang proses import produk.

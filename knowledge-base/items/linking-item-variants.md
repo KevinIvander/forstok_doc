@@ -15,11 +15,11 @@ Ingin di lingkinkan dengan sku Shopee dan Blibli : WRL500
 
 &#x20;Berikut langkah-langkah cara Link to another variant:\
 1\. Search sku Tokopedia : FORS00000\
-Lalu pada pilihan **More **pilih** Link to another variant.**&#x20;
+Lalu pada pilihan **More** pilih **Link to another variant.**&#x20;
 
 ![](<../../.gitbook/assets/image (278).png>)
 
-&#x20;2\. Pada dropdown **Link this variant to **pilih Tokopedia
+&#x20;2\. Pada dropdown **Link this variant to** pilih Tokopedia
 
 ![](<../../.gitbook/assets/image (198).png>)
 

@@ -16,7 +16,7 @@ Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negat
 
 ![](<../../.gitbook/assets/image (316).png>)
 
-2\. ** **Pilih warehouse yang akan di update stocknya
+2\. **** Pilih warehouse yang akan di update stocknya
 
 ![](https://lh6.googleusercontent.com/BcVzu\_2Iqok9b5ggqUFbegSAkqeTJVki9v3kV7\_MtIwQnuRM5ljioeoC1pllGzVKPcFrEnNwj-pPLhxC9IRaGujOhhjhJT0bhIZMf-Z0SGW-m1aRvUJwCzlIktlDvArDuXtLwqPG)
 
@@ -35,7 +35,7 @@ Jika qty terbaru lebih tinggi dari reserved stock, available qty akan jadi negat
 {% endhint %}
 
 * Jika penambahan stock (+) cukup input **tanpa** tanda +
-* Jika pengurangan stock (-) input** dengan menambahkan tanda -**
+* Jika pengurangan stock (-) input **dengan menambahkan tanda -**
 
 ![](<../../.gitbook/assets/image (314).png>)
 

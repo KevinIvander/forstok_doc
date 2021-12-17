@@ -46,9 +46,9 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 
 {% hint style="info" %}
-* Sebelum menggunakan cross listing, pastikan bahwa sudah ada** item master** nya terlebih dahulu di forstok dan **sudah terisi lengkap data master itemnya**.&#x20;
+* Sebelum menggunakan cross listing, pastikan bahwa sudah ada **item master** nya terlebih dahulu di forstok dan **sudah terisi lengkap data master itemnya**.&#x20;
 * Untuk seller center **zalora** di sarankan untuk menggunakan add single item atau edit item lalu menambahkan channel zalora, karna jika menggunakan cross listing maka image yang diupload akan mengikuti channel sebelumnya atau image yang ada di item master dan kemungkinan akan di reject oleh pihak zalora.&#x20;
-* Untuk **cross listing ke POS** jika sku nya berupa angka secara keseluruhan maka skunya akan ada **tambahan @di sku depan** nya agar sku tersebut bisa terbaca oleh system. Misal sku 11245476 di sku master dan code nya berupa **@11245476, **sku tersebut tidak boleh di ganti pada saat asebelum di upload.&#x20;
+* Untuk **cross listing ke POS** jika sku nya berupa angka secara keseluruhan maka skunya akan ada **tambahan @di sku depan** nya agar sku tersebut bisa terbaca oleh system. Misal sku 11245476 di sku master dan code nya berupa **@11245476,** sku tersebut tidak boleh di ganti pada saat asebelum di upload.&#x20;
 * Untuk pengisian kolom harus **sesuai dengan format yang di template download**, tidak boleh mengubah kondisi yang ada pada template, misal : pada template kondisi nya adalah list dropdown lalu copy paste text hingga mengubah list drop down tersebut menjadi text biasa.
 * Untuk pengisian **brand** bisa dengan cara download file brand setelah download template cross listing lalu cari nama brand nya, copy id dan nama brand nya lalu paste di kolom brand yang ada di halaman cross listing.
 {% endhint %}

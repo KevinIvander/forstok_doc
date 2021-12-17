@@ -8,7 +8,7 @@ Berikut cara memproses order Forstok POS:
 
 **A. Listing item Forstok POS**
 
-1. Sebelum create order **POS **pastikan item-item yang ada di Forstok sudah listing ke channel POS Forstok. Cara listing item tsb bisa menggunakan fitur cross listing.Pada menu Item Forstok pilih Cross Listing.
+1. Sebelum create order **POS** pastikan item-item yang ada di Forstok sudah listing ke channel POS Forstok. Cara listing item tsb bisa menggunakan fitur cross listing.Pada menu Item Forstok pilih Cross Listing.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48031926692/original/UuzhNV62KwdbRd47GPiKWr-buKft\_IFSgw.png?1584082946)
 

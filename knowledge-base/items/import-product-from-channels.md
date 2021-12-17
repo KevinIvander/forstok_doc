@@ -6,7 +6,7 @@ description: >-
 
 # Impor produk dari channel
 
-1.** **Pilih Integrations > Klik sync, jika sudah berwarna hijau dan berputar berarti sedang proses import item.  Tunggu sampai proses nya selesai sampai sync-nya sudah stop atau tidak berputar.
+1\. **** Pilih Integrations > Klik sync, jika sudah berwarna hijau dan berputar berarti sedang proses import item.  Tunggu sampai proses nya selesai sampai sync-nya sudah stop atau tidak berputar.
 
 ![](<../../.gitbook/assets/image (269).png>)
 

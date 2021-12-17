@@ -10,7 +10,7 @@ description: >-
 
 Here's a sneak-peak of what's coming:
 
-* Create **Shipment **and** **faster** shipping documents **printing Q2 2021
+* Create **Shipment** and **** faster **shipping documents** printing Q2 2021
 * **Inbound** and **Outbound** order List _Q3 2021_
 * Automatic **payment reconciliation** from Marketplace API _Q3 2021_
 * New **Reports** Section _Q3 2021_
@@ -30,9 +30,9 @@ You can now adjust stock without upload excel. Use a barcode scanner to select p
 
 ### Stock Adjustment via Excel V2
 
-Stock Adjustment Type**: **
+Stock Adjustment Type**:**&#x20;
 
-* **Final Qty: **Ideal for Stock Opname. Input "New Qty on Hand" to replace with Final Qty.&#x20;
+* **Final Qty:** Ideal for Stock Opname. Input "New Qty on Hand" to replace with Final Qty.&#x20;
 
 {% hint style="info" %}
 **Please Download and Upload using new excel template**
@@ -42,7 +42,7 @@ Stock Adjustment Type**: **
 [stock-adjustment-excel.md](../knowledge-base/inventory/stock-adjustment-excel.md)
 {% endcontent-ref %}
 
-* **Delta Qty: **Ideal for stock inbound (+) or Outbound (-). Inbound can be from Return Order, Purchase Order, Stock Transfer. Outbound can be from Sales Order, Transfer Stock.&#x20;
+* **Delta Qty:** Ideal for stock inbound (+) or Outbound (-). Inbound can be from Return Order, Purchase Order, Stock Transfer. Outbound can be from Sales Order, Transfer Stock.&#x20;
 
 {% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
 [upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
@@ -53,7 +53,7 @@ Stock Adjustment Type**: **
 ### Orders Filter
 
 * **Orders Filter**. You can filter order operational processing. Which is Sales Order, Shipment, Invoice, and Return.
-* **Picked & Packed. **You can process the pick list and pick list first if there are new orders coming in (Open). If you process the pick list and pack list first, which is not already in the RTS just for print pick or pack list, then you can filter by picked and packed.
+* **Picked & Packed.** You can process the pick list and pick list first if there are new orders coming in (Open). If you process the pick list and pack list first, which is not already in the RTS just for print pick or pack list, then you can filter by picked and packed.
 
 {% content-ref url="../knowledge-base/pengambilan-picking/filter-picked-orders.md" %}
 [filter-picked-orders.md](../knowledge-base/pengambilan-picking/filter-picked-orders.md)
@@ -67,7 +67,7 @@ Stock Adjustment Type**: **
 
 ### New Feature
 
-* **Shipping Integration for Website (Shopify, Magento, Woocommerce, Custom webstore) . **You can request gosend/grab for on demand services and JNE, J\&T, Sicepat, Lion parcel, RPX, Wahana, SAP for regular service.
+* **Shipping Integration for Website (Shopify, Magento, Woocommerce, Custom webstore) .** You can request gosend/grab for on demand services and JNE, J\&T, Sicepat, Lion parcel, RPX, Wahana, SAP for regular service.
 
 {% content-ref url="../knowledge-base/shipping-cashless/" %}
 [shipping-cashless](../knowledge-base/shipping-cashless/)
@@ -79,7 +79,7 @@ Stock Adjustment Type**: **
 [custom-shipping-label.md](../knowledge-base/settings/custom-shipping-label.md)
 {% endcontent-ref %}
 
-* **Multi warehouses. **You can add multiple warehouses which represents the physical storage where you keep stock
+* **Multi warehouses.** You can add multiple warehouses which represents the physical storage where you keep stock
 
 {% content-ref url="../knowledge-base/settings/manage-warehouse-list.md" %}
 [manage-warehouse-list.md](../knowledge-base/settings/manage-warehouse-list.md)
@@ -89,19 +89,19 @@ Stock Adjustment Type**: **
 
 ### New Feature
 
-* **Create Sales Order. **You can create new sales order for orders coming from social channels or Marketplace that has not integrated with Forstok.
+* **Create Sales Order.** You can create new sales order for orders coming from social channels or Marketplace that has not integrated with Forstok.
 
 {% content-ref url="../knowledge-base/sales-orders/create-sales-order.md" %}
 [create-sales-order.md](../knowledge-base/sales-orders/create-sales-order.md)
 {% endcontent-ref %}
 
-* **Create dropship order. **You can create dropship Order if your reseller buy items from you but you ship the items directly to their customers. You can enter the customer shipping address.
+* **Create dropship order.** You can create dropship Order if your reseller buy items from you but you ship the items directly to their customers. You can enter the customer shipping address.
 
 {% content-ref url="../knowledge-base/sales-orders/create-dropship-order.md" %}
 [create-dropship-order.md](../knowledge-base/sales-orders/create-dropship-order.md)
 {% endcontent-ref %}
 
-* **Stock Adjustment Delta Value (+-). **You can update stock using value changes. eg Qty on hand 10. Adjust +5.&#x20;
+* **Stock Adjustment Delta Value (+-).** You can update stock using value changes. eg Qty on hand 10. Adjust +5.&#x20;
 
 {% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
 [upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
@@ -113,7 +113,7 @@ Stock Adjustment Type**: **
 
 ### New Feature
 
-* **Sales Returns Management **- Allow you to manage returns from sales channels. From Create Sales Returns, Confirm received items to restock items.
+* **Sales Returns Management** - Allow you to manage returns from sales channels. From Create Sales Returns, Confirm received items to restock items.
 
 {% content-ref url="../knowledge-base/sales-returns/" %}
 [sales-returns](../knowledge-base/sales-returns/)

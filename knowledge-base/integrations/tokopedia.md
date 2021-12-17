@@ -3,7 +3,7 @@
 ![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.22.51-pm.png)
 
 {% hint style="warning" %}
-**Penting!  **Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+**Penting!**  Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
 {% endhint %}
 
 ## Cara Integrasi Tokopedia (Step-by-step)
@@ -15,7 +15,7 @@
 * [x] Email ke tim Forstok untuk mendapatkan API Tokopedia/Shop ID
 
 {% hint style="success" %}
-**Subject: Request API Tokopedia - \[Nama Toko] **
+**Subject: Request API Tokopedia - \[Nama Toko]**&#x20;
 
 Hi Tim Forstok,
 
@@ -48,5 +48,5 @@ email ke: onboarding@forstok.com
 {% hint style="info" %}
 **Limitasi import item API Tokopedia**\
 \- Sebelum Import ke Forstok status produk **Aktif dan ada stock.**\
-**- **SKU Code harus di isi.
+**-** SKU Code harus di isi.
 {% endhint %}

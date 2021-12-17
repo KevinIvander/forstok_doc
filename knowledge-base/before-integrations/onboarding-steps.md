@@ -7,13 +7,13 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 
 **Untuk memulai penggunaan Forstok ada 4 step:**
 
-**Step 1: **[**Pencocokan Kode SKU semua marketplace**](step-1.md)****
+**Step 1:** [**Pencocokan Kode SKU semua marketplace**](step-1.md)****
 
-**Step 2: **[**Integration marketplace dan import produk**](integrasi-marketplace.md)****
+**Step 2:** [**Integration marketplace dan import produk**](integrasi-marketplace.md)****
 
-**Step 3: **[**Linking produk**](3.-linking-produk.md)****
+**Step 3:** [**Linking produk**](3.-linking-produk.md)****
 
-**Step 4: **[**Sync Stok**](migrate-to-forstok.md)****
+**Step 4:** [**Sync Stok**](migrate-to-forstok.md)****
 
 ****
 

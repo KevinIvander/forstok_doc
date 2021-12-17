@@ -3,7 +3,7 @@
 ![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.15.28-pm.png)
 
 {% hint style="warning" %}
-**Penting!  **Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+**Penting!**  Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
 {% endhint %}
 
 ## Cara Integrasi Shopee (Video)
@@ -17,7 +17,7 @@
 1. Pilih Menu Integration > Pilih Add integrations.
 2. Klik view untuk integrasikan Shopee.
 3. Input akses log in Shopee, lalu klik submit.
-4. Pada Product Catalog pilih **Sync Product from Shopee **>**Next **> pilih Finish.
+4. Pada Product Catalog pilih **Sync Product from Shopee** >**Next** > pilih Finish.
 5. Shopee berhasil integrasi ke Forstok dan sedang proses import produk.
 
 ## Cara Integrasi Shopee (Step-by-step)
@@ -37,7 +37,7 @@
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062576218/original/40DmucYg6jMakhcnhIz9VmcKw3I3DFnHCA.png?1601817583)
 
-5\. Pada Product Catalog pilih **Sync Product from Shopee **>**Next **> pilih Finish&#x20;
+5\. Pada Product Catalog pilih **Sync Product from Shopee** >**Next** > pilih Finish&#x20;
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062576273/original/chu1WzWOwkvpehousVnzpUWPRBz2IFX1\_w.png?1601817662)
 

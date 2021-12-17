@@ -3,7 +3,7 @@
 ![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.55.14-pm.png)
 
 {% hint style="warning" %}
-**Penting!  **Sebelum integrasi, pasti kan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+**Penting!**  Sebelum integrasi, pasti kan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
 {% endhint %}
 
 ## Cara Integrasi Elevenia (Step-by-step)
@@ -30,6 +30,6 @@ Jika sudah masuk ke seller center, pilih Akun Saya > API Penjual > API Elevenia 
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062606507/original/J4skiqW4naEN3W0jRx2l-y4e7l\_4fToqEg.png?1601871452)
 
-5\. Pada Product Catalog pilih **Sync Product from ELevenia **> Next > pilih Finish
+5\. Pada Product Catalog pilih **Sync Product from ELevenia** > Next > pilih Finish
 
 6\. Elevenia berhasil integrasi ke Forstok dan sedang proses import produk.

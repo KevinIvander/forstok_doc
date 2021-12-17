@@ -16,11 +16,11 @@ Mac: [https://forstokchat.s3-ap-southeast-1.amazonaws.com/Mac/Forstok+Chat-1.0.0
 
 ![2. Go to System Preferences / Security & Privacy. Click Open Anyway](../../.gitbook/assets/screen-shot-2021-08-03-at-2.12.56-pm.png)
 
-**3. Login using Forstok account **
+**3. Login using Forstok account**&#x20;
 
 ![](<../../.gitbook/assets/image (10).png>)
 
-**3. Login to each Marketplace store. **
+**3. Login to each Marketplace store.**&#x20;
 
 ![](<../../.gitbook/assets/image (265).png>)
 

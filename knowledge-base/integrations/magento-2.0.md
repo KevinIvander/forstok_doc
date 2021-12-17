@@ -6,7 +6,7 @@
 Untuk integrasi Magento harap hubungi tim kami di email onboarding@forstok.com\
 
 
-**Subject: Request Integrasi Magento - \[Nama Toko] **
+**Subject: Request Integrasi Magento - \[Nama Toko]**&#x20;
 
 Hi Tim Forstok,
 

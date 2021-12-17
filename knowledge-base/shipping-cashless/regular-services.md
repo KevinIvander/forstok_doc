@@ -4,7 +4,7 @@ You can now accept Regular Service  for your website.  It's an add-on service fr
 
 **Available Service**: Regular, Next day, Cargo
 
-**Available Couriers: **
+**Available Couriers:**&#x20;
 
 ![](../../.gitbook/assets/screen-shot-2021-04-06-at-3.53.30-pm.png)
 
