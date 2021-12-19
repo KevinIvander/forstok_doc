@@ -9,7 +9,7 @@ Sales Order adalah dokumen keuangan yang mengkonfirmasi penjualan yang akan data
 Pada menu order ini seller dapat memproses orderan dari Forstok. Seperti update ready to ship, print shipping label, print pick list dan pack list.\
 Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
 
-Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan..
+Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order ini terdapat 2 sisi juga. Kiri merupakan total item dan sebelah kanan detail per orderan.
 
 ![](https://lh6.googleusercontent.com/0zJZfJJHI62p4tefEEuSbcwyosMQuE29T7KwqV4xOhy\_5IW3FOtEty8T0jhjXsxLwWrqnZJTcL\_C0gXvsK9smTJdrtbEOqF2OVFy5lx4nVAq3EJbAbppMJJm3AMnTIvPOFzo5063) ![](../../.gitbook/assets/1.jpg)
 
