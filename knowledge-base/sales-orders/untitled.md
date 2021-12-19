@@ -20,11 +20,11 @@ Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order in
 
 1\. Order POS merupakan fitur untuk membuat order baru  secara manual pada POS. Dimana berkemungkinan seller menjual secara online juga selain di marketplace mungkin seperti Instagram, Facebook, dll dimana stock masih satu stock dengan penjualan marketplace. Maka saat buat order manual POS untuk sku tsb maka stok marketplacenya juga ikut terpotong
 
-![](https://lh6.googleusercontent.com/TizLyE7CoF0Vpf\_gkVt3pSHC11\_HmoMTqVFkNkuJnk\_maXMiLFzeAxVLL7QLSTcHS79kk6oyMk-XuIcfhiZL95AxvCakM\_cs5pZe6DVaETxFCM8nHcmqh-59VWi8QrghM02\_MsXh) ![](../../.gitbook/assets/d33356da-4b23-45b8-8f9c-1676fbe5a442.jpg)
+![](../../.gitbook/assets/pos.jpg)
 
 2\. Search order/sku di kolom search kita dapat mencari order berdasarkan Forstok Order ID, Channel Order ID, Customer Name dan Product SKU
 
-![](https://lh6.googleusercontent.com/ngvTvDn849wA\_56-L\_PuNe8paUTlkqZ2l-2FAl7PhCJmoaWKo1HDt95tf9L1ngJoI37E9IOXaj\_ZJtIxBO1xhgfHN\_ajfVdrHr68bDSRtoJy01ymVmf6JTLiuOG3PX\_Ynhu\_74ap) ![](../../.gitbook/assets/salesss.jpg)
+![](../../.gitbook/assets/m.jpg)
 
 3\. Filter berdasarkan status.
 
