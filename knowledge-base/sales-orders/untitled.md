@@ -36,7 +36,7 @@ Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order in
 * Delivered: Paket sudah sampai ke alamat customer
 * Cancelled: Orderan yang di cancel customer
 
-![](https://lh4.googleusercontent.com/VpRkHawHKkHnZG2c1\_y6fu0f9r7vOr\_ztzsj5sKen6zybOQV07\_JVe6HESEp0YYKTASiqLp02y17xsDYESWrA4Ddb-fa\_xXb0gp5H6bXFEucEV3a51sB8uCwlQIC4Mb\_9pxe1bxF)
+![](https://lh4.googleusercontent.com/VpRkHawHKkHnZG2c1\_y6fu0f9r7vOr\_ztzsj5sKen6zybOQV07\_JVe6HESEp0YYKTASiqLp02y17xsDYESWrA4Ddb-fa\_xXb0gp5H6bXFEucEV3a51sB8uCwlQIC4Mb\_9pxe1bxF) ![](../../.gitbook/assets/orderrrrrr.jpg)
 
 4\. Filter berdasarkan _store_.
 
@@ -57,29 +57,29 @@ Lalu di Forstok bisa proses order sekaligus banyak atau bulky. Tinggal klik chec
 * Print Manifest: Untuk memprint tanda terima kurir
 * Cancel Order: Untuk membatalkan orderan tsb
 
-![](https://lh3.googleusercontent.com/LbTIZN3G6hiqa15DqGN52e29mcMx1FF4P00LP5TSjpFywi\_ar9IAvPyV9N\_0GAVDDy6OzTzKitmSVepoVxheUv\_9G8cKlCuSsUOkhR1b3GjjagqwpRwN03mN0XgpbVwWq5ItAAu5)
+![](https://lh3.googleusercontent.com/LbTIZN3G6hiqa15DqGN52e29mcMx1FF4P00LP5TSjpFywi\_ar9IAvPyV9N\_0GAVDDy6OzTzKitmSVepoVxheUv\_9G8cKlCuSsUOkhR1b3GjjagqwpRwN03mN0XgpbVwWq5ItAAu5) ![](../../.gitbook/assets/bulk.jpg)
 
 **B. Right Panel Terdiri dari**&#x20;
 
 1\. Detail order berupa: item yang di order oleh customer, nama customer, alamat customer, No tlp customer, No Order dan lain-lain.
 
-![](https://lh6.googleusercontent.com/c9Msps40e3E7lNlRcaDsQc9G\_goQodQHvNaxXH\_amnRVKOITF2Sphrf0sFdPex58nEO6Im5WzysBOb66kMk62X0BrKnIbnVmnAUtRjylv3QdjMDgI1FP0GcfPq7kHIcVs0QSs\_9R)
+![](https://lh6.googleusercontent.com/c9Msps40e3E7lNlRcaDsQc9G\_goQodQHvNaxXH\_amnRVKOITF2Sphrf0sFdPex58nEO6Im5WzysBOb66kMk62X0BrKnIbnVmnAUtRjylv3QdjMDgI1FP0GcfPq7kHIcVs0QSs\_9R) ![](../../.gitbook/assets/id.jpg)
 
 2\. Activity.\
 Untuk melihat tracking status order.
 
-![](https://lh3.googleusercontent.com/ygdmFgyVcqJMDQ5uGWrcehIYovs5PWqg2S4Y\_2ANpvwfxoGgNg9XGnuIBjxvI89aooWAcftaCyt7h\_fEC8vcLoOO9c2ZCHv0ew-EbRZq09Lyd\_l1dSTXw2ng2-gGrnlYcyCHCAks)
+![](https://lh3.googleusercontent.com/ygdmFgyVcqJMDQ5uGWrcehIYovs5PWqg2S4Y\_2ANpvwfxoGgNg9XGnuIBjxvI89aooWAcftaCyt7h\_fEC8vcLoOO9c2ZCHv0ew-EbRZq09Lyd\_l1dSTXw2ng2-gGrnlYcyCHCAks) ![](<../../.gitbook/assets/ac (1).jpg>)
 
 3\. Update Status.\
 \- Ready to Shipped: Untuk memproses orderan ready to ship atau request pick up kurir.\
 \- Cancel: Untuk membatalkan atau cancel orderan.
 
-![](https://lh5.googleusercontent.com/A4098fgWbfIS4\_w6L4Kn5NonF0i1e0SzON-Dy8618pjIbhRTA9zbYs0utHGB2PAv7wfnxq0dPCFqZvkJEV\_6TcXgnCq3Db9lqy2adj-LuoYYVKyndprAIXoOfZY6dTIiyaU1euwj)
+![](https://lh5.googleusercontent.com/A4098fgWbfIS4\_w6L4Kn5NonF0i1e0SzON-Dy8618pjIbhRTA9zbYs0utHGB2PAv7wfnxq0dPCFqZvkJEV\_6TcXgnCq3Db9lqy2adj-LuoYYVKyndprAIXoOfZY6dTIiyaU1euwj) ![](../../.gitbook/assets/ready.jpg) ![](../../.gitbook/assets/cance.jpg)
 
 4\. Print.\
 Untuk print shipping label, print pick list dan print pack list.
 
-![](https://lh5.googleusercontent.com/SVm7RGVQjpUbwL9TLPgDqmRTI8BHpguQzeQgLY9AYa9JOqcgxeq2vl-tWkwpw\_i7aqPN6YGbIoBqbBITkbo2lTpzUylndVIu9OhN9IHh4K-YoImUNz-HgNhWefnMaKNI\_BiFk0nf)
+![](../../.gitbook/assets/pt.jpg) ![](../../.gitbook/assets/ii.jpg) ![](../../.gitbook/assets/bb.jpg)
 
 Berikut tampilan ketika klik Print Shipping Label
 
