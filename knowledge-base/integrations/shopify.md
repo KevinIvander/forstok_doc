@@ -48,7 +48,7 @@ Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Sho
 
 1\. Log ke Shopify,  pilih **Settings** pada menu di sebelah kiri → lalu klik **Notifications**
 
-![](https://lh4.googleusercontent.com/Itpx5JfT\_B1m6D9xwiASDge6R53LmylM\_q5hg5gE1kNFCNhECP1rZ-eBUFUTDjRoKeasQB5enm1NLZrHvMltzQ0PICkV\_OolFf-5oANE9-kYhEps89VKoPiqf41BGzlXeiOh\_1\_S) ![](<../../.gitbook/assets/see (2).jpg>) ![](../../.gitbook/assets/notif.jpg)
+![](https://lh4.googleusercontent.com/Itpx5JfT\_B1m6D9xwiASDge6R53LmylM\_q5hg5gE1kNFCNhECP1rZ-eBUFUTDjRoKeasQB5enm1NLZrHvMltzQ0PICkV\_OolFf-5oANE9-kYhEps89VKoPiqf41BGzlXeiOh\_1\_S) ![](<../../.gitbook/assets/see (3).jpg>) ![](../../.gitbook/assets/notif.jpg)
 
 2\. Scroll kebawah lalu klik **create webhook**
 
