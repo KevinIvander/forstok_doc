@@ -28,7 +28,17 @@ Demikian kami sampaikan, atas perhatiannya kami ucapkan terima kasih
 email ke: onboarding@forstok.com
 {% endhint %}
 
-2\. Pilih menu Integrations > pilih Add Integrations
+Forstok akan kirimkan request approval API Tokopedia.&#x20;
+
+Bpak/Ibu mohon buka seller center Tokopedia > Aplikasi Pihak Ketiga > Menunggu Pesetujuan > Klik terima
+
+![](<../../.gitbook/assets/image (447).png>)
+
+Jika sudah klik terima mohon infokan kembali ke kami. Biar kami bantu integrasikan.
+
+**Integrations**
+
+1\. Pilih menu Integrations > pilih Add Integrations
 
 ![](<../../.gitbook/assets/image (142).png>)
 
