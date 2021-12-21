@@ -43,7 +43,9 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062548715/original/iKBxQ4uj05i-bZEJA5REOMw\_t\_l3FpjSug.png?1601757322)
 
-
+{% hint style="danger" %}
+Untuk listing ke JD.ID dan Woocommerce belum bisa listing dari Forstok karena ada limitation listing API dari marketplace  harus di lakukan langsung dari seller center lalu import ke Forstok
+{% endhint %}
 
 {% hint style="info" %}
 * Sebelum menggunakan cross listing, pastikan bahwa sudah ada **item master** nya terlebih dahulu di forstok dan **sudah terisi lengkap data master itemnya**.&#x20;
