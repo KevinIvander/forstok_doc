@@ -16,8 +16,9 @@
 
 * [Pengaturan awal (Setup)](knowledge-base/before-integrations/README.md)
   * [About Forstok](knowledge-base/before-integrations/about-forstok.md)
-  * [Onboarding Steps](knowledge-base/before-integrations/onboarding-steps.md)
-  * [Step 1: Pencocokan Kode SKU](knowledge-base/before-integrations/step-1.md)
+  * [Checklist pre-Onboarding](knowledge-base/before-integrations/step-1.md)
+  * [Onboarding Steps](knowledge-base/before-integrations/onboarding-steps/README.md)
+    * [Page 1](knowledge-base/before-integrations/onboarding-steps/page-1.md)
   * [Step 2: Integration marketplace dan import produk](knowledge-base/before-integrations/integrasi-marketplace.md)
   * [Step 3: Linking Produk](knowledge-base/before-integrations/3.-linking-produk.md)
   * [Step 4: Sync Stok](knowledge-base/before-integrations/migrate-to-forstok.md)
