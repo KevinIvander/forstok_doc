@@ -9,11 +9,11 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 
 **Step 1:** [**Pencocokan Kode SKU semua marketplace**](step-1.md)****
 
-**Step 2:** [**Integration marketplace dan import produk**](onboarding-steps/integrasi-marketplace.md)****
+**Step 2:** [**Integration marketplace dan import produk**](integrasi-marketplace.md)****
 
 **Step 3:** [**Linking produk**](3.-linking-produk.md)****
 
-**Step 4:** [**Sync Stok**](onboarding-steps/migrate-to-forstok.md)****
+**Step 4:** [**Sync Stok**](migrate-to-forstok.md)****
 
 ****
 
