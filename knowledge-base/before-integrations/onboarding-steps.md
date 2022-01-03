@@ -11,7 +11,7 @@ Onboarding Step merupakan langkah awal untuk seller sebelum memulai menggunakan 
 
 **Step 2:** [**Integration marketplace dan import produk**](integrasi-marketplace.md)****
 
-**Step 3:** [**Linking produk**](3.-linking-produk.md)****
+**Step 3:** [**Linking produk**](onboarding-steps/3.-linking-produk.md)****
 
 **Step 4:** [**Sync Stok**](migrate-to-forstok.md)****
 
