@@ -10,3 +10,6 @@ Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan p
 
 ![Jurnal x Forstok API Flow](../../../.gitbook/assets/screen-shot-2021-08-27-at-10.50.08-am.png)
 
+Untuk integrasi ke Jurnal ada 2 kebutuhan yaitu:\
+1\. Transaksi order masuk ke Jurnal\
+2\. Upate stock via Jurnal dan import product master via Jurnal ke Forstok
