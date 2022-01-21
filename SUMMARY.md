@@ -85,6 +85,7 @@
   * [Update Image/Foto](knowledge-base/items/merubah-category-master-by-sku-interface.md)
 * [Inventaris (Inventory)](knowledge-base/inventory/README.md)
   * [Create Stock Adjustment (interface)](knowledge-base/inventory/upload-stock-adjustment-interface.md)
+  * [Stock adjustment using barcode scanner](knowledge-base/inventory/stock-adjustment-using-barcode-scanner.md)
   * [Upload Stock Adjustment Final Qty (xls)](knowledge-base/inventory/stock-adjustment-excel.md)
   * [Upload Stock Adjustment Delta Qty +/- (xls)](knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
   * [Stock Allocation (Flash Sale/Campaign)](knowledge-base/inventory/stock-allocation-flash-sale.md)
