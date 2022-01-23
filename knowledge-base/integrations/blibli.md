@@ -26,11 +26,13 @@ ID API Forstok yaitu: mta-api-ptforstokteknologiindonesia-9ddf9
 
 ![](<../../.gitbook/assets/image (178).png>)
 
-4\. \`Input API seller key dan Merchant ID\
+4\. Input API seller key dan Merchant ID
+
+MTA Username (Email): _Email log in seller center Anda_\
 API Seller Key: _copy paste yang di dapat dari seller center_\
 Merchant ID: _copy paste yang di dapat dari seller center_
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48066776613/original/uyup1sGO6LUyjuG1tHVmzt-wvVLA8z1apA.png?1603735140)
+![](<../../.gitbook/assets/image (448).png>)
 
 ![](<../../.gitbook/assets/image (446).png>)
 
