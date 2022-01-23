@@ -12,7 +12,7 @@ Untuk merubah atau mengganti Foto bisa dari Forstok. Berikut step by step cara m
 
 3\. Scroll ke kanan lalu pilih pada field Tokopedia, double tap kolom tsb. Lalu tinggal di ganti imagenya.
 
-![](<../../.gitbook/assets/image (442).png>)
+![](<../../.gitbook/assets/image (442) (1).png>)
 
 ![](<../../.gitbook/assets/image (446) (1) (1).png>)
 

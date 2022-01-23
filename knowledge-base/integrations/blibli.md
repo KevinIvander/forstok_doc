@@ -32,7 +32,7 @@ MTA Username (Email): _Email log in seller center Anda_\
 API Seller Key: _copy paste yang di dapat dari seller center_\
 Merchant ID: _copy paste yang di dapat dari seller center_
 
-![](<../../.gitbook/assets/image (448).png>)
+![](<../../.gitbook/assets/image (448) (1).png>)
 
 ![](<../../.gitbook/assets/image (446).png>)
 
