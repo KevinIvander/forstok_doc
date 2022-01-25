@@ -1,6 +1,8 @@
 # Integrasi Jurnal
 
-Cara Integrasi Jurnal (Step-by-step)
+Cara Integrasi Jurnal (Step-by-step)\
+\
+Untuk integrasi ke Jurnal pastikan akun Jurnal yang connect ke Forstok adalah owner account bukan sub account.
 
 1\. Cara menu Integrastions pilih Add Integrations.
 
