@@ -48,6 +48,7 @@
     * [FAQ Jurnal](knowledge-base/integrations/jurnal-accounting/faq-jurnal.md)
   * [Accurate Online](knowledge-base/integrations/accurate-online/README.md)
     * [Integrasi Accurate Online](knowledge-base/integrations/accurate-online/integrasi-accurate-online.md)
+  * [Page 1](knowledge-base/integrations/page-1.md)
   * [Pawoon POS](knowledge-base/integrations/pawoon-pos/README.md)
     * [Integrasi Pawoon](knowledge-base/integrations/pawoon-pos/integrasi-pawoon.md)
     * [Sinkronisasi stok (Pawoon ke Forstok)](knowledge-base/integrations/pawoon-pos/sinkronisasi-stok-pawoon-ke-forstok.md)
