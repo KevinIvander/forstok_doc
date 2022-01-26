@@ -2,16 +2,16 @@
 
 ### **Order Mapping Forstok ke Jurnal**
 
-| **Forstok**     | **Jurnal**                                    |
-| --------------- | --------------------------------------------- |
-| Pending Payment | -                                             |
-| Open            | -                                             |
-| Printed         | -                                             |
-| Ready to Ship   | Create Invoice di Jurnal                      |
-| Shipped         | -                                             |
-| Delivered       | Update invoice di jurnal jadi paid            |
-| Cancelled       | Invoice akan cancel secara otomatis di Jurnal |
-| Return          | Invoice akan cancel secara otomatis di Jurnal |
+| **Forstok**     | **Jurnal**                                       |
+| --------------- | ------------------------------------------------ |
+| Pending Payment | -                                                |
+| Open            | Create Invoice di Jurnal                         |
+| Printed         | -                                                |
+| Ready to Ship   | -                                                |
+| Shipped         | -                                                |
+| Delivered       | Update invoice di jurnal jadi paid               |
+| Cancelled       | Invoice akan di delete secara otomatis di Jurnal |
+| Return          | Invoice harus di delete secara manual di Jurnal  |
 
 ### Faktur akan dibuat di Jurnal saat pesanan dikirim.&#x20;
 
