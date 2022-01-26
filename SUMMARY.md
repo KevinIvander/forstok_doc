@@ -43,6 +43,7 @@
     * [Jurnal Settings - Mapping COA dan gudang](knowledge-base/integrations/jurnal-accounting/pesanan-penjualan-ke-faktur-chart-of-accounting-mapping.md)
     * [Produk Import (Jurnal ke Forstok)](knowledge-base/integrations/jurnal-accounting/pedoman-penggunaan-jurnal-di-forstok.md)
     * [Sinkronisasi stok (Jurnal ke Forstok)](knowledge-base/integrations/jurnal-accounting/sinkronisasi-stok-jurnal-ke-forstok.md)
+    * [Sinkronisasi Order (Forstok ke Jurnal)](knowledge-base/integrations/jurnal-accounting/sinkronisasi-order-forstok-ke-jurnal.md)
     * [Terms and Conditions](knowledge-base/integrations/jurnal-accounting/terms-and-conditions.md)
     * [Disconnect Jurnal](knowledge-base/integrations/jurnal-accounting/disconnect-jurnal.md)
     * [FAQ Jurnal](knowledge-base/integrations/jurnal-accounting/faq-jurnal.md)
