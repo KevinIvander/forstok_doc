@@ -6,7 +6,7 @@ Accurate Online merupakan sistem akuntansi yang memudahkan Anda dalam mengelola 
 
 | **Forstok**     | **Accurate**                                                                                      |
 | --------------- | ------------------------------------------------------------------------------------------------- |
-| Pending Payment |                                                                                                   |
+| Pending Payment | -                                                                                                 |
 | Open            | Create Sales order di Accurate untuk reserved stok                                                |
 | Ready to Ship   | Create Sales Invoice di Accurate status unpaid. Accurate SO akan otomatis updated jadi completed. |
 | Shipped         | -                                                                                                 |
