@@ -12,7 +12,7 @@ Accurate Online merupakan sistem akuntansi yang memudahkan Anda dalam mengelola 
 | Shipped         | -                                                                                                                                                                                            |
 | Delivered       | Forstok akan update invoice di Accurate jadi paid.                                                                                                                                           |
 | Cancelled       | SO and Invoice  akan di delete secara otomatis di Accurate                                                                                                                                   |
-| Return          | Invoice harus di delete secara manual di Accurate                                                                                                                                            |
+| Returned        | Marketplace belum memprovide API return. Jadi harus create sales return di Accurate secara manual.                                                                                           |
 
 
 
