@@ -40,7 +40,7 @@
   * [Magento 2.0](knowledge-base/integrations/magento-2.0.md)
   * [Jurnal Accounting](knowledge-base/integrations/jurnal-accounting/README.md)
     * [Integrasi Jurnal](knowledge-base/integrations/jurnal-accounting/integrasi-jurnal.md)
-    * [Pesanan penjualan ke Faktur (Chart of Accounting Mapping)](knowledge-base/integrations/jurnal-accounting/pesanan-penjualan-ke-faktur-chart-of-accounting-mapping.md)
+    * [Jurnal Settings - Mapping COA dan gudang](knowledge-base/integrations/jurnal-accounting/pesanan-penjualan-ke-faktur-chart-of-accounting-mapping.md)
     * [Produk Import (Jurnal ke Forstok)](knowledge-base/integrations/jurnal-accounting/pedoman-penggunaan-jurnal-di-forstok.md)
     * [Sinkronisasi stok (Jurnal ke Forstok)](knowledge-base/integrations/jurnal-accounting/sinkronisasi-stok-jurnal-ke-forstok.md)
     * [Terms and Conditions](knowledge-base/integrations/jurnal-accounting/terms-and-conditions.md)
