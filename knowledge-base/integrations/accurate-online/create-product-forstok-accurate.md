@@ -1,2 +1,2 @@
-# Create Product (Forstok ke Accurate)
+# Create Product (Forstok → Accurate)
 
