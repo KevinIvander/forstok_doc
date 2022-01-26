@@ -48,7 +48,7 @@
     * [FAQ Jurnal](knowledge-base/integrations/jurnal-accounting/faq-jurnal.md)
   * [Accurate Online](knowledge-base/integrations/accurate-online/README.md)
     * [Integrasi Accurate Online](knowledge-base/integrations/accurate-online/integrasi-accurate-online.md)
-    * [Page 1](knowledge-base/integrations/accurate-online/page-1.md)
+    * [Accurate Settings - Mapping COA, gudang dan pajak](knowledge-base/integrations/accurate-online/accurate-settings-mapping-coa-gudang-dan-pajak.md)
     * [Create Product (Forstok ke Accurate)](knowledge-base/integrations/accurate-online/create-product-forstok-ke-accurate.md)
     * [Sinkronisasi stok (Accurate ke Forstok)](knowledge-base/integrations/accurate-online/sinkronisasi-stok-accurate-ke-forstok.md)
   * [Pawoon POS](knowledge-base/integrations/pawoon-pos/README.md)
