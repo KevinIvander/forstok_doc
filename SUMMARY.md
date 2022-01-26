@@ -46,6 +46,7 @@
     * [Terms and Conditions](knowledge-base/integrations/jurnal-accounting/terms-and-conditions.md)
     * [Disconnect Jurnal](knowledge-base/integrations/jurnal-accounting/disconnect-jurnal.md)
     * [FAQ Jurnal](knowledge-base/integrations/jurnal-accounting/faq-jurnal.md)
+  * [Page 1](knowledge-base/integrations/page-1.md)
   * [Pawoon POS](knowledge-base/integrations/pawoon-pos/README.md)
     * [Integrasi Pawoon](knowledge-base/integrations/pawoon-pos/integrasi-pawoon.md)
     * [Sinkronisasi stok (Pawoon ke Forstok)](knowledge-base/integrations/pawoon-pos/sinkronisasi-stok-pawoon-ke-forstok.md)
