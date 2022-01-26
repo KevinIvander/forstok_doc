@@ -13,6 +13,21 @@ Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan p
 
 ![Jurnal x Forstok API Flow](../../../.gitbook/assets/screen-shot-2021-08-27-at-10.50.08-am.png)
 
+### **Order Mapping Forstok ke Jurnal**
+
+| **Forstok**     | **Jurnal**                                       |
+| --------------- | ------------------------------------------------ |
+| Pending Payment | Create invoice di Jurnal untuk potong stok       |
+| Open            | Create invoice di Jurnal untuk potong stok       |
+| Printed         | -                                                |
+| Ready to Ship   | -                                                |
+| Shipped         | -                                                |
+| Delivered       | Update invoice di jurnal jadi paid               |
+| Cancelled       | Invoice akan di delete secara otomatis di Jurnal |
+| Return          | Invoice harus di delete secara manual di Jurnal  |
+
+
+
 Untuk integrasi ke Jurnal ada 2 kebutuhan yaitu:\
 1\. Transaksi order masuk ke Jurnal\
 2\. Upate stock via Jurnal dan import product master via Jurnal ke Forstok
