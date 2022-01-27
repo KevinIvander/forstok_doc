@@ -4,7 +4,7 @@ Untuk merubah atau mengganti Foto bisa dari Forstok. Berikut step by step cara m
 
 1. Pilih sku yang akan diganti fotonya, pilih Edit - Edit item
 
-![](<../../.gitbook/assets/image (443) (1).png>)
+![](<../../.gitbook/assets/image (443) (1) (1).png>)
 
 2\. Pilih channel yang akan di Edit, lalu edit
 

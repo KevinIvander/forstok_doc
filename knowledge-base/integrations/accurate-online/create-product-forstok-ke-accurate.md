@@ -1,2 +1,26 @@
 # Create Product (Forstok → Accurate)
 
+1. Click setting “Accurate
+
+![](<../../../.gitbook/assets/Screen Shot 2022-01-27 at 1.06.34 PM.png>)
+
+2\. Click button “Sync Item (Forstok - Accurate)”
+
+![](<../../../.gitbook/assets/image (443).png>)
+
+Product mapping&#x20;
+
+| Forstok Master Product | Accurate Product    |
+| ---------------------- | ------------------- |
+| SKU Seller Forstok     | Item Code           |
+| Inventory              | Default “Item type  |
+| Barcode                | UPC / Barcode       |
+| Reguler Price          | Default Sales Price |
+| Cost Price             | Purchase Price      |
+| Qty On Hand            | Balance Qty         |
+
+{% hint style="warning" %}
+1. Forstok hanya create item ke Accurate yang sudah ada di forstok belum ada di Accurate
+2. Di Accurate hanya single Variant. Utk multi-variant harus create/upload master product ke Forstok langsung
+3. Forstok tidak kirim image to Accurate (Image tidak ada di API Accurate)
+{% endhint %}
