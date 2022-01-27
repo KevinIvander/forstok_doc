@@ -47,7 +47,7 @@ mta-api-ptforstokteknologiindonesia-9ddf9
 4\. Jika semua sudah di input, lalu pilih save. Harap info tim Forstok melalui ticketing atau WA Group jika sudah di reconnect.\
 
 
-![](<../../.gitbook/assets/image (450).png>)
+![](<../../.gitbook/assets/image (450) (1).png>)
 
 **B. Dari pop-up yang muncul pada dashboard Forstok**\
 \
