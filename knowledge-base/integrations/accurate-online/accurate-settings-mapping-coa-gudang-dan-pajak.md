@@ -2,6 +2,8 @@
 
 1. **Click Setting Accurate**
 
+![](<../../../.gitbook/assets/Screen Shot 2022-01-27 at 1.06.34 PM.png>)
+
 \
 2\. **Mapping to do list**
 
