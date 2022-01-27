@@ -8,7 +8,7 @@ Untuk merubah atau mengganti Foto bisa dari Forstok. Berikut step by step cara m
 
 2\. Pilih channel yang akan di Edit, lalu edit
 
-![](<../../.gitbook/assets/image (444) (1).png>)
+![](<../../.gitbook/assets/image (444) (1) (1).png>)
 
 3\. Scroll ke kanan lalu pilih pada field Tokopedia, double tap kolom tsb. Lalu tinggal di ganti imagenya.
 

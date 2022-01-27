@@ -16,7 +16,7 @@
 
 ![](<../../.gitbook/assets/image (435).png>)
 
-![](<../../.gitbook/assets/image (444).png>)
+![](<../../.gitbook/assets/image (444) (1).png>)
 
 5\. Kembali ke menu Upload Adjustment Price. Upload xls tadi lalu import
 
