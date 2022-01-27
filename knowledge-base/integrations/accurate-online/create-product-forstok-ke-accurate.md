@@ -12,12 +12,19 @@ Product mapping&#x20;
 
 | Forstok Master Product | Accurate Product    |
 | ---------------------- | ------------------- |
-| SKU Seller Forstok     | Item Code           |
+| SKU Seller             | Item Code           |
 | Inventory              | Default “Item type  |
+| Name                   | -                   |
+| Category               | -                   |
+| Brand                  | -                   |
 | Barcode                | UPC / Barcode       |
-| Reguler Price          | Default Sales Price |
+| Regular Price          | Default Sales Price |
 | Cost Price             | Purchase Price      |
 | Qty On Hand            | Balance Qty         |
+| Weight                 | -                   |
+| Height                 | -                   |
+| Width                  | -                   |
+| Length                 | -                   |
 
 {% hint style="warning" %}
 1. Forstok hanya create item ke Accurate yang sudah ada di forstok belum ada di Accurate
