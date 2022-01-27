@@ -32,7 +32,7 @@ Forstok akan kirimkan request approval API Tokopedia.&#x20;
 
 Bpak/Ibu mohon buka seller center Tokopedia > Aplikasi Pihak Ketiga > Menunggu Pesetujuan > Klik terima
 
-![](<../../.gitbook/assets/image (447) (1).png>)
+![](<../../.gitbook/assets/image (447) (1) (1).png>)
 
 Jika sudah klik terima mohon infokan kembali ke kami. Biar kami bantu integrasikan.
 

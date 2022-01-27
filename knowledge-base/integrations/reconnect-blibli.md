@@ -26,7 +26,7 @@ MTA Username (Email): _Email log in seller center Anda_\
 API Seller Key: _copy paste yang di dapat dari seller center_\
 Merchant ID: _copy paste yang di dapat dari seller center_
 
-![](<../../.gitbook/assets/image (448).png>)
+![](<../../.gitbook/assets/image (448) (1).png>)
 
 Untuk mendapatkan Email, API Seller Key dan Merchant ID:
 
@@ -42,12 +42,12 @@ Kode sandi API = Kata Sandi Khusus\
 Pastikan Hubungkan API Klien sudah terhubung dengan ID API Klien FOrstok, yaitu:\
 mta-api-ptforstokteknologiindonesia-9ddf9
 
-![](<../../.gitbook/assets/image (447).png>)
+![](<../../.gitbook/assets/image (447) (1).png>)
 
 4\. Jika semua sudah di input, lalu pilih save. Harap info tim Forstok melalui ticketing atau WA Group jika sudah di reconnect.\
 
 
-![](<../../.gitbook/assets/image (450) (1).png>)
+![](<../../.gitbook/assets/image (450) (1) (1).png>)
 
 **B. Dari pop-up yang muncul pada dashboard Forstok**\
 \
