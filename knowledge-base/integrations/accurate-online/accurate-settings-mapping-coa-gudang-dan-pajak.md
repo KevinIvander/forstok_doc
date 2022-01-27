@@ -14,3 +14,6 @@
 
 3\. **Click Save**
 
+{% hint style="warning" %}
+_Branch & Tax optional jika aktif di Accurate_
+{% endhint %}
