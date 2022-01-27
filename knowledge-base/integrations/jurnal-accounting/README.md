@@ -15,16 +15,16 @@ Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan p
 
 ### **Order Mapping Forstok ke Jurnal**
 
-| **Forstok**     | **Jurnal**                                       |
-| --------------- | ------------------------------------------------ |
-| Pending Payment | Create invoice di Jurnal untuk potong stok       |
-| Open            | Create invoice di Jurnal untuk potong stok       |
-| Printed         | -                                                |
-| Ready to Ship   | -                                                |
-| Shipped         | -                                                |
-| Delivered       | Update invoice di jurnal jadi paid               |
-| Cancelled       | Invoice akan di delete secara otomatis di Jurnal |
-| Return          | Invoice harus di delete secara manual di Jurnal  |
+| **Forstok**     | **Jurnal**                                                                                                                                                                                      |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pending Payment | <p>Create invoice status unpaid di Jurnal untuk potong stok. </p><p></p><p><em>Ini untuk orderan MP yang mempunyai status order pending payment seperti Shopee, Tokopedia, Lazada, etc</em></p> |
+| Open            | Create invoice status unpaid di Jurnal untuk potong stok.                                                                                                                                       |
+| Printed         | -                                                                                                                                                                                               |
+| Ready to Ship   | -                                                                                                                                                                                               |
+| Shipped         | -                                                                                                                                                                                               |
+| Delivered       | Update invoice jadi Paid di jurnal                                                                                                                                                              |
+| Cancelled       | Invoice akan di delete secara otomatis di Jurnal                                                                                                                                                |
+| Returned        | Marketplace belum memprovide API return. Jadi harus create sales return di Accurate secara manual.                                                                                              |
 
 
 
