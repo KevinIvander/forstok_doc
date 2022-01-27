@@ -52,6 +52,8 @@
     * [Accurate Settings - Mapping COA, gudang dan pajak](knowledge-base/integrations/accurate-online/accurate-settings-mapping-coa-gudang-dan-pajak.md)
     * [Create Product (Forstok → Accurate)](knowledge-base/integrations/accurate-online/create-product-forstok-ke-accurate.md)
     * [Sinkronisasi stok (Accurate → Forstok)](knowledge-base/integrations/accurate-online/sinkronisasi-stok-accurate-ke-forstok.md)
+    * [Sinkronisasi Order (Forstok → Accurate)](knowledge-base/integrations/accurate-online/sinkronisasi-order-forstok-accurate.md)
+    * [FAQ Accurate](knowledge-base/integrations/accurate-online/faq-accurate.md)
   * [Pawoon POS](knowledge-base/integrations/pawoon-pos/README.md)
     * [Integrasi Pawoon](knowledge-base/integrations/pawoon-pos/integrasi-pawoon.md)
     * [Sinkronisasi stok (Pawoon ke Forstok)](knowledge-base/integrations/pawoon-pos/sinkronisasi-stok-pawoon-ke-forstok.md)
