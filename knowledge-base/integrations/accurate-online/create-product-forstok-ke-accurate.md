@@ -8,7 +8,7 @@
 
 ![](<../../../.gitbook/assets/image (443).png>)
 
-Product mapping&#x20;
+### Product mapping&#x20;
 
 | Forstok Master Product | Accurate Product    |
 | ---------------------- | ------------------- |
