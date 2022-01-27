@@ -13,7 +13,6 @@
 | Forstok Master Product | Accurate Product    |
 | ---------------------- | ------------------- |
 | SKU Seller             | Item Code           |
-| Inventory              | Default “Item type  |
 | Name                   | -                   |
 | Category               | -                   |
 | Brand                  | -                   |
@@ -25,6 +24,7 @@
 | Height                 | -                   |
 | Width                  | -                   |
 | Length                 | -                   |
+| VAT                    | VAT                 |
 
 {% hint style="warning" %}
 1. Forstok hanya create item ke Accurate yang sudah ada di forstok belum ada di Accurate
