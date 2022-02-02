@@ -7,8 +7,8 @@
 \
 2\. **Mapping to do list**
 
-* Mapping COA : Hanya muncul type COA Cash & Bank
-* Mapping Warehouse : Hanya muncul warehouse yang tersedia di Accurate
+* Mapping COA : Pastikan sudah buat COA per store di Accurate. Hanya bisa mapping type COA Cash & Bank
+* Mapping Warehouse : Hanya muncul warehouse yang sudah dibuat di Accurate
 * Mapping Setting Tax ( On atau Off sesuai di Accurate )
 * Mapping Shipping Price: other expense/ other income&#x20;
 
