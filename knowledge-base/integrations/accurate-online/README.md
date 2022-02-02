@@ -4,9 +4,9 @@ Accurate Online merupakan sistem akuntansi yang memudahkan Anda dalam mengelola 
 
 * Integration Steps. [View here](integrasi-accurate-online.md)
 * Accurate Settings - Mapping COA , gudang, pajak. [View here](accurate-settings-mapping-coa-gudang-dan-pajak.md)
-* How to create product from Forstok → Accurate. [View here](create-product-forstok-ke-accurate.md)
-* Stock adjustment and sync from Accurate → Forstok. [View here](sinkronisasi-stok-accurate-ke-forstok.md)
-* Order sync from Forstok → Accurate. [View here](sinkronisasi-order-forstok-accurate.md)
+* Create product: Forstok → Accurate. [View here](create-product-forstok-ke-accurate.md)
+* Stock sync: Accurate → Forstok. [View here](sinkronisasi-stok-accurate-ke-forstok.md)
+* Order sync: Forstok → Accurate. [View here](sinkronisasi-order-forstok-accurate.md)
 * Accurate FAQ. [View here](faq-accurate.md)
 
 ### **Order Mapping Forstok** → **Accurate Online**
