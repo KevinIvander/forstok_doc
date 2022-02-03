@@ -1,13 +1,11 @@
 # Jurnal Accounting
 
-Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan penjualan Anda. Dengan menghubungkan Jurnal ke Forstok semua transaksi orderan Online Anda bisa masuk ke Software Jurnal Anda. Sehingga Anda dapat mengelola laporan keuangan Offline dan Online jadi lebih mudah dan efisien.\
-
+Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan penjualan Anda. Dengan menghubungkan Jurnal ke Forstok semua transaksi orderan Online Anda bisa masuk ke Software Jurnal Anda. Sehingga Anda dapat mengelola laporan keuangan Offline dan Online jadi lebih mudah dan efisien.
 
 {% hint style="danger" %}
 <mark style="color:red;">Untuk integrasi ke Jurnal pastikan akun Jurnal yang connect ke Forstok adalah owner account bukan sub account.</mark>
 {% endhint %}
 
-\
 Integration Steps. [View here](integrasi-jurnal.md)
 
 1. Jurnal Settings - Mapping COA and gudang. [View here](pesanan-penjualan-ke-faktur-chart-of-accounting-mapping.md)
