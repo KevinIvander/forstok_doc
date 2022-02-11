@@ -18,6 +18,7 @@ Login ke Forstok dulu. Memetakan COA Jurnal ke setiap sales channel di Forstok. 
 
 ![](https://lh5.googleusercontent.com/dYzy6xRSoWJmP5Px-6uGJAHK9JbTbNyp14igBkmIuL\_OJOriruRJh9dN0hFYnJTw57M57d0ZL8hZW0Ysw9ft7pg53juNY8MMhVPXYsIfmmyz4LZ8I4LAz1D-z4YziSeDOsclvsknfCU)
 
+### 3. Mappingkan Gudang di Forstok dan Jurnal
 
+Apabila terdapat lebih dari 1 (satu) gudang di Jurnal, pastikan warehouse code di Jurnal sudah terisi agar stok dapat ter-update ke warehouse yang sesuai di Forstok. Stok akan otomatis ter-update di Primary Warehouse Forstok apabila warehouse code tidak diisi.
 
-****
