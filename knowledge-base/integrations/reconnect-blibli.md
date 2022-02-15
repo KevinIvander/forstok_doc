@@ -26,7 +26,7 @@ MTA Username (Email): _Email log in seller center Anda_\
 API Seller Key: _copy paste yang di dapat dari seller center_\
 Merchant ID: _copy paste yang di dapat dari seller center_
 
-![](<../../.gitbook/assets/image (448) (1).png>)
+![](<../../.gitbook/assets/WhatsApp Image 2022-02-15 at 16.49.11.jpeg>)
 
 Untuk mendapatkan Email, API Seller Key dan Merchant ID:
 
@@ -34,7 +34,9 @@ Untuk mendapatkan Email, API Seller Key dan Merchant ID:
 
 ![Pada Kata sandi API klik Buat . ](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48066775314/original/HUAtQ\_zL9xirsYbz-obm0lI-ncXyuq16Cw.png?1603734604)
 
-* Untuk Kata sandi khusus di kosongkan.
+* Untuk Kata sandi khusus silahkan diisi sesuai dengan yang ada di seller center.
+
+![](<../../.gitbook/assets/WhatsApp Image 2022-02-15 at 16.09.22.jpeg>)
 
 Kode toko = Merchant ID\
 Kode sandi API = Kata Sandi Khusus\
