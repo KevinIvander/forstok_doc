@@ -6,7 +6,7 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 ### Video
 
-![](../../.gitbook/assets/upload-stock-adjustment-final-qty.gif)
+![](<../../.gitbook/assets/stock adjustment.gif>)
 
 1\. Pada menu Item Forstok pilih tanda panah berikut dan Upload Stock Adjustment
 
