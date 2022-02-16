@@ -1,6 +1,6 @@
-# Step 2: Integration marketplace dan import produk
+# 2. Store Integration
 
-**Setelah  Phase 1 selesai kita mulai integrasi marketplace dari Forstok.**
+**Setelah  Tahap 1 selesai kita mulai integrasi marketplace dari Forstok.**
 
 Pastikan sudah log in ke akun Forstok (akses log in akan di share oleh tim Forstok).\
 [https://www.forstok.com/dashboard/users/login](https://www.forstok.com/dashboard/users/login)\
