@@ -1,10 +1,10 @@
 # Integrasi Jurnal
 
-Cara Integrasi Jurnal (Step-by-step)\
+Langkah-langkah melakukan Integrasi Jurnal (Step-by-step).\
 \
-Untuk integrasi ke Jurnal pastikan akun Jurnal yang connect ke Forstok adalah owner account bukan sub account.
+Untuk integrasi ke Jurnal pastikan akun Jurnal yang terhubung ke Forstok adalah Akun Utama bukan sub akun.
 
-1\. Cara menu Integrastions pilih Add Integrations.
+1\. Arahkan kursor ke bagian integrasi dibagian pojok kanan atas lalu pilih Add Integrations.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48078119309/original/nzF6pUWl4fkHR5YWSAvg7Kowh17GTgdWzA.png?1608714376)
 
@@ -12,15 +12,15 @@ Untuk integrasi ke Jurnal pastikan akun Jurnal yang connect ke Forstok adalah ow
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48078119596/original/TBSUKktOTBphl9zIHYFjr3PEqnuxgdzGww.png?1608714428)
 
-3\. Input akses Log in Jurnal Anda.
+3\.  Masukkan akses credential (email dan kata sandi) untuk log in ke Jurnal anda.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48078119721/original/8HAwTYMtel7cRxMn1E9BIKkSzlvOP-3mKw.png?1608714464)
 
-4\. Maka Jurnal berhasil terintegrasi.
+4\. Anda berhasil mengintegrasikan Jurnal dan akan muncul pada tampilan seperti gambar dibawah ini.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48078121334/original/x5DqVK4keLQxqtnuKeBdThAISMfuwz3boQ.png?1608714851)
 
 {% hint style="success" %}
-Setelah berhasil integrasi Jurnal langkah selanjutkan mappingkan COA (Chart of Accounting). Berikut panduan penggunaan Jurnal\
+Setelah berhasil integrasi Jurnal langkah selanjutnya adalah melakukan mapping COA (Chart of Accounting). Berikut panduan penggunaan Jurnal:\
 [https://docs.forstok.com/knowledge-base/integrations/jurnal-accounting/pedoman-penggunaan-jurnal-di-forstok](https://docs.forstok.com/knowledge-base/integrations/jurnal-accounting/pedoman-penggunaan-jurnal-di-forstok)
 {% endhint %}
