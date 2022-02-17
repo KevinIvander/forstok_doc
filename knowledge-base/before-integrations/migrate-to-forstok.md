@@ -1,6 +1,6 @@
-# Step 4: Sync Stok
+# 4. Sync Stok
 
-Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua marketplace. Ini point utama seller menggunakan fitur Forstok. Dimana seller sudah berkomitmen menggunakan Forstok untuk mengelola stock dan proses operational online.
+Langkah terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua marketplace. Ini point utama seller menggunakan fitur Forstok. Dimana seller sudah berkomitmen menggunakan Forstok untuk mengelola stock dan proses operational secara online.
 
 **Cara update stok Pertama dari Forstok**
 
@@ -26,7 +26,7 @@ Step terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua
 
 ![](<../../.gitbook/assets/image (408).png>)
 
-2\. Download template Update Quanity (csv). File bisa di download pada menu notification Forstok yang ada pada kanan atas (simbol lonceng).
+2\. Kemudian download template Update Quanity (csv). File tersebut bisa di download pada menu notification Forstok yang ada pada kanan atas (simbol lonceng).
 
 * Final qty : Stock yang di dijumlahkan yang akan di update ke Forstok
 * Delta qty -/+ : Untuk pengurangan atau penambahan stock yang akan di update
