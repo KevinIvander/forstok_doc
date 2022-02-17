@@ -34,7 +34,7 @@ Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan p
 | Shipped         | -                                                                                                                                                                                               |
 | Delivered       | Update invoice jadi Paid di jurnal                                                                                                                                                              |
 | Cancelled       | Invoice akan di delete secara otomatis di Jurnal                                                                                                                                                |
-| Returned        | Marketplace belum memprovide API return. Jadi harus create sales return di Accurate secara manual.                                                                                              |
+| Returned        | Marketplace belum memprovide API return. Jadi harus create sales return di Jurnal secara manual.                                                                                                |
 
 
 
