@@ -12,7 +12,7 @@
 * Mapping Setting Tax ( On atau Off sesuai di Accurate )
 * Mapping Shipping Price: other expense/ other income&#x20;
 
-![](<../../../.gitbook/assets/image (446).png>)
+![](<../../../.gitbook/assets/image (446) (1).png>)
 
 3\. **Click Save**
 

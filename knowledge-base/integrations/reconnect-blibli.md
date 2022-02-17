@@ -44,7 +44,7 @@ Kode sandi API = Kata Sandi Khusus\
 Pastikan Hubungkan API Klien sudah terhubung dengan ID API Klien FOrstok, yaitu:\
 mta-api-ptforstokteknologiindonesia-9ddf9
 
-![](<../../.gitbook/assets/image (447) (1).png>)
+![](<../../.gitbook/assets/image (447) (1) (1).png>)
 
 4\. Jika semua sudah di input, lalu pilih save. Harap info tim Forstok melalui ticketing atau WA Group jika sudah di reconnect.\
 

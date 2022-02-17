@@ -34,7 +34,7 @@ Merchant ID: _copy paste yang di dapat dari seller center_
 
 ![](<../../.gitbook/assets/image (448) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (446) (1).png>)
+![](<../../.gitbook/assets/image (446) (1) (1).png>)
 
 5\.  Pilih **Sync Products from Blibli**  > lalu pilih **Next** > **Finish**
 
