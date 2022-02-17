@@ -5,7 +5,7 @@ Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan p
 {% hint style="danger" %}
 <mark style="color:red;">Integrasi Jurnal hanya bisa digunakan sebagai pencatatan akunting. Sangat tidak disarankan untuk e-commerce operasional dimana membutuhkan real-time stok sync.</mark>&#x20;
 
-<mark style="color:red;">Stock Sync dari Jurnal ke Forstok harus dilakukan melalui menekan Sync stock secara manual.</mark>&#x20;
+<mark style="color:red;">Stock Sync atau pencocokan stok dari Jurnal ke Forstok harus dilakukan melalui menekan "sync stock" secara manual.</mark>&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
