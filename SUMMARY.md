@@ -33,6 +33,7 @@
   * [Bukalapak](knowledge-base/integrations/bukalapak.md)
   * [Zalora](knowledge-base/integrations/zalora.md)
   * [Blibli](knowledge-base/integrations/blibli.md)
+  * [Page 1](knowledge-base/integrations/page-1.md)
   * [Zilingo](knowledge-base/integrations/zilingo.md)
   * [Elevenia](knowledge-base/integrations/elevenia.md)
   * [Shopify](knowledge-base/integrations/shopify.md)
