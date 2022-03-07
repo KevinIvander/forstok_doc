@@ -2,10 +2,20 @@
 
 ![](<../../.gitbook/assets/Screen Shot 2022-02-22 at 2.40.58 PM.png>)
 
-{% hint style="danger" %}
-**Temporary limitation**
+{% hint style="success" %}
+**Fitur yang tersedia**
 
-1. Can't add new product/ listing from Forstok. Product must be uploaded to TikTok first then import to Forstok
-2. Can't update/ edit product including update price. Must update product and price from TikTok
-3. Can't update order status to Ready to Ship from Forstok. Must update order status in TikTok first, then print shipping label in Forstok.&#x20;
+1. Impor produk dari TikTok ke Forstok
+2. Perbarui stok dari Forstok ke TikTok
+3. Mendapatkan pesanan baru dari TikTok ke Forstok
+4. Cetak label pengiriman dari Forstok, setelah update order menjadi Ready to Ship dari TikTok
 {% endhint %}
+
+{% hint style="danger" %}
+**Batasan sementara**
+
+1. Tidak dapat menambahkan produk baru dari Forstok. Produk harus diunggah ke TikTok terlebih dahulu kemudian diimpor ke Forstok.
+2. Tidak dapat memperbarui/mengedit produk termasuk harga pembaruan. Harus memperbarui produk dan harga dari TikTok.
+3. Tidak dapat memperbarui status pesanan menjadi Siap Dikirim/ Ready to Ship dari Forstok. Harus update status order di TikTok dulu, baru print label pengiriman di Forstok.
+{% endhint %}
+
