@@ -5,10 +5,10 @@
 {% hint style="success" %}
 **Fitur yang tersedia**
 
-1. Impor produk dari TikTok ke Forstok
-2. Perbarui stok dari Forstok ke TikTok
-3. Mendapatkan pesanan baru dari TikTok ke Forstok
-4. Cetak label pengiriman dari Forstok, setelah update order menjadi Ready to Ship dari TikTok
+1. Impor produk dari TikTok ke Forstok.
+2. Perbarui stok dari Forstok ke TikTok.
+3. Mendapatkan pesanan baru dari TikTok ke Forstok.
+4. Cetak label pengiriman dari Forstok, setelah update order menjadi Ready to Ship dari TikTok.
 {% endhint %}
 
 {% hint style="danger" %}
