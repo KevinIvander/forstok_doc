@@ -37,7 +37,7 @@ Langkah-langkah melakukan Integrasi TikTok (Step-by-step).\
 
 **4. Masukan TikTok Login & Password**&#x20;
 
-![](<../../.gitbook/assets/image (443).png>)
+![](<../../.gitbook/assets/image (443) (1).png>)
 
 **5. Klik “Authorize”**
 

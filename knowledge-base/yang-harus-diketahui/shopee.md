@@ -8,4 +8,4 @@ Di Shopee jika Anda buka toko baru mempunyai batasan saat upload produk. Misal j
 
 {% embed url="https://help.shopee.co.id/s/article/Bagaimana-cara-menambahkan-kuota-produk-ke-toko-saya" %}
 
-![](<../../.gitbook/assets/image (443) (1) (1).png>)
+![](<../../.gitbook/assets/image (443) (1) (1) (1).png>)
