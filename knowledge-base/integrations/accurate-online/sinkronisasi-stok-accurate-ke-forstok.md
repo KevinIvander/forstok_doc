@@ -10,4 +10,4 @@ Check Item History in Accurate
 
 Forstok tab warehouse masuk ke Qty On Hand
 
-![](<../../../.gitbook/assets/image (449).png>)
+![](<../../../.gitbook/assets/image (449) (1).png>)

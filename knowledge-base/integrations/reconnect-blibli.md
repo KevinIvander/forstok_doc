@@ -13,12 +13,12 @@ Berikut step by step reconnect 2 cara tersebut:
 
 1 Pilih integrations - pilih settings pada channel yang akan reconnect API
 
-![](<../../.gitbook/assets/image (441).png>)
+![](<../../.gitbook/assets/image (441) (1).png>)
 
 2\. Pilih update channel\
 
 
-![](<../../.gitbook/assets/image (442).png>)
+![](<../../.gitbook/assets/image (442) (1).png>)
 
 3\. Input beberapa required berikut yang bisa di dapat dari seller center Blibli
 

@@ -16,7 +16,7 @@
 
 4\. **Select “Database “ > Click “Save”**
 
-![](<../../../.gitbook/assets/image (449) (1).png>)
+![](<../../../.gitbook/assets/image (449) (1) (1).png>)
 
 {% hint style="warning" %}
 1. data order yang di kirim ke accurate order setelah integrasi Accurate to forstok

@@ -6,7 +6,7 @@
 
 2\. Click button “Sync Item (Forstok - Accurate)”
 
-![](<../../../.gitbook/assets/image (443).png>)
+![](<../../../.gitbook/assets/image (443) (1).png>)
 
 ### Product mapping&#x20;
 

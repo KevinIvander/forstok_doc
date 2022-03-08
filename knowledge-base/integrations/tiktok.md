@@ -19,3 +19,30 @@
 3. Tidak dapat memperbarui status pesanan menjadi Siap Dikirim/ Ready to Ship dari Forstok. Harus update status order di TikTok dulu, baru print label pengiriman di Forstok.
 {% endhint %}
 
+## Steps
+
+Langkah-langkah melakukan Integrasi TikTok (Step-by-step).\
+\
+**1. Arahkan kursor ke bagian integrasi dibagian pojok kanan atas lalu pilih Add Integrations.**
+
+![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48078119309/original/nzF6pUWl4fkHR5YWSAvg7Kowh17GTgdWzA.png?1608714376)
+
+**2. Klik “Tambahkan Integrasi” di Forstok > Pilih channel Tiktok**&#x20;
+
+![](<../../.gitbook/assets/image (449).png>)
+
+**3. Pilih Area “Asia Seller “ > Indonesia**&#x20;
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-08 at 9.26.42 AM.png>)
+
+**4. Masukan TikTok Login & Password**&#x20;
+
+![](<../../.gitbook/assets/image (443).png>)
+
+**5. Klik “Authorize”**
+
+![](<../../.gitbook/assets/image (442).png>)
+
+**6. Pada Product Catalog pilih Sync Product from Shopee >Next > pilih Finish**
+
+![](<../../.gitbook/assets/image (441).png>)
