@@ -45,4 +45,4 @@ Langkah-langkah melakukan Integrasi TikTok (Step-by-step).\
 
 **6. Pada Product Catalog pilih Sync Product from TikTok >Next > pilih Finish**
 
-![](<../../.gitbook/assets/Screen Shot 2022-03-09 at 10.54.37 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-03-09 at 10.55.52 AM.png>)
