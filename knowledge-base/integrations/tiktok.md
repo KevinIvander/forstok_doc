@@ -43,6 +43,6 @@ Langkah-langkah melakukan Integrasi TikTok (Step-by-step).\
 
 ![](<../../.gitbook/assets/image (442).png>)
 
-**6. Pada Product Catalog pilih Sync Product from Shopee >Next > pilih Finish**
+**6. Pada Product Catalog pilih Sync Product from TikTok >Next > pilih Finish**
 
-![](<../../.gitbook/assets/image (441).png>)
+![](<../../.gitbook/assets/Screen Shot 2022-03-09 at 10.54.37 AM.png>)
