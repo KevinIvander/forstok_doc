@@ -17,3 +17,15 @@ Untuk merubah atau mengganti Foto bisa dari Forstok. Berikut step by step cara m
 ![](<../../.gitbook/assets/image (446) (1) (1) (1) (1).png>)
 
 4\. Jika sudah di save bisa cek kembali sku tsb di Forstok, klik link product atau lihat di seller center. Maka image sudah berhasil terganti&#x20;
+
+{% hint style="info" %}
+Apabila gagal melakukan update image melalui fitur Edit Item, anda bisa  melakukan update image kembali dengan upload ulang image di kolom image channel pada fitur Edit Item, atau menggunakan fitur Upload Images:
+
+&#x20;![](<../../.gitbook/assets/1292a04e-7574-480a-b6db-f1a018197f6b (1).jpg>)
+
+Pilih Marketplace yang anda tuju, ikuti instruksi yang terdapat di halaman fitur Bulk Update Images:
+
+&#x20;![](../../.gitbook/assets/c9bb93af-829f-4e7b-aba8-8e91e4fda724.jpg)
+
+
+{% endhint %}
