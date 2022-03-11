@@ -1,6 +1,6 @@
 # Sinkronisasi Order (Forstok → Jurnal)
 
-### **Order Mapping Forstok ke Jurnal**
+### **Order Status Mapping**&#x20;
 
 | **Forstok**     | **Jurnal**                                                                                                                                                                                           |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,7 +13,7 @@
 | Cancelled       | <p>Cancelled artinya paket belum keluar dari gudang / status sebelum Shipped dan delivered. Bisa dicancel oleh seller atau buyer.</p><p></p><p>Invoice akan di delete secara otomatis di Jurnal</p>  |
 | Return          | <p>Returned artinya paket sudah keluar dari gudang atau sdh di pickup oleh kurir. </p><p></p><p>Marketplace belum memprovide API return. Jadi harus create sales return di Jurnal secara manual.</p> |
 
-### **Mapping Forstok Order fields**
+### **Order fields Mapping**
 
 | **Forstok Order**    | **Jurnal Invoice/ Faktur** |
 | -------------------- | -------------------------- |
