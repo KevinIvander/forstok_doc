@@ -5,7 +5,8 @@
 | **Forstok**     | **Jurnal**                                                                                                                                                                                           |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pending Payment | <p>Create invoice status unpaid di Jurnal untuk potong stok. </p><p></p><p><em>Ini untuk orderan MP yang mempunyai status order pending payment seperti Shopee, Tokopedia, Lazada, etc</em></p>      |
-| Open            | Create Invoice di Jurnal                                                                                                                                                                             |
+| Open            | Create invoice status unpaid di Jurnal untuk potong stok.                                                                                                                                            |
+|                 |                                                                                                                                                                                                      |
 | Printed         | -                                                                                                                                                                                                    |
 | Ready to Ship   | -                                                                                                                                                                                                    |
 | Shipped         | -                                                                                                                                                                                                    |
