@@ -18,5 +18,5 @@ Untuk linking item ada 2 solusi jika kode sku berbeda:
 
 ## Apakah di Forstok bisa membalas chat customer?
 
-Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok. \
+Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok. Aplkasi chat Forstok tidak menyatu didalam dashboard melainkan harus di download terpisah, lalu kemudian Anda bisa login dengan menggunakan login credential Forstok Anda.\
 [https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
