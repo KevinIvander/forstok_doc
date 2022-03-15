@@ -1,6 +1,6 @@
 # FAQ - Orders
 
-### Kenapa bisa terjadi Oversell?
+### **Fitur yang dapat digunakan adalah penambahan dengan menggunakan create sales order secara manual dengan mecreen shoot create SO)da di Forstok**Kenapa bisa terjadi Oversell?
 
 Beberapa faktor yang menyebabkan oversell:
 
@@ -13,3 +13,12 @@ Beberapa faktor yang menyebabkan oversell:
 ### **Kapan proses order (pesanan) memotong stok yang ada di Forstok?**
 
 Proses order (pesanan) akan memotong stok apabila statusnya sudah menjadi _pending payment_ (pembayaran yang tertunda) dan akan masuk ke dalam  _reserved quantity_. Ada beberapa _marketplace_ yang menerapkan sistem _pending payment_ diantaranya adalah, Shopee, Lazada dan Blibli. Namun, untuk _marketplace_ yang tidak menerapkan sistem _pending payment_, maka akan otomatis memotong stok tersebut dari _quantity on hand_. Berikut kami lampirkan dokumentasi _mapping_ order di Forstok. [https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0)
+
+### **Apakah jika saya memiliki penjualan lain dari luar **_**ecommerce**_** yang terintegrasi di Forstok, bagaimana menambahkannya agar stoknya bisa tetap berkurang?**
+
+Fitur yang dapat digunakan adalah penambahan dengan menggunakan _create sales order_ secara manual pada menu order yang ada di dashbard Forstok. Berikut kami lampirkan tampilan _create sales order_ di dashboard Forstok.
+
+![Menu order dan create sales order di Forstok](../../.gitbook/assets/Screenshot\_1.png)
+
+![Tampilan create sales order di Forstok](<../../.gitbook/assets/WhatsApp Image 2022-03-15 at 2.07.24 PM.jpeg>)
+
