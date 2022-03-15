@@ -25,6 +25,12 @@ Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok.
 
 SKU _(Stock Keeping Unit)_ merupakan sebuah penanda atau identifier dari sebuah produk. Sehingga setiap produk diwajibkan untuk memiliki kode SKU sampai dengan level varian (warna, ukuran, bentuk, motif, dll). Forstok melakukan proses _mapping_ dari Marketplace dengan menggunakan kode SKU. Oleh karena itu, kode SKU harus dirapikan terlebih dahulu sampai ke level varian dan juga disamakan di seluruh Marketplace.
 
-### **Apakah jika saya masih terhubung dengan third party (omni channel) lain saya bisa menggunakan Forstok?**
+### **Apakah jika saya masih terhubung dengan **_**third party**_**  **_**(omni channel)**_** lain saya bisa menggunakan Forstok?**
 
-Salah satu syarat yang harus dilakukan sebelum melakukan integrasi dengan Forstok adalah memutuskan integrasi dengan omnichannel atau third party lainnya. Tujuannya agar ketika melakukan sinkronisasi stok, stoknya tidak akan tarik-menarik antara Forstok, Marketplace dan juga omnichannel sebelumnya.
+Salah satu syarat yang harus dilakukan sebelum melakukan integrasi dengan Forstok adalah memutuskan integrasi dengan _third party (omni channel)_ lainnya. Tujuannya agar ketika melakukan sinkronisasi stok, stoknya tidak akan tarik-menarik antara Forstok, Marketplace dan juga omnichannel sebelumnya.
+
+### **Apakah ada panduan dalam membuat kode SKU?**
+
+Pembuatan kode SKU dapat dilakukan langsung melalui _seller center marketplace_. Berikut ini kami lampirkan panduan dan langkah-langkah proses pembuatan SKU melalui _seller center marketplace_.\
+[https://docs.forstok.com/knowledge-base/before-integrations/cara-penginputan-kode-sku-di-marketplace](https://docs.forstok.com/knowledge-base/before-integrations/cara-penginputan-kode-sku-di-marketplace)
+
