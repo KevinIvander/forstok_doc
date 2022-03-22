@@ -1,5 +1,5 @@
 ---
-description: Bagaimana untuk Melakukan Update Status ke Ready to Ship (Single Order)
+description: Panduan untuk update status order dari 'Open' ke 'To Ship'
 ---
 
 # Create Shipment
@@ -7,33 +7,30 @@ description: Bagaimana untuk Melakukan Update Status ke Ready to Ship (Single Or
 {% hint style="success" %}
 **Hanya tersedia di Order v2.**&#x20;
 
-Create shipment di Forstok akan mentrigger action di beberapa marketplace yang mempunyai 2 step order fulfillment
+Create shipment di Forstok akan men-trigger action di beberapa marketplace yang mempunyai 2 step order fulfillment:
 
-**Tokopedia -> Terima Pesanan**
-
-**Lazada, Blibil, Zalora, Zilingo -> Buat paket.**
+1. **Tokopedia -> Terima Pesanan**
+2. **Lazada, Blibil, Zalora, Zilingo -> Buat Paket.**
 
 Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketplace, sehingga paket dapat disiapkan terlebih dahulu sebelum dilakukan pemanggilan kurir (Ready to Ship)
 {% endhint %}
 
-1\. Pilih ke halaman Order.
+1\. Klik '**Sales Orders**'
 
-2\. Pilih Order dari status Open atau Printed yang akan diubah menjadi RTS.&#x20;
+![Klik Sales Orders (Old UI) untuk mengakses Order v1](<../../.gitbook/assets/Screenshot 2022-03-22 140525.jpg>)
 
-3\. Pada Right pannel pilih update status lalu pilih update to Ready to ship/ Request Pickup.&#x20;
+2\. Klik '**Create Shipment**' pada order yang ingin diproses
 
-![](<../../.gitbook/assets/image (159).png>)
+![Step ini akan men-trigger 'Terima Pesanan' di channel Tokopedia dan 'Buat Paket' di Lazada, Blibil, Zalora, Zilingo.](<../../.gitbook/assets/Screenshot 2022-03-22 134343.jpg>)
 
-4\. Klik Update.
+3\. Anda juga bisa memproses order dalam jumlah banyak/bulk dengan cara mengklik check box pada '**Bulk Select**', untuk menambah jumlah order yang diproses secara bulk.
 
-![](<../../.gitbook/assets/image (224).png>)
+![Klik page selanjutnya di halaman bagian bawah untuk menambah jumlah order yang akan diproses secara bulk](<../../.gitbook/assets/Screenshot 2022-03-22 135400.jpg>)
 
-**Notes** :&#x20;
+4\. Klik '**Save**'.
 
-{% hint style="info" %}
-1\. Untuk seller center yang awb nya otomatis atau terhubung dengan jne forstok dan si cepat forstok maka field Awb pada page RTS akan berwarna abu-abu.&#x20;
+![](<../../.gitbook/assets/Screenshot 2022-03-22 135527.jpg>)
 
-2\. Jika di seller center nya masih belum terhubung dengan jne forstok, si cepat forstok dan masih menginputkan resi secara manual, maka field AWB akan muncul dengan warna putih.&#x20;
+5\. Order yang diproses akan berpindah ke tab '**To Ship**' di bagian '**Not Shipped**'
 
-3\. Untuk pengiriman Grab send akan keluar waktu penjemputan paket pada halaman RTS.&#x20;
-{% endhint %}
+![](<../../.gitbook/assets/Screenshot 2022-03-22 140303.jpg>)
