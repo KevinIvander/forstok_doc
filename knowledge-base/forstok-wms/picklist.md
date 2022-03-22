@@ -1,2 +1,27 @@
 # Picklist
 
+## Picking Order Flow&#x20;
+
+**Step1** Picker buka aplikasi WMS dan pilih Picklist
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 10.29.49 PM.png>)
+
+**Step 2** Klik “Create” lalu pilih picker
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 10.29.54 PM.png>)
+
+**Step 3:** Scan satu atau lebih order ID dari label pengiriman
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 10.30.00 PM.png>)
+
+**Step 4:** Pilih pesanan lalu klik “Create picklist”
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 10.30.06 PM.png>)
+
+**Step 5:** Scan barcode product untuk memvalidasi pengambilan. Jika ok Klik “Confirm Picked”
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 10.30.10 PM.png>)
+
+**Done** Ringkasan menunjukkan item yang sudah diambil.
+
+![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 10.30.16 PM.png>)
