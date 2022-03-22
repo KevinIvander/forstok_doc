@@ -36,8 +36,16 @@ Access order v.2 melalui dropdown menu.
 
 ### **2 steps order processing**
 
-Order v.2 mempunyai 2 steps order processing sesuai sellercenter MP dimana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo&#x20;
+Order v.2 mempunyai 2 steps order processing sesuai seller center MP, di mana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo&#x20;
 
 Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketplace, sehingga paket dapat disiapkan terlebih dahulu sebelum dilakukan pemanggilan kurir (Ready to Ship)
 
 ![](https://lh6.googleusercontent.com/gT5CcK\_HafXsuQJR1EfXCqw9Vddre-ep\_9mxZLn3GyJjrVSIOhwXaRV-SKOnX3tLDJDhQwdWBV00Rur2m5yAFXyf4DBG8OGdS2LPaHOtjFBlugpLC68xRhrJAG9zm4ogPbWuOsfRpR60)
+
+### **Order Mapping**
+
+Rekan-rekan seller dapat mengakses halaman berikut untuk melihat status order di Forstok dan di channel/marketplace
+
+{% embed url="https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o_2T8Qv8cr41tuHhO_L1I2T0QHjCiI/edit#gid=0" %}
+[https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0)
+{% endembed %}
