@@ -4,7 +4,17 @@ description: Bagaimana untuk Melakukan Update Status ke Ready to Ship (Single Or
 
 # Create Shipment
 
-Berikut merupakan langkah-langkah yang dilakukan untuk mengubah status menjadi RTS (Ready To Ship):&#x20;
+{% hint style="success" %}
+**Hanya tersedia di Order v2.**&#x20;
+
+Create shipment di Forstok akan mentrigger action di beberapa marketplace yang mempunyai 2 step order fulfillment
+
+**Tokopedia -> Terima Pesanan**
+
+**Lazada, Blibil, Zalora, Zilingo -> Buat paket.**
+
+Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketplace, sehingga paket dapat disiapkan terlebih dahulu sebelum dilakukan pemanggilan kurir (Ready to Ship)
+{% endhint %}
 
 1\. Pilih ke halaman Order.
 
