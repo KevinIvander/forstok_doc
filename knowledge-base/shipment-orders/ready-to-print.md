@@ -33,4 +33,4 @@ Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketpla
 
 5\. Order yang diproses akan berpindah ke tab '**To Ship**' di bagian '**Not Shipped**'
 
-![](<../../.gitbook/assets/Screenshot 2022-03-22 140303.jpg>)
+![](<../../.gitbook/assets/Screenshot 2022-03-22 141607.jpg>)
