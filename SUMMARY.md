@@ -116,7 +116,7 @@
 * [Penjualan (Orders)](knowledge-base/sales-orders/README.md)
   * [Order Status](knowledge-base/sales-orders/order-status.md)
   * [Order v.1 Overview](knowledge-base/sales-orders/untitled.md)
-  * [Order v.2 Overview (NEW)](knowledge-base/sales-orders/order-v.2-overview-new.md)
+  * [Order v.2 Overview (NEW)](knowledge-base/sales-orders/order-v.2-overview.md)
   * [Create Shipment](knowledge-base/shipment-orders/ready-to-print.md)
   * [Update Ready to Ship](knowledge-base/sales-orders/update-ready-to-ship.md)
   * [Print Shipping Documents](knowledge-base/shipment-orders/print-shipping-document-in-bulk.md)
