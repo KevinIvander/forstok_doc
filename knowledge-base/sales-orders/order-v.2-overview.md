@@ -14,13 +14,13 @@
 Order v1 masih bisa digunakan
 {% endhint %}
 
-## New Interface
+### New Interface
 
 Access order v.2 melalui dropdown menu.
 
 ![](https://lh3.googleusercontent.com/rFSK2lyVGlUo-KxDyTTOZf9-jaz51fxmV-I-e4MDJ1a0Wjh7nRu6wM3NBIUBbE5Pv9Sy4ciWSjiF0oJkvCPcV5q-DenSqoTZZOt3tNeh1akYO8UxRi2aWrY6HyDf8iKjlCKYklJK5Cai)
 
-## New Order Status
+### New Order Status
 
 |    ORDER V1 STATUS    |                        ORDER V2 STATUS                        |
 | :-------------------: | :-----------------------------------------------------------: |
@@ -34,3 +34,10 @@ Access order v.2 melalui dropdown menu.
 |       Delivered       |                           Delivered                           |
 |       Cancelled       |                           Cancelled                           |
 
+### **2 steps order processing**
+
+Order v.2 mempunyai 2 steps order processing sesuai sellercenter MP dimana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo&#x20;
+
+Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketplace, sehingga paket dapat disiapkan terlebih dahulu sebelum dilakukan pemanggilan kurir (Ready to Ship)
+
+![](https://lh6.googleusercontent.com/gT5CcK\_HafXsuQJR1EfXCqw9Vddre-ep\_9mxZLn3GyJjrVSIOhwXaRV-SKOnX3tLDJDhQwdWBV00Rur2m5yAFXyf4DBG8OGdS2LPaHOtjFBlugpLC68xRhrJAG9zm4ogPbWuOsfRpR60)
