@@ -2,7 +2,7 @@
 description: Bagaimana untuk Melakukan Update Status ke Ready to Ship (Single Order)
 ---
 
-# Create Shipment / Ready to Ship
+# Create Shipment
 
 Berikut merupakan langkah-langkah yang dilakukan untuk mengubah status menjadi RTS (Ready To Ship):&#x20;
 

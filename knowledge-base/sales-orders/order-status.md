@@ -9,11 +9,13 @@
 
 **Open:** Sales order baru yang bisa di process. Next actions: Create picklist, Create package atau update order status ke "Mark as Ready to Ship" untuk ambil AWB informasi.&#x20;
 
+**To Ship / Not Shipped:**  Order yang sudah di Create Shipment/ terima ordernya.
+
+**To Ship / Ready to Ship:** Order yang sudah siap dikirim atau tunggu diambil oleh courier.&#x20;
+
 **Picked**: Sales order yang produknya telah diambil dari rak didalam gudang. Next action: Create package
 
 **Packed**: Sales orders yang produknya telah di packaging. &#x20;
-
-**Ready to Ship:** Sales order yang sudah siap dikirim atau tunggu diambil oleh courier.&#x20;
 
 **Ready to Print:** AWB/nomor resi sudah tersimpan pada Forstok. Shipping Label dapat diprint.
 
