@@ -2,23 +2,30 @@
 
 ### Video
 
-![](../../.gitbook/assets/create-dropship-order.gif)
+{% embed url="https://www.loom.com/share/d222e4ba4bd04225a22a030b4e8e8607" %}
 
-1. Pada menu order klik menu **+order** lalu klik **create sales order**
+1. Pada menu order klik menu **+Sales Order**
 
-![](https://lh6.googleusercontent.com/emaJ1RagMoSUQEDyTyt9oEYAR-PD9p7GTuvp7nvOsRM7HyimQHXLa2JtwpQFfCtNEJfhJmSQjPQ7W4D3dOvncN3a8l0V05HyGd5IXuzWfoM3sswPBDrwzxshRNMrnAU\_v3wLu02c) ![](<../../.gitbook/assets/create (1).jpg>)
+![](<../../.gitbook/assets/Create New Sales Order dropship\_orderv2.jpg>)
 
-2\. Isi kolom seperti Customer Name, Ship From dan Store Name dan untuk dropship klik check box dropship order
+2\. Pilih customer yang sudah terdaftar atau tambah baru, klik check box dropship order, klik '**Add Shipping Address**', kemudian isi detail info dropship.
 
-![](https://lh6.googleusercontent.com/\_smesUjuuCdJFCvOlI6im56ZOuvidfj2PwKznuPf28-4clJVzIUylKA6HzgFhyS3vtxDss5qFMw-AiO3CcQsbJHpdYbJPgAHsrUrx9ER0TjvFhy6zZqHZM0fp0uF-F9jwUjBHnny) ![](../../.gitbook/assets/see.jpg)
+![](<../../.gitbook/assets/Add Shipping Address Dropship\_Order V2.jpg>)
 
-3\. Lalu add shipping address, isi kolom add shipping address
+3\. Lalu add shipping address, isi kolom add shipping address, klik **Save**
 
-![](https://lh4.googleusercontent.com/zrszCcp9NHsuyPe2F1c8imYoPHJCMbCNp3Mfy9OI5dUqai6KZwhd5aB7VMLqO3J3aAkyXDUMQcpwLm4x7wpo6LuxyoQ2D7LNfewt9OGyCm8qf2ZhwmM4haE1iFcH3Lhb2YXE3OUy) ![](../../.gitbook/assets/q.jpg) ![](../../.gitbook/assets/qq.jpg)
+![](<../../.gitbook/assets/Add Shipping Address Dropship detail\_order v2.jpg>)
 
-4\. Add items tersebut
+4\. Pilih Warehouse dan Store
 
-![](https://lh5.googleusercontent.com/rYieB2nzv3SCj5pZYZb8NM\_qQfywxuvPAnQSzp96AveKHFpdr9NTg-Hl3PKyFDvNO0KhFlZXK94BnpbUL7cXilYHM22KQegJllZ7WFKUOTS6LLU8ZihMh9sEg6gINDDcsluZOtXB) ![](../../.gitbook/assets/iteh.jpg)
+![](<../../.gitbook/assets/Ship From dan Store\_order v2.jpg>)
 
-5\. lalu klik **Save**
 
+
+5\. Klik '+Add Items', klik check box untuk memilih items yang ingin ditambahkan lalu klik Add to Sales Order
+
+![](<../../.gitbook/assets/Screenshot 2022-03-23 135517.jpg>)
+
+6\. Isi qty item, selling price, serta custom shipping apabila ada, kemudian klik **Save**
+
+![](<../../.gitbook/assets/Sales order detail\_order v2.jpg>)

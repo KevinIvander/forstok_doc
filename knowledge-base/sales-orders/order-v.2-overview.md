@@ -89,3 +89,10 @@ Klik ‘Sort by: Created Time (New First)’ untuk memilih urutan tampilan order
 Klik box centang di samping ‘Bulk Select’ , atau klik box centang di baris order yang ingin anda proses dalam jumlah banyak, anda bisa melakukan: Create Pick List, Create Package, Mark as Ready to Ship, Print Shipping Label, Print pick list, Print pack list, Cancel sales.
 
 ![](https://lh3.googleusercontent.com/KoWu3XWsT5x7aIb8E8AgqC\_KHICPBEkmB4HCXZ1nra98xRD6vgbLtkitTc6ZhDr\_yIJ0faLa7R\_AHJKq9ou5cigQvDE6sqepZWRHisXCuvUApxQq-jmYQ9qA4wlvT9cQP3X8iA)
+
+### Delivery SLA
+
+Sisa waktu untuk di kirim sebelum di auto-cancelled oleh marketplace.
+
+![](https://lh6.googleusercontent.com/YJWi56RdbQlDfQK6vSDMy-06ll931tNEzYcQDPiQNCclFIp1kLs00iGmLLrgzCwpVAySPk9HO0cjMTe8-Lz0WQ\_vwwkjkerlLhHnAVo9UlwJ6IAPAzWZDTmEyBuRCqISt-M0vA)
+
