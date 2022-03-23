@@ -30,7 +30,7 @@ Pastikan Anda sudah Log In ke seller center Shopify atau akun Shopify
 
 
 
-4\. Pada Product Catalog pilih **Sync Product from Shopee** >**Next** \
+4\. Pada Product Catalog pilih **Import Products from Shopify**>**Next** \
 ****
 
 ![](https://lh5.googleusercontent.com/PfgpwCJAnMk9BP7JUoqCJZnucAuoEuTdV\_gh8kr5VizBrzJ3ovX2uQnn2bUq94V8KBh2LE3B4PfQjGElC2ZPdN0kn\_t0pJ8ukJYM4O-ww2Cz3i2XRRr4we8SaUC2v37cj1-GKjEh) ![](../../.gitbook/assets/inventory.jpg)
