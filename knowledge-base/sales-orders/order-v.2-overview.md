@@ -65,3 +65,15 @@ Apabila sudah dilakukan Create Shipment, order akan berpindah ke tab ‘To Ship�
 Gunakan filter “hide orders fulfilled by channel” untuk membedakan orderan yang diproses oleh seller and yang diprocess oleh seperti Tokocabang, FBB by Blibli, FBL by Lazada, dsb., karena orderan tersebut bersifat view only (tidak bisa diproses).
 
 ![](https://lh5.googleusercontent.com/ax8mswDSud6lVgaEgO6vwCs\_jw9p6mGZHwQdDTHL5B0kALNdaaOf4XwPZnMewBRL5Uo-xrpndiNvWr4pWXbMB7p5JzhV8Dt9twp-JARU7mVmRxK1aQtFgDtOEstFQkgOPyU-sA)
+
+### Search Filter
+
+Klik ‘Forstok Order ID’ untuk memilih kategori pencarian berdasarkan: Forstok Order ID, Channel Order ID, Customer Name, Product SKU dan Product Name.
+
+![](https://lh5.googleusercontent.com/kzg6hf8HDDnTWmAUPqJUkuwv7dffeWo5kXH-zh8Wb\_HioZ5WzJGKtHF57Df93UFecv0oiA2EELyV---ogE\_YCuUnR4onXc82xlDnWblxLPWbR-ajTfk9F3VugJ2eWacKmymp7Q)
+
+### Filter Order by stores, warehouse, courier
+
+Klik ‘Filter’ pada masing-masing tab status order (Pending, Open, To Ship, dst) untuk melakukan filter order berdasarkan Stores, Warehouses, couriers, Print status, picklist and package status.
+
+![](https://lh5.googleusercontent.com/72F3w5nl2R5AkwQKrMAyEgyKBCn8Iy5F5FnmmPaq-sGz6KAaNCM6rupiXCe\_A9dCnAr1y89AbH7y\_U5Arkp1BeSU3cpR2fmePhZFADRYQJ8fYi1y1xJ8onSSbLDWLfjv655Gsw)
