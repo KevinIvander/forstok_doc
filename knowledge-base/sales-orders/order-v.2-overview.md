@@ -59,3 +59,9 @@ Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketpla
 Apabila sudah dilakukan Create Shipment, order akan berpindah ke tab ‘To Ship’. seller sudah bisa print shipping label dengan AWB untuk menyiapkan paket sebelum trigger Ready to Ship untuk pemanggilan kurir. Marketplace yg bisa print AWB tanpa RTS adalah Toped, Blibli, Lazada, JD
 
 ![](https://lh5.googleusercontent.com/FrEpEs-oMy6asKXJO5Ib4TQc4-T6NFU\_qd00yObYRs9VBLycD8VWcXmc6YxgQGh5lWP9uknyv2ir8LFsgDd4tGIi0ugzIXwkBdH\_RFxpgq1BICCkTm5XaAoVmtjRZxsDpJrIAvL6op\_9)
+
+### Hide orders fulfilled by channels
+
+Gunakan filter “hide orders fulfilled by channel” untuk membedakan orderan yang diproses oleh seller and yang diprocess oleh seperti Tokocabang, FBB by Blibli, FBL by Lazada, dsb., karena orderan tersebut bersifat view only (tidak bisa diproses).
+
+![](https://lh5.googleusercontent.com/ax8mswDSud6lVgaEgO6vwCs\_jw9p6mGZHwQdDTHL5B0kALNdaaOf4XwPZnMewBRL5Uo-xrpndiNvWr4pWXbMB7p5JzhV8Dt9twp-JARU7mVmRxK1aQtFgDtOEstFQkgOPyU-sA)
