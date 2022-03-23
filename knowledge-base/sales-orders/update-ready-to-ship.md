@@ -19,4 +19,4 @@ description: >-
 
 3\. Anda dapat melihat rincian order, berikut dengan kurir yang akan digunakan. Untuk kurir instant, anda juga dapat memilih timeslot penjemputan barang.
 
-![](<../../.gitbook/assets/Screenshot 2022-03-23 111816.jpg>)
+![](<../../.gitbook/assets/Screenshot 2022-03-23 112234.jpg>)
