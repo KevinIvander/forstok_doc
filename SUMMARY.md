@@ -119,7 +119,7 @@
   * [Order v.2 Overview (NEW)](knowledge-base/sales-orders/order-v.2-overview.md)
   * [Create Shipment](knowledge-base/shipment-orders/ready-to-print.md)
   * [Update Ready to Ship](knowledge-base/sales-orders/update-ready-to-ship.md)
-  * [Print Shipping Documents](knowledge-base/shipment-orders/print-shipping-document-in-bulk.md)
+  * [Print Shipping Labels](knowledge-base/shipment-orders/print-shipping-document-in-bulk.md)
   * [Create Sales Order](knowledge-base/sales-orders/create-sales-order.md)
   * [Create Dropship Order](knowledge-base/sales-orders/create-dropship-order.md)
   * [Import Sales Orders (Coming soon)](knowledge-base/sales-orders/import-sales-orders.md)

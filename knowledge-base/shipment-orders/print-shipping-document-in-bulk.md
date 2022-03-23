@@ -1,14 +1,20 @@
 ---
-description: You can print shipping label with AWB
+description: >-
+  Setelah memproses Orders menjadi Ready to Ship, anda bisa print shipping
+  labels
 ---
 
-# Print Shipping Documents
+# Print Shipping Labels
 
 ## Video
 
-![](../../.gitbook/assets/new-download-shipping-label.gif)
+1. Print shipping label individual order
 
-**Step by step**
+{% embed url="https://www.loom.com/share/d112a80adeca4e0892698687937bf8f4" %}
+
+2\. Print shipping label bulk select
+
+
 
 1. **View order page**
 
