@@ -34,6 +34,18 @@ Access order v.2 melalui dropdown menu.
 |       Delivered       |                           Delivered                           |
 |       Cancelled       |                           Cancelled                           |
 
+Order v.2 mempunyai 2 steps order processing sesuai seller center MP, di mana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo&#x20;
+
+Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketplace, sehingga paket dapat disiapkan terlebih dahulu sebelum dilakukan pemanggilan kurir (Ready to Ship)
+
+### **Order Mapping per Marketplace**
+
+&#x20;Berikut untuk melihat status order di Forstok dan di channel/marketplace
+
+{% embed url="https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o_2T8Qv8cr41tuHhO_L1I2T0QHjCiI/edit#gid=0" %}
+[https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0)
+{% endembed %}
+
 ### **2 steps order processing**
 
 Order v.2 mempunyai 2 steps order processing sesuai seller center MP, di mana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo&#x20;
@@ -42,10 +54,8 @@ Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketpla
 
 ![](https://lh6.googleusercontent.com/gT5CcK\_HafXsuQJR1EfXCqw9Vddre-ep\_9mxZLn3GyJjrVSIOhwXaRV-SKOnX3tLDJDhQwdWBV00Rur2m5yAFXyf4DBG8OGdS2LPaHOtjFBlugpLC68xRhrJAG9zm4ogPbWuOsfRpR60)
 
-### **Order Mapping**
+### Tap to Ship: Not Shipped → Ready to Ship
 
-Rekan-rekan seller dapat mengakses halaman berikut untuk melihat status order di Forstok dan di channel/marketplace
+Apabila sudah dilakukan Create Shipment, order akan berpindah ke tab ‘To Ship’. seller sudah bisa print shipping label dengan AWB untuk menyiapkan paket sebelum trigger Ready to Ship untuk pemanggilan kurir. Marketplace yg bisa print AWB tanpa RTS adalah Toped, Blibli, Lazada, JD
 
-{% embed url="https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o_2T8Qv8cr41tuHhO_L1I2T0QHjCiI/edit#gid=0" %}
-[https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=0)
-{% endembed %}
+![](https://lh5.googleusercontent.com/FrEpEs-oMy6asKXJO5Ib4TQc4-T6NFU\_qd00yObYRs9VBLycD8VWcXmc6YxgQGh5lWP9uknyv2ir8LFsgDd4tGIi0ugzIXwkBdH\_RFxpgq1BICCkTm5XaAoVmtjRZxsDpJrIAvL6op\_9)
