@@ -77,3 +77,15 @@ Klik ‘Forstok Order ID’ untuk memilih kategori pencarian berdasarkan: Forsto
 Klik ‘Filter’ pada masing-masing tab status order (Pending, Open, To Ship, dst) untuk melakukan filter order berdasarkan Stores, Warehouses, couriers, Print status, picklist and package status.
 
 ![](https://lh5.googleusercontent.com/72F3w5nl2R5AkwQKrMAyEgyKBCn8Iy5F5FnmmPaq-sGz6KAaNCM6rupiXCe\_A9dCnAr1y89AbH7y\_U5Arkp1BeSU3cpR2fmePhZFADRYQJ8fYi1y1xJ8onSSbLDWLfjv655Gsw)
+
+### Sort Order
+
+Klik ‘Sort by: Created Time (New First)’ untuk memilih urutan tampilan order berdasarkan: Created Time (New First), Created Time (Old First), Updated Time (New First) and Updated Time (Old First).
+
+![](https://lh3.googleusercontent.com/0nOzpMwnANQHHlGZ\_vP-DkoTR4Ayj0BN7hKnZaRyUjPtJoiIio0-i1ksdC97leI\_HKK8wUjgwiy9ARRHLhUQzj\_SQ3aSc8ydk1ZtpA0Zrpank7\_7\_ILJVEmQtPfW3uFHe2wr6w)
+
+### Bulk Actions
+
+Klik box centang di samping ‘Bulk Select’ , atau klik box centang di baris order yang ingin anda proses dalam jumlah banyak, anda bisa melakukan: Create Pick List, Create Package, Mark as Ready to Ship, Print Shipping Label, Print pick list, Print pack list, Cancel sales.
+
+![](https://lh3.googleusercontent.com/KoWu3XWsT5x7aIb8E8AgqC\_KHICPBEkmB4HCXZ1nra98xRD6vgbLtkitTc6ZhDr\_yIJ0faLa7R\_AHJKq9ou5cigQvDE6sqepZWRHisXCuvUApxQq-jmYQ9qA4wlvT9cQP3X8iA)
