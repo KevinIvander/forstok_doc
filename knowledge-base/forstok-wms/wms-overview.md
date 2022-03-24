@@ -1,6 +1,6 @@
 # WMS overview
 
-Forstok WMS adalah suatu applikasi gudang management yang bisa membantu tim gudang melakukan validasi product mengunakan barcode scanner pada waktu picking dan packing barang.&#x20;
+Forstok WMS adalah mobile applikasi gudang management yang bisa membantu tim gudang melakukan validasi product mengunakan barcode scanner pada waktu picking dan packing barang.&#x20;
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 4.42.12 PM (1).png>)
 
