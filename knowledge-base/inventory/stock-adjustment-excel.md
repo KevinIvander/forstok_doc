@@ -8,50 +8,38 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 ![](<../../.gitbook/assets/stock adjustment.gif>)
 
-1\. Pada menu Item Forstok pilih tanda panah berikut dan Upload Stock Adjustment
+1\. Pada menu Items, pilih tanda panah berikut dan Upload Stock Adjustment
 
 ![](<../../.gitbook/assets/image (316).png>)
 
-2\. **** Pilih warehouse yang akan di update stocknya
+2\. **** Pilih warehouse yang akan di update stocknya, kemudian Download Template.
 
-![](https://lh6.googleusercontent.com/BcVzu\_2Iqok9b5ggqUFbegSAkqeTJVki9v3kV7\_MtIwQnuRM5ljioeoC1pllGzVKPcFrEnNwj-pPLhxC9IRaGujOhhjhJT0bhIZMf-Z0SGW-m1aRvUJwCzlIktlDvArDuXtLwqPG)
+![](<../../.gitbook/assets/upload stock adjustment\_choose warehouse.jpg>)
 
-3\. Pilih dan FInal Qty (xls), file bisa di download pada Notifications
+3\. File bisa di download pada Notifications, klik '**Download File**'
 
-![](<../../.gitbook/assets/image (315).png>)
+![](<../../.gitbook/assets/Download file stock adjustment (1).jpg>)
 
 4\. Input stock yang akan di update pada kolom New Qty On Hand&#x20;
 
 Contoh 1\
 \
-SKU: KIZIBLOSSOM0445\
-Current Qty On Hand: 1\
-Current Qty Reserved: 0\
+SKU: 1AAASD0014\
+Current Qty On Hand: 70\
 \
-Ingin mengupdate Final Qty jadi 10. Maka stock yang akan di input pada kolom New Qty On Hand adalah 10. karena tidak ada reserved maka stock akan terupdate jadi 10 pada Qty On Hand
+Ada penambahan stok/inbound barang 5 item. Sehingga jumlah fisik barang menjadi 75. Maka yang diinput pada kolom New Qty On Hand adalah 75.&#x20;
 
-![](<../../.gitbook/assets/image (365).png>)
+![](<../../.gitbook/assets/final qty update xls.jpg>)
 
 Contoh 2
 
-SKU: NAYLAHAZELNUT0245\
-Current Qty On Hand: 10\
-Current Qty Reserved: 3 \
-Maka available 7\
-10 - 3 = 7\
-\
-Berarti ada 3 stock yang di reserved atau ada pending payment pada order.&#x20;
-
-Harap update stock dengan sudah mengurangi Reserved, jika update stock kurang dari angka reserved stock, maka available akan minus (-). Stock minus Forstok akan export 0 atau kosong.\
-\
-Misal \
-Currenty Qty on Hand: 10\
-Current Qty Reserved: 3\
-Ternyata pada New Qty On Hand update: 2\
-Jadi 2- 3 = -1 \
+SKU: 1AAASD0017\
+Current Qty On Hand: 71\
 
 
-![](<../../.gitbook/assets/image (366).png>)
+Terdapat barang rusak sejumlah 2 item, maka input new Qty on Hand menjadi 69
+
+![](<../../.gitbook/assets/update qty on hand final qty.jpg>)
 
 {% hint style="warning" %}
 * Patokan stock di Forstok yang akan di export ke channel yaitu status **Available**
@@ -60,13 +48,13 @@ Jadi 2- 3 = -1 \
 * Jika ingin menjumlahkan dengan rumus vlookup harap dilakukan diluar format original file update stock Forstok. Atau pada update stock di New Qty On Hand tidak ada rumus. Karena akan failed saat export data ke channel
 {% endhint %}
 
-5\. Setelah penginputan stock pada New Qty On Hand, upload dan import file tsb
+5\. Setelah penginputan stock pada New Qty On Hand, upload dan import file.
 
-![](<../../.gitbook/assets/image (321).png>)
+![](<../../.gitbook/assets/upload file stock adjustment final qty.jpg>)
 
 6\.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
 
-![](<../../.gitbook/assets/image (318).png>)
+![](<../../.gitbook/assets/summary stock adjustment final qty xls.jpg>)
 
 
 
