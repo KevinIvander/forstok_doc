@@ -4,10 +4,6 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 # Upload Stock Adjustment Final Qty (xls)
 
-### Video
-
-![](<../../.gitbook/assets/stock adjustment.gif>)
-
 1\. Pada menu Items, pilih tanda panah berikut dan Upload Stock Adjustment
 
 ![](<../../.gitbook/assets/image (316).png>)
