@@ -2,7 +2,18 @@
 
 Forstok WMS adalah suatu applikasi gudang yang bisa membantu tim gudang melakukan validasi product mengunakan barcode scanner pada waktu picking dan packing barang.&#x20;
 
-Download app here
+[Download app here](download-wms-app.md)
+
+{% hint style="success" %}
+**Forstok picking and packing flow**
+
+1. &#x20;Update orders status menjadi "Not Shipped or Ready to Ship".&#x20;
+2. Print Forstok shipping label AWB
+3. Picker buka WMS App, pilih picklist, create picklist, scan order ID di Forstok shipping label dan mulai picking dengan mengunakan barcode untuk validasi produk. [Lihat](picklist.md)
+4. Masukan produk dan shipping label kedalam box dan pindahkan kebagian packer.&#x20;
+5. Packer buka WMS app, pilih package, scan order ID di Forstok shipping label dan  validasi produk yang ada didalam box. [lihat](package.md)
+6. Jika semua sudah cocok, tutup box and tempel shipping label.
+{% endhint %}
 
 ### Features:
 
