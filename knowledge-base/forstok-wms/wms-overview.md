@@ -21,7 +21,7 @@ Forstok WMS adalah mobile applikasi gudang management yang bisa membantu tim gud
 3. Picker buka WMS App, pilih picklist, create picklist, scan order ID di Forstok shipping label dan mulai picking dengan mengunakan barcode untuk validasi produk. [Lihat](picklist.md)
 4. Masukan produk dan shipping label kedalam box dan pindahkan kebagian packer.&#x20;
 5. Packer buka WMS app, pilih package, scan order ID di Forstok shipping label dan  validasi produk yang ada didalam box. [lihat](package.md)
-6. Jika semua sudah cocok, tutup box and tempel shipping label.
+6. Jika semua sudah cocok, tutup box and tempelkan shipping label.
 {% endhint %}
 
 ### Features:
