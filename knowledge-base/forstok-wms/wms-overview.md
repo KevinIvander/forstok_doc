@@ -7,7 +7,7 @@ Forstok WMS adalah suatu applikasi gudang yang bisa membantu tim gudang melakuka
 {% hint style="success" %}
 **Benefit Forstok WMS flow**
 
-1. Paperless. Tidak perlu print picklist and packlist. Hanya mengunakan Forstok Shipping label sebagai acuan picking dan packing
+1. Paperless. Tidak perlu print picklist and packlist kertas. Hanya mengunakan Forstok Shipping label sebagai acuan picking dan packing.
 2. Bisa mengunakan 2 step produk validasi dari picker dan packer untuk mengurangi kesalahan.&#x20;
 3. Built-in barcode scanner, dan tetap bisa mengunakan external bluetooth barcode scanner untuk memvalidasi produk.
 4. Native app iOS dan Android.&#x20;
