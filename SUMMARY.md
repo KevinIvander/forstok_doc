@@ -100,7 +100,7 @@
   * [Create Stock Adjustment (interface)](knowledge-base/inventory/upload-stock-adjustment-interface.md)
   * [Stock adjustment using barcode scanner](knowledge-base/inventory/stock-adjustment-using-barcode-scanner.md)
   * [Upload Stock Adjustment Final Qty (xls)](knowledge-base/inventory/stock-adjustment-excel.md)
-  * [Upload Stock Adjustment Delta Qty +/- (xls)](knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
+  * [Upload Stock Adjustment Qty +/- (xls)](knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
   * [Stock Allocation (Flash Sale/Campaign)](knowledge-base/inventory/stock-allocation-flash-sale.md)
   * [Priority Channel/Store](knowledge-base/inventory/priority-channel-store.md)
   * [Stock History](knowledge-base/inventory/stock-history.md)
