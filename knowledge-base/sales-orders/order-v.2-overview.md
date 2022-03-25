@@ -22,17 +22,17 @@ Access order v.2 melalui dropdown menu.
 
 ### New Order Status
 
-|    ORDER V1 STATUS    |                        ORDER V2 STATUS                        |
-| :-------------------: | :-----------------------------------------------------------: |
-|  **** Pending Payment |                      **** Pending Payment                     |
-|          Open         |                              Open                             |
-|          N/A          |                      Not PIcked / Picked                      |
-|          N/A          |                             Packed                            |
-|        Printed        | <p>To Ship / Not Shipped </p><p>(Action: Create Shipment)</p> |
-|     Ready to Ship     |                    To Ship / Ready to Ship                    |
-|        Shipped        |                            Shipped                            |
-|       Delivered       |                           Delivered                           |
-|       Cancelled       |                           Cancelled                           |
+|    ORDER V1 STATUS   |                                       ORDER V2 STATUS                                      |
+| :------------------: | :----------------------------------------------------------------------------------------: |
+|  **Pending Payment** |                                     **** Pending Payment                                   |
+|       **Open**       |                                            Open                                            |
+|          N/A         | <p><strong>Not Picked / Picked</strong> (Optional) <br>(After action: Create Picklist)</p> |
+|          N/A         |       <p><strong>Packed</strong> (Optional) </p><p>(After action: Create Package)</p>      |
+|      **Printed**     |            <p><strong>Not Shipped</strong> </p><p>(Action: Create Shipment)</p>            |
+|   **Ready to Ship**  |       <p><strong>Ready to Ship</strong> </p><p>(After action: Mark Ready to Ship)</p>      |
+|      **Shipped**     |                                         **Shipped**                                        |
+|     **Delivered**    |                                        **Delivered**                                       |
+|     **Cancelled**    |                                        **Cancelled**                                       |
 
 Order v.2 mempunyai 2 steps order processing sesuai seller center MP, di mana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo&#x20;
 
