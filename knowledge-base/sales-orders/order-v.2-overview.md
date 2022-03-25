@@ -22,13 +22,13 @@ Access order v.2 melalui dropdown menu.
 
 ### New Order Status
 
-|    ORDER V1 STATUS   |                                       ORDER V2 STATUS                                      |
+|   ORDER v.1 STATUS   |                                      ORDER v.2 STATUS                                      |
 | :------------------: | :----------------------------------------------------------------------------------------: |
 |  **Pending Payment** |                                     **Pending Payment**                                    |
 |       **Open**       |                                          **Open**                                          |
 |          N/A         | <p><strong>Not Picked / Picked</strong> (Optional) <br>(After action: Create Picklist)</p> |
 |          N/A         |       <p><strong>Packed</strong> (Optional) </p><p>(After action: Create Package)</p>      |
-|      **Printed**     |            <p><strong>Not Shipped</strong> </p><p>(Action: Create Shipment)</p>            |
+|      **Printed**     |         <p><strong>Not Shipped</strong> </p><p>(After action: Create Shipment)</p>         |
 |   **Ready to Ship**  |       <p><strong>Ready to Ship</strong> </p><p>(After action: Mark Ready to Ship)</p>      |
 |      **Shipped**     |                                         **Shipped**                                        |
 |     **Delivered**    |                                        **Delivered**                                       |
