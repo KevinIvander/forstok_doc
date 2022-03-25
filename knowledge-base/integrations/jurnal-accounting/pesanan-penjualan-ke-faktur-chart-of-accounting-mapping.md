@@ -24,3 +24,16 @@ Login ke Forstok dulu. Memetakan COA Jurnal ke setiap sales channel di Forstok. 
 
 Apabila terdapat lebih dari 1 (satu) gudang di Jurnal, pastikan warehouse code di Jurnal sudah terisi agar stok dapat ter-update ke warehouse yang sesuai di Forstok. Stok akan otomatis ter-update di Primary Warehouse Forstok apabila warehouse code tidak diisi.
 
+Untuk melihat warehouse code di Jurnal:&#x20;
+
+1. klik **Produk** --> **Gudang**, warehouse code bisa dilihat di setiap gudang.
+
+![](<../../../.gitbook/assets/wh code jurnal.jpg>)
+
+2\. Untuk edit warehouse code, klik '**Ubah Gudang**'
+
+![](<../../../.gitbook/assets/ubah gudang\_jurnal.png>)
+
+3\. Masukkan warehouse code pada baris '**Kode**', kemudian klik '**Update Gudang**'
+
+![](<../../../.gitbook/assets/wh code ubah\_jurnal.jpg>)

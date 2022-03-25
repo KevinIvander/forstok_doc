@@ -10,7 +10,7 @@
 
 * Stok yang diimpor ke Forstok berdasarkan last updated date.
 
-![](<../../../.gitbook/assets/Screen Shot 2022-02-17 at 11.01.22 AM.png>)
+![](<../../../.gitbook/assets/sync stok jurnal\_forstok.jpg>)
 
 **3. Stock History**
 
