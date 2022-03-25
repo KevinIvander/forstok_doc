@@ -24,8 +24,8 @@ Access order v.2 melalui dropdown menu.
 
 |    ORDER V1 STATUS   |                                       ORDER V2 STATUS                                      |
 | :------------------: | :----------------------------------------------------------------------------------------: |
-|  **Pending Payment** |                                     **** Pending Payment                                   |
-|       **Open**       |                                            Open                                            |
+|  **Pending Payment** |                                     **Pending Payment**                                    |
+|       **Open**       |                                          **Open**                                          |
 |          N/A         | <p><strong>Not Picked / Picked</strong> (Optional) <br>(After action: Create Picklist)</p> |
 |          N/A         |       <p><strong>Packed</strong> (Optional) </p><p>(After action: Create Package)</p>      |
 |      **Printed**     |            <p><strong>Not Shipped</strong> </p><p>(Action: Create Shipment)</p>            |
