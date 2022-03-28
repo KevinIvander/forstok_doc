@@ -24,6 +24,8 @@ Forstok WMS adalah aplikasi manajemen gudang yang bisa membantu tim gudang melak
 6. Jika semua sudah cocok, tutup box and tempelkan shipping label.
 {% endhint %}
 
+![](<../../.gitbook/assets/Screenshot 2022-03-28 094228.jpg>)
+
 ### Features:
 
 &#x20;**Manage outbound activities**
