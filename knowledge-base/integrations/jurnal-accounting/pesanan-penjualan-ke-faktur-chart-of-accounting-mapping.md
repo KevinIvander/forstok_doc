@@ -20,6 +20,10 @@ Login ke Forstok dulu. Memetakan COA Jurnal ke setiap sales channel di Forstok. 
 
 ![](../../../.gitbook/assets/Screenshot\_2.png)
 
+{% hint style="info" %}
+**Pastikan penulisan nama dan kode warehouse (wajib diisi) tidak menggunakan spasi, gunakan - atau  **_**apabila terdiri dari dua kata. Contoh: Gudang\_Cengkareng, WH-001.**_
+{% endhint %}
+
 ### 3. Mappingkan Gudang di Forstok dan Jurnal
 
 Apabila terdapat lebih dari 1 (satu) gudang di Jurnal, pastikan warehouse code di Jurnal sudah terisi agar stok dapat ter-update ke warehouse yang sesuai di Forstok. Stok akan otomatis ter-update di Primary Warehouse Forstok apabila warehouse code tidak diisi.
