@@ -190,6 +190,7 @@
   * [Notifications](knowledge-base/notifications/notifications-1.md)
 * [Forstok WMS](knowledge-base/forstok-wms/README.md)
   * [WMS overview](knowledge-base/forstok-wms/wms-overview.md)
+  * [Cara Melengkapi Barcode](knowledge-base/forstok-wms/cara-melengkapi-barcode.md)
   * [Download WMS App](knowledge-base/forstok-wms/download-wms-app.md)
   * [Picklist](knowledge-base/forstok-wms/picklist.md)
   * [Package](knowledge-base/forstok-wms/package.md)
