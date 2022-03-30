@@ -3,14 +3,21 @@
 ![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.22.51-pm.png)
 
 {% hint style="warning" %}
-**Penting!**  Sebelum integrasi, pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+**Penting!**  Sebelum integrasi, pastikan product di Seller Center Tokopedia sudah diisikan SKU sampai level variant (setiap variant memiliki SKU yang berbeda) dan sudah disamakan juga di toko/channel lainnya. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU.
+{% endhint %}
+
+{% hint style="info" %}
+**Limitasi import item API Tokopedia**
+
+* Forstok akan tetap mengimport item di tokopedia yang status tidak aktif tapi ada stok, dan item tersebut akan berubah menjadi aktif, apabila item tidak ingin diimport, bisa diarsipkan terlebih dahulu.
+* Sebelum import item ke Forstok, pastikan status produk sudah **aktif dan ada stok**
 {% endhint %}
 
 ## Cara Integrasi Tokopedia (Step-by-step)
 
 1. Sebelum integrasi ke Tokopedia pastikan Anda sudah memenuhi syarat Integrasi berikut:
 
-* [x] Toko sudah Official Store atau Power Merchant
+* [x] Toko sudah **Official Store** atau **Power Merchant**
 * [x] Pastikan Toko Anda tidak connect atau terintegrasi dengan sistem lain
 * [x] Email ke tim Forstok untuk mendapatkan API Tokopedia/Shop ID
 
@@ -30,7 +37,7 @@ email ke: onboarding@forstok.com
 
 Forstok akan kirimkan request approval API Tokopedia.&#x20;
 
-Bpak/Ibu mohon buka seller center Tokopedia > Aplikasi Pihak Ketiga > Menunggu Pesetujuan > Klik terima
+Buka seller center Tokopedia > Aplikasi Pihak Ketiga > Menunggu Pesetujuan > Klik terima
 
 ![](<../../.gitbook/assets/image (447) (1) (1) (1).png>)
 
@@ -42,7 +49,7 @@ Jika sudah klik terima mohon infokan kembali ke kami. Biar kami bantu integrasik
 
 ![](<../../.gitbook/assets/image (142).png>)
 
-2\. Klik View untuk integrasikan Tokopedia
+2\. Klik '**Connect**' untuk integrasikan Tokopedia
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083162452/original/CG5Grf3fkPpRiyMBb8fzuf56St4DzijkAw.png?1611574381)
 
@@ -51,12 +58,11 @@ Jika sudah klik terima mohon infokan kembali ke kami. Biar kami bantu integrasik
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083162648/original/uAZKC0nGyhrEr62FIZcDbNO5Y--q-8T59Q.png?1611574439)
 
-[\
-](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062573182/original/0SKkm5a4yXlLWiB54-yYVmjgbQ6Hja68Vw.png?1601813500)4. Pada Product Catalog pilih Sync Product from Tokopedia -->Next --> pilih Finish.\
-5\. Tokopedia berhasil integrasi ke Forstok dan sedang proses import produk.
+4\. Pada Product Catalog pilih Sync Product from Tokopedia -->Next --> pilih Finish.\
+5\. Untuk melihat hasil integrasi, klik **Integrations**, apabila berhasil, channel Tokopedia akan muncul. Klik '**item sync is off**' untuk mulai proses import items.
+
+![](<../../.gitbook/assets/Screenshot 2022-03-30 110108.jpg>)
 
 {% hint style="info" %}
-**Limitasi import item API Tokopedia**\
-\- Sebelum Import ke Forstok status produk **Aktif dan ada stock.**\
-**-** SKU Code harus di isi.
+Lihat [https://docs.forstok.com/knowledge-base/before-integrations/onboarding-steps/migrate-to-forstok](https://docs.forstok.com/knowledge-base/before-integrations/onboarding-steps/migrate-to-forstok) untuk mengaktifkan sync stok agar stok di forstok bisa sinkron dengan stok di channel/marketplace.
 {% endhint %}

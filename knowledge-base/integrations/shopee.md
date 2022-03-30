@@ -41,6 +41,14 @@
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062576273/original/chu1WzWOwkvpehousVnzpUWPRBz2IFX1\_w.png?1601817662)
 
-5\. Maka Shopee berhasil integrasi ke Forstok dan sedang proses import produk.&#x20;
+5\. Pada **Integrations**, channel Shopee akan muncul apabila berhasil integrasi.&#x20;
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062576309/original/po6DiARMZNrZOTyw0dt1AiC5O79sgO6YhQ.png?1601817734)
+
+6\. Klik '**sync item is off**' untuk memulai proses import item dari Shopee.
+
+![Tanda seru berarti sync item masih off, stok dari Forstok belum sync dengan channel/marketplace](<../../.gitbook/assets/Screenshot 2022-03-30 102810.jpg>)
+
+{% hint style="info" %}
+Lihat [https://docs.forstok.com/knowledge-base/before-integrations/onboarding-steps/migrate-to-forstok](https://docs.forstok.com/knowledge-base/before-integrations/onboarding-steps/migrate-to-forstok) untuk mengaktifkan sync stok agar stok di forstok bisa sinkron dengan stok di channel/marketplace.
+{% endhint %}
