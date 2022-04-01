@@ -111,7 +111,12 @@ API Key dan API Secret (dari dev console https://open-console.jd.id/)
 ![](../../.gitbook/assets/19.jpeg)
 
 17\. JD.ID berhasil di integrasikan\
-Note:saat awal di integrasikan sync Export masih Off, harap aktifkan/On terlebih dahulu jika JD.ID mulai update stock, listing, update harga dari Forstok\
-****
+Note:saat awal di integrasikan sync Export masih Off, harap aktifkan/On terlebih dahulu jika JD.ID mulai update stock, listing, update harga dari Forstok
 
-![](https://lh3.googleusercontent.com/u8SknBniwzULnESwMyEQ\_2xlgw\_mk3L2PQszAl13sLTBE1RZFiFfbDQMwzT2aIfEZxodOnkfpdoiHoxrs3NnqiyCNcBXx2EJrmpYDu1zb8TcfrcIrJLsoOmQ9yhZaSyEg40\_DtJu) ![](<../../.gitbook/assets/17 (1).jpeg>)
+![](<../../.gitbook/assets/settings jdid.jpg>)
+
+{% hint style="info" %}
+**Forstok hanya akan mengimport item dengan status audit lolos / lulus qc**, pastikan item yang akan diimport ke forstok sudah memiliki status yang sesuai.
+{% endhint %}
+
+![](<../../.gitbook/assets/in stock active qc passed jd id.jpg>)
