@@ -77,17 +77,17 @@ Pilih integration pada kanan atas, lalu pilih Add Integration. Lalu pilih JD.ID
 
 12\. Input Shop ID, API Key, API Secret yang di dapat dari dev console JD.ID tadi.
 
+![](<../../.gitbook/assets/shop id api key api secret jdid.jpg>)
 
+Shop ID (dari seller center JD.ID [https://seller.jd.id/](https://seller.jd.id)): Shop Information / Informasi Toko, copy paste shop id / id toko pada bagian yang ditandai.
 
-Shop ID (dari seller center JD.ID [https://seller.jd.id/](https://seller.jd.id))
-
-![](../../.gitbook/assets/14.jpeg)
+![](<../../.gitbook/assets/shop id jdid.jpg>)
 
 API Key dan API Secret (dari dev console https://open-console.jd.id/)
 
 ![](../../.gitbook/assets/13.jpeg)
 
-13\. Sudah di pinput semua, klik install
+13\. Sudah diinput semua, klik install
 
 ![](../../.gitbook/assets/15.jpeg)
 
@@ -113,7 +113,7 @@ API Key dan API Secret (dari dev console https://open-console.jd.id/)
 17\. JD.ID berhasil di integrasikan\
 Note:saat awal di integrasikan sync Export masih Off, harap aktifkan/On terlebih dahulu jika JD.ID mulai update stock, listing, update harga dari Forstok
 
-![](<../../.gitbook/assets/settings jdid.jpg>)
+![](<../../.gitbook/assets/settings jdid (1).jpg>)
 
 {% hint style="info" %}
 **Forstok hanya akan mengimport item dengan status audit lolos / lulus qc**, pastikan item yang akan diimport ke forstok sudah memiliki status yang sesuai.
