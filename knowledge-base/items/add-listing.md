@@ -49,5 +49,5 @@ Kenapa sync export perlu ON sebelum listing?
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48053113262/original/DwPrji-I6phRvzChxT3TwHjK-5gthonWng.png?1597025222)
 
 {% hint style="danger" %}
-Untuk listing ke JD.ID dan Woocommerce belum bisa listing dari Forstok karena ada limitation listing API dari marketplace  harus di lakukan langsung dari seller center lalu import ke Forstok
+Untuk listing ke JD.ID v2, Woocommerce, Magento, dan Tiktok belum bisa listing dari Forstok karena ada limitation listing API dari marketplace sehingga harus di lakukan langsung dari seller center lalu import ke Forstok
 {% endhint %}
