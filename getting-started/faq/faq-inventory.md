@@ -51,3 +51,7 @@ Apabila gagal melakukan upload produk/listing pada umumnya dikarenakan untuk exp
 Stock tersedia (untuk yg baru pertama menggunakan Forstok mulai menggunakan Forstok harap melalakunan update stock perdana via Forstok) Export item sudah aktif
 
 Note: Jika listing produk saat kondisi export Off, maka akan ada gagal export listing ke Marketplace. Jadi: export di On kan - lalu klik edit utk sku yg gagal listing tadi - lalu tambahkan beberapa deskripsi misal titik atau koma disalah satu field lalu Save (ini bertujuan untuk mentrigger kembali listingan yg gagal tadi dan bisa ke export).
+
+### Apakah nama produk dan harga akan berpengaruh ke stok?
+
+Perbedaan harga dan perbedaan nama produk tidak akan berpengaruh dengan stok karena untuk saat ini Forstok melakukan pemetaan (mapping) berdasarkan kode SKU pada setiap item/produk.
