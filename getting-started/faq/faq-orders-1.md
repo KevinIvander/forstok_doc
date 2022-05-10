@@ -1,6 +1,6 @@
 # FAQ - Orders
 
-### **Fitur yang dapat digunakan adalah penambahan dengan menggunakan create sales order secara manual dengan me- screen shoot create SO manual) dan di Forstok k**enapa bisa terjadi Oversell?
+### **Bagaimana di Forstok** bisa terjadi Oversell?
 
 Beberapa faktor yang menyebabkan oversell:
 
@@ -42,4 +42,10 @@ Pada beberapa marketplace, contoh Shopee, terdapat skenario dimana ada yang nama
 
 Hal seperti itu bisa terjadi karena Shopee mengirim datanya memang belum lengkap, lalu selanjutnya akan terupdate otomatis di Forstoknya jika sudah dikirimkan data nama kurirnya dan pada umumnya apabila masih _sameday_ saja itu masih belum bisa diproses di Forstoknya.
 
-**Bagaimana perbedaan proses order antara Reguler dan Instant?**
+### **Bagaimana perbedaan proses order antara Reguler dan Instant?**
+
+Proses order dengan kurir Reguler (yang waktu dan jam pick up sudah terjadwal) bisa dilakukan dengan cara : Open - RTS - Print.
+
+Sedangkan untuk kurir instant (yang waktu dan jam pick up disesuaikan dengan kurir) bisa dilakukan dengan cara : Open - Print - RTS.
+
+Mengapa seperti itu? Karena RTS itu akan menarik AWB dan akan merubah status di Forstok, sedangkan pada kurir instan itu tidak membutuhkan AWB sehingga bisa langsung di print terlebih dahulu.
