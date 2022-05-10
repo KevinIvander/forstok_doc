@@ -1,6 +1,6 @@
 # FAQ - Orders
 
-### **Fitur yang dapat digunakan adalah penambahan dengan menggunakan create sales order secara manual dengan mecreen shoot create SO)da di Forstok**Kenapa bisa terjadi Oversell?
+### **Fitur yang dapat digunakan adalah penambahan dengan menggunakan create sales order secara manual dengan me- screen shoot create SO manual) dan di Forstok k**enapa bisa terjadi Oversell?
 
 Beberapa faktor yang menyebabkan oversell:
 
