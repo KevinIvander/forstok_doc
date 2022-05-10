@@ -23,7 +23,9 @@ Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok.
 
 ### **Apakah jika saya belum merapikan SKU saya bisa menggunakan Forstok?**
 
-SKU _(Stock Keeping Unit)_ merupakan sebuah penanda atau identifier dari sebuah produk. Sehingga setiap produk diwajibkan untuk memiliki kode SKU sampai dengan level varian (warna, ukuran, bentuk, motif, dll). Forstok melakukan proses _mapping_ dari Marketplace dengan menggunakan kode SKU. Oleh karena itu, kode SKU harus dirapikan terlebih dahulu sampai ke level varian dan juga disamakan di seluruh Marketplace.
+SKU _(Stock Keeping Unit)_ merupakan sebuah penanda atau identifier dari sebuah produk. Sehingga setiap produk diwajibkan untuk memiliki kode SKU sampai dengan level varian (warna, ukuran, bentuk, motif, dll).
+
+Forstok melakukan proses _mapping_ dari Marketplace dengan menggunakan kode SKU. Oleh karena itu, kode SKU harus dirapikan terlebih dahulu sampai ke level varian dan juga disamakan di seluruh Marketplace.
 
 ### **Apakah jika saya masih terhubung dengan **_**third party**_**  **_**(omni channel)**_** lain saya bisa menggunakan Forstok?**
 
