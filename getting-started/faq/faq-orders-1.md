@@ -38,4 +38,6 @@ Setiap _marketplace_ memiliki perbedaan untuk proses ordernya. Beberapa ada yang
 
 Pada beberapa marketplace, contoh Shopee, terdapat skenario dimana ada yang namanya _pending courier_, kalau kurir yang masih menggunakan sameday, instan, reguler, atau yang belum ada nama kurir nya, mohon di tunggu saja sampai nama kurirnya lengkap.
 
+![Tampilan proses order dengan menggunakan kurir yang instant/same day/reguler dll.](../../.gitbook/assets/Picture2.png)
+
 Hal seperti itu bisa terjadi karena Shopee mengirim datanya memang belum lengkap, lalu selanjutnya akan terupdate otomatis di Forstoknya jika sudah dikirimkan data nama kurirnya dan pada umumnya  kalau masih sameday saja itu masih belum bisa diproses di Forstoknya.
