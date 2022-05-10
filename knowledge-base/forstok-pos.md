@@ -1,5 +1,9 @@
 # Forstok POS
 
+{% hint style="info" %}
+Saat ini _**POS Forstok**_ masih dalam tahap pengembangan sehingga bisa diganti dengan menggunakan _**Create Sales Order**_ secara manual seperti yang dijelaskan dihalaman ini.
+{% endhint %}
+
 POS Forstok (Point of Sales) merupakan cara create order manual atau membuat order di luar marketplace dari Forstok dimana sifatnya jika stock item tersebut masih 1 stock dengan marketplace yang sudah terintegrasi dengan Forstok, maka saat create order POS Forstok stock item tsb otomatis akan terpotong. Dimana Forstok akan mengeluarkan Shipping Label sendiri sesuai data customer tsb jadi seller tidak perlu membuat shipping label sendiri.
 
 Misal jika seller mempunyai toko di luar marketplace seperti di sosial media  Instagram, Facebook, WhatsApp, dll jika stock item sosmed tsb masih satu stock dengan marketplace, seller tinggal create order dari Forstok, maka stock akan otomatis terpotong.
@@ -31,7 +35,3 @@ Jika ada orderan POS, bisa create manual sales order untuk proses orderan. Saat 
 {% content-ref url="sales-orders/create-sales-order.md" %}
 [create-sales-order.md](sales-orders/create-sales-order.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-Untuk saat ini _**POS Forstok**_ bisa diganti dengan menggunakan Pembuatan sales order _**(Create Sales Order)**_ secara manual seperti yang sudah dijelaskan dengan panduan diatas.
-{% endhint %}
