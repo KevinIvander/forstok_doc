@@ -32,3 +32,6 @@ Jika ada orderan POS, bisa create manual sales order untuk proses orderan. Saat 
 [create-sales-order.md](sales-orders/create-sales-order.md)
 {% endcontent-ref %}
 
+{% hint style="info" %}
+Untuk saat ini _**POS Forstok**_ bisa diganti dengan menggunakan Pembuatan sales order _**(Create Sales Order)**_ secara manual seperti yang sudah dijelaskan dengan panduan diatas.
+{% endhint %}
