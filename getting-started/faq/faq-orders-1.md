@@ -49,3 +49,9 @@ Proses order dengan kurir Reguler (yang waktu dan jam pick up sudah terjadwal) b
 Sedangkan untuk kurir instant (yang waktu dan jam pick up disesuaikan dengan kurir) bisa dilakukan dengan cara : Open - Print - RTS.
 
 Mengapa seperti itu? Karena RTS itu akan menarik AWB dan akan merubah status di Forstok, sedangkan pada kurir instan itu tidak membutuhkan AWB sehingga bisa langsung di print terlebih dahulu.
+
+### Bagaimana jika di tampilan report (laporan) pada kolom D dan sales order ID?
+
+Kolom D yang dimaksud disini diambil dari id order forstok dan urutannya berdasarkan order yang masuk ke forstok dari semua seller dan semua _marketplace_ yang sudah terintegrasi di forstok.
+
+![Yang bertanda kotak merah adalah sales order ID.](../../.gitbook/assets/Picture3.png)
