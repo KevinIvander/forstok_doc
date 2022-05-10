@@ -33,3 +33,9 @@ Bisa**.** Caranya untuk memproses orderan Shopee harus klik RTS _(Ready To Ship)
 ![Tampilan pemilihan waktu pick up setelah Ready To Ship.](../../.gitbook/assets/Picture1.png)
 
 Setiap _marketplace_ memiliki perbedaan untuk proses ordernya. Beberapa ada yang bisa di print terlebih dahulu seperti Tokopedia, sedangkan untuk Shopee harus RTS lebih dulu agar kita bisa print shipping label.
+
+### **Apabila saya filter semua filter yang berhubungan dengan Grab + filter SameDay yang ada di Forstok, mengapa pesanan tersebut tetap tidak muncul?**
+
+Pada beberapa marketplace, contoh Shopee, terdapat skenario dimana ada yang namanya _pending courier_, kalau kurir yang masih menggunakan sameday, instan, reguler, atau yang belum ada nama kurir nya, mohon di tunggu saja sampai nama kurirnya lengkap.
+
+Hal seperti itu bisa terjadi karena Shopee mengirim datanya memang belum lengkap, lalu selanjutnya akan terupdate otomatis di Forstoknya jika sudah dikirimkan data nama kurirnya dan pada umumnya  kalau masih sameday saja itu masih belum bisa diproses di Forstoknya.
