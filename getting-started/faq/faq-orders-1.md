@@ -1,6 +1,6 @@
 # FAQ - Orders
 
-### **Fitur yang dapat digunakan adalah penambahan dengan menggunakan create sales order secara manual dengan mecreen shoot create SO)da di Forstok**Kenapa bisa terjadi Oversell?
+### **Fitur yang dapat digunakan adalah penambahan dengan menggunakan create sales order secara manual dengan me- screen shoot create SO manual) dan di Forstok k**enapa bisa terjadi Oversell?
 
 Beberapa faktor yang menyebabkan oversell:
 
@@ -22,3 +22,6 @@ Fitur yang dapat digunakan adalah penambahan dengan menggunakan _create sales or
 
 ![Tampilan create sales order di Forstok](<../../.gitbook/assets/WhatsApp Image 2022-03-15 at 2.07.24 PM.jpeg>)
 
+### **Bagaimana jika status order sudah open (diterima di Tokopedia) lalu mau di cancel dari forstok?**
+
+Saat ini untuk confirm cancel bisa dilakukan langsung melalui seller center tokopedia, karena dari Forstok belum bisa trigger cancel. Jika nanti ordernya sudah di cancel, maka di Forstok statusnya akan mengikuti seller center.
