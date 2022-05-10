@@ -55,3 +55,13 @@ Mengapa seperti itu? Karena RTS itu akan menarik AWB dan akan merubah status di 
 Kolom D yang dimaksud disini diambil dari id order forstok dan urutannya berdasarkan order yang masuk ke forstok dari semua seller dan semua _marketplace_ yang sudah terintegrasi di forstok.
 
 ![Yang bertanda kotak merah adalah sales order ID.](../../.gitbook/assets/Picture3.png)
+
+### Apakah yang dimaksud dengan _order picked_ dan bagaimana jika statusnya masih open di marketplace?
+
+Order picked maksudnya adalah sebagai penanda bahwa picking listnya sudah sempat diproses cetak (print). Sehingga nanti tampilannya akan seperti ini.
+
+![Tampilan order picked di dashboard Forstok.](<../../.gitbook/assets/tampilan di ui forstok.png>)
+
+![Tampilan order picked pada print preview.](<../../.gitbook/assets/tampilan print preview.png>)
+
+![Tampilan order picked pada menu notification (pemberitahuan) di Forstok.](<../../.gitbook/assets/tampilan pemberitahuan forstok.png>)
