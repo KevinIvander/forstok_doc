@@ -30,4 +30,6 @@ Saat ini untuk confirm cancel bisa dilakukan langsung melalui seller center toko
 
 Bisa**.** Caranya untuk memproses orderan Shopee harus klik RTS _(Ready To Ship)_ lebih dulu. Maka nanti akan tampil waktu _pick up_ nya.
 
+![Tampilan pemilihan waktu pick up setelah Ready To Ship.](../../.gitbook/assets/Picture1.png)
+
 Setiap _marketplace_ memiliki perbedaan untuk proses ordernya. Beberapa ada yang bisa di print terlebih dahulu seperti Tokopedia, sedangkan untuk Shopee harus RTS lebih dulu agar kita bisa print shipping label.

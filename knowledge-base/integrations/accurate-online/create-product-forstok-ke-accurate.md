@@ -2,7 +2,7 @@
 
 1. Click setting “Accurate
 
-![](<../../../.gitbook/assets/Screen Shot 2022-01-27 at 1.06.34 PM.png>)
+<img src="../../../.gitbook/assets/Screen Shot 2022-01-27 at 1.06.34 PM.png" alt="" data-size="original">
 
 2\. Click button “Sync Item (Forstok - Accurate)”
 

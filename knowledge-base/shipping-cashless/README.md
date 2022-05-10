@@ -4,13 +4,12 @@ description: >-
   Marketplace seperti custom webstore,  Shopify, Magento, Woocommerce, dll.
 ---
 
-# Pengiriman \(Logistic\)
+# Pengiriman (Logistic)
 
-## On-demand Services 
+## On-demand Services&#x20;
 
-![](../../.gitbook/assets/screen-shot-2021-04-06-at-3.46.14-pm.png)
+<img src="../../.gitbook/assets/screen-shot-2021-04-06-at-3.46.14-pm.png" alt="" data-size="original">
 
 ## Regular Service
 
 ![](../../.gitbook/assets/screen-shot-2021-04-06-at-3.53.30-pm.png)
-
