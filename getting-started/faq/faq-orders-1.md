@@ -69,3 +69,9 @@ Order picked maksudnya adalah sebagai penanda bahwa picking listnya sudah sempat
 ### **Apakah format print shipping document di Forstok sudah mendukung untuk Printer Thermal?**
 
 Saat ini untuk format print shipping document di Forstok sudah mendukung untuk printer thermal.
+
+### **Bagaimana melihat tampilan AWB (resi) pada tampilan order V2 yang terbaru?**
+
+![Tampilan AWB pada order v2 di tab Not Shipped.](<../../.gitbook/assets/WhatsApp Image 2022-05-11 at 12.17.33 PM.jpeg>)
+
+Pada tampilan order v2 untuk AWB (resi) dapat dilihat pada tab not shipped dan ready to ship.&#x20;
