@@ -9,6 +9,7 @@
   * [FAQ - Onboarding](getting-started/faq/faq-onboarding.md)
   * [FAQ - Inventory](getting-started/faq/faq-inventory.md)
   * [FAQ - Orders](getting-started/faq/faq-orders-1.md)
+* [Page 1](getting-started/page-1.md)
 * [Forstok API Doc](getting-started/api-integration.md)
 * [Batasan (Limitations)](getting-started/limitations.md)
 
