@@ -68,7 +68,7 @@ Order picked maksudnya adalah sebagai penanda bahwa picking listnya sudah sempat
 
 ### **Apakah format print shipping document di Forstok sudah mendukung untuk Printer Thermal?**
 
-Saat ini untuk format print shipping document di Forstok sudah mendukung untuk printer thermal.
+Saat ini untuk format print shipping document di Forstok sudah mendukung untuk printer thermal dengan ukuran 10x15 cm.
 
 ### **Bagaimana melihat tampilan AWB (resi) pada tampilan order V2 yang terbaru?**
 
