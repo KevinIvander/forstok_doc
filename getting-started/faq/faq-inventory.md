@@ -55,3 +55,17 @@ Note: Jika listing produk saat kondisi export Off, maka akan ada gagal export li
 ### Apakah nama produk dan harga akan berpengaruh ke stok?
 
 Perbedaan harga dan perbedaan nama produk tidak akan berpengaruh dengan stok karena untuk saat ini Forstok melakukan pemetaan (mapping) berdasarkan kode SKU pada setiap item/produk.
+
+### **Apakah ada limitasi untuk edit produk di dashboard Forstok?**
+
+Limitasi deskripsi karakter kalau untuk marketplace Shopee  5000 karakter. Sedangkan kalau untuk Tokopedia, dibagian nama produk / nama items tidak boleh lebih dari 70 karakter.
+
+![Tampilan edit product Forstok.](<../../.gitbook/assets/tampilan edit item.png>)
+
+Apabila muncul tampilan seperti ini untuk image tokopedianya silahkan upload ulang jika menemukan message seperti ini dengan ketentuan sebagai berikut:
+
+1. Edit item.
+2. Hapus image yang lama item tokopedia tersebut pada menu edit item.
+3. Upload kembali resolusi yang disarankan 800x800 pixel, sedangkan untuk ukurannya maksimal 2MB.
+4. Merubah deskripsi items.
+5. Simpan _(sav_e) dan kami sarankan untuk merubah image tokopedia dengan cara upload baru saat add listing jika masternya dari Shopee.
