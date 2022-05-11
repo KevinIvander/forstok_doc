@@ -74,4 +74,4 @@ Saat ini untuk format print shipping document di Forstok sudah mendukung untuk p
 
 ![Tampilan AWB pada order v2 di tab Not Shipped.](<../../.gitbook/assets/WhatsApp Image 2022-05-11 at 12.17.33 PM.jpeg>)
 
-Pada tampilan order v2 untuk AWB (resi) dapat dilihat pada tab not shipped dan ready to ship.&#x20;
+Pada tampilan order v2 untuk AWB (resi) dapat dilihat pada tab _not shipped_ dan _ready to ship_.&#x20;
