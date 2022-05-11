@@ -69,3 +69,23 @@ Apabila muncul tampilan seperti ini untuk image tokopedianya silahkan upload ula
 3. Upload kembali resolusi yang disarankan 800x800 pixel, sedangkan untuk ukurannya maksimal 2MB.
 4. Merubah deskripsi items.
 5. Simpan _(sav_e) dan kami sarankan untuk merubah image tokopedia dengan cara upload baru saat add listing jika masternya dari Shopee.
+
+### **Bagaimana caranya untuk mengecek SKU mana yang belum masuk ke Forstok?**
+
+Sebenarnya saat ini Forstok belum memiliki fitur ataupun filter untuk mengetahui list SKU yang belum masuk ke Forstok. Namun dapat kita ketahui dengan menggunakan 2 opsi berikut ini:
+
+1. _Cross Listing_
+
+Melalui fitur _cross listing_ dapat memilih channel tujuan yang ingin kita lihat list SKU apa saja yg belum ada di channel tujuan tersebut. Selanjutnya akan tampil nominal angkanya. Kemudian untuk melihat dari angka tersebut, harus melakukan _mapping destination_ _category_ terlebih dahulu, lalu submit. Setelah itu kita bisa melihat di list excel SKU tersebut yang belum terlisting di channel tersebut.
+
+![Tampilan cross listing.](<../../.gitbook/assets/cross listing.png>)
+
+_2. Upload price adjustment_
+
+![Tampilan upload price adjustment.](<../../.gitbook/assets/upload price adjustment.png>)
+
+Pada tampilan berikut ini akan terihat bahwa ada filter by harga. Jika kolomnya ada harga, berarti di marketplace tersebut ada SKUnya. Jika terdapat kolom kosong, berarti di marketplace tsb itemnya/SKUnya tidak ada.
+
+![Tampilan pada kolom excel.](../../.gitbook/assets/excel.png)
+
+****
