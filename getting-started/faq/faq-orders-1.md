@@ -65,3 +65,7 @@ Order picked maksudnya adalah sebagai penanda bahwa picking listnya sudah sempat
 ![Tampilan order picked pada print preview.](<../../.gitbook/assets/tampilan print preview.png>)
 
 ![Tampilan order picked pada menu notification (pemberitahuan) di Forstok.](<../../.gitbook/assets/tampilan pemberitahuan forstok.png>)
+
+### **Apakah format print shipping document di Forstok sudah mendukung untuk Printer Thermal?**
+
+Saat ini untuk format print shipping document di Forstok sudah mendukung untuk printer thermal.
