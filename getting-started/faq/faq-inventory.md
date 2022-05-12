@@ -95,3 +95,11 @@ Jika ingin melakukan pengaturan _price adjustment_ dengan menggunakan waktu bisa
 ![Tampilan menu upload price adjustment via excel](<../../.gitbook/assets/price 1.png>)
 
 ![Tampilan menu adjust price via dashboard Forstok.](<../../.gitbook/assets/price 2.png>)
+
+### Apakah ada perbedaan jika ingin merubah harga melalui dashboard dengan melalui template excel?
+
+Jika ingin melakukan perubahan harga dengan menggunakan _User Interface_ (dashboard) maka bisa dipilih menu _adjust price_ dan akan diarahkan untuk mengisi beberapa kolom yang bersifat _mandatory_ (wajib) diisi.
+
+Sedangkan jika ingin melakukan perubahan harga dengan menggunakan template excel bisa langsung mengisi harga final (akhir) di kolom excel yang telah disediakan.
+
+![Tampilan adjust price melalui user interface (dashboard) Forstok.](../../.gitbook/assets/zz.png)
