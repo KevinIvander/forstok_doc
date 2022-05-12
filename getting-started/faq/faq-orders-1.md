@@ -72,7 +72,11 @@ Order picked maksudnya adalah sebagai penanda bahwa picking listnya sudah sempat
 
 Saat ini untuk format print shipping document di Forstok sudah mendukung untuk printer thermal dengan ukuran 10x15 cm.
 
-### **Bagaimana melihat tampilan AWB (resi) pada tampilan order V2 yang terbaru?**
+### **Bagaimana melihat tampilan AWB (resi) pada tampilan order v2 yang terbaru?**
+
+Ada beberapa _marketplace_ yang dapat print AWB (resi) tanpa RTS yakni  Tokopedia, Blibli, Lazada dan JD.ID.
+
+Sedangkan untuk Shopee, Bukalapak, dan yang lainnya harus diproses RTS terlebih dahulu agar AWB (resi) tersebut dapat tampil.
 
 ![Tampilan AWB pada order v2 di tab Not Shipped.](<../../.gitbook/assets/WhatsApp Image 2022-05-11 at 12.17.33 PM.jpeg>)
 
