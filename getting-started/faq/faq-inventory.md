@@ -103,3 +103,11 @@ Jika ingin melakukan perubahan harga dengan menggunakan _User Interface_ (dashbo
 Sedangkan jika ingin melakukan perubahan harga dengan menggunakan template excel bisa langsung mengisi harga final (akhir) di kolom excel yang telah disediakan.
 
 ![Tampilan adjust price melalui user interface (dashboard) Forstok.](../../.gitbook/assets/zz.png)
+
+### Bagaimana caranya update price tiktok?
+
+Untuk update price tiktok untuk saat ini memang belum dapat dilakukan dan sudah kami sampaikan di broadcast tiktok berikut informasi lengkap nya : [https://docs.forstok.com/knowledge-base/integrations/tiktok](https://docs.forstok.com/knowledge-base/integrations/tiktok)
+
+![Tiktok Integrations](../../.gitbook/assets/sH72BAn8MlH7MHsDat\_sc0YdvcIfNylUVA.png)
+
+Untuk update price tiktok saat ini hanya bisa dilakukan di seller center langsung. Tiktok saat ini hanya mendukung: import item, update stok, import order.
