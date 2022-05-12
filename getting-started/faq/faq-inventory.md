@@ -115,3 +115,33 @@ Untuk update price tiktok saat ini hanya bisa dilakukan di seller center langsun
 ### Bagaimana jika pada status produk terdapat tanda seru dan keterangannya _waiting for quality approval_?
 
 Untuk status _waiting for quality approval_, approvalnya dari pihak marketplace. Status ini artinya sudah masuk ke dalam antrian marketplace untuk di QC _(Quality Control)_ oleh tim _marketplace_, mohon ditunggu saja sampai status approved maka di forstok statusnya akan _green check_.
+
+### Bagaimana Set Priority Channel?
+
+_Priority channel_ merupakan barang dengan stok rendah akan secara otomatis tidak aktif di semua saluran kecuali saluran prioritas Anda. Barang-barang itu akan secara otomatis diaktifkan ketika mengisi kembali lebih tinggi dari ambang batas stok rendah.
+
+Berikut langkah-langkah yang dilakukan untuk set priority channel :&#x20;
+
+1\. Klik setting pada pojok kanan atas.&#x20;
+
+2\. Klik Inventory.
+
+![Inventory.](../../.gitbook/assets/rR8alrRozUNOvKUxBTXC5fryUjfK9MSB5Q.png)
+
+3\. Pada halaman inventory, klik email alert. untuk mengaktifkan notifikasi otomatis ke email apabila stok sudah mencapai batas yang ditentukan.
+
+![Email alert.](../../.gitbook/assets/Brcrn7tgRPjG2SdUs41oKtPkA4W2vRm6Kw.png)
+
+4\. Lalu bisa dipilih waktu pengiriman email notifikasi, secara otomatis email akan dikirim sesuai dengan waktu yang ditentukan.
+
+![Pilih waktu.](../../.gitbook/assets/M6cx\_I10nr8udvirabMh3yghQerSxlRkPA.png)
+
+5\. Kemudian, cheklist priority channel dan pilih sales channel apa yang akan di buat sebagai priority channel. Kemudian status ubah menjadi enable dan low stock di set sesuai dengan kebutuhan.
+
+![Pilih channel.](../../.gitbook/assets/oc8TGH3tLIXcbNExATbKgTEREj3CyjUWvg.png)
+
+6\. Klik SAVE.
+
+**Notes** :&#x20;
+
+* Untuk menentukan minimal stok yang akan dibuat priority channel bisa di set di _low stock Qty._
