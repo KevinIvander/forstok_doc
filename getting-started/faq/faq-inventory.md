@@ -111,3 +111,7 @@ Untuk update price tiktok untuk saat ini memang belum dapat dilakukan dan sudah 
 ![Tiktok Integrations](../../.gitbook/assets/sH72BAn8MlH7MHsDat\_sc0YdvcIfNylUVA.png)
 
 Untuk update price tiktok saat ini hanya bisa dilakukan di seller center langsung. Tiktok saat ini hanya mendukung: import item, update stok, import order.
+
+### Bagaimana jika pada status produk terdapat tanda seru dan keterangannya _waiting for quality approval_?
+
+Untuk status _waiting for quality approval_, approvalnya dari pihak marketplace. Status ini artinya sudah masuk ke dalam antrian marketplace untuk di QC _(Quality Control)_ oleh tim _marketplace_, mohon ditunggu saja sampai status approved maka di forstok statusnya akan _green check_.
