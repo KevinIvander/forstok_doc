@@ -88,4 +88,10 @@ Pada tampilan berikut ini akan terihat bahwa ada filter by harga. Jika kolomnya 
 
 ![Tampilan pada kolom excel.](../../.gitbook/assets/excel.png)
 
-****
+### **Apakah untuk pengaturan **_**price adjustment**_** dapat menggunakan waktu? Misalnya ketika ingin **_**update**_** harga di awal tahun 2023 Januari, apakah bisa diatur dibulan Desember 2022?**
+
+Jika ingin melakukan pengaturan _price adjustment_ dengan menggunakan waktu bisa melalui menu _upload price adjustment_ via excel dan _menu adjust price_ via dashboard forstok. Berikut tampilannya.
+
+![Tampilan menu upload price adjustment via excel](<../../.gitbook/assets/price 1.png>)
+
+![Tampilan menu adjust price via dashboard Forstok.](<../../.gitbook/assets/price 2.png>)
