@@ -81,3 +81,7 @@ Sedangkan untuk Shopee, Bukalapak, dan yang lainnya harus diproses RTS terlebih 
 ![Tampilan AWB pada order v2 di tab Not Shipped.](<../../.gitbook/assets/WhatsApp Image 2022-05-11 at 12.17.33 PM.jpeg>)
 
 Pada tampilan order v2 untuk AWB (resi) dapat dilihat pada tab _not shipped_ dan _ready to ship_.&#x20;
+
+### Bagaimana cara print invoice (bukan shipping label) yang sudah dibuat?
+
+Tidak semua _marketplace_ memiliki dokumen _print invoice/return slip_. Itu yang membuat tidak semua _marketplace_ menampilkan dokumen _invoice/return slip_ saat cetak _invoice/return slip_.
