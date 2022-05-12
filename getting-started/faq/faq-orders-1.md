@@ -85,3 +85,9 @@ Pada tampilan order v2 untuk AWB (resi) dapat dilihat pada tab _not shipped_ dan
 ### Bagaimana cara print invoice (bukan shipping label) yang sudah dibuat?
 
 Tidak semua _marketplace_ memiliki dokumen _print invoice/return slip_. Itu yang membuat tidak semua _marketplace_ menampilkan dokumen _invoice/return slip_ saat cetak _invoice/return slip_.
+
+### Apakah pada resi dapat ditambahkan beberapa informasi seperti alamat pengirim dan nomor telepon yang bisa dihubungi?
+
+Silakan disetting terlebih dahulu dengan cara pilih menu Setting > General atau bisa diakses ke laman berikut [FORSTOK | One Dashboard for All Your Sales Channels](https://www.forstok.com/dashboard/general) . Jangan lupa untuk mengisi kolom-kolom yang masih kosong. Berikut tampilannya.
+
+![Kolom yang harus diisi untuk melengkapi informasi resi. ](../../.gitbook/assets/ZcGRgt3ysm0h\_DiGDC1qL2VyDWL8bxCmnQ.png)
