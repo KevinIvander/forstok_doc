@@ -11,7 +11,7 @@
 7. **WMS App**: Create picklist and package (Enterprise tiers only)
 
 {% hint style="warning" %}
-<mark style="color:orange;">**Order v1 masih bisa digunakan sampai akhir April 2022.**</mark>
+<mark style="color:orange;">**Order v1 masih bisa digunakan sampai 30 Juni 2022.**</mark>
 {% endhint %}
 
 ### New Interface
