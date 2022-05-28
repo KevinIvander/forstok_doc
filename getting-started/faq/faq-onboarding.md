@@ -2,19 +2,19 @@
 
 ### Apa itu Forstok?
 
-Forstok merupakan multi channel selling platform yang berfungsi untuk menggabungkan semua store marketplace sehingga memudahkan seller dalam mengelola inventory management, proses order, data sales order, proses upload produk dalam satu dashbord
+Forstok merupakan _multi channel selling platform_ yang berfungsi untuk menggabungkan semua toko yang ada di _marketplace_ sehingga memudahkan _seller_ dalam mengelola stok, proses order, data penjualan, proses upload produk dalam satu dasbor.
 
 ### Bagaimana memulai menggunakan Forstok?
 
-Pastikan Anda sudah buka toko di marketplace dan sudah menginput kode sku di semua marketplace.
+Pastikan Anda sudah membuka toko di _marketplace_ dan sudah menginput kode SKU di semua _marketplace_.
 
 ### Jika kode SKU berbeda apa yang harus dilakukan?
 
-Untuk linking item ada 2 solusi jika kode sku berbeda:
+Jika ada kode SKU yang berbeda, dapat dilakukan proses _linking item_ berdasarkan 2 solusi yaitu sebagai berikut:&#x20;
 
-1. Seller harus perbaiki kode sku di seller center. Lalu yang sudah masuk di Forstok dan di import ulang
-2. Bisa menggunakan fitur link to another variant.\
-   Ini berfungsi untuk melinkingkan 2 item yang sama tapi kode sku berbeda. Berikut panduan untuk link to another variant: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
+1. Seller harus memperbaiki kode SKU melalui _seller center_. Setelah itu, kode SKU yang sudah masuk di Forstok harus di import ulang.
+2. Seller dapat menggunakan fitur _link to another variant_.\
+   Fitur ini berfungsi untuk menghubungkan 2 item yang sama namun memiliki kode SKU yang berbeda. Berikut panduan untuk melakukan _link to another variant_: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
 
 ### Apakah di Forstok bisa membalas chat customer?
 
