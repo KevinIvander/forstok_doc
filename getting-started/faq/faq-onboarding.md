@@ -16,16 +16,16 @@ Jika ada kode SKU yang berbeda, dapat dilakukan proses _linking item_ berdasarka
 2. Seller dapat menggunakan fitur _link to another variant_.\
    Fitur ini berfungsi untuk menghubungkan 2 item yang sama namun memiliki kode SKU yang berbeda. Berikut panduan untuk melakukan _link to another variant_: [https://docs.forstok.com/knowledge-base/items/linking-item-variants](https://docs.forstok.com/knowledge-base/items/linking-item-variants)
 
-### Apakah di Forstok bisa membalas chat customer?
+### Apakah Forstok bisa membalas chat pelanggan?
 
-Bisa. Anda bisa membalas chat customer dengan mendownload Aplikasi Chat Forstok. Aplkasi chat Forstok tidak menyatu didalam dashboard melainkan harus di download terpisah, lalu kemudian Anda bisa login dengan menggunakan login credential Forstok Anda.\
+Bisa. Anda bisa membalas chat pelanggan dengan mendownload aplikasi chat Forstok. Aplikasi chat Forstok tidak berada didalam dasbor melainkan harus di download terpisah, kemudian Anda bisa masuk dengan menggunakan akun Forstok Anda.\
 [https://docs.forstok.com/knowledge-base/chats/download-app](https://docs.forstok.com/knowledge-base/chats/download-app)
 
-### **Apakah jika saya belum merapikan SKU saya bisa menggunakan Forstok?**
+### **Apakah jika saya belum merapikan kode SKU, saya tetap bisa menggunakan Forstok?**
 
-SKU _(Stock Keeping Unit)_ merupakan sebuah penanda atau identifier dari sebuah produk. Sehingga setiap produk diwajibkan untuk memiliki kode SKU sampai dengan level varian (warna, ukuran, bentuk, motif, dll).
+SKU _(Stock Keeping Unit)_ merupakan sebuah penanda atau _identifier_ dari sebuah produk. Sehingga setiap produk diwajibkan untuk memiliki kode SKU sampai dengan level varian (warna, ukuran, bentuk, motif, dll).
 
-Forstok melakukan proses _mapping_ dari Marketplace dengan menggunakan kode SKU. Oleh karena itu, kode SKU harus dirapikan terlebih dahulu sampai ke level varian dan juga disamakan di seluruh Marketplace.
+Forstok melakukan proses _mapping_ dari marketplace dengan menggunakan kode SKU. Oleh karena itu, kode SKU harus dirapikan terlebih dahulu sampai ke level varian dan juga disamakan di seluruh marketplace.
 
 ### **Apakah jika saya masih terhubung dengan **_**third party**_**  **_**(omni channel)**_** lain saya bisa menggunakan Forstok?**
 
