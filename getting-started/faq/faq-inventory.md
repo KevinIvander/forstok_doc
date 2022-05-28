@@ -34,23 +34,23 @@ Tapi **** jika anda mengunakan inventory system seperti Forstok, anda hanya perl
 Sample Template update stock Forstok
 {% endfile %}
 
-### **Apakah bisa set up harga coret dari Forstok?**
+### **Apakah bisa **_**set up**_** harga coret dari Forstok?**
 
-Untuk shopee, tokopedia dan JD.ID harga coretnya sementara hanya bisa dilakukan setupnya melalui _marketplace_ sedangkan untuk _marketplace_ lain sudah bisa melakukan harga coret langsung di dashboard Forstok melalui fitur Promotion.
+Saat ini untuk _marketplace_ Shopee, Tokopedia dan JD.ID harga coretnya sementara hanya bisa dilakukan setupnya melalui _marketplace_ sedangkan untuk _marketplace_ lain sudah bisa melakukan harga coret langsung di dasbor Forstok melalui fitur p_romotion_.
 
 ![Fitur Promosi harga coret di dashboard Forstok](<../../.gitbook/assets/WhatsApp Image 2022-03-15 at 11.47.57.jpeg>)
 
-### Apa yang harus dilakukan jika ada perubahan nama produk/sku dll?
+### Apa yang harus dilakukan jika ada perubahan nama produk/SKU dll?
 
-Apabila ada perubahan nama/sku/detail variant/struktur variant(penambahan/pengurangan variant) ketika sudah terhubung dengan Forstok, perlu dilakukan remove listing kemudian import ulang kembali agar nama/sku/detail variant/struktur variant ter update di Forstok.
+Apabila ada perubahan nama/SKU/detail variant/struktur variant(penambahan/pengurangan variant) ketika sudah terhubung dengan Forstok, perlu dilakukan _remove listing_ kemudian melakukan import ulang kembali agar nama/sku/detail variant/struktur variant tersebut terupdate di Forstok.
 
 ### **Bagaimana jika sudah upload produk namun gagal?**
 
 Apabila gagal melakukan upload produk/listing pada umumnya dikarenakan untuk exportnya masih Off. Ketika ingin melakukan listing pastikan hal-hal berikut:
 
-Stock tersedia (untuk yg baru pertama menggunakan Forstok mulai menggunakan Forstok harap melalakunan update stock perdana via Forstok) Export item sudah aktif
+Stok tersedia (untuk yang baru pertama menggunakan Forstok mulai menggunakan Forstok harap melalakunan update stok **perdana** melalui Forstok) dan memastikan bahwa export item sudah aktif.
 
-Note: Jika listing produk saat kondisi export Off, maka akan ada gagal export listing ke Marketplace. Jadi: export di On kan - lalu klik edit utk sku yg gagal listing tadi - lalu tambahkan beberapa deskripsi misal titik atau koma disalah satu field lalu Save (ini bertujuan untuk mentrigger kembali listingan yg gagal tadi dan bisa ke export).
+Note: Jika saat listing produk dalam kondisi export Off, maka akan ada pemberitahuan gagal export listing ke _marketplace_. Solusi: export di On kan - lalu klik edit utk SKU yang gagal listing sebelumnya - kemudian tambahkan beberapa deskripsi misal titik atau koma pada salah satu _field_ setelah itu _save_ (hal ini bertujuan untuk mendatangkan kembali listingan yang sebelumnya gagal dan bisa ke export).
 
 ### Apakah nama produk dan harga akan berpengaruh ke stok?
 
