@@ -29,7 +29,7 @@ Forstok melakukan proses _mapping_ dari marketplace dengan menggunakan kode SKU.
 
 ### **Apakah jika saya masih terhubung dengan **_**third party**_**  **_**(omni channel)**_** lain saya bisa menggunakan Forstok?**
 
-Salah satu syarat yang harus dilakukan sebelum melakukan integrasi dengan Forstok adalah memutuskan integrasi dengan _third party (omni channel)_ lainnya. Tujuannya agar ketika melakukan sinkronisasi stok, stoknya tidak akan tarik-menarik antara Forstok, Marketplace dan juga omnichannel sebelumnya.
+Salah satu syarat yang harus dilakukan sebelum melakukan integrasi dengan Forstok adalah memutuskan integrasi dengan _third party (omni channel)_ lainnya. Tujuannya agar ketika melakukan sinkronisasi stok, stoknya tidak akan tarik-menarik antara Forstok, Marketplace dan juga _omni channel_ sebelumnya.
 
 ### **Apakah ada panduan dalam membuat kode SKU?**
 
