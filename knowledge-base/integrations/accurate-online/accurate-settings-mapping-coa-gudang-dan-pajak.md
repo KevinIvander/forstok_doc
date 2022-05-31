@@ -9,6 +9,13 @@
 
 * Mapping COA : Pastikan sudah buat COA per store di Accurate. Hanya bisa mapping type COA Cash & Bank
 * Mapping Warehouse : Hanya muncul warehouse yang sudah dibuat di Accurate
+
+{% hint style="info" %}
+**Pastikan penulisan COA dan Warehouse tidak dipisah oleh spasi, apabila terdiri dari 2 kata maka gunakan tanda pemisah atau penulisan digabung.**&#x20;
+
+**Contoh: Gudang-Marketplace, GudangMarketplace, WH-Tomang.**&#x20;
+{% endhint %}
+
 * Mapping Setting Tax ( On atau Off sesuai di Accurate )
 * Mapping Shipping Price: other expense/ other income&#x20;
 
