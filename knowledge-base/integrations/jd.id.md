@@ -13,15 +13,15 @@ Sebelum integrasi ke JD.ID pastikan toko Anda sudah **Qualified Seller.** Karena
 ****[https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat\_194.html](https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat\_194.html)
 
 {% hint style="warning" %}
-1. Log in ke akun JD.ID seller [https://seller.jd.id/](https://seller.jd.id)
-2. Log in ke dev console jd.id [https://open-console.jd.id/](https://open-console.jd.id)
+1. Log in ke akun JD.ID seller [https://seller.jd.id/](https://seller.jd.id/)
+2. Log in ke dev console jd.id [https://open-console.jd.id/](https://open-console.jd.id/)
 
 Untuk URL Callback menggunakan link berikut : [https://www.forstok.com/dashboard/channels/integrations/jd/setup](https://www.forstok.com/dashboard/channels/integrations/jd/setup)
 {% endhint %}
 
 
 
-1 Log in ke ke seller center JD.ID [https://seller.jd.id/](https://seller.jd.id) input email dan password Anda.\
+1 Log in ke ke seller center JD.ID [https://seller.jd.id/](https://seller.jd.id/) input email dan password Anda.\
 
 
 2\. Log in ke dev console JD.ID menggunakan akses seller center tadi (ini untuk mendapatkan API JD.ID)\
@@ -79,7 +79,7 @@ Pilih integration pada kanan atas, lalu pilih Add Integration. Lalu pilih JD.ID
 
 ![](<../../.gitbook/assets/shop id api key api secret jdid.jpg>)
 
-Shop ID (dari seller center JD.ID [https://seller.jd.id/](https://seller.jd.id)): Shop Information / Informasi Toko, copy paste shop id / id toko pada bagian yang ditandai.
+Shop ID (dari seller center JD.ID [https://seller.jd.id/](https://seller.jd.id/)): Shop Information / Informasi Toko, copy paste shop id / id toko pada bagian yang ditandai.
 
 ![](<../../.gitbook/assets/shop id jdid.jpg>)
 

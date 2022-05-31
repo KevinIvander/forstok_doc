@@ -18,7 +18,7 @@ Pastikan Anda sudah Log In ke seller center Shopify atau akun Shopify
 ****\
 ****2. Input URL Link myshopify
 
-**Contoh URL Link:** [onycha.myshopify.com](http://onycha.myshopify.com)\
+**Contoh URL Link:** [onycha.myshopify.com](http://onycha.myshopify.com/)\
 
 
 ![](<../../.gitbook/assets/image (421).png>)

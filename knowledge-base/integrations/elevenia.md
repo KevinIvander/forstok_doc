@@ -10,7 +10,7 @@
 
 
 
-1\. Terlebih dahulu masuk ke seller center Elevenia lalu log in. [https://soffice.elevenia.co.id](https://soffice.elevenia.co.id)\
+1\. Terlebih dahulu masuk ke seller center Elevenia lalu log in. [https://soffice.elevenia.co.id](https://soffice.elevenia.co.id/)\
 \
 Jika sudah masuk ke seller center, pilih Akun Saya > API Penjual > API Elevenia ada pada ‘API Key Anda’.
 

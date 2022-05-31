@@ -13,7 +13,7 @@
 
 ## Cara Integrasi Zalora (Step-by-step)
 
-1\. Untuk Integrasi ke Zalora terlebih dahulu log in ke seller center Zalora di [https://sellercenter.zalora.co.id/](https://sellercenter.zalora.co.id) untuk mendapatkan API Zalora.\
+1\. Untuk Integrasi ke Zalora terlebih dahulu log in ke seller center Zalora di [https://sellercenter.zalora.co.id/](https://sellercenter.zalora.co.id/) untuk mendapatkan API Zalora.\
 Pilih Settings > Integration Management
 
 ![](<../../.gitbook/assets/image (206).png>)
