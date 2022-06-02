@@ -41,29 +41,34 @@ Left side of this panel displays the total items that have been entered. Where o
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MQjyQQDEkdPNmbOIMd5%2F-MS3hSryozttV0rCAsNh%2F-MS3nDww-3\_kHCDgqV87%2Fimage.png?alt=media\&token=4edc22c5-e32d-4730-b3d5-b63e95e3a3dc)
 
-**B. Right Panel:** To view item details and edit the item. On the right side, we can see that the sku is already linking with any marketplace, the live link can be clicked directly to the marketplace product link, see the product status, can be active or in active product. 1. Stock Information - Qty on Hold: that is the total stock that is updated from Forstok. - Reserved Qty: is the stock that is in a pending payment order where at checkout, this stock has been cut, usually in the Shopee, Lazada, Blibli marketplaces.- Available Qty: Stock that is exported for all market palce.
+**B. Right Panel**\
+****To view item details and edit the item. On the right side, we can see that the sku is already linking with any marketplace, the live link can be clicked directly to the marketplace product link, see the product status, can be active or in active product. 1. Stock Information - Qty on Hold: that is the total stock that is updated from Forstok. - Reserved Qty: is the stock that is in a pending payment order where at checkout, this stock has been cut, usually in the Shopee, Lazada, Blibli marketplaces.- Available Qty: Stock that is exported for all marketplace.
 
+{% hint style="info" %}
 `Examples of how to enter stock:`\
 `Qty on Hold: 10 stock`\
 `Reserved stock or pending payment at Shopee: 2 stock Available qty: 8 stock (this is the stock that will be pushed for other marketplaces). Stock benchmark that Forstok pushes to the marketplace is Available Qty.`
+{% endhint %}
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MQjyQQDEkdPNmbOIMd5%2F-MS3hSryozttV0rCAsNh%2F-MS3oRNjxDguQJi1c6uE%2Fimage.png?alt=media\&token=acf46099-7cf8-4742-894d-96f052e9d61f)
 
-**2.The items that are already linked** The most important thing, if the sku code is the same in each marketplace, the items will be grouped and linked neatly as follows. Live links can be clicked where directly go to the product link in the marketplace, you can see the price, the item's status, and the active / inactive product.
+**2.The items that are already linked**\
+****The most important thing, if the sku code is the same in each marketplace, the items will be grouped and linked neatly as follows. Live links can be clicked where directly go to the product link in the marketplace, you can see the price, the item's status, and the active / inactive product.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MQjyQQDEkdPNmbOIMd5%2F-MS3hSryozttV0rCAsNh%2F-MS3ot-y5WOt8E1TVYJr%2Fimage.png?alt=media\&token=96d375e6-5221-4244-b3a3-0e32ad85e10b)
 
-**3. Keterangan Listing**
+**3. Listing Details**
 
 * Listing: To see the item has been listed in any marketplace.
-* Warehouse: Untuk melihat warehouse stock tsb.
+* Warehouse: To see the stock warehouse.
 * Stock History: To see the stock update history, orders from any channel, you can even see the user updating the stock.
 * Stock History: To see the history of when to change prices, for any channel, and the user, you can also see who did the price update.
 * Activity: To see what activities are being carried out for that item. For example: Update items, active / inactive items, etc.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MQjyQQDEkdPNmbOIMd5%2F-MS3pSoSkllUkYuLff3s%2F-MS3qMs-ULfPmI9lIXrp%2Fimage.png?alt=media\&token=3d4d49ad-11f1-4186-ad02-be4a87ae1720)
 
-**4. Edit Item** To edit or improve such as product descriptions, product images, or other fields.
+**4. Edit Item**\
+****To edit or improve such as product descriptions, product images, or other fields.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MQjyQQDEkdPNmbOIMd5%2F-MS3pSoSkllUkYuLff3s%2F-MS3r59D51kzXh0Im\_7\_%2Fimage.png?alt=media\&token=88fbe741-6e6a-4bce-9e3c-fdf6322902a2)
 
