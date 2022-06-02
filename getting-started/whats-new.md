@@ -11,7 +11,7 @@ description: >-
 Here's a sneak-peak of what's coming:
 
 * Create **Invoices** and **Payment Received** from Sales Order.
-* Create **Shipment** and ****faster **shipping documents** printing**.**
+* Create **Shipment** and **** faster **shipping documents** printing**.**
 * Automatic **payment reconciliation** from Marketplace API.
 * Create **Sales Order** to capture manual orders.
 * New **Reports** Section.
@@ -22,7 +22,9 @@ Here's a sneak-peak of what's coming:
 
 * **Sales Returns Management** - Allow you to manage returns from sales channels. From Create Sales Returns, Confirm received items to restock items.
 
-{% page-ref page="../knowledge-base/sales-returns/" %}
+{% content-ref url="../knowledge-base/sales-returns/" %}
+[sales-returns](../knowledge-base/sales-returns/)
+{% endcontent-ref %}
 
 ### Fixed
 
@@ -57,6 +59,4 @@ Here's a sneak-peak of what's coming:
 ### Added
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
-
-
 
