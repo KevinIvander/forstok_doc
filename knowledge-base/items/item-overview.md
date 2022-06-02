@@ -29,14 +29,15 @@ Left side of this panel displays the total items that have been entered. Where o
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MQjyQQDEkdPNmbOIMd5%2F-MS3hSryozttV0rCAsNh%2F-MS3m\_l8Y999y8NbsMQm%2Fimage.png?alt=media\&token=f7fe5b21-7e38-4330-a17b-1e157a87ca54)
 
-**4. Bulk Actions** Jika kita klik checkbox sebelah kiri atas maka akan ada opsi pada dibawah. Ini berfungsi jika seller ingin melakukan bulky edit item dari interface Forstok.
+**4. Bulk Actions**\
+****If we click on the top left checkbox there will be an option below. This works if the seller wants to do bulk editing items from Forstok's interface.
 
-* Edit Item: Untuk mengedit master data item dari interface Forstok. Seperti edit category, deskripsi, nama produk dan lain-lain.
-* Stock Adjustment: Untuk update stock secara massal dari interface Forstok.
-* Price Adjustment: Untuk update harga secara massal dari interface Forstok.
-* Active/Inactive: Untuk mengaktifkan atau non-aktifkan produk.
-* Delete: Untuk hapus item dari Forstok (Untuk hapus item ini hanya di Forstok saja tidak menghapus item di marketplace. Jadi di marketplace harus hapus juga secara manual langsung dari seller center)
-* Confirm: Untuk mengconfirm linking item yang ada pada Pending Actions.
+* Edit Item: For editing item data Master from Forstok's interface. Such as editing category, description, product name, etc.
+* Stock Adjustment: For bulk updating stock from Forstok's interface.
+* Price Adjustment: For bulk updating price from Forstok's interface.
+* Active/Inactive: For active and inactive product.
+* Delete: For deleting items from Forstok. (Deleting items only in Forstok, if you want to delete the items permanently both from Forstok and seller center, you may delete the items from seller center directly).
+* Confirm: For confirming linking item on Pending Actions.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MQjyQQDEkdPNmbOIMd5%2F-MS3hSryozttV0rCAsNh%2F-MS3nDww-3\_kHCDgqV87%2Fimage.png?alt=media\&token=4edc22c5-e32d-4730-b3d5-b63e95e3a3dc)
 
