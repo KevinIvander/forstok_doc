@@ -55,7 +55,7 @@
     * [Remove one SKU channel (remove listing)](knowledge-base/items/delete-product/remove-one-sku-channel-remove-listing.md)
     * [Delete all sku channels (bulk delete)](knowledge-base/items/delete-product/delete-all-sku-channels-bulk-delete.md)
   * [Cross Listing from Master product (Add Listings)](knowledge-base/items/cross-listing-items-interface.md)
-  * [Listing Items (Excel)](knowledge-base/items/cross-listing-items-excel.md)
+  * [Cross Listing from Master Product (XLS)](knowledge-base/items/cross-listing-items-excel.md)
   * [Remove Listing](knowledge-base/items/remove-listing.md)
   * [Price Adjustment](knowledge-base/items/price-adjustment-interface.md)
   * [Price Adjustment (Excel)](knowledge-base/items/price-adjustment-excel.md)
