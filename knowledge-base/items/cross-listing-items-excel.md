@@ -8,3 +8,7 @@ There are 2 steps to create Master Product, If the master product hasn't uploade
 1. [Import Product from one of channel (Marketplace or website)](import-product-from-channels.md)
 2. [Add master product](add-master-product.md)
 {% endhint %}
+
+These are the steps if you want to make cross listing:
+
+1. Click item button, then click +Item after that choose **cross listing**.
