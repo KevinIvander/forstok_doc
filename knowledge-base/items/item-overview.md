@@ -47,12 +47,12 @@ Sisi kiri/left panel ini menampilan total item yang sudah masuk. Dimana pada sis
 ****Untuk melihat detail item dan mengedit item tsb. Pada sisi kanan ini kita dapat melihat sku tsb sudah linking dengan marketplace mana saja, live link bisa diklik langsung masuk ke link produk marketplace, melihat status produk, bisa activ atau in active produk.\
 \
 **1. Keterangan Stock**\
-**** - Qty on Hold : yaitu total stock yang di update dari Forstok.- Reserved Qty : merupakan stok yang di orderan pending payment dimana saat checkout sudah motong stock ini biasanya ada di marketplace Shopee, Lazada, Blibli.- Available Qty : Stock yang di export untuk semua marketpalce.\
+**** - Qty on Hand: yaitu total stock yang di update dari Forstok.- Reserved Qty : merupakan stok yang di orderan pending payment dimana saat checkout sudah motong stock ini biasanya ada di marketplace Shopee, Lazada, Blibli.- Available Qty : Stock yang di export untuk semua marketpalce.\
 
 
 {% hint style="info" %}
 `Contoh cara penginputan stock:`\
-`Qty on Hold: 10 stock`\
+`Qty on Hand: 10 stock`\
 `Reserved stock atau pending payment di Shopee: 2 stock`\
 `Available qty: 8 stock (inilah stock yang akan di push untuk marketplace lainnya). Patokan stock yang Forstok push ke marketplace adalah Available Qty.`
 {% endhint %}
