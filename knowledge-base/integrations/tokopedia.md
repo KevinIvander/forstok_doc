@@ -41,7 +41,11 @@ Buka seller center Tokopedia > Aplikasi Pihak Ketiga > Menunggu Pesetujuan > Kli
 
 ![](<../../.gitbook/assets/image (447) (1) (1) (1).png>)
 
-Jika sudah klik terima mohon infokan kembali ke kami. Biar kami bantu integrasikan.
+Jika sudah klik terima, email kembali ke tim Forstok dengan melampirkan tangkapan layar tampilan Pengaturan Aplikasi Pihak Ketiga seperti tampilan berikut:
+
+![Pastikan jumlah akses yang dicentang sejumlah 29 jenis akses, dan tidak dalam kondisi tersambung dengan API lain.](<../../.gitbook/assets/Screenshot 2022-06-09 163840.jpg>)
+
+Selanjutnya tim Forstok akan mengirimkan email credentials yang dibutuhkan untuk proses integrasi.
 
 **Integrations**
 
@@ -54,7 +58,7 @@ Jika sudah klik terima mohon infokan kembali ke kami. Biar kami bantu integrasik
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083162452/original/CG5Grf3fkPpRiyMBb8fzuf56St4DzijkAw.png?1611574381)
 
 [\
-](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062572994/original/VAz3XK3s1NDWKHiptEuteE-zA0yqniyYyw.png?1601813140)3. Input FS ID, Shop ID, Client ID, Client Secret yang bisa didapatkan dari tim Forstok melalui email pada point 1.
+](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062572994/original/VAz3XK3s1NDWKHiptEuteE-zA0yqniyYyw.png?1601813140)3. Input FS ID, Shop ID, Client ID, Client Secret yang bisa didapatkan dari tim Forstok melalui email.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083162648/original/uAZKC0nGyhrEr62FIZcDbNO5Y--q-8T59Q.png?1611574439)
 
