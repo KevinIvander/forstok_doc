@@ -1,13 +1,11 @@
 # Grabmart
 
-
-
 {% hint style="warning" %}
 **!! Penting !!**
 
-Sebelum mengaktifkan fitur sync item ON di Forstok, seller harus melakukan _add item_ terlebih dahulu di Forstok sesuai data di Grabmart ( jika sudah ada item di Grabmart )
+Sebelum mengaktifkan fitur sync item ON di Forstok, seller harus melakukan _add item_ terlebih dahulu di Forstok sesuai dengan data di Grabmart (jika sudah ada item di Grabmart).
 
-Jika setting active export diaktifkan (mengaktifkan export item), Maka seluruh item yang ada di Grabmart akan hilang (karena di Forstok tidak ada item Grabmart)
+Jika fitur sync item ON diaktifkan ketika item belum ditambahkan di Forstok, maka seluruh item yang ada di Grabmart akan hilang (karena di Forstok tidak ada item Grabmart).
 {% endhint %}
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-08 at 12.37.32 PM.png>)
