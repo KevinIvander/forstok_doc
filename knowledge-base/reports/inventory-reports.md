@@ -8,6 +8,14 @@ description: Section Inventory Reports
 
 ![](<../../.gitbook/assets/image (187).png>)
 
+{% hint style="info" %}
+Low stock report: List barang yang stoknya akan habis
+
+Days to Out of Stock: List barang yang _fast moving_
+
+Slow Moving SKUs Report: List barang yang _slow moving_
+{% endhint %}
+
 2\. Melihat banyaknya sku yang qty nya dibawah dari angka yang kita tentukan misal : 1. Lalu klik generate untuk mengetahui hasilnya.
 
 ![](<../../.gitbook/assets/image (252).png>)
