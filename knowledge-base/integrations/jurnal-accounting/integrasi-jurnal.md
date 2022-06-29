@@ -2,7 +2,13 @@
 
 Langkah-langkah melakukan Integrasi Jurnal (Step-by-step).\
 \
-Untuk integrasi ke Jurnal pastikan akun Jurnal yang terhubung ke Forstok adalah Akun Utama bukan sub akun.
+
+
+{% hint style="info" %}
+&#x20;**Pastikan akun Jurnal yang digunakan untuk integrasi adalah Akun Utama/Owner bukan sub akun. Hal ini berpengaruh pada akses API Jurnal.**
+{% endhint %}
+
+Untuk integrasi ke Jurnal
 
 1\. Arahkan kursor ke bagian integrasi dibagian pojok kanan atas lalu pilih Add Integrations.
 
