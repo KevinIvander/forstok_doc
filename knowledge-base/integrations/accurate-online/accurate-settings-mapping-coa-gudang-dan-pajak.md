@@ -11,9 +11,9 @@
 * Mapping Warehouse : Hanya muncul warehouse yang sudah dibuat di Accurate
 
 {% hint style="info" %}
-**Pastikan penulisan COA dan Warehouse tidak dipisah oleh spasi, apabila terdiri dari 2 kata maka gunakan tanda pemisah atau penulisan digabung.**&#x20;
+**Pastikan penulisan COA dan Warehouse tidak dipisah oleh spasi, apabila terdiri dari 2 kata maka gunakan tanda pemisah seperti - atau \_ , atau bisa juga penulisan digabung.**&#x20;
 
-**Contoh: Gudang-Marketplace, GudangMarketplace, WH-Tomang.**&#x20;
+**Contoh: Gudang-Marketplace, GudangMarketplace, WH-Tomang, Tokopedia\_Toko1,Shopee\_Toko1, dan seterusnya.**&#x20;
 {% endhint %}
 
 * Mapping Setting Tax ( On atau Off sesuai di Accurate )
