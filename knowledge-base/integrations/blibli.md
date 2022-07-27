@@ -14,7 +14,9 @@
 
 2\. Pada **Kata sandi API** klik **Buat** .&#x20;
 
-Untuk Kata sandi khusus di kosongkan.
+{% hint style="info" %}
+Pastikan kata sandi khusus di kosongkan, apabila terisi dapat menyebabkan error 'Seller id not recognized' ketika akan memproses integrasi di Forstok.
+{% endhint %}
 
 **ID API Klien** input:\
 ID API Forstok yaitu: mta-api-ptforstokteknologiindonesia-9ddf9
