@@ -4,7 +4,7 @@ description: Tentang Dashboard
 
 # Dashboard
 
-![](<../../.gitbook/assets/image (74).png>)
+![Dashboard Utama Forstok](../../.gitbook/assets/Screenshot\_20.png)
 
 Berikut merupakan detail penjelasan untuk masing masing section :&#x20;
 

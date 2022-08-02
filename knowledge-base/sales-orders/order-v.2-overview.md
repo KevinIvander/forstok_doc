@@ -16,9 +16,9 @@
 
 ### New Interface
 
-Access order v.2 melalui dropdown menu.
+Akses order v.2 melalui dropdown menu.
 
-![](https://lh3.googleusercontent.com/rFSK2lyVGlUo-KxDyTTOZf9-jaz51fxmV-I-e4MDJ1a0Wjh7nRu6wM3NBIUBbE5Pv9Sy4ciWSjiF0oJkvCPcV5q-DenSqoTZZOt3tNeh1akYO8UxRi2aWrY6HyDf8iKjlCKYklJK5Cai)
+![](../../.gitbook/assets/Screenshot\_21.png)
 
 ### New Order Status
 
@@ -48,11 +48,13 @@ Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketpla
 
 ### **2 steps order processing**
 
-Order v.2 mempunyai 2 steps order processing sesuai seller center MP, di mana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo&#x20;
+Order v.2 mempunyai 2 steps order processing sesuai seller center MP, di mana seller bisa menggunakan fitur “Create Shipment” di Forstok untuk Terima Order di toped, create package di Blibli, Lazada, zalora, zilingo.\
+\
+Namun untuk saat ini juga sudah ada fitur Create Shipment + Ready to Ship yang bisa digunakan seller untuk langsung memproses orderan sehinga bisa menampilkan AWB orderan tersebut.&#x20;
 
 Sehingga seller dapat print AWB tanpa trigger Ready to Ship ke channel/marketplace, sehingga paket dapat disiapkan terlebih dahulu sebelum dilakukan pemanggilan kurir (Ready to Ship)
 
-![](https://lh6.googleusercontent.com/gT5CcK\_HafXsuQJR1EfXCqw9Vddre-ep\_9mxZLn3GyJjrVSIOhwXaRV-SKOnX3tLDJDhQwdWBV00Rur2m5yAFXyf4DBG8OGdS2LPaHOtjFBlugpLC68xRhrJAG9zm4ogPbWuOsfRpR60)
+![](../../.gitbook/assets/Screenshot\_22.png)
 
 ### Tap to Ship: Not Shipped → Ready to Ship
 
@@ -76,6 +78,9 @@ Klik ‘Forstok Order ID’ untuk memilih kategori pencarian berdasarkan: Forsto
 
 Klik ‘Filter’ pada masing-masing tab status order (Pending, Open, To Ship, dst) untuk melakukan filter order berdasarkan Stores, Warehouses, couriers, Print status, picklist and package status.
 
+Saat ini seller juga bisa menggunakan filter di tab yang berbeda apabila seller ingin menggunakan filter yang berbeda pada setiap tab sehingga untuk tab yang pertama dengan tab yang lainnya memiliki filter berbeda yang memudahkan ketika memproses orderan yang masuk.\
+
+
 ![](https://lh5.googleusercontent.com/72F3w5nl2R5AkwQKrMAyEgyKBCn8Iy5F5FnmmPaq-sGz6KAaNCM6rupiXCe\_A9dCnAr1y89AbH7y\_U5Arkp1BeSU3cpR2fmePhZFADRYQJ8fYi1y1xJ8onSSbLDWLfjv655Gsw)
 
 ### Sort Order
@@ -94,5 +99,10 @@ Klik box centang di samping ‘Bulk Select’ , atau klik box centang di baris o
 
 Sisa waktu untuk di kirim sebelum di auto-cancelled oleh marketplace.
 
-![](https://lh6.googleusercontent.com/YJWi56RdbQlDfQK6vSDMy-06ll931tNEzYcQDPiQNCclFIp1kLs00iGmLLrgzCwpVAySPk9HO0cjMTe8-Lz0WQ\_vwwkjkerlLhHnAVo9UlwJ6IAPAzWZDTmEyBuRCqISt-M0vA)
 
+
+### Jasa Kirim / Kurir
+
+Apabila belum menyesuaikan dan melakukan pengaturan informasi jasa kirim di marketplace, maka ketika akan memproses order di Forstok akan tampil tanda (-) yang menandakan bahwa informasi kurir belum dilengkapi.
+
+![](../../.gitbook/assets/Screenshot\_23.png)
