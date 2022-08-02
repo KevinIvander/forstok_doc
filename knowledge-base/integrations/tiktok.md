@@ -17,6 +17,7 @@
 1. Tidak dapat menambahkan produk baru dari Forstok. Produk harus diunggah ke TikTok terlebih dahulu kemudian diimpor ke Forstok.
 2. Tidak dapat memperbarui/mengedit produk termasuk harga pembaruan. Harus memperbarui produk dan harga dari TikTok.
 3. Tidak dapat memperbarui status pesanan menjadi Siap Dikirim/ Ready to Ship dari Forstok. Harus update status order di TikTok dulu, baru print label pengiriman di Forstok.
+4. Tidak dapat menampilkan data customer pada shipping label (masking).
 {% endhint %}
 
 ## Steps
