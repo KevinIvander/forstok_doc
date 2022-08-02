@@ -99,7 +99,7 @@ Klik box centang di samping ‘Bulk Select’ , atau klik box centang di baris o
 
 Sisa waktu untuk di kirim sebelum di auto-cancelled oleh marketplace.
 
-
+![](../../.gitbook/assets/Screenshot\_24.png)
 
 ### Jasa Kirim / Kurir
 
