@@ -68,6 +68,7 @@
   * [Reconnect Bukalapak (Dari Pop-up)](knowledge-base/integrations/reconnect-bukalapak.md)
   * [Reconnect Bukalapak (Dari Integration)](knowledge-base/integrations/reconnect-bukalapak-dari-integration.md)
   * [Reconnect Lazada](knowledge-base/integrations/reconnect-lazada.md)
+  * [Reconnect JD.ID](knowledge-base/integrations/reconnect-jd.id.md)
   * [Mengaktifkan Export Item](knowledge-base/integrations/mengaktifkan-export-item.md)
   * [Disconnect Channel](knowledge-base/integrations/disconnect.md)
 * [Dashboard](knowledge-base/dashboard/README.md)

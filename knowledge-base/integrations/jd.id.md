@@ -81,7 +81,7 @@ Pilih integration pada kanan atas, lalu pilih Add Integration. Lalu pilih JD.ID
 
 Shop ID (dari seller center JD.ID [https://seller.jd.id/](https://seller.jd.id/)): Shop Information / Informasi Toko, copy paste shop id / id toko pada bagian yang ditandai.
 
-![](<../../.gitbook/assets/shop id jdid.jpg>)
+![](<../../.gitbook/assets/shop id jdid (1).jpg>)
 
 API Key dan API Secret (dari dev console https://open-console.jd.id/)
 
