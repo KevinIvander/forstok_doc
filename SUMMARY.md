@@ -93,7 +93,7 @@
   * [Stock History](knowledge-base/items/stock-history.md)
   * [Create Stock Allocation](knowledge-base/items/create-stock-allocation.md)
   * [Edit item (For Channel)](knowledge-base/items/edit-item.md)
-  * [Master Produk (Bulk Update Items excel)](knowledge-base/items/master-produk.md)
+  * [Update Master Item](knowledge-base/items/master-produk.md)
   * [Cara Listing The F Thing (menggunakan Cross Listing)](knowledge-base/items/cara-listing-the-f-thing-menggunakan-cross-listing.md)
   * [Merubah Category Master (via Interface)](knowledge-base/items/merubah-category-master-via-interface.md)
   * [Update Image/Foto](knowledge-base/items/merubah-category-master-by-sku-interface.md)
