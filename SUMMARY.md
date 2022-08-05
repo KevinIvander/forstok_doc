@@ -80,7 +80,7 @@
   * [Linking produk / varian](knowledge-base/items/linking-item-variants.md)
   * [Pindahkan Pengelompokan Varian](knowledge-base/items/move-variant-grouping.md)
   * [Tambahkan Master Produk](knowledge-base/items/add-master-product.md)
-  * [Bulk Update Images](knowledge-base/items/bulk-update-images.md)
+  * [Upload Images](knowledge-base/items/bulk-update-images.md)
   * [Delete Product](knowledge-base/items/delete-product/README.md)
     * [Hapus satu sku semua channel](knowledge-base/items/delete-product/delete-items.md)
     * [Meremove satu sku satu channel (remove listing)](knowledge-base/items/delete-product/remove-listing.md)

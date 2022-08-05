@@ -1,19 +1,19 @@
-# Bulk Update Images
+# Upload Images
 
-Fitur Mass Upload Image ini untuk mempermudah multiple upload image product ke Forstok. Image yang telah di upload ke Forstok, secara otomatis akan ada di dalam masing - masing SKU.
+Fitur Upload Images ini untuk mempermudah multiple upload image product ke Forstok. Image yang telah di upload ke Forstok, secara otomatis akan ada di dalam masing - masing SKU.
 
 Untuk menampilkan Image tersebut ke Channel harus di edit terlebih dahulu. Syarat Image yang sudah disediakan:
 
-* Satu Image max 1Mb
-* Ukuran Image minimal 500x500, maksimal 2000x2000
+* Satu Image min 800px, max 1500px
+* Ukuran disarankan square
 
-1\. Pada menu Items pilih Bulk Update Image
+1\. Pada menu Items pilih Upload Images
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48080561759/original/dSKWVDpju1cDKj0Yl9FsVedtWV6weZIPzw.png?1610360492)
+![](<../../.gitbook/assets/Screenshot 2022-08-05 115304.jpg>)
 
-2\. Disini kita di minta untuk upload image dalam folder yang sudah di zip, lalu tinggal di upload.
+2\. Ikuti petunjuk untuk mengupdate image secara mass.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48044259237/original/tF7LTf8JRCMO2B8kBNKdR8ZDsD86WNOAuQ.png?1591960173)
+![](<../../.gitbook/assets/Screenshot 2022-08-05 115435.jpg>)
 
 Forstok mendeteksi image sukses terupload jika kita sudah membuat kode sku per image Berikut langkah dan syarat zip folder image:
 
@@ -33,6 +33,10 @@ Forstok mendeteksi image sukses terupload jika kita sudah membuat kode sku per i
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48044259235/original/KyMTTcxwdVM3rd\_Al0xpAMVAFUVFCbdd1Q.png?1591960172)
 
-7\. Hasil Zip tadi di upload ke Forstok. Image yang sukses terupload akan ada summary masuk ke email seller.
+7\. Hasil Zip tadi di upload ke Forstok dengan klik choose a file, pilih folder zip yang berisi folder sku, kemudian upload file.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48044259240/original/UxoO6VOwlml\_J-rnUXyUiiUrPiK3vv\_9IA.png?1591960173)
+![](<../../.gitbook/assets/Screenshot 2022-08-05 121518.jpg>)
+
+8\. Image yang sukses terupload akan ada summary di Notifications.
+
+![](<../../.gitbook/assets/Screenshot 2022-08-05 121657.jpg>)
