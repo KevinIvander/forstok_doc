@@ -51,7 +51,7 @@ Digunakan untuk melihat laporan dan mendownload data order sales. Yang bisa di f
 {% hint style="info" %}
 **Data Gross Sales Dashboard** = status order open, printed, ready\_to\_ship, shipped, delivered, Payout
 
-**Data Gross Sales dari Export Sales Orders v2 dalam bentuk xls**  = status order not paid, open, printed, ready\_to\_ship, shipped, delivered, Payout, Cancelled
+**Data Gross Sales dari Export Sales Orders v2 dalam bentuk xls**  = status order not paid, open, printed, ready\_to\_ship, shipped, delivered, Cancelled
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (109).png>)
