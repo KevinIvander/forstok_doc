@@ -46,7 +46,13 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
 ![](<../../.gitbook/assets/image (116).png>)
 
 3\.  **Sales Reports**\
-Digunakan untuk melihat laporan dan mendownload data order sales. Yang bisa di filter berdasarkan channel dan periodenya bisa di custome.
+Digunakan untuk melihat laporan dan mendownload data order sales. Yang bisa di filter berdasarkan channel dan periodenya bisa di custom.
+
+{% hint style="info" %}
+**Data Gross Sales Dashboard** = status order open, printed, ready\_to\_ship, shipped, delivered, Payout
+
+**Data Gross Sales dari Export Sales Orders v2 dalam bentuk xls**  = status order not paid, open, printed, ready\_to\_ship, shipped, delivered, Payout, Cancelled
+{% endhint %}
 
 ![](<../../.gitbook/assets/image (109).png>)
 
