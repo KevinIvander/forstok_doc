@@ -49,7 +49,7 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
 Digunakan untuk melihat laporan dan mendownload data order sales. Yang bisa di filter berdasarkan channel dan periodenya bisa di custom.
 
 {% hint style="info" %}
-**Data Gross Sales Dashboard** = status order open, printed, ready\_to\_ship, shipped, delivered, Payout
+**Data Gross Sales Dashboard** = status order open, printed, ready\_to\_ship, shipped, delivered
 
 **Data Gross Sales dari Export Sales Orders v2 dalam bentuk xls**  = status order not paid, open, printed, ready\_to\_ship, shipped, delivered, Cancelled
 {% endhint %}
