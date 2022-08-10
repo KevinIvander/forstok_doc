@@ -1,8 +1,8 @@
 # Create ticket
 
-Apabila seller mengalami kendala / issue terkait dengan operasional seperti ketidaksesuaian stok, stok minus, libe link tidak dapat di klik, perbedaan status order dan lainnya silahkan untuk membuat laporan dalam bentuk tiket seperti dengan langkah langkah dibawah ini:
+Apabila seller mengalami kendala / issue terkait dengan operasional seperti ketidaksesuaian stok, stok minus, live link tidak dapat di klik, proses import yang terlalu lama, perbedaan status order dan lainnya silahkan membuat laporan dalam bentuk tiket seperti langkah langkah dibawah ini:
 
-1. Klik tanda question mark di pojok kanan atas dashboard Forstok.
+1. Klik tanda question mark (?) di pojok kanan atas dashboard Forstok.
 
 ![](../.gitbook/assets/Screenshot\_26.png)
 
