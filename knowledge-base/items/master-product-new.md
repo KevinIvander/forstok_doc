@@ -37,3 +37,13 @@ Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat ops
 7\. Master Product berhasil ditambahkan.
 
 ![](<../../.gitbook/assets/image (4) (1).png>)
+
+### **Edit Master Product (NEW)**
+
+1. Pada menu items klik Edit Master Product. Akan membuka Tab baru browser.
+
+![](../../.gitbook/assets/ttt.png)
+
+2\. Silahkan Edit artikel produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
+
+![](../../.gitbook/assets/ddd.png)
