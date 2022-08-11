@@ -76,7 +76,7 @@
 * [Produk (Items)](knowledge-base/items/README.md)
   * [Master Product (NEW)](knowledge-base/items/master-product-new.md)
   * [Item v.2 Overview (NEW)](knowledge-base/items/item-v.2-overview-new.md)
-  * [Item Overview](knowledge-base/items/item-overview.md)
+  * [Item v.1 Overview](knowledge-base/items/item-overview.md)
   * [Add Items (Create New Items)](knowledge-base/items/add-items.md)
   * [Impor produk dari channel](knowledge-base/items/import-product-from-channels.md)
   * [Linking produk / varian](knowledge-base/items/linking-item-variants.md)
