@@ -30,7 +30,7 @@ Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat ops
 
 ![](../../.gitbook/assets/rrr.png)
 
-6\. Scroll ke samping jika masih ingin merubah field master produk. Apabila ingin menambahkan produk, klik ‘Add Product’ kemudian ikuti langkah sebelumnya. Jika sudah tidak ada lagi yang ingin ditambahkan silahkan klik submit.
+6\. Scroll ke samping jika masih ingin merubah field Master Product. Apabila ingin menambahkan produk, klik ‘Add Product’ kemudian ikuti langkah sebelumnya. Jika sudah tidak ada lagi yang ingin ditambahkan silahkan klik submit.
 
 ![](../../.gitbook/assets/qq.png)
 
