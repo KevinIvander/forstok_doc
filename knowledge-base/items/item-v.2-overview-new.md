@@ -11,3 +11,10 @@
 * **Add Bundle Product:** Fungsinya adalah untuk menghubungkan stock item bundling dengan item satuan atau main item.
 * **Add Listing:** Fungsinya adalah untuk listing item baru ke channel (marketplace).
 
+![](../../.gitbook/assets/Screenshot\_30.png)
+
+### 2. Edit Master Product
+
+* **Edit Master Product :** Fungsinya untuk mengedit atau memperbaiki seperti deskripsi produk, gambar produk, atau field lainnya di Master Product.
+
+![](<../../.gitbook/assets/Ne Edit.png>)
