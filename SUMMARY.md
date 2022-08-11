@@ -74,6 +74,7 @@
 * [Dashboard](knowledge-base/dashboard/README.md)
   * [Dashboard](knowledge-base/dashboard/introduction-to-dashboard.md)
 * [Produk (Items)](knowledge-base/items/README.md)
+  * [Master Product (NEW)](knowledge-base/items/master-product-new.md)
   * [Item v.2 Overview (NEW)](knowledge-base/items/item-v.2-overview-new.md)
   * [Item Overview](knowledge-base/items/item-overview.md)
   * [Add Items (Create New Items)](knowledge-base/items/add-items.md)
