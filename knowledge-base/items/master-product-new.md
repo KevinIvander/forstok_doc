@@ -36,4 +36,4 @@ Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat ops
 
 7\. Master Product berhasil ditambahkan.
 
-![](../../.gitbook/assets/ww.png)
+![](<../../.gitbook/assets/image (4) (1).png>)
