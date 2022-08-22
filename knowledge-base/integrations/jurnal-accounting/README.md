@@ -20,6 +20,7 @@ Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan p
 4. Stock adjustment and sync from Jurnal to Forstok (Manual Sync). [View here](sinkronisasi-stok-jurnal-ke-forstok.md)
 5. Order sync from Forstok to Jurnal (Otomatis). [View here](sinkronisasi-order-forstok-ke-jurnal.md)
 6. Jurnal FAQ. [View here](faq-jurnal.md)
+7. Reconnect Jurnal&#x20;
 
 ![Jurnal x Forstok API Flow](../../../.gitbook/assets/screen-shot-2021-08-27-at-10.50.08-am.png)
 

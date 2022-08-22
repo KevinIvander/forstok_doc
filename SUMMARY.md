@@ -53,6 +53,7 @@
     * [Terms and Conditions](knowledge-base/integrations/jurnal-accounting/terms-and-conditions.md)
     * [Disconnect Jurnal](knowledge-base/integrations/jurnal-accounting/disconnect-jurnal.md)
     * [FAQ Jurnal](knowledge-base/integrations/jurnal-accounting/faq-jurnal.md)
+    * [Reconnect Jurnal](knowledge-base/integrations/jurnal-accounting/reconnect-jurnal.md)
   * [Accurate Online](knowledge-base/integrations/accurate-online/README.md)
     * [Integrasi Accurate Online](knowledge-base/integrations/accurate-online/integrasi-accurate-online.md)
     * [Accurate Settings - Mapping COA, gudang dan pajak](knowledge-base/integrations/accurate-online/accurate-settings-mapping-coa-gudang-dan-pajak.md)
