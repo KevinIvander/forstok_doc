@@ -40,6 +40,6 @@ Note:\
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48021340934/original/uwFX8Qz9ItKTFJhyVwabne85E\_2Ueosdxg.png?1578044976)
 
 {% hint style="info" %}
-* Tidak boleh mengubah format template yang sudah di download (menambahkan kolom, mengubah nama judul menghapus kolom)
-* 2\. Jangan isi data di sheet sample karna kalau diisi di sheet dengan nama sample tidak akan ke upload.
+1. Tidak boleh mengubah format template yang sudah di download (menambahkan kolom, mengubah nama judul menghapus kolom)
+2. Jangan isi data di sheet sample karna kalau diisi di sheet dengan nama sample tidak akan ke upload.
 {% endhint %}
