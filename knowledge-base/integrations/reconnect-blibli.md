@@ -38,11 +38,10 @@ Untuk mendapatkan Email, API Seller Key dan Merchant ID:
 
 ![](<../../.gitbook/assets/WhatsApp Image 2022-02-15 at 16.09.22.jpeg>)
 
-Kode toko = Merchant ID\
-Kode sandi API = Kata Sandi Khusus\
-\
-Pastikan Hubungkan API Klien sudah terhubung dengan ID API Klien FOrstok, yaitu:\
-mta-api-ptforstokteknologiindonesia-9ddf9
+1. Kode toko = Merchant ID
+2. Kata sandi API= Klik Buat Ulang/Regenerate, kemudian copy paste kata sandi API yang baru dari seller center Blibli ke Forstok
+3. Pastikan Hubungkan API Klien sudah terhubung dengan ID API Klien FOrstok, yaitu:\
+   mta-api-ptforstokteknologiindonesia-9ddf9
 
 ![](<../../.gitbook/assets/image (447) (1) (1).png>)
 
@@ -58,7 +57,11 @@ Bisa di lihat dari Dropdown sebelah kanan atas - pilih seller API Manager
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48087352720/original/LbA4f7R-UMAA6T7Qs\_aWeJfhkgNvDWFzrA.png?1613468465)
 
-2\. Klik reconnect
+{% hint style="info" %}
+Pastikan anda klik regenerate/buat ulang API, kemudian copy paste dari seller center Blibli ke Forstok
+{% endhint %}
+
+2\. Klik Reconnect
 
 ![](<../../.gitbook/assets/image (298).png>)
 
