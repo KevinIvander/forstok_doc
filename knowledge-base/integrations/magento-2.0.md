@@ -12,6 +12,9 @@ Hi Tim Forstok,
 
 Mohon bantuannya untuk integrasikan Magento ke akun Forstok ABC\
 \
+Username (yang digunakan untuk login ke magento):\
+Password (yang digunakan untuk login ke magento):
+
 Web link: [https://www.magento.com/abc](https://www.tokopedia.com/abc)\
 \
 Demikian saya sampaikan, atas perhatiannya saya ucapkan terima kasih
