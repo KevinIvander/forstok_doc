@@ -37,5 +37,7 @@ Jika fitur sync item ON diaktifkan ketika item belum ditambahkan di Forstok, mak
 
 4\. Tim Forstok akan menambahkan secara manual ke database.
 
-5\. Proses selesai.
+5\. Channel Grabmart akan muncul di menu Integrations;
+
+6\. Silahkan melakukan listing ke grabmart melalui Add Listing[add-listing.md](../items/add-listing.md "mention") atau Cross Listing[cross-listing-xls.md](../items/cross-listing-xls.md "mention").
 
