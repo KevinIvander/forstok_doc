@@ -13,15 +13,19 @@ Ada 2 cara untuk membuat Master product, Jika master product belum terupload di 
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross listing_ :&#x20;
 
-1\. Pada halaman item, klik tombol +Item lalu pilih **cross listing**.
+1\. Pastikan kondisi integrasi sudah **sync item on**. Lihat [migrate-to-forstok.md](../before-integrations/migrate-to-forstok.md "mention")
+
+2\. Lakukan category mapping terlebih dahulu untuk mempermudah proses Cross Listing melalui Settings - Category. Lihat [category.md](../settings/category.md "mention")
+
+3\. Pada halaman item, klik tombol +Item lalu pilih **cross listing**.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48084855913/original/-lj3XDsVRXGuTalXgcTGyPjRzbTZBM-y7A.png?1612291312)
 
-2\. Pilih channel tujuan untuk di listing dan category yang akan di listing.
+4\. Pastikan category yang akan di listing pada channel tujuan sudah muncul setelah dilakukan Category Mapping sebelumnya.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48049647268/original/eq8O\_75YrevrzJ6HfwcTl8imdKWuu2Shkg.png?1594965940)
 
-3\. Mulai mapping category, lalu klik **submit** untuk mendapatkan excel cross listing.&#x20;
+5\. Klik **submit** untuk mendapatkan excel cross listing.&#x20;
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062548537/original/YtrSsmawIeMJR3Bqc0PI4HSuDozOsCcPrQ.png?1601757059)
 
