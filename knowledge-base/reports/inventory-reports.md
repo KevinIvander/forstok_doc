@@ -4,7 +4,11 @@ description: Section Inventory Reports
 
 # Inventory Reports
 
-1\. Filter pada _inventory reports_.
+1\. Klik menu Reports
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-08-29 092205.jpg" alt=""><figcaption></figcaption></figure>
+
+2\. Filter pada _inventory reports_.
 
 ![](<../../.gitbook/assets/image (187).png>)
 
