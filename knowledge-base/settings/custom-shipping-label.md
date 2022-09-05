@@ -6,23 +6,38 @@ You can print all Marketplaces and e-commerce website shipping label in 1 format
 
 ![Forstok Print Shipping Label A6](../../.gitbook/assets/forstok-print-label.gif)
 
-## Shipping Label: paper size A6 (Thermal Printer 10x15cm)
+## **Customize Shipping Label**
 
-Shipping label below is ideal from Thermal printer format (10x15cm / A6). You can test print using sample file below:
+You can customize the print shipping label template on the Settings -> Print Template page. Live Preview is available to make it easier for you to customize.
 
-![A6 ideal for thermal printer](../../.gitbook/assets/screen-shot-2021-07-15-at-5.13.11-pm.png)
+<figure><img src="../../.gitbook/assets/tttt.png" alt=""><figcaption><p>Setting Template Print Shipping Label</p></figcaption></figure>
 
-{% file src="../../.gitbook/assets/forstok-custom-shipping-label-a6.pdf" %}
-Forstok Custom Shipping Label (A6)
-{% endfile %}
+As for what you can change:
 
-## Shipping Label: paper size A4 (21 × 29.7cm)
+\- Enable/disable channel logo
 
-Shipping label below is ideal when you want to print 4 label in 1 page.  Please setup printing setting before printing. You can test print using sample file below:
+\- Enable/disable logistics (courier) logo
 
-![A4 paper size](<../../.gitbook/assets/screen-shot-2021-07-16-at-5.13.55-pm (1).png>)
+\- Added your Store logo (If not added, the section will be blank)
 
-{% file src="../../.gitbook/assets/orders_documents_768_1626339855a.pdf" %}
-Forstok Custom Shipping Label (A4)
-{% endfile %}
+\- Enable/disable seller/sender name information
 
+\- Enable/disable the seller/sender's phone number information
+
+\- Enable/disable package information (Weight, Insurance, COD, and Wooden Packing)
+
+\- Enable/disable Forstok Order ID (Include with barcode)
+
+\- Enable/disable Seller notes
+
+\- Enable/disable Buyer note
+
+\- Changed Seller note
+
+\- Enable/disable product name information
+
+\- Enable/disable product variation name
+
+\- Enable/disable SKU code
+
+\- Enable/disable quantity ordered
