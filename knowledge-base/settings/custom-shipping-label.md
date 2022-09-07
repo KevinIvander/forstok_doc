@@ -1,6 +1,6 @@
 # Template Shipping Label
 
-You can print all Marketplaces and e-commerce website shipping label in 1 format. This format is ideal for Thermal printer 10x15cm.&#x20;
+Saat ini seller sudah bisa melakukan cetak shipping label yang ada pada Marketplace dan E-commerce website dengan menggunakan format yang sama. Format ini dapat digunakan pada printer Thermal dengan ukuran 10x15cm.&#x20;
 
 <figure><img src="../../.gitbook/assets/zaaaa.png" alt=""><figcaption><p>Shipping label A6</p></figcaption></figure>
 
@@ -8,36 +8,36 @@ You can print all Marketplaces and e-commerce website shipping label in 1 format
 
 ## **Customize Shipping Label**
 
-You can customize the print shipping label template on the Settings -> Print Template page. Live Preview is available to make it easier for you to customize.
+Saat ini seller sudah bisa melakukan custome pada tampilan shipping label pada halaman pengaturan  Settings -> Print Template. Live Preview sudah tersedia untuk memudahkan seller pada saat melakukan custome.
 
 <figure><img src="../../.gitbook/assets/tttt.png" alt=""><figcaption><p>Setting Template Print Shipping Label</p></figcaption></figure>
 
-As for what you can change:
+Beberapa bentuk tampilan yang dapat diubah diantaranya sebagai berikut:
 
-\- Enable/disable channel logo
+\- Enable/disable logo marketplace
 
-\- Enable/disable logistics (courier) logo
+\- Enable/disable logo kurir (jasa kirim)
 
-\- Added your Store logo (If not added, the section will be blank)
+\- Menambahkan logo toko sendiri (apabila memiliki, jika tidak maka akan kosong)
 
-\- Enable/disable seller/sender name information
+\- Enable/disable informasi nama pengirim
 
-\- Enable/disable the seller/sender's phone number information
+\- Enable/disable informasi nomor telepon pengirim
 
-\- Enable/disable package information (Weight, Insurance, COD, and Wooden Packing)
+\- Enable/disable informasi paket (berat, asuransi, COD dan paket kayu)
 
-\- Enable/disable Forstok Order ID (Include with barcode)
+\- Enable/disable Order ID Forstok (termasuk barcode)
 
-\- Enable/disable Seller notes
+\- Enable/disable catatan penjual
 
-\- Enable/disable Buyer note
+\- Enable/disable catatan pembeli
 
-\- Changed Seller note
+\- Mengubah catatan penjual
 
-\- Enable/disable product name information
+\- Enable/disable informasi mengenai nama produk
 
-\- Enable/disable product variation name
+\- Enable/disable nama varian produk
 
-\- Enable/disable SKU code
+\- Enable/disable kode SKU
 
-\- Enable/disable quantity ordered
+\- Enable/disable jumlah kuantiti yang di pesan
