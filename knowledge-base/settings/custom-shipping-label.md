@@ -12,32 +12,32 @@ Saat ini seller sudah bisa melakukan custome pada tampilan shipping label pada h
 
 <figure><img src="../../.gitbook/assets/tttt.png" alt=""><figcaption><p>Setting Template Print Shipping Label</p></figcaption></figure>
 
-Beberapa bentuk tampilan yang dapat diubah diantaranya sebagai berikut:
+Perubahan yang dapat dilakukan cukup dengan menceklis/mencentang checker box yang ada pada pengaturan print shipping label. Beberapa bentuk tampilan yang dapat diubah diantaranya sebagai berikut:
 
-\- Enable/disable logo marketplace
+\- Aktifkan/Non-Aktifkan logo marketplace
 
-\- Enable/disable logo kurir (jasa kirim)
+\- Aktifkan/Non-Aktifkan logo kurir (jasa kirim)
 
 \- Menambahkan logo toko sendiri (apabila memiliki, jika tidak maka akan kosong)
 
-\- Enable/disable informasi nama pengirim
+\- Aktifkan/Non-Aktifkan informasi nama pengirim
 
-\- Enable/disable informasi nomor telepon pengirim
+\- Aktifkan/Non-Aktifkan informasi nomor telepon pengirim
 
-\- Enable/disable informasi paket (berat, asuransi, COD dan paket kayu)
+\- Aktifkan/Non-Aktifkan informasi paket (berat, asuransi, COD dan paket kayu)
 
-\- Enable/disable Order ID Forstok (termasuk barcode)
+\- Aktifkan/Non-Aktifkan Order ID Forstok (termasuk barcode)
 
-\- Enable/disable catatan penjual
+\- Aktifkan/Non-Aktifkan catatan penjual
 
-\- Enable/disable catatan pembeli
+\- Aktifkan/Non-Aktifkan catatan pembeli
 
 \- Mengubah catatan penjual
 
-\- Enable/disable informasi mengenai nama produk
+\- Aktifkan/Non-Aktifkan informasi mengenai nama produk
 
-\- Enable/disable nama varian produk
+\- Aktifkan/Non-Aktifkan nama varian produk
 
-\- Enable/disable kode SKU
+\- Aktifkan/Non-Aktifkan kode SKU
 
-\- Enable/disable jumlah kuantiti yang di pesan
+\- Aktifkan/Non-Aktifkan jumlah kuantiti yang di pesan
