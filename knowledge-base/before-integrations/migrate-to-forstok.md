@@ -1,12 +1,12 @@
 # 4. Sync Stok
 
-Langkah terakhir adalah update stock. Ini bertujuan untuk menyamakan stock ke semua marketplace. Ini point utama seller menggunakan fitur Forstok. Dimana seller sudah berkomitmen menggunakan Forstok untuk mengelola stock dan proses operational secara online.
+Langkah terakhir adalah _update stock_. Ini bertujuan untuk menyamakan stok ke semua marketplace. Ini poin utama seller menggunakan fitur Forstok. Dimana seller sudah berkomitmen menggunakan Forstok untuk mengelola stok dan proses operasional secara online.
 
 **Cara update stok Pertama dari Forstok**
 
 **A. Mengaktifkan sync export**
 
-1. Aktifkan sync export pada kanan atas pilihan Integrations. Lalu pilih setting pada bawah channel
+1. Aktifkan _sync export_ pada kanan atas pilihan Integrations. Lalu pilih setting pada bagian bawah channel.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062344507/original/4NXOQ9VACcSo4YDyaXKQKqN0iko\_Z6DPjw.png?1601635163)
 
