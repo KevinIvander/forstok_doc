@@ -40,9 +40,15 @@ Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat ops
 
 ### **Edit Master Product (NEW)**
 
-1. Pada menu items klik Edit Master Product. Akan membuka Tab baru browser.
+Berikut langkah-langkah menambahkan Master Product yang belum ada di Forstok:
+
+1. Ada 2 cara untuk Edit Master Product.
+
+Cara pertama pada menu items klik Edit Master Product. **** Berikut ini untuk lampiran cara yang pertama.
 
 ![](../../.gitbook/assets/ttt.png)
+
+Cara kedua, pilih varian items yang ingin diubah kemudian pilih Menu Edit - klik Edit Master Product. Kedua cara ini akan membuka Tab baru pada browser Anda.
 
 2\. Silahkan Edit artikel produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 
