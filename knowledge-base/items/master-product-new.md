@@ -50,7 +50,7 @@ Berikut langkah-langkah menambahkan Master Product yang belum ada di Forstok:
 
 **Cara kedua** pilih varian items yang ingin diubah kemudian pilih Menu Edit - klik Edit Master Product. Kedua cara ini akan membuka Tab baru pada browser Anda.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2022-08-26_15-49-58.png" alt=""><figcaption></figcaption></figure>
 
 2\. Silahkan Edit artikel produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 
