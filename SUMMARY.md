@@ -168,7 +168,7 @@
 * [Pelanggan (Customer)](knowledge-base/untitled/README.md)
   * [Customer Overview](knowledge-base/untitled/customer-overview.md)
   * [Manage Customers](knowledge-base/untitled/manage-customers.md)
-* [How to unmasked customer's information on Shopee](knowledge-base/how-to-unmasked-customers-information-on-shopee.md)
+  * [How to unmasked customer's information on Shopee](knowledge-base/untitled/how-to-unmasked-customers-information-on-shopee.md)
 * [Laporan (Reporting)](knowledge-base/reports/README.md)
   * [Sales Reports](knowledge-base/reports/sales-reports.md)
   * [Shipment Reports (coming soon)](knowledge-base/reports/shipment-reports.md)
