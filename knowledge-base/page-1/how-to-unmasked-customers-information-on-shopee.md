@@ -10,17 +10,17 @@ Berikut ini beberapa langkah yang bisa dilakukan apabila penjual masih membutuhk
 
 ### 2. Scan barcode yang muncul seperti pada tampilan dibawah ini
 
-<figure><img src="../.gitbook/assets/langkah ke dua.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/langkah ke dua.jpeg" alt=""><figcaption></figcaption></figure>
 
 Pastikan Anda sudah memiliki aplikasi Shopee di perangkat yang Anda gunakan. Jika belum, silahkan unduh terlebih dahulu aplikasi Shopee melalui App Store atau Google Play.
 
 ### 3. Isi dan lengkapi form sesuai dengan informasi yang Anda miliki
 
-<figure><img src="../.gitbook/assets/langkah ketiga.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/langkah ketiga.jpeg" alt=""><figcaption></figcaption></figure>
 
 Anda akan diminta untuk mengisi pilihan terkait dengan kebutuhan permohonan _unmasked_ pada label penjualan. Mohon diisi sesuai dengan kebutuhan Anda.
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2022-09-13 at 2.18.55 PM.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2022-09-13 at 2.18.55 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
 Mohon pastikan seluruh data yang Anda isi adalah benar dan sudah sesuai dengan data yang diregistrasikan pada Shopee. Jika sudah benar, silahkan klik kirim sebagai langkah terakhir pengajuan permohonan.
 
@@ -30,6 +30,6 @@ Pihak Shopee akan melakukan verifikasi dan validasi secara manual ketika Anda su
 
 ### 4. Berhasil disetujui
 
-<figure><img src="../.gitbook/assets/hasil.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hasil.jpeg" alt=""><figcaption></figcaption></figure>
 
 Jika sudah disetujui oleh pihak Shopee, maka Anda tidak akan mendapatkan masking (penyamaran) pada label penjualan Anda.
