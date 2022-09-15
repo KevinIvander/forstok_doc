@@ -20,6 +20,12 @@ Pastikan Anda sudah memiliki aplikasi Shopee di perangkat yang Anda gunakan. Jik
 
 Mohon pastikan seluruh data yang Anda isi adalah benar dan sudah sesuai dengan data yang diregistrasikan pada Shopee.
 
-Hasil
+{% hint style="info" %}
+Pihak Shopee akan melakukan verifikasi dan validasi secara manual ketika Anda sudah melengkapi dan mengikuti langkah pertama sampai langkah ketiga. Mohon untuk menunggu sampai Anda mendapatkan informasi dari pihak Shopee.
+{% endhint %}
+
+### 4. Berhasil disetujui
 
 <figure><img src="../.gitbook/assets/hasil.jpeg" alt=""><figcaption></figcaption></figure>
+
+Jika sudah disetujui oleh pihak Shopee, maka Anda tidak akan mendapatkan masking (penyamaran) pada label penjualan Anda.
