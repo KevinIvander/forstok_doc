@@ -18,7 +18,11 @@ Pastikan Anda sudah memiliki aplikasi Shopee di perangkat yang Anda gunakan. Jik
 
 <figure><img src="../.gitbook/assets/langkah ketiga.jpeg" alt=""><figcaption></figcaption></figure>
 
-Mohon pastikan seluruh data yang Anda isi adalah benar dan sudah sesuai dengan data yang diregistrasikan pada Shopee.
+Anda akan diminta untuk mengisi pilihan terkait dengan kebutuhan permohonan _unmasked_ pada label penjualan. Mohon diisi sesuai dengan kebutuhan Anda.
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2022-09-13 at 2.18.55 PM.jpeg" alt=""><figcaption></figcaption></figure>
+
+Mohon pastikan seluruh data yang Anda isi adalah benar dan sudah sesuai dengan data yang diregistrasikan pada Shopee. Jika sudah benar, silahkan klik kirim sebagai langkah terakhir pengajuan permohonan.
 
 {% hint style="info" %}
 Pihak Shopee akan melakukan verifikasi dan validasi secara manual ketika Anda sudah melengkapi dan mengikuti langkah pertama sampai langkah ketiga. Mohon untuk menunggu sampai Anda mendapatkan informasi dari pihak Shopee.
