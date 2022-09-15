@@ -131,6 +131,7 @@
   * [Import Sales Orders (Coming soon)](knowledge-base/sales-orders/import-sales-orders.md)
   * [Import Order First Integrations](knowledge-base/sales-orders/import-order-firt-integrations.md)
   * [Export Sales Orders (Excel)](knowledge-base/sales-orders/export-sales-orders-excel.md)
+* [How to unmasked customer's information on Shopee](knowledge-base/how-to-unmasked-customers-information-on-shopee.md)
 * [Pengambilan (Picking)](knowledge-base/pengambilan-picking/README.md)
   * [Print Pick List](knowledge-base/pengambilan-picking/print-pick-list.md)
   * [Picked Orders](knowledge-base/pengambilan-picking/filter-picked-orders.md)
