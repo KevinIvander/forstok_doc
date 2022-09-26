@@ -143,6 +143,7 @@
 * [Serah terima (Handover)](knowledge-base/handover/README.md)
   * [Create Handover List](knowledge-base/handover/create-shipping-manifest.md)
   * [Print Handover list](knowledge-base/handover/print-handover-coming-soon.md)
+* [Invoice (NEW)](knowledge-base/invoice-new.md)
 * [Faktur Penjualan (Invoice)](knowledge-base/sales-invoices/README.md)
   * [Invoice Overview](knowledge-base/sales-invoices/invoice-overview.md)
   * [Create Sales Invoice](knowledge-base/sales-invoices/create-sales-invoice.md)
