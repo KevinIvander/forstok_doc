@@ -60,3 +60,46 @@ Di Invoice list Anda juga dapat melakukan pencarian menggunakan Invoice ID, Sale
 Pada halaman Invoice Detail, terdapat informasi _Created Date_, _Channel, Store_, _Channel Order ID_, _Invoice Ref Number_, _Item(s) Information_, dan _Amount_ dari Invoice tersebut. Terdapat juga “Shortcut” informasi dari Sales Order yang berkaitan dengan Invoice tersebut.
 
 Saat pertama kali Invoice tersebut dibuat, Amount akan “meng-_copy_” dari Amount yang ada di Sales Order. Dan akan berubah apabila Anda telah melakukan _Payment Receive_. Di halaman ini terdapat juga _action(s)_ seperti yang ada pada halaman Invoice List.
+
+## **Payment Receive**
+
+<figure><img src="../.gitbook/assets/fd.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/vvf.png" alt=""><figcaption></figcaption></figure>
+
+Anda bisa mendapatkan **Fixed Amount** berdasarkan Order dengan menggunakan Action “_Payment Receive via API_”, atau Anda juga dapat melakukan input secara Manual dengan menggunakan Action “_Payment Receive via Manual_”.
+
+## **Payment Receive via API**
+
+<figure><img src="../.gitbook/assets/dcv.png" alt=""><figcaption></figcaption></figure>
+
+Fitur ini berguna untuk Anda dapat melihat rincian pengurangan maupun penambahan dari Order tersebut langsung secara otomatis terisi Amountnya yang didapatkan dari masing-masing _Channel/Marketplace_. Untuk menggunakan fitur ini, pastikan Anda sudah menyalakan _Invoice_, karena pembayaran yang terima akan berelasi dengan _Invoice_.
+
+Adapun penjelasan dari masing-masing field di atas sebagai berikut:
+
+* _Sub Total_: Jumlah dari penjumlahan Item
+* _Voucher Amount_: Voucher yang dibuat oleh Seller
+* _Service Fee_: Biaya Layanan, Biaya Platform, Komisi, Biaya Admin, Biaya Program, dll
+* _Platform Rebate_: Cashback dari Marketplace/Channel
+* _Shipping Difference_: Pengurangan selisih pengiriman berdasarkan berat sebenarnya.
+* _Total_: Sub Total - Voucher Amount - Service Fee + Platform Rebate + Shipping (if non-cashless)
+* _Balance Due_: Outstanding invoice amount
+
+**Available Channel:**
+
+* Shopee
+* Tokopedia
+
+**Note:**
+
+* Saat ini _Payment Receive via API_ baru tersedia untuk _marketplace_ Shopee dan Tokopedia, kedepannya akan ditambahkan _channel-channel_ lainnya yang memungkinkan dan apabila menyediakan API tersebut.
+* _Balance Due_ akan secara otomatis menjadi **“0”** setelah Anda melakukan _Payment Receive_ dan Save data tersebut.
+* Shipping Cashless tidak termasuk ke dalam hitungan karena akan dibayarkan secara otomatis oleh _Channel/Marketplace_ ke masing-masing jasa kirim (Anda tidak menerima uang atas _Shipping Cashless_ tersebut).
+* Saat Anda melakukan _Payment Receive_, _Amount_ yang ada pada Invoice Detail akan ter-_replace_ secara otomatis mengikuti _Amount_ yang diterima dari API/Input dari Anda.
+* Apabila sistem gagal dalam pengambilan _Amount_ dari API, akan secara otomatis menampilkan Form yang dapat Anda isi secara manual.
+
+<figure><img src="../.gitbook/assets/gh.png" alt=""><figcaption></figcaption></figure>
+
+
+
+****
