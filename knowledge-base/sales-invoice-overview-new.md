@@ -1,0 +1,22 @@
+# Sales Invoice Overview (NEW)
+
+Faktur Penjualan atau _Sales Invoice_ merupakan fitur untuk membuat faktur pada _sales order_ tersebut.
+
+<figure><img src="../.gitbook/assets/poo.png" alt=""><figcaption></figcaption></figure>
+
+_Sales Invoice_ dapat dibuat secara otomatis berdasarkan Status pada Sales Orders. Untuk mengatur _Trigger_ tersebut, dapat diakses melalui menu “Setting -> Invoice”. Selain mengatur _Trigger_ untuk membuat Invoice secara Otomatis, Anda juga dapat mengatur _Due Date_, _Customer Note_, dan _Terms & Conditions_ pada halaman Setting tersebut.
+
+<figure><img src="../.gitbook/assets/nmn.png" alt=""><figcaption></figcaption></figure>
+
+**Note:**
+
+* Saat ini _Invoice_ hanya dapat dibuat secara Otomatis berdasarkan Status Sales Orders
+* Jika Anda memilih “Create Invoice Automatically”, maka artinya _Invoice_ tersebut tidak akan dibuat (Off)
+* Pengertian Status Sales Order untuk _Trigger Invoice_ adalah sebagai berikut:
+* _Open_ = SO Status “Open”
+* _Printed_ = SO Status “Not Shipped”
+* _Ready to Ship_ = SO Status “Ready to Ship”
+* _Shipped_ = SO Status “Shipped ”
+* _Delivered_ = SO Status “Delivered ”
+
+Setelah _Invoice_ terbuat secara otomatis berdasarkan Status pada Sales Order yang telah Anda pilih sebelumnya, saat ada Order baru, akan terbuat secara otomatis _Invoice_ dengan status _Unpaid_ yang berkaitan dengan Order tersebut. Anda dapat melihat List dari _Invoice_ pada menu Orders -> Invoices.
