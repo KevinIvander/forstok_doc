@@ -154,7 +154,7 @@
     * [Payment Receive via Manual](knowledge-base/sales-invoices/mark-invoice-as-void/payment-receive-via-manual.md)
     * [Mass Payment Receive via API](knowledge-base/sales-invoices/mark-invoice-as-void/mass-payment-receive-via-api.md)
   * [Mark Invoice as Written Off](knowledge-base/sales-invoices/mark-invoice-as-written-off.md)
-  * [Export Invoice (Excel)](knowledge-base/sales-invoices/export-invoice-excel.md)
+  * [Mark Invoice as Void](knowledge-base/sales-invoices/export-invoice-excel.md)
 * [Pembayaran Diterima (Payout)](knowledge-base/payment-received/README.md)
   * [Payout Overview](knowledge-base/payment-received/payout-overview.md)
   * [Create Payment Received](knowledge-base/payment-received/create-payment-received-1.md)

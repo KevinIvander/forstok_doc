@@ -1,12 +1,5 @@
-# Export Invoice \(Excel\)
+# Mark Invoice as Void
 
-* Untuk mengekspor laporan invoice dapat dilakukan pada dashboard bagian export seperti gambar dibawah. Sales invoice yang diekspor akan difilter berdasarkan tanggal sales order dibuat.
-  * Jika filternya merupakan 7 hari terkahir, maka Sales Invoice yang terdapat pada Sales Order dalam jangka waktu 7 hari terakhir akan diekspor.
-  * Jika Sales Invoice dibuat dalam jangka waktu 7 hari terakhir namun Sales Order yang dibuat lebih dari 7 hari terakhir maka Sales Invoice tidak akan terekspor.
+Mark as Void merupakan Action yang dapat digunakan untuk menandakan invoice tersebut sudah batal. Namun, apabila Sales Order tersebut sudah “Canceled”, maka Invoice akan secara otomatis menjadi **Voided**.
 
-![](../../.gitbook/assets/image%20%2857%29.png)
-
-* Sales Invoice yang sudah diekspor akan menjadi file excel yang dapat didownload pada email anda. 
-
-![](../../.gitbook/assets/image%20%2828%29.png)
-
+<figure><img src="../../.gitbook/assets/wer.png" alt=""><figcaption></figcaption></figure>
