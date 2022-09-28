@@ -1,18 +1,28 @@
 # Invoice Overview
 
-Faktur Penjualan atau Sales Invoice merupakan fitur untuk membuat faktur pada sales order tersebut.
+Faktur Penjualan atau _Sales Invoice_ merupakan fitur untuk membuat faktur pada _sales order_ tersebut.
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+<figure><img src="../../.gitbook/assets/poo (1).png" alt=""><figcaption></figcaption></figure>
 
-Sales Invoice dapat dibuat dengan menekan tombol "Create Invoice" dan akan muncul form untuk mengisi detail sales invoice pada form tersebut. Sales Invoice yang sudah dibuat akan memiliki tampilan seperti gambar dibawah.
+_Sales Invoice_ dapat dibuat secara otomatis berdasarkan Status pada Sales Orders. Untuk mengatur _Trigger_ tersebut, dapat diakses melalui menu “Setting -> Invoice”. Selain mengatur _Trigger_ untuk membuat Invoice secara Otomatis, Anda juga dapat mengatur _Due Date_, _Customer Note_, dan _Terms & Conditions_ pada halaman Setting tersebut.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+<figure><img src="../../.gitbook/assets/nmn (2).png" alt=""><figcaption></figcaption></figure>
 
-Sales Invoice sudah dibayar maka dapat dikonfirmasi dengan menekan tombol "Create Payment Received" dan mengisi form untuk menyelesaikan proses payment received. Sales Invoice juga dapat diedit dengan menekan tombol "Edit Invoice" dan dihapus dengan dua cara yaitu dengan menekan tombol "Mark as Void" atau "Mark as write off". Invoice yang sudah selesai dibayar akan memiliki status "Paid" seperti gambar dibawah.
+**Note:**
 
-![](../../.gitbook/assets/image%20%28157%29.png)
+* Saat ini _Invoice_ hanya dapat dibuat secara Otomatis berdasarkan Status Sales Orders
+* Jika Anda memilih “Create Invoice Automatically”, maka artinya _Invoice_ tersebut tidak akan dibuat (Off)
+* Pengertian Status Sales Order untuk _Trigger Invoice_ adalah sebagai berikut:
+  * _Open_ = SO Status “Open”
+  * _Printed_ = SO Status “Not Shipped”
+  * _Ready to Ship_ = SO Status “Ready to Ship”
+  * _Shipped_ = SO Status “Shipped ”
+  * _Delivered_ = SO Status “Delivered ”
 
+Setelah _Invoice_ terbuat secara otomatis berdasarkan Status pada Sales Order yang telah Anda pilih sebelumnya, saat ada Order baru, akan terbuat secara otomatis _Invoice_ dengan status _Unpaid_ yang berkaitan dengan Order tersebut. Anda dapat melihat List dari _Invoice_ pada menu Orders -> Invoices.
 
+<figure><img src="../../.gitbook/assets/vb (1).png" alt=""><figcaption></figcaption></figure>
 
+Untuk dapat melihat detail dari _Invoice_ tersebut, Anda dapat klik pada Invoice ID dan akan langsung diarahkan pada halaman _Invoice Detail_.
 
-
+<figure><img src="../../.gitbook/assets/jk (1).png" alt=""><figcaption></figcaption></figure>
