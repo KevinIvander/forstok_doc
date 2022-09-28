@@ -1,36 +1,25 @@
-# Create Sales Invoice
+# Invoice List
 
-* Button "Create Invoice" berfungsi untuk memunculkan popup untuk membuat invoice pada sales order tersebut. Button ini tidak akan muncul ketika status order berupa "Pending Payment" dan "Cancel".
+<figure><img src="../../.gitbook/assets/hj (1).png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+Pada halaman _Invoice_, Anda dapat melihat seluruh _Invoice_ yang telah terbuat secara otomatis. Anda dapat dengan mudah melakukan filter berdasarkan status _Invoice_ tersebut menggunakan tab-tab yang ada (Seperti halaman Sales Order). Terdapat kolom-kolom dengan penjelasan sebagai berikut:
 
-* Setelah button itu diketuk, maka akan muncul popup untuk membuat invoice seperti gambar dibawah. 
-* Customer Name akan diisi dengan store name yang terdapat pada order yang dipilih.
-* Billing Info merupakan alamat dari pihak yang akan membayarkan uangnya kepada seller.
-  * Jika order tersebut berasal dari marketplace seperti Tokopedia, Shopee, Blibli, dan sejenisnya, maka billing info akan diisi dengan alamat Marketplace atau store name seller.
-  * Jika order tersebut berasal dari online store sperti Shopify, Woocommerce, Magento dan sejenisnya, maka billing info akan diisi dengan alamat customer.
-* Shipping Info merupakan alama tadi customer yang terdapat pada order tersebut.
-* Invoice Reference \# dapat diisi dengan nomor referensi Invoice jika ada.
-* Invoice Date merupakan tanggal kapan invoice itu dibuat.
-* Due Date merupakan tanggal kapan invoice itu akan melewati masa pembayaran.
-* Item\(s\) yang terdaftar pada invoice merupakan daftar item yang terdapat pada sales order tersebut dari jumlah hingga harganya.
-* Qty to Invoice dapat diisi dengan jumlah barang yang akan dimasukan kedalam invoice.
-* Tax berfungsi untuk memberi label pada barang bahwa harga total tersebut sudah termasuk pajak atau belum. Bagian ini tidak akan mempengaruhi jumlah harga yang terdapat pada total.
-* Total merupakan hasil kalkulasi dari jumlah barang yang dimasukan kedalam invoice dengan harga jual yang terdapat pada order. 
+* Store = Nama store dengan logo Channel yang berelasi dengan Invoice tersebut
+* Invoice ID = ID dari Invoice tersebut
+* Status = Status pada Invoice tersebut, seperti:
+  * Unpaid = Belum terbayarkan
+  * Overdue = Telah melewati batas pembayaran
+  * Paid = Invoice telah terbayarkan
+  * Voided = Invoice dianggap batal
+  * Written Off = Invoice dianggap lunas
+* Amount = Amount dari Invoice tersebut berdasarkan Sales Order
+* Outstanding = Amount dari Invoice yang belum terbayarkan
+* Order Ref = ID Sales Order yang berelasi dengan Invoice tersebut
+* Updated At = Tanggal dan waktu Invoice tersebut terbarukan
+* Actions = Actions yang dapat Anda lakukan terhadap Invoice tersebut:
+  * Payment Receive = Mendapatkan Fixed Amount untuk melakukan update terhadap Amount yang ada pada Invoice tersebut menggunakan API atau Manual Input
+  * Mark as Void = Membuat Invoice tersebut menjadi batal
+  * Mark as Written Off = Membuat Invoice tersebut dianggap lunas
+  * Print Invoice = Melakukan Print terhadap Invoice tersebut.
 
-![](../../.gitbook/assets/image%20%2868%29.png)
-
-* Subtotal merupakan hasil kalkulasi dari seluruh barang yang akan dimasukan kedalam invoice.
-* Shipping merupakan jumlah biaya untuk ongkos pengiriman. Shipping akan menambahkan nominal pada invoice.
-* Discount merupakan jumlah biaya untuk diskon. Discount akan mengurangi nominal pada invoice.
-* Rebate merupakan jumlah potongan harga yang diberikan kepada seller. Rebate akan mengurangi nominal pada invoice.
-* Commision merupakan jumlah komisi yang diberikan kepada seller. Nama komisi dapat dirubah sesuai kebutuhan seller. Commision akan menambahkan nominal pada invoice.
-* Customer Note dapat diisi sebagai catatan yang ingin diberikan seller pada invoice.
-* Setelah pengisian form selesai, tekan create untuk membuat invoice tersebut.
-
-![](../../.gitbook/assets/image%20%28286%29.png)
-
-* Setelah invoice terbuat maka akan muncul invoice seperti gambar dibawah ini.
-
-![](../../.gitbook/assets/image%20%2815%29.png)
-
+Di Invoice list Anda juga dapat melakukan pencarian menggunakan Invoice ID, Sales Order ID, Channel Order ID, dan Customer Name (Yang tidak termasking). Selain itu, Anda juga dapat melakukan Filter berdasarkan Store yang Anda miliki beserta Filter berdasarkan Warehouse. Serta, Anda dapat melakukan sorting berdasarkan urutan terbaru dan terlama.
