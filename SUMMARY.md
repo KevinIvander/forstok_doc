@@ -149,7 +149,7 @@
   * [Invoice Overview](knowledge-base/sales-invoices/invoice-overview.md)
   * [Invoice List](knowledge-base/sales-invoices/create-sales-invoice.md)
   * [Invoice Detail](knowledge-base/sales-invoices/edit-invoice.md)
-  * [Mark Invoice as Void](knowledge-base/sales-invoices/mark-invoice-as-void.md)
+  * [Payment Receive](knowledge-base/sales-invoices/mark-invoice-as-void.md)
   * [Mark Invoice as Written Off](knowledge-base/sales-invoices/mark-invoice-as-written-off.md)
   * [Export Invoice (Excel)](knowledge-base/sales-invoices/export-invoice-excel.md)
 * [Pembayaran Diterima (Payout)](knowledge-base/payment-received/README.md)

@@ -63,7 +63,7 @@ Saat pertama kali Invoice tersebut dibuat, Amount akan “meng-_copy_” dari Am
 
 ## **Payment Receive**
 
-<figure><img src="../.gitbook/assets/fd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fd (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/vvf.png" alt=""><figcaption></figcaption></figure>
 

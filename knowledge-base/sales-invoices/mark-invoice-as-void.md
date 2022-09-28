@@ -1,14 +1,7 @@
-# Mark Invoice as Void
+# Payment Receive
 
-* Mark as Void merupakan button yang dapat digunakan untuk menghapus invoice yang sudah terbuat sebelumnya.
+<figure><img src="../../.gitbook/assets/fd.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+<figure><img src="../../.gitbook/assets/vvf (1).png" alt=""><figcaption></figcaption></figure>
 
-* Setelah menekan button "Mark as Void" maka akan muncul popup konfirmasi untuk menghapus invoice tersebut. Tekan "Void" untuk menghapus invoice tersebut.
-
-![](../../.gitbook/assets/image%20%2865%29.png)
-
-* Setelah Invoice tersebut berhasil di Void maka status invoice tersebut akan berubah menjadi Voided.
-
-![](../../.gitbook/assets/image%20%28145%29.png)
-
+Anda bisa mendapatkan **Fixed Amount** berdasarkan Order dengan menggunakan Action “_Payment Receive via API_”, atau Anda juga dapat melakukan input secara Manual dengan menggunakan Action “_Payment Receive via Manual_”.
