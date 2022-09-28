@@ -1,6 +1,6 @@
 # Payment Receive via API
 
-<figure><img src="../../../.gitbook/assets/dcv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dcv (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur ini berguna untuk Anda dapat melihat rincian pengurangan maupun penambahan dari Order tersebut langsung secara otomatis terisi Amountnya yang didapatkan dari masing-masing _Channel/Marketplace_. Untuk menggunakan fitur ini, pastikan Anda sudah menyalakan _Invoice_, karena pembayaran yang terima akan berelasi dengan _Invoice_.
 
