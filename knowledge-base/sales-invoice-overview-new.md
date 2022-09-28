@@ -55,7 +55,7 @@ Di Invoice list Anda juga dapat melakukan pencarian menggunakan Invoice ID, Sale
 
 ## **Invoice Detail**
 
-<figure><img src="../.gitbook/assets/xc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xc (1).png" alt=""><figcaption></figcaption></figure>
 
 Pada halaman Invoice Detail, terdapat informasi _Created Date_, _Channel, Store_, _Channel Order ID_, _Invoice Ref Number_, _Item(s) Information_, dan _Amount_ dari Invoice tersebut. Terdapat juga “Shortcut” informasi dari Sales Order yang berkaitan dengan Invoice tersebut.
 

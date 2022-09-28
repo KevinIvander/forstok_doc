@@ -1,17 +1,7 @@
-# Edit Invoice
+# Invoice Detail
 
-* Tekan button "Edit Invoice" untuk mengedit Sales Invoice yang sudah dibuat.
+<figure><img src="../../.gitbook/assets/xc.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/image%20%28249%29.png)
+Pada halaman Invoice Detail, terdapat informasi _Created Date_, _Channel, Store_, _Channel Order ID_, _Invoice Ref Number_, _Item(s) Information_, dan _Amount_ dari Invoice tersebut. Terdapat juga “Shortcut” informasi dari Sales Order yang berkaitan dengan Invoice tersebut.
 
-* Setelah button di klik, popup untuk mengedit sales invoice akan muncul dan dapat mengedit sales invoice tersebut.
-* Setelah sales invoice selesai diedit, tekan tombol save.
-
-![](../../.gitbook/assets/image%20%2836%29.png)
-
-![](../../.gitbook/assets/image%20%28108%29.png)
-
-* Setelah disave, perubahan nominal invoice akan ditampilkan pada balance due invoice.
-
-![](../../.gitbook/assets/image%20%28235%29.png)
-
+Saat pertama kali Invoice tersebut dibuat, Amount akan “meng-_copy_” dari Amount yang ada di Sales Order. Dan akan berubah apabila Anda telah melakukan _Payment Receive_. Di halaman ini terdapat juga _action(s)_ seperti yang ada pada halaman Invoice List.
