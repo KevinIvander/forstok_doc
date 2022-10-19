@@ -148,6 +148,7 @@
   * [Invoice Overview](knowledge-base/sales-invoices/invoice-overview.md)
   * [Invoice List](knowledge-base/sales-invoices/create-sales-invoice.md)
   * [Invoice Detail](knowledge-base/sales-invoices/edit-invoice.md)
+  * [Export Invoice](knowledge-base/sales-invoices/export-invoice.md)
   * [Payment Receive](knowledge-base/sales-invoices/mark-invoice-as-void.md)
     * [Payment Receive via API](knowledge-base/sales-invoices/mark-invoice-as-void/payment-receive-via-api.md)
     * [Payment Receive via Manual](knowledge-base/sales-invoices/mark-invoice-as-void/payment-receive-via-manual.md)
