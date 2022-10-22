@@ -1,6 +1,6 @@
 # Export Sales Orders (Excel)
 
-Untuk mengexport sales orders dari channel/marketplace yang sudah diintegrasikan di akun Forstok, pada halaman Dashboard, geser layar ke bawah sampai pada menu Export.
+Untuk mengexport sales orders dari channel/marketplace yang sudah diintegrasikan di akun Forstok, pada halaman **Dashboard**, geser layar ke bawah sampai pada menu **Export**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-10-21 124611.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -19,10 +19,12 @@
 
 * [x] Toko sudah **Official Store** atau **Power Merchant**
 * [x] Pastikan Toko Anda tidak connect atau terintegrasi dengan sistem lain
-* [x] Email ke tim Forstok untuk mendapatkan API Tokopedia/Shop ID
+* [x] Buat tiket untuk request integrasi Tokopedia pada: [http://support.forstok.com/support/tickets/new](http://support.forstok.com/support/tickets/new)
 
 {% hint style="success" %}
 **Subject: Request API Tokopedia - \[Nama Toko]**&#x20;
+
+**Description:**&#x20;
 
 Hi Tim Forstok,
 
@@ -31,8 +33,6 @@ Mohon bantuannya untuk infokan API Tokopedia untuk kami integrasikan ke Forstok.
 Tokopedia Store link: [https://www.tokopedia.com/abc](https://www.tokopedia.com/abc)\
 \
 Demikian kami sampaikan, atas perhatiannya kami ucapkan terima kasih
-
-email ke: onboarding@forstok.com
 {% endhint %}
 
 Forstok akan kirimkan request approval API Tokopedia.&#x20;
