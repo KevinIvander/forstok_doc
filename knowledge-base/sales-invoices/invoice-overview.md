@@ -2,8 +2,8 @@
 
 Faktur Penjualan atau _Sales Invoice_ merupakan fitur untuk membuat faktur pada _sales order_ tersebut.
 
-{% embed url="https://www.youtube.com/watch?v=Kq5bcOxHaoQ" %}
-Invoice overview
+{% embed url="https://www.youtube.com/watch?v=g8W_pSFs2NA" %}
+Invoice Video
 {% endembed %}
 
 {% hint style="info" %}
