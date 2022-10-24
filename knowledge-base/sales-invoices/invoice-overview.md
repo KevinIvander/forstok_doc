@@ -2,6 +2,10 @@
 
 Faktur Penjualan atau _Sales Invoice_ merupakan fitur untuk membuat faktur pada _sales order_ tersebut.
 
+{% embed url="https://www.youtube.com/watch?v=Kq5bcOxHaoQ" %}
+Invoice overview
+{% endembed %}
+
 {% hint style="info" %}
 Forstok Invoice adalah dokumen yang diterbitkan oleh penjual kepada pembeli terkait dengan transaksi penjualan.&#x20;
 
