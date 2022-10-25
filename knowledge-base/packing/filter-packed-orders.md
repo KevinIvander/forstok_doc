@@ -6,11 +6,16 @@ description: Filter order dengan status packed
 
 ### 1. Filter Packed orders
 
-![](../../.gitbook/assets/screen-shot-2021-04-20-at-1.14.19-pm.png)
+Pilih Filter - Not Packed, untuk melihat order yang belum dilakukan packing.
 
-### View Packed orders
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-25 133624.jpg" alt=""><figcaption></figcaption></figure>
 
-Packed orders will have "Packed icon". You can select packed order to continue next step e.g Print shipping Label or update status to Ready to Ship.
+### Packed orders
 
-![](../../.gitbook/assets/screen-shot-2021-04-20-at-1.19.01-pm.png)
+Setelah mencetak packlist, klik titik tiga di sebelah kanan layar, kemudian create package
 
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-25 133910.jpg" alt=""><figcaption></figcaption></figure>
+
+Atau untuk bulk create package, centang box setiap order di sebelah kiri, kemudian create package
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-25 134038.jpg" alt=""><figcaption></figcaption></figure>
