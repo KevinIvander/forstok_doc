@@ -6,17 +6,12 @@ description: Filter order dengan status picked
 
 ### 1. Filter Picked Orders
 
-![](../../.gitbook/assets/screen-shot-2021-04-20-at-1.05.07-pm.png)
+Untuk melihat order yang sudah dibuat picklist, klik Filter - Picklist Created
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-25 131818.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 2. View Picked orders
 
-Picked orders will have "Picked icon". You can select picked order to continue next step e.g packing or ready to ship.
+Untuk melihat order yang sudah di-picked, pilih Filter - Picked:
 
-![](../../.gitbook/assets/screen-shot-2021-04-20-at-12.09.42-pm.png)
-
-
-
-
-
-
-
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-25 132429.jpg" alt=""><figcaption></figcaption></figure>
