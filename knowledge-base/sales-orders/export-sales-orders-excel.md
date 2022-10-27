@@ -1,22 +1,24 @@
 # Export Sales Orders (Excel)
 
-Untuk mengexport sales orders dari channel/marketplace yang sudah diintegrasikan di akun Forstok, pada halaman **Sales Orders**, klik Menu yang ditandai:
+Untuk mengexport sales orders dari channel/marketplace yang sudah diintegrasikan di akun Forstok, pada halaman **Sales Order**, klik pada **Icon Download**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 110107.jpg" alt=""><figcaption></figcaption></figure>
 
-Sebelum melakukan export sales orders dalam bentuk file xls, tentukan jangka waktu sales order yang ingin ditarik dengan cara klik menu **Date**, klik **Apply**
+Lalu akan ditampilkan Pop-up untuk Anda melakukan sorting terhadap data-data yang akan di Export dalam bentuk .xls.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 110224 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-&#x20;Pilih Store/Marketplace apabila ingin menarik sales order pada marketplace tertentu
+Anda dapat memilih rentang tanggal, Store (Per-Store atau dapat All), Warehouse (Per-Warehouse atau All), dan Sales Order Status (Per-Sales Order Status atau All).
+
+Jika sudah memilih, Anda dapat klik Save.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 110456.jpg" alt=""><figcaption></figcaption></figure>
 
-Klik **Warehouse** untuk memfilter berdasarkan order yang difulfill dari masing-masing warehouse
+Akan ditampilkan Push Notification proses Export Sales Order dengan Informasi Store dan rentang tanggal.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 110530.jpg" alt=""><figcaption></figcaption></figure>
 
-Klik **Sales Order Status** untuk memfilter berdasarkan status order per data sales order di-export
+Anda dapat mendownload hasil Export tersebut pada tombol “Download File” di Activity Log.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 110732.jpg" alt=""><figcaption></figcaption></figure>
 
