@@ -20,4 +20,4 @@ Akan ditampilkan Push Notification proses Export Sales Order dengan Informasi St
 
 Anda dapat mendownload hasil Export tersebut pada tombol “Download File” di Activity Log.
 
-**Sample Export Sales Order:** https://docs.google.com/spreadsheets/d/1YpItFhoBDThFHZlqAm4Hbm194zHBEKzr4-wxgFZpC-4/edit?usp=sharing&#x20;
+**Sample Export Sales Order:** [https://docs.google.com/spreadsheets/d/1YpItFhoBDThFHZlqAm4Hbm194zHBEKzr4-wxgFZpC-4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1YpItFhoBDThFHZlqAm4Hbm194zHBEKzr4-wxgFZpC-4/edit?usp=sharing)&#x20;
