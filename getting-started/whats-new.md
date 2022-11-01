@@ -6,15 +6,11 @@ description: >-
 
 # What's New
 
-## Coming soon 🚀
+## 27 Oktober 2022
 
-Here's a sneak-peak of what's coming:
-
-* Invoice V2
-* Print Invoice V2
-* Payment Receive (by API & Manual)
-* Export Sales Order
-* Export Invoice
+* New Release: Invoice V2 (All Channels). Digunakan internal untuk pencatatan pembayaran dari Marketplace ke Penjual. Enable auto-create invoice in settings. [Learn more](https://docs.forstok.com/knowledge-base/sales-invoices/invoice-overview)
+* New Release: Payment Received / Payout via API (Ready: Shopee, Tokopedia. Soon: Tiktok, Lazada, Blibli, Bukalapak, JD). Feature pencatatan otomatis pembayaran uang masuk dari Marketplace dengan perinciannya (Komisi, Cashback, Selisih Ongkos Kirim, dan lainnya) untuk setiap Invoice. Penarikan dana dari Wallet Marketplace ke Bank tetap perlu di lakukan di masing-masing Seller Center. [Learn more](https://docs.forstok.com/knowledge-base/sales-invoices/payment-receive)
+* New Release: Export Excel untuk Sales order dan Invoice pada masing-masing section. Export feature didashboard akan dimatikan 4 November 2022. Learn more Export Sales Order: https://docs.forstok.com/knowledge-base/sales-orders/export-sales-orders-excel | Export Invoice [Learn More](https://docs.forstok.com/knowledge-base/sales-invoices/export-invoice)
 
 ## May 6, 2021
 
