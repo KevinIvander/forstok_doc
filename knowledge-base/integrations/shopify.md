@@ -62,11 +62,17 @@ Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Sho
 Order/creation\
 orders/fulfillment \
 orders/payment \
-orders/update \
-order/cancellation
+orders/update\
+orders/cancellation
 
-![](<../../.gitbook/assets/image (400).png>)
+### **NOTES: Perubahan URL Shopify yang baru**
 
-![](<../../.gitbook/assets/image (401).png>)
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2022-11-09 at 10.10.28 AM.jpeg" alt=""><figcaption></figcaption></figure>
 
-****
+Untuk perubahannya:\
+Go to settings / Notifications / Webhooks\
+1\. **Klik event yang akan di update**
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2022-11-09 at 10.10.49 AM.jpeg" alt=""><figcaption></figcaption></figure>
+
+2\. **Update di URL - Save**
