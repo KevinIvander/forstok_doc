@@ -1,4 +1,4 @@
-# Item Overview
+# Item v.1 Overview
 
 Pada menu item ini kita dapat melakukan edit-edit item seperti update stock, harga, sampai listing produk. Ada 2 tampilan pada item Forstok sisi kiri (left panel) dan sisi kanan (right panel).
 
@@ -47,7 +47,13 @@ Sisi kiri/left panel ini menampilan total item yang sudah masuk. Dimana pada sis
 ****Untuk melihat detail item dan mengedit item tsb. Pada sisi kanan ini kita dapat melihat sku tsb sudah linking dengan marketplace mana saja, live link bisa diklik langsung masuk ke link produk marketplace, melihat status produk, bisa activ atau in active produk.\
 \
 **1. Keterangan Stock**\
-**** - Qty on Hand: yaitu total stock yang di update dari Forstok.- Reserved Qty : merupakan stok yang di orderan pending payment dimana saat checkout sudah motong stock ini biasanya ada di marketplace Shopee, Lazada, Blibli.- Available Qty : Stock yang di export untuk semua marketpalce.\
+**** - **Qty on Hand**: Total barang yang _on hand_ atau tersedia di gudang;
+
+\- **Reserved Qty** : Jumlah stok barang yang sudah di-_reserved_ selama proses order fulfillment berjalan dari status Pending Payment sampai Ready to Ship, untuk marketplace yang memiliki pending payment, maka stok akan masuk reserved dan mengurangi qty di Available, contoh: Shopee, Lazada, Blibli.&#x20;
+
+Pada status order Ready to Ship, Qty on Hand dan Reserved akan berkurang sesuai dengan qty yang di-order karena paket sudah akan dijemput oleh kurir dan keluar dari gudang.
+
+\- **Available Qty** : Stock yang di export untuk semua marketplace.\
 
 
 {% hint style="info" %}
