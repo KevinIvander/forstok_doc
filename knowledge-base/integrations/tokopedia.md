@@ -18,7 +18,7 @@
 1. Sebelum integrasi ke Tokopedia pastikan Anda sudah memenuhi syarat Integrasi berikut:
 
 * [x] Toko sudah **Official Store** atau **Power Merchant**
-* [x] Pastikan Toko Anda tidak connect atau terintegrasi dengan sistem lain
+* [x] Pastikan Toko Anda tidak connect atau terintegrasi dengan sistem lain, lampirkan screenshot/tangkapan layar dari Pengaturan Aplikasi Pihak Ketiga pada tiket yang dibuat untuk konfirmasi bahwa toko anda tidak connect/terintegrasi dengan sistem lain.
 * [x] Buat tiket untuk request integrasi Tokopedia pada: [http://support.forstok.com/support/tickets/new](http://support.forstok.com/support/tickets/new)
 
 {% hint style="success" %}
@@ -30,7 +30,11 @@ Hi Tim Forstok,
 
 Mohon bantuannya untuk infokan API Tokopedia untuk kami integrasikan ke Forstok.\
 \
-Tokopedia Store link: [https://www.tokopedia.com/abc](https://www.tokopedia.com/abc)\
+Tokopedia Store link: [https://www.tokopedia.com/abc](https://www.tokopedia.com/abc)
+
+Berikut adalah screenshot tampilan Pengaturan Aplikasi Pihak Ketiga:
+
+![](<../../.gitbook/assets/image (1).png>)\
 \
 Demikian kami sampaikan, atas perhatiannya kami ucapkan terima kasih
 {% endhint %}
