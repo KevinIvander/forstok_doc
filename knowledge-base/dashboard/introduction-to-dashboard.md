@@ -40,10 +40,14 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
     1\. Duplicate produk yang sama: misal produk kamera 123 ada 2 buah di shopee tapi kode skunya sama: Action: Tinggal confirm replace di forstok \
     2\. Duplicate produk yang berbeda: misal kamera 123 dan kamera 345 di shopee kodenya sama percis. Action: Harus di perbaiki di seller center, yg ada di forstok di hapus lalu di sync/import ulang
 
-2\.   **Pending Orders**\
-****Untuk items yang sudah ke import atau yang sudah masuk ke Forstok akan ada di Pending Actions pada Dashboard Forstok. Nanti tinggal di confirm  itemnya biar mulai bisa di edit dari Forstok. Ada beberapa keterangan di pending action:
+2\.   **Order to Fulfill**\
+****Setelah proses integrasi Marketplace dilakukan, order yang masuk akan bisa dilihat di dashboard pada tab Order to Fulfill, kolom berdasarkan status order di Forstok.
 
-![](<../../.gitbook/assets/image (116).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-25 093234.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Catatan**: Marketplace yang tidak ada _**order to fulfill**_ tidak akan tampil di tab ini
+{% endhint %}
 
 3\.  **Sales Reports**\
 Digunakan untuk melihat laporan dan mendownload data order sales. Yang bisa di filter berdasarkan channel dan periodenya bisa di custom.
