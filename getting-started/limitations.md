@@ -1,6 +1,6 @@
 # Batasan (Limitations)
 
-Setiap API channel atau marketplace mempunyai limitasi. Dan setiap marketplace memiliki limitasi yang berbeda-beda.Berikut limitasi API setiap marketplace yang harus di ketahui dan bagaimana solusi atau saran yang bisa dilakukan:
+Setiap API channel atau marketplace mempunyai limitasi. Dan setiap marketplace memiliki limitasi yang berbeda-beda. Berikut limitasi API setiap marketplace yang harus di ketahui dan bagaimana solusi atau saran yang bisa dilakukan:
 
 ## Tokopedia
 
@@ -18,28 +18,68 @@ Berikut informasi terupdate terkait dengan limitasi API channel (marketplace) ya
 ## Shopee
 
 {% hint style="warning" %}
-**Rate Limit:** TBA
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
 {% endhint %}
 
 ## Lazada
 
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
+
 ## Blibli
+
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
 
 ## JD.ID
 
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
+
 ## Bukalapak
+
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
 
 ## Zalora
 
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
+
 ## Zilingo
+
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
 
 ## Elevenia
 
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
+
 ## Shopify
+
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
 
 ## Magento
 
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
+
 ## Woocommerce
 
-## Jurnal Accounting
+
+
+## Jurnal and Accurate
+
+##
 
