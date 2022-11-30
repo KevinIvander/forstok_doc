@@ -77,9 +77,12 @@ Berikut informasi terupdate terkait dengan limitasi API channel (marketplace) ya
 
 ## Woocommerce
 
-
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
 
 ## Jurnal and Accurate
 
-##
-
+{% hint style="warning" %}
+**Rate Limit:** [Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
+{% endhint %}
