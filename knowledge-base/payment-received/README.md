@@ -1,2 +1,0 @@
-# Pembayaran Diterima \(Payout\)
-
