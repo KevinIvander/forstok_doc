@@ -1,6 +1,6 @@
 # Batasan (Limitations)
 
-Setiap API channel atau marketplace mempunyai limitasi. Dan setiap marketplace memiliki limitasi yang berbeda-beda. Berikut limitasi API setiap marketplace yang harus di ketahui yang sudah kami rangkum dalam doc terlampir.
+Setiap API channel atau marketplace mempunyai limitasi. Dan setiap marketplace memiliki limitasi yang berbeda-beda. Berikut limitasi API setiap marketplace yang harus di ketahui dan bagaimana solusi atau saran yang bisa dilakukan:
 
 ## Tokopedia
 

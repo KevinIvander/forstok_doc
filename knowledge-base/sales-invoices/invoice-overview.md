@@ -14,14 +14,14 @@ Forstok Invoice adalah dokumen yang diterbitkan oleh penjual kepada pembeli terk
 **Fungsi Forstok invoice:**&#x20;
 
 * Digunakan secara internal untuk pencatatan pembayaran/ Payout dari Marketplace ke penjual.
-* Dapat dicetak bersamaan dengan shipping dokument / AWB untuk surat bukti keluar gudang.&#x20;
+* Dapat dicetak bersamaan dengan shipping document / AWB untuk surat bukti keluar gudang.&#x20;
 * Tidak perlu dicetak untuk dikirimkan ke pembeli di Marketplace waktu packing produk. Jika pembeli marketplace membutuhkan invoice, mereka bisa mencentak langsung dari order history.&#x20;
 
 
 
 **Status Forstok invoice:**&#x20;
 
-* Unpaid - belum di bayark atau menunggu pembayaran
+* Unpaid - belum di bayarkan atau menunggu pembayaran
 * Overdue - belum dibayar tapi jatuh tempo
 * Paid - sudah dibayar mengunakan Payment Received
 * Void - Otomatis dibatalkan jika sales order status menjadi batal
