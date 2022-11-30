@@ -13,7 +13,7 @@ Setiap API channel atau marketplace mempunyai limitasi. Dan setiap marketplace m
 
 Berikut informasi terupdate terkait dengan limitasi API channel (marketplace) yang sudah kami buatkan mappingan berdasarkan limitasi API channel masing-masing. Silahkan klik pada tautan dibawah ini:\
 \
-Dokumentasi limitasi API Channel.
+[Dokumentasi limitasi API Channel.](https://docs.google.com/spreadsheets/d/1N38sX9c57xPJ5o\_2T8Qv8cr41tuHhO\_L1I2T0QHjCiI/edit#gid=107739805)
 
 ## Shopee
 
