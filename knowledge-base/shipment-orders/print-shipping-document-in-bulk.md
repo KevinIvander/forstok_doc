@@ -52,6 +52,6 @@ Setelah klik '**Print Shipping Label**' pada '**Bulk Actions**', review kembali 
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-23 124154.jpg>)
 
-7\. Print Setting - Pages per Sheet 4 kalau pakai ukuran kertas A4. Bisa langsung Print jika pakai ukuran kertas A4/ 10x15cm untuk thermal printer.
+7\. Print Setting - Pages per Sheet 4 kalau pakai ukuran kertas A4. Bisa langsung Print jika pakai ukuran kertas A6/ 10x15cm untuk thermal printer.
 
 ![](<../../.gitbook/assets/screen-shot-2021-07-16-at-5.13.55-pm (1).png>)
