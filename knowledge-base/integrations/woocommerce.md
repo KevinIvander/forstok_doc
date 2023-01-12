@@ -27,7 +27,7 @@ Limitasi:
 
 ![](https://lh4.googleusercontent.com/\_i1RR3ziJxMhu-lDC5-Wrw8\_ynakbEx05oN4eMxxEOopdbCc8d3JcTd2aZNyzabqmwLvF5G35VN7hZu4ad9-0UhdIUUZdbWoblxM-D5X9Jen6f4lFDlOgdqnyiY\_J-YIj40bK64O)
 
-5\. Pada Product Catalog pilih **Sync Product from Shopee** > **Next** \
+5\. Pada Product Catalog pilih **Sync Product from Woocommerce**> **Next** \
 
 
 ![](https://lh3.googleusercontent.com/aAWpejCYdhfbUxbqB6lmHMnemzybPHuk-0Fq2hx-d0J1W1Ul-r7NLUXFG6dG1lDbhScDiu5KbUGKEWZKozeNKMN3lRAn9JYAdTXFK7l1sjdhQ\_QmmkEtraivSLCxHEiQpdV0XPah)
