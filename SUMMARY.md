@@ -211,4 +211,5 @@
 
 * [Support Overview](supports/support-overview.md)
 * [Create ticket](supports/create-ticket.md)
+* [Reply Ticket](supports/reply-ticket.md)
 * [Contact Support](supports/contact-support.md)
