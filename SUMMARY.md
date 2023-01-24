@@ -102,6 +102,7 @@
   * [Cara Listing The F Thing (menggunakan Cross Listing)](knowledge-base/items/cara-listing-the-f-thing-menggunakan-cross-listing.md)
   * [Merubah Category Master (via Interface)](knowledge-base/items/merubah-category-master-via-interface.md)
   * [Update Image/Foto](knowledge-base/items/merubah-category-master-by-sku-interface.md)
+  * [Edit Master Product (upload/update image)](knowledge-base/items/edit-master-product-upload-update-image.md)
 * [Inventaris (Inventory)](knowledge-base/inventory/README.md)
   * [Create Stock Adjustment (interface)](knowledge-base/inventory/upload-stock-adjustment-interface.md)
   * [Stock adjustment using barcode scanner](knowledge-base/inventory/stock-adjustment-using-barcode-scanner.md)
