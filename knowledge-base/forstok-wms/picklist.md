@@ -25,3 +25,7 @@
 **Done:** Ringkasan menunjukkan item yang sudah diambil.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-22 at 10.30.16 PM.png>)
+
+Berikut tampilan pada dashboard sales order:
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2023-01-25 at 10.02.15.jpeg" alt=""><figcaption></figcaption></figure>
