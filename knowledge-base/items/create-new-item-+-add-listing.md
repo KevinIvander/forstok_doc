@@ -1,6 +1,8 @@
 # Create New Item + Add Listing
 
-Fitur ini digunakan apabila item belum terbuat dan akan langsung dilakukan Add Listing:
+{% hint style="info" %}
+**Fitur ini digunakan apabila item belum terbuat di Forstok dan ingin langsung melakukan Add Listing:**
+{% endhint %}
 
 1. Klik **Add Listing**
 
