@@ -1,6 +1,8 @@
 # Cross Listing dari Master product (Add Listings)
 
 {% hint style="info" %}
+Fitur Add Listings digunakan ketika master product sudah terbuat.
+
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
 
 1. [Import Product dari salah satu channel](import-product-from-channels.md) (Marketplace atau website)
