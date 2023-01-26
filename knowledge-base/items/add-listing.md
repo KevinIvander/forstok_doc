@@ -7,7 +7,7 @@ Apabila produk belum terbuat, bisa mengikuti panduan berikut:
 
 1. [Import Product dari salah satu channel](import-product-from-channels.md) (Marketplace atau website);
 2. [Tambahkan Master Product](add-master-product.md);
-3. Create New Item + Add Listing.
+3. [Create New Item + Add Listing](create-new-item-+-add-listing.md).
 {% endhint %}
 
 Add Listing berfungsi untuk melisting item single atau item variant supaya bisa live di marketplace. Berikut langkah-langkah listing item menggunkan fitur Add Listing:\
