@@ -89,6 +89,7 @@
     * [Hapus satu sku semua channel](knowledge-base/items/delete-product/delete-items.md)
     * [Meremove satu sku satu channel (remove listing)](knowledge-base/items/delete-product/remove-listing.md)
     * [Menghapus banyak sku semua channel (bulk delete)](knowledge-base/items/delete-product/menghapus-banyak-sku-semua-channel.md)
+  * [Create New Item + Add Listing](knowledge-base/items/create-new-item-+-add-listing.md)
   * [Cross Listing dari Master product (Add Listings)](knowledge-base/items/add-listing.md)
   * [Cross Listing dari Master Product (xls)](knowledge-base/items/cross-listing-xls.md)
   * [Price Adjustment (interface)](knowledge-base/items/price-adjustment-interface.md)
