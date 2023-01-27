@@ -37,9 +37,17 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 ![](<../../.gitbook/assets/image (92).png>)
 
-8\. Setelah dilengkapi, simpan file.&#x20;
+{% hint style="info" %}
+Berikut adalah contoh Template Cross Listing dalam bentuk xls:
+{% endhint %}
 
-9\. Masuk ke halaman cross listing, pilih sales channel dan category nya, lalu pilih file csv tersebut dan upload.
+{% embed url="https://docs.google.com/spreadsheets/d/1UsWM0ERtmTcv2bjXCu0Y-hq8gv6xe9EN/edit?ouid=108585903555648506286&rtpof=true&sd=true&usp=sharing" %}
+Tab di bagian bawah dari file .xls dibagi berdasarkan kategori marketplace
+{% endembed %}
+
+8\. Setelah dilengkapi, simpan file dengan cara Save, bukan Save as, nama file juga tidak dapat diubah karena bisa mengakibatkan gagal upload;
+
+9\. Masuk ke halaman cross listing, pilih sales channel dan category nya, lalu pilih file csv/xls tersebut dan upload.
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062548606/original/zHuIDDrUi8KofVxv9DoTN200SKwTdMqFug.png?1601757262)
 
