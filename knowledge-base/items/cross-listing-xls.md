@@ -42,7 +42,8 @@ Berikut adalah contoh Template Cross Listing dalam bentuk xls:
 {% endhint %}
 
 {% embed url="https://docs.google.com/spreadsheets/d/1UsWM0ERtmTcv2bjXCu0Y-hq8gv6xe9EN/edit?ouid=108585903555648506286&rtpof=true&sd=true&usp=sharing" %}
-Tab di bagian bawah dari file .xls dibagi berdasarkan kategori marketplace
+Tab di bagian bawah dibagi berdasarkan kategori item di marketplace\
+[https://docs.google.com/spreadsheets/d/1UsWM0ERtmTcv2bjXCu0Y-hq8gv6xe9EN/edit?usp=sharing\&ouid=108585903555648506286\&rtpof=true\&sd=true](https://docs.google.com/spreadsheets/d/1UsWM0ERtmTcv2bjXCu0Y-hq8gv6xe9EN/edit?usp=sharing\&ouid=108585903555648506286\&rtpof=true\&sd=true)
 {% endembed %}
 
 8\. Setelah dilengkapi, simpan file dengan cara Save, bukan Save as, nama file juga tidak dapat diubah karena bisa mengakibatkan gagal upload;
