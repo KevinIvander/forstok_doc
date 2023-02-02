@@ -1,5 +1,7 @@
 # Integrasi Accurate Online
 
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 ****
 
@@ -47,6 +49,5 @@
 
 {% hint style="warning" %}
 1. data order yang di kirim ke accurate order setelah integrasi Accurate to forstok
-2. Untuk ganti database harus integrasi ulang. Disconnect Accurate di Forstok
+2. Untuk ganti database harus integrasi ulang. Disconnect Accurate di Forstok![](<../../../.gitbook/assets/image (5).png>)
 {% endhint %}
-

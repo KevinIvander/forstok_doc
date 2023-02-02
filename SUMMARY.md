@@ -61,7 +61,7 @@
     * [Sinkronisasi stok (Accurate → Forstok)](knowledge-base/integrations/accurate-online/sinkronisasi-stok-accurate-ke-forstok.md)
     * [Sinkronisasi Order (Forstok → Accurate)](knowledge-base/integrations/accurate-online/sinkronisasi-order-forstok-accurate.md)
     * [FAQ Accurate](knowledge-base/integrations/accurate-online/faq-accurate.md)
-    * [Sync Invoice (coming soon)](knowledge-base/integrations/accurate-online/sync-invoice-coming-soon.md)
+    * [Sync Invoice (coming soon)](knowledge-base/integrations/accurate-online/sinkronisasi-penjualan-coming-soon.md)
     * [Sync Payout (coming soon)](knowledge-base/integrations/accurate-online/sync-payout-coming-soon.md)
   * [Pawoon POS](knowledge-base/integrations/pawoon-pos/README.md)
     * [Integrasi Pawoon](knowledge-base/integrations/pawoon-pos/integrasi-pawoon.md)
