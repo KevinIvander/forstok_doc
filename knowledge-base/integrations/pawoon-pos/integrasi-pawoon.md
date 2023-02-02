@@ -4,7 +4,7 @@
 
 1\. Log in terlebih dahulu dari akun Pawoon Anda. Pada menu bar pilih Aplikasi > pilih Forstok.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 2\. Pilih Aktifkan.
 

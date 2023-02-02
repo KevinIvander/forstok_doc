@@ -1,4 +1,4 @@
-# Accurate Settings - Mapping COA, gudang dan pajak
+# Accurate Settings - Mapping COA, gudang, pajak, dan detail amount
 
 1. **Click Setting Accurate**
 
@@ -21,7 +21,11 @@
 
 ![](<../../../.gitbook/assets/image (446) (1).png>)
 
-3\. **Click Save**
+3\. Mapping detail amount/rincian penerimaan untuk masing-masing jenis penerimaan dari marketplace:
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-02 122541.jpg" alt=""><figcaption></figcaption></figure>
+
+4. **Click Save**
 
 {% hint style="warning" %}
 _Branch & Tax optional jika aktif di Accurate_
