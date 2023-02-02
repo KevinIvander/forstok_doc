@@ -1,4 +1,4 @@
-# Sinkronisasi Penjualan (coming soon)
+# Sync Invoice (coming soon)
 
 
 
@@ -15,19 +15,11 @@ Data penjualan yang dikirimkan dari Marketplace --> Forstok, akan dikirimkan ke 
 Berikut adalah alur sinkronisasi penjualan dari **Marketplace --> Forstok --> Accurate**:
 
 1. Order masuk dari Marketplace --> Forstok, dan secara otomatis create invoice pada status order yang telah ditentukan:
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Invoice auto create pada status invoice 'Unpaid' di Forstok</p></figcaption></figure>
-
 2. Auto create invoice di Forstok akan auto create sales invoice/faktur penjualan di Accurate:
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-3. Setelah invoice terbuat di Forstok dan di Accurate, **create payment receive** di Forstok untuk auto create sales receipt/penerimaan penjualan di Accurate dan akan mengupdate status sales invoice/faktur penjualan di Accurate menjadi **paid**.&#x20;
-4. Berikut panduan create payment receive:
 
-{% content-ref url="../../payment-receive/" %}
-[payment-receive](../../payment-receive/)
-{% endcontent-ref %}
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-02-02 123720.jpg" alt=""><figcaption><p>Detail amount ketika status order sudah Completed di Forstok</p></figcaption></figure>
 
