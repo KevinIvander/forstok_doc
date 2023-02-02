@@ -50,6 +50,3 @@
 2. Untuk ganti database harus integrasi ulang. Disconnect Accurate di Forstok
 {% endhint %}
 
-Berikut adalah summary flow Pelunasan dari Marketplace-->Forstok-->Accurate
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
