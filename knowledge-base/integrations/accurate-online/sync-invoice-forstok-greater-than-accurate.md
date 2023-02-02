@@ -1,4 +1,4 @@
-# Sync Invoice (coming soon)
+# Sync Invoice (Forstok -> Accurate)
 
 
 
@@ -17,7 +17,7 @@ Berikut adalah alur sinkronisasi penjualan dari **Marketplace --> Forstok --> Ac
 1. Order masuk dari Marketplace --> Forstok, dan secara otomatis create invoice pada status order yang telah ditentukan:
 2. Auto create invoice di Forstok akan auto create sales invoice/faktur penjualan di Accurate:
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
