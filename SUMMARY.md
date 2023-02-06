@@ -159,6 +159,7 @@
 * [Payment Receive](knowledge-base/payment-receive/README.md)
   * [Payment Receive via API](knowledge-base/payment-receive/payment-receive-via-api.md)
   * [Payment Receive via Manual](knowledge-base/payment-receive/payment-receive-via-manual.md)
+  * [Mass Payment Receive via API](knowledge-base/payment-receive/mass-payment-receive-via-api.md)
 * [Retur Penjualan (Return)](knowledge-base/sales-returns/README.md)
   * [Return Overview](knowledge-base/sales-returns/return-overview.md)
   * [Create Sales Return](knowledge-base/sales-returns/create-sales-return.md)
