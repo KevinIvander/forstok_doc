@@ -23,6 +23,8 @@ Terdapat 3 cara untuk **Create Payment Receive**:\
 
 3. Review kembali setiap invoice yang akan diproses menjadi Paid dengan cara mengisi kolom detail amount secara manual apabila create payment receive belum tersedia via API
 
+Berikut sample channel payout summary: [https://docs.google.com/spreadsheets/d/1QkLWBQNKZ-S9u54nEv0TaT4Hx7c0VY3yf6JEt37skGY/edit#gid=0](https://docs.google.com/spreadsheets/d/1QkLWBQNKZ-S9u54nEv0TaT4Hx7c0VY3yf6JEt37skGY/edit#gid=0)
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-06 155110.jpg" alt=""><figcaption></figcaption></figure>
 
 3. Apabila detail amount sudah sesuai: Save file --> Drag & Drop file/browse untuk mengupload file --> Mark as Paid
