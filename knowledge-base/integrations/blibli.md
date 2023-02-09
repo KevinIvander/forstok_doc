@@ -8,20 +8,25 @@
 
 ## Cara Integrasi Blibli (Step-by-step)
 
-1\. Log in terlebih dahulu ke seller center Blibli [https://seller.blibli.com/MTA/store-info/store-info](https://seller.blibli.com/MTA/store-info/store-info). Kita perlu set up API terlebih dahulu. Pada kanan atas pilih **Pengaturan Seller API**
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48066775314/original/HUAtQ\_zL9xirsYbz-obm0lI-ncXyuq16Cw.png?1603734604)
+1. Log in ke seller center Blibli [https://seller.blibli.com/MTA/store-info/store-info](https://seller.blibli.com/MTA/store-info/store-info). Pada kanan atas pilih **Pengaturan Seller API**
 
-2\. Pada **Kata sandi API** klik **Buat** .&#x20;
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+2. Pada **Kata sandi API** klik **Buat** .&#x20;
 
 {% hint style="info" %}
-Pastikan kata sandi khusus di kosongkan, apabila terisi dapat menyebabkan error 'Seller id not recognized' ketika akan memproses integrasi di Forstok.
+**Pastikan kata sandi khusus di kosongkan**, apabila terisi dapat menyebabkan error 'Seller id not recognized' ketika akan memproses integrasi di Forstok.
 {% endhint %}
 
-**ID API Klien** input:\
-ID API Forstok yaitu: mta-api-ptforstokteknologiindonesia-9ddf9
+<figure><img src="../../.gitbook/assets/image (1).jpg" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (22).png>)
+3. Pada baris '**ID API Klien'** copy and paste teks berikut:&#x20;
+
+&#x20;      'mta-api-ptforstokteknologiindonesia-9ddf9'
+
+&#x20;      Klik sambungkan, pastikan tampilan sudah seperti gambar di atas.
 
 3\. Kembali ke Forstok. Pilih Integration > Add Integrations > Pilih Blibli\
 
