@@ -4,7 +4,7 @@ description: >-
   langkah-langkah listing item baru yang belum ada di Marketplace.
 ---
 
-# Add Listing v2 (NEW)
+# Add Listing v2 (Coming Soon)
 
 1. Pertama single item, pada menu items pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
@@ -20,7 +20,7 @@ description: >-
 
 4. Isi field yang di highlight merah atau field required. Geser layar ke kanan untuk melengkapi detail item pada store lainnya.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Note :** Field yang tidak ada highlight merah sudah otomatis terisi sesuai dengan Master Product item yang dipilih tetapi anda tetap bisa mengubahnya.
 {% endhint %}
 
