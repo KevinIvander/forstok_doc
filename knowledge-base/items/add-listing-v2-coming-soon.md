@@ -56,7 +56,7 @@ Jika sudah sesuai, maka akan diarahkan halaman items. Klik item yang sudah di li
 
 4. Isi field yang di highlight merah atau field required. Geser layar ke kanan dan ke bawah untuk melengkapi detail item dan store lainnya.
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Note :** Field yang tidak ada highlight merah sudah otomatis terisi sesuai dengan Master Product item yang dipilih tetapi anda tetap bisa mengubahnya.
 {% endhint %}
 
