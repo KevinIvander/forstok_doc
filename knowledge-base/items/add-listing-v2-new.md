@@ -35,3 +35,7 @@ description: >-
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Add Listing v2 - Step 5 - Image_2.png" alt=""><figcaption></figcaption></figure>
+
+Jika sudah sesuai, maka akan diarahkan halaman items. Klik item yang sudah di listingkan sebelumnya untuk melihat status listing.
+
+<figure><img src="../../.gitbook/assets/Add Listing v2 - Step 5 - Image_3.png" alt=""><figcaption></figcaption></figure>
