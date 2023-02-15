@@ -4,7 +4,9 @@ description: >-
   langkah-langkah listing item baru yang belum ada di Marketplace.
 ---
 
-# Add Listing v2 (Coming Soon)
+# Add Listing v2 (NEW)
+
+### Add listing v2&#x20;
 
 1. Pertama single item, pada menu items pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
@@ -40,7 +42,7 @@ Jika sudah sesuai, maka akan diarahkan halaman items. Klik item yang sudah di li
 
 <figure><img src="../../.gitbook/assets/Add Listing v2 - Step 5 - Image_3.png" alt=""><figcaption></figcaption></figure>
 
-## Bulk Listing
+### Bulk Listing
 
 1. Pada tampilan kedua Pilihan Bulk yang tertera, pilih menu items lalu pilih lebih dari 1 item yang ingin di listingkan. Kemudian pilih Listing.
 
