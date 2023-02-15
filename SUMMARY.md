@@ -80,7 +80,7 @@
   * [Item v.1 Overview](knowledge-base/items/item-overview.md)
   * [Item v.2 Overview (NEW)](knowledge-base/items/item-v.2-overview-new.md)
   * [Master Product (NEW)](knowledge-base/items/master-product-new.md)
-  * [Add Listing v2 (Coming Soon)](knowledge-base/items/add-listing-v2-coming-soon.md)
+  * [Add Listing v2 (NEW)](knowledge-base/items/add-listing-v2-new.md)
   * [Add Items (Create New Items)](knowledge-base/items/add-items.md)
   * [Impor produk dari channel](knowledge-base/items/import-product-from-channels.md)
   * [Linking produk / varian](knowledge-base/items/linking-item-variants.md)
