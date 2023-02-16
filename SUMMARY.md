@@ -210,6 +210,7 @@
 * [Forstok Chat](knowledge-base/chats/README.md)
   * [Download App (Mac)](knowledge-base/chats/download-app-mac.md)
   * [Download App (Windows)](knowledge-base/chats/download-app-windows.md)
+* [Forstok Chat (NEW)](knowledge-base/forstok-chat-new.md)
 * [Yang Harus Diketahui](knowledge-base/yang-harus-diketahui/README.md)
   * [Shopee](knowledge-base/yang-harus-diketahui/shopee.md)
 
