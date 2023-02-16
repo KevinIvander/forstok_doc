@@ -18,7 +18,7 @@ Download Forstok Chat (Windows):\
 
 **2.** **Langkah Kedua, login dengan menggunakan email dan kata sandi akun Forstok Anda.**
 
-<figure><img src="../../.gitbook/assets/Screenshot_36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_36 (2).png" alt=""><figcaption></figcaption></figure>
 
 **3. Langkah Ketiga, tambahkan marketplace dan login menggunakan akun marketplace Anda.**
 
