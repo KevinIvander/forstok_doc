@@ -20,11 +20,31 @@ Bagian sebelah kiri akan disesuaikan dengan jumlah marketplace (Shopee dan Tokop
 
 <figure><img src="../.gitbook/assets/Screenshot_37.png" alt=""><figcaption></figcaption></figure>
 
+### Proses Aktivasi
+
+1. User harus melakukan aktivasi terlebih dahulu sebelum menggunakan Forstok Chat.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot_38.png" alt=""><figcaption></figcaption></figure>
+
+2. Semua chat harus melakukan aktivasi termasuk _Shopee_, harus melakukan login untuk authentification. Tetapi, untuk Tokopedia tidak perlu. Cukup klik activate 1 kali, kemudian selesai.
+
+<figure><img src="../.gitbook/assets/Screenshot_39.png" alt=""><figcaption></figcaption></figure>
+
+3. Jika sudah selesai dan berhasil melakukan aktivasi maka sudah dapat menggunakan Forstok chat dengan tampilan berikut ini.
+
+<figure><img src="../.gitbook/assets/Screenshot_40.png" alt=""><figcaption></figcaption></figure>
+
+4. Seller sudah dapat menerima dan membalas pesan langsung dari customer dengan tampilan percakapan berikut ini.
+
+<figure><img src="../.gitbook/assets/Screenshot_41.png" alt=""><figcaption></figcaption></figure>
+
+5. Jika sudah melakukan aktivasi (klik activate) pada Tokopedia, maka sudah bisa langsung menggunakan Forstok Chat, tidak perlu melakukan authentification.
+
+<figure><img src="../.gitbook/assets/Screenshot_42.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Batasan / Limitasi:**&#x20;
 
-* User harus melakukan activation.
-* Shopee harus login terlebih dahulu karna App di API Shopeenya berbeda dgn ERP untuk versi chat saat ini.
 * Tokopedia saat ini  tidak dapat mengirim produk (Karena dari MP nya tidak menyediakan).
 * Shopee tidak dapat melihat informasi produk jika customer mengirimkan chat melalui Item Detail yang ada MP, namun akan tampil jika mengirimkan dari List Produk yang di chat.
 * Tokopedia memiliki rate limit, sehingga chat akan masuk ke antrian di Forstok.
