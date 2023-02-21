@@ -72,6 +72,7 @@
   * [Reconnect Lazada (dari pop up)](knowledge-base/integrations/reconnect-lazada.md)
   * [Reconnect Lazada (Dari Integration)](knowledge-base/integrations/reconnect-lazada-dari-integration.md)
   * [Reconnect JD.ID](knowledge-base/integrations/reconnect-jd.id.md)
+  * [Mengaktifkan Shopee Multi-Origin](knowledge-base/integrations/mengaktifkan-shopee-multi-origin.md)
   * [Mengaktifkan Export Item](knowledge-base/integrations/mengaktifkan-export-item.md)
   * [Disconnect Channel](knowledge-base/integrations/disconnect.md)
 * [Dashboard](knowledge-base/dashboard/README.md)
