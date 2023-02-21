@@ -8,6 +8,7 @@
 * [Knowledge](getting-started/faq/README.md)
   * [FAQ - WMS](getting-started/faq/faq-wms.md)
   * [FAQ - Onboarding](getting-started/faq/faq-onboarding.md)
+  * [FAQ - Accurate Online](getting-started/faq/faq-accurate-online.md)
   * [FAQ - Inventory](getting-started/faq/faq-inventory.md)
   * [FAQ - Orders](getting-started/faq/faq-orders-1.md)
 * [Forstok API Doc](getting-started/api-integration.md)
