@@ -8,11 +8,11 @@
 
 ## Cara Integrasi Blibli (Step-by-step)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Log in ke seller center Blibli [https://seller.blibli.com/MTA/store-info/store-info](https://seller.blibli.com/MTA/store-info/store-info). Pada kanan atas pilih **Pengaturan Seller API**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 2. Pada **Kata sandi API** klik **Buat** .&#x20;
 
