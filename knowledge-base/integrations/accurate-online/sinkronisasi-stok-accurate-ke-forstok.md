@@ -12,17 +12,13 @@ Terdapat 2 cara untuk melakukan penyesuaian stok Accurate --> Forstok:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-26 110305.jpg" alt=""><figcaption><p>Klik Sync Stock untuk menarik qty stock Accurate --> Forstok</p></figcaption></figure>
 
-2\. Lakukan penyesuaian stok/stok opname dari Accurate, setiap perubahan stok yang berhasil dilakukan akan dikirim ke Forstok.
+2\. Lakukan penyesuaian persediaan dari Accurate
 
 {% hint style="info" %}
-**Sebelum melakukan penyesuaian stok/stok opname, pastikan penulisan nama dan sku di master data forstok sudah sama dengan di accurate, hal ini untuk mencegah terjadinya duplicate items ketika sync items dari Forstok --> Accurate**
+**Sebelum melakukan penyesuaian persediaan, pastikan penulisan nama dan sku di master data forstok sudah sama dengan di accurate, hal ini untuk mencegah terjadinya duplicate items ketika sync items dari Forstok --> Accurate**
 {% endhint %}
 
-Penyesuaian stok pada Accurate dapat dilakukan dengan 2 cara:&#x20;
-
-1\. Satu per satu melalui fitur **Penyesuaian Persediaan**;&#x20;
-
-2\. Secara bulk/masif melalui fitur **Stok Opname**
+Penyesuaian stok pada Accurate dapat dilakukan melalui fitur **Penyesuaian Persediaan**;&#x20;
 
 ## **Penyesuaian Persediaan**
 
