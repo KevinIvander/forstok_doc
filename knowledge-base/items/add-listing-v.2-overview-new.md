@@ -1,10 +1,9 @@
-# Item v.2 Overview (NEW)
+# Add Listing v.2 Overview (NEW)
 
 ## **What’s New**
 
-1. **Add Listing :** New Interface, Multi Store, Multi Channel, Multi Product, Multi Categories
-2. **Add Master Product :** Menambahkan Master Product di Forstok yang dapat berdiri sendiri**.**
-3. **Edit Master Product :** Melakukan perubahan di Master Product, tidak ada edit listing.
+1. **Single Listing :** Multi Store, Multi Channel, Multi Categories, New Interface.
+2. **Bulk Listing :** Multi Product, Multi Store, Multi Channel, Multi Categories, New Interface.
 
 ### 1.  Manage Listing
 
@@ -19,7 +18,7 @@ Fungsinya untuk melakukan listing multiple item ke Marketplace
 
 <figure><img src="../../.gitbook/assets/Bulk Listing - Step 1 - Image.png" alt=""><figcaption></figcaption></figure>
 
-### 3. + Item&#x20;
+###
 
 * **Add Master Product:** Fungsinya adalah untuk menambahkan Master Product yang bisa stand-alone (berdiri sendiri)  tanpa harus terlisting ke channel (marketplace).
 * **Add Bundle Product:** Fungsinya adalah untuk menghubungkan stock item bundling dengan item satuan atau main item.

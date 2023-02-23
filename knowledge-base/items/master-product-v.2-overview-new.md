@@ -1,6 +1,31 @@
-# Master Product (NEW)
+# Master Product v.2 Overview (NEW)
+
+## What’s New
+
+1. **Add Master Product :** Menambahkan Master Product di Forstok yang dapat berdiri sendiri.
+2. **Edit Master Product :** Melakukan perubahan di Master Product, tidak ada edit listing.
+
+## **1. + Item**
+
+* Add Master Product: Menambahkan Master Product yg bisa stand-alone (berdiri sendiri)  tanpa harus terlisting ke channel (marketplace).
+* Add Bundle Product : Untuk menghubungkan stock item bundling dengan item satuan atau main item.
+* Add Listing : Untuk listing item baru ke channel (marketplace).
+
+<figure><img src="../../.gitbook/assets/ee.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/www.png" alt=""><figcaption></figcaption></figure>
+
+## **2.** Edit Master Product
+
+* Edit Master Product : Untuk mengedit atau memperbaiki seperti deskripsi produk, gambar produk, atau field lainnya di Master Product
+
+<figure><img src="../../.gitbook/assets/34.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **Add Master Product (NEW)**
+
+* **Add Listing:** Fungsinya adalah untuk listing item baru ke channel (marketplace).
 
 1. Pada menu item pilih +Item -> Add Master Products. Akan membuka Tab baru pada browser.
 

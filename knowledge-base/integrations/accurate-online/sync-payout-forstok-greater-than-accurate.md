@@ -7,7 +7,7 @@
 [payment-receive](../../payment-receive/)
 {% endcontent-ref %}
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Invoice auto create pada status invoice 'Unpaid' di Forstok</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Invoice auto create pada status invoice 'Unpaid' di Forstok</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Detail amount yang tertera di Accurate setelah dilakukan create payment receive di Forstok<br>(klik Invoice --> Informasi Diskon --> arahkan kursor dan scroll tabel Akun Diskon untuk melihat seluruh rincian amount yang dikirimkan dari Forstok ke Accurate untuk invoice tersebut)</p></figcaption></figure>
 

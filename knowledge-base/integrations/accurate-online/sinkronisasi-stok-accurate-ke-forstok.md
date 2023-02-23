@@ -17,7 +17,7 @@ Terdapat **2 langkah** untuk melakukan Sync stok Accurate --> Forstok:
 
 1. Klik menu Inventory/Persediaan, kemudian pilih Item Adjustment / Penyesuaian Persediaan
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Adjust Balance Qty (selalu adjust plus ke balance final qty)
 
@@ -25,17 +25,17 @@ Terdapat **2 langkah** untuk melakukan Sync stok Accurate --> Forstok:
 
 3. Check Item History in Accurate
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 4. Pada Forstok di tab warehouse, update masuk ke Qty On Hand
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ## **Langkah kedua**: klik tombol **Sync Stock**
 
 1. Klik menu Integrations - Accurate Settings
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Klik Sync stock pada Integrations - Accurate Settings - Sync Stock
 

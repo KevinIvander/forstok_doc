@@ -10,7 +10,7 @@ Bulk payment receive melalui '_**+Payment Receive**_', berikut adalah langkahnya
 
 2. Tentukan range date dari invoice yang akan dilakukan create payment receive, pilih store yang akan digenerate via xls, kemudian generate excel
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Catatan: Pop up notification akan muncul apabila create payment receive untuk store yang dipilih sudah tersedia via API.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Catatan: Pop up notification akan muncul apabila create payment receive untuk store yang dipilih sudah tersedia via API.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-06 154848.jpg" alt=""><figcaption></figcaption></figure>
 
