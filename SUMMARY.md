@@ -79,7 +79,7 @@
   * [Item v.1 Overview](knowledge-base/items/item-overview.md)
   * [Add Listing v.2 Overview (NEW)](knowledge-base/items/add-listing-v.2-overview-new.md)
   * [Master Product v.2 Overview (NEW)](knowledge-base/items/master-product-v.2-overview-new.md)
-  * [Add Listing v.2 (NEW)](knowledge-base/items/add-listing-v.2-new.md)
+  * [Add Master Product (NEW)](knowledge-base/items/add-master-product-new.md)
   * [Add Items (Create New Items)](knowledge-base/items/add-items.md)
   * [Impor produk dari channel](knowledge-base/items/import-product-from-channels.md)
   * [Linking produk / varian](knowledge-base/items/linking-item-variants.md)
