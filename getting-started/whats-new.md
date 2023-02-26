@@ -6,7 +6,13 @@ description: >-
 
 # What's New
 
-## 27 Oktober 2022
+## February  20, 2023
+
+* New Release : Bulk Listing via Interface: Multi products, Multi stores, dan Multi categories (Available: Shopee, Tokopedia ).  [Learn more](https://docs.forstok.com/knowledge-base/items/add-listing-v2-new)
+* New Release : [Marketplace Chats](https://app.forstok.com/dashboard/chats) (Ready Channel: Shopee, Tokopedia) . [Learn more](https://docs.forstok.com/knowledge-base/forstok-chat-new)&#x20;
+* New Release: [Reporting v2](https://app.forstok.com/dashboard/reporting) (Available: Financial Transactions log / Ledger based on Invoices) Please activate Invoice first. [Learn more](https://app.forstok.com/dashboard/settings/invoices)
+
+## October 27, 2022
 
 * New Release: Invoice V2 (All Channels). Digunakan internal untuk pencatatan pembayaran dari Marketplace ke Penjual. Enable auto-create invoice in settings. [Learn more](https://docs.forstok.com/knowledge-base/sales-invoices/invoice-overview)
 * New Release: Payment Received / Payout via API (Ready: Shopee, Tokopedia. Soon: Tiktok, Lazada, Blibli, Bukalapak, JD). Feature pencatatan otomatis pembayaran uang masuk dari Marketplace dengan perinciannya (Komisi, Cashback, Selisih Ongkos Kirim, dan lainnya) untuk setiap Invoice. Penarikan dana dari Wallet Marketplace ke Bank tetap perlu di lakukan di masing-masing Seller Center. [Learn more](https://docs.forstok.com/knowledge-base/sales-invoices/payment-receive)
