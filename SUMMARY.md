@@ -131,6 +131,7 @@
   * [Order v.2 Overview (NEW)](knowledge-base/sales-orders/order-v.2-overview.md)
   * [Create Shipment](knowledge-base/shipment-orders/ready-to-print.md)
   * [Update Ready to Ship](knowledge-base/sales-orders/update-ready-to-ship.md)
+  * [Update Mark As Delivered](knowledge-base/sales-orders/update-mark-as-delivered.md)
   * [Print Shipping Labels](knowledge-base/shipment-orders/print-shipping-document-in-bulk.md)
   * [Create Sales Order (Order v1)](knowledge-base/sales-orders/create-sales-order.md)
   * [Create Sales Order (Orders v2)](knowledge-base/sales-orders/create-sales-order-1.md)
