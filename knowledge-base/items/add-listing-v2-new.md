@@ -6,7 +6,7 @@ description: >-
 
 # Add Listing v2 ( NEW )
 
-### Single Listing
+## Single Listing
 
 1. Pertama single item, pada menu items pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
@@ -40,11 +40,11 @@ Jika sudah sesuai, maka akan diarahkan halaman items. Klik item yang sudah di li
 
 <figure><img src="../../.gitbook/assets/pii.png" alt=""><figcaption></figcaption></figure>
 
-### Bulk Listing
+## Bulk Listing
 
 1. Kedua Bulk tersebut , pada menu items pilih lebih dari 1 item yang ingin di listingkan. Kemudian pilih Listing
 
-<figure><img src="../../.gitbook/assets/tnc (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tnc.png" alt=""><figcaption></figcaption></figure>
 
 2. Pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 
@@ -52,7 +52,7 @@ Jika sudah sesuai, maka akan diarahkan halaman items. Klik item yang sudah di li
 
 3. Tab baru akan terbuka pada browser anda. Pilih Category untuk masing-masing store dan Marketplace. Jika item anda sudah listing, akan muncul peringatan kalau item tersebut sudah terlisting di store
 
-<figure><img src="../../.gitbook/assets/pij.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pij (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Isi field yang di highlight merah atau field required. Geser layar ke kanan dan ke bawah untuk melengkapi detail item dan store lainnya.
 
