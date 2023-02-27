@@ -104,7 +104,6 @@
   * [Create Stock Allocation](knowledge-base/items/create-stock-allocation.md)
   * [Edit item (For Channel)](knowledge-base/items/edit-item.md)
   * [Update Master Item](knowledge-base/items/master-produk.md)
-  * [Cara Listing The F Thing (menggunakan Cross Listing)](knowledge-base/items/cara-listing-the-f-thing-menggunakan-cross-listing.md)
   * [Merubah Category Master (via Interface)](knowledge-base/items/merubah-category-master-via-interface.md)
   * [Update Image/Foto](knowledge-base/items/merubah-category-master-by-sku-interface.md)
   * [Edit Master Product (upload/update image)](knowledge-base/items/edit-master-product-upload-update-image.md)
