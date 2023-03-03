@@ -5,7 +5,7 @@ Gunakan Cross Listing dari excel ini bertujuan untuk menambahkan banyak produk d
 {% hint style="info" %}
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
 
-1. [Import Product dari salah satu channel (Marketplace atau website)](import-product-from-channels.md)
+1. [Import Product dari salah satu channel (Marketplace atau website)](../../items/import-product-from-channels.md)
 2. [Tambahkan master product](add-master-product.md)
 {% endhint %}
 
@@ -13,9 +13,9 @@ Ada 2 cara untuk membuat Master product, Jika master product belum terupload di 
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross listing_ :&#x20;
 
-1\. Pastikan kondisi integrasi sudah **sync item on**. Lihat [migrate-to-forstok.md](../before-integrations/migrate-to-forstok.md "mention")
+1\. Pastikan kondisi integrasi sudah **sync item on**. Lihat [migrate-to-forstok.md](../../before-integrations/migrate-to-forstok.md "mention")
 
-2\. Lakukan category mapping terlebih dahulu untuk mempermudah proses Cross Listing melalui Settings - Category. Lihat [category.md](../settings/category.md "mention")
+2\. Lakukan category mapping terlebih dahulu untuk mempermudah proses Cross Listing melalui Settings - Category. Lihat [category.md](../../settings/category.md "mention")
 
 3\. Pada halaman item, klik tombol +Item lalu pilih **cross listing**.
 
@@ -31,11 +31,11 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 6\. Untuk mendownload file cross listing klik **activity** lalu download file cross listing pada **summary file dan dowonload brand list.**
 
-![](<../../.gitbook/assets/image (169).png>)
+![](<../../../.gitbook/assets/image (169).png>)
 
 7\. Setelah selesai di download, lengkapi data yang ada di csv. Untuk kolom Brand bisa di download dari Brand List. Untuk brand list harap copy paste kode dan nama brandnya.
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../../../.gitbook/assets/image (92).png>)
 
 {% hint style="info" %}
 Berikut adalah contoh Template Cross Listing dalam bentuk xls:

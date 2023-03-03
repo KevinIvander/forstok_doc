@@ -5,9 +5,9 @@
 
 Apabila produk belum terbuat, bisa mengikuti panduan berikut:
 
-1. [Import Product dari salah satu channel](import-product-from-channels.md) (Marketplace atau website);
+1. [Import Product dari salah satu channel](../../items/import-product-from-channels.md) (Marketplace atau website);
 2. [Tambahkan Master Product](add-master-product.md);
-3. [Create New Item + Add Listing](create-new-item-+-add-listing.md).
+3. [Create New Item + Add Listing](../../items/listing/create-new-item-+-add-listing.md).
 {% endhint %}
 
 Add Listing berfungsi untuk melisting item single atau item variant supaya bisa live di marketplace. Berikut langkah-langkah listing item menggunkan fitur Add Listing:\
@@ -19,8 +19,8 @@ Video Panduan: [https://www.loom.com/share/5d4fe85b8a5947a9834d817c9fe735f9](htt
 
 Panduan mengaktifkan export item
 
-{% content-ref url="../integrations/mengaktifkan-export-item.md" %}
-[mengaktifkan-export-item.md](../integrations/mengaktifkan-export-item.md)
+{% content-ref url="../../integrations/mengaktifkan-export-item.md" %}
+[mengaktifkan-export-item.md](../../integrations/mengaktifkan-export-item.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
@@ -29,7 +29,7 @@ Kenapa sync export perlu ON sebelum listing?
 \--> Supaya item yang di listing, update stock, edit, update harga yang di lakukan dari Forstok bisa terupdate atau mirroring ke marketplace.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (404).png>)
+![](<../../../.gitbook/assets/image (404).png>)
 
 2\. Master item sudah di upload atau item yang akan di listingkan sudah ada di Forstok hasil import item channel sebelumnya.
 
