@@ -10,15 +10,15 @@ description: >-
 
 1. Pertama single item, pada menu items pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
-<figure><img src="../../../.gitbook/assets/tsq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tsq.png" alt=""><figcaption></figcaption></figure>
 
 2. Kemudian pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 
-<figure><img src="../../../.gitbook/assets/ipq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ipq.png" alt=""><figcaption></figcaption></figure>
 
 3. Tab baru akan terbuka pada browser anda. Pilih Category untuk masing-masing store dan Marketplace.
 
-<figure><img src="../../../.gitbook/assets/trs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trs.png" alt=""><figcaption></figcaption></figure>
 
 4. Isi field yang di highlight merah atau field required. Geser layar ke kanan untuk melengkapi detail item pada store lainnya.&#x20;
 
@@ -26,33 +26,33 @@ description: >-
 **Note :** Field yang tidak ada <mark style="color:red;">highlight merah</mark> sudah otomatis terisi sesuai dengan Master Product item yang dipilih tetapi anda tetap bisa mengubahnya.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/pliu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pliu.png" alt=""><figcaption></figcaption></figure>
 
 5. Apabila sudah sesuai untuk seluruh field, klik Publish maka proses save dan upload/listing ke marketplace akan berjalan.&#x20;
 
-<figure><img src="../../../.gitbook/assets/ghu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ghu.png" alt=""><figcaption></figcaption></figure>
 
 Jika terdapat field yang belum sesuai maka akan muncul peringatan
 
-<figure><img src="../../../.gitbook/assets/pop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pop.png" alt=""><figcaption></figcaption></figure>
 
 Jika sudah sesuai, maka akan diarahkan halaman items. Klik item yang sudah di listingkan sebelumnya untuk melihat status listing.
 
-<figure><img src="../../../.gitbook/assets/pii.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pii.png" alt=""><figcaption></figcaption></figure>
 
-## Bulk Listing
+## 2. Bulk Listing
 
 1. Kedua Bulk tersebut , pada menu items pilih lebih dari 1 item yang ingin di listingkan. Kemudian pilih Listing
 
-<figure><img src="../../../.gitbook/assets/tnc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tnc.png" alt=""><figcaption></figcaption></figure>
 
 2. Pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 
-<figure><img src="../../../.gitbook/assets/fds.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fds.png" alt=""><figcaption></figcaption></figure>
 
 3. Tab baru akan terbuka pada browser anda. Pilih Category untuk masing-masing store dan Marketplace. Jika item anda sudah listing, akan muncul peringatan kalau item tersebut sudah terlisting di store
 
-<figure><img src="../../../.gitbook/assets/pij (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pij (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Isi field yang di highlight merah atau field required. Geser layar ke kanan dan ke bawah untuk melengkapi detail item dan store lainnya.
 
