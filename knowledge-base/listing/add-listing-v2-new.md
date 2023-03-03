@@ -6,9 +6,24 @@ description: >-
 
 # Add Listing v2 ( NEW )
 
+## **What’s New**
+
+1. **Single Listing :** Multi Store, Multi Channel, Multi Categories, New Interface.
+2. **Bulk Listing :** Multi Product, Multi Store, Multi Channel, Multi Categories, New Interface.
+
 ## Single Listing
 
-1. Pertama single item, pada menu items pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
+1. Add Listing : Fungsinya untuk listing item baru ke Marketplace versi 1
+
+{% content-ref url="add-listing.md" %}
+[add-listing.md](add-listing.md)
+{% endcontent-ref %}
+
+2. Add Listing V2 : Fungsinya untuk listing item baru ke Marketplace versi 2
+
+**Add Listing v2**
+
+1. Pada menu items, pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
 <figure><img src="../../.gitbook/assets/tsq.png" alt=""><figcaption></figcaption></figure>
 
