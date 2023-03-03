@@ -24,8 +24,8 @@ description: >-
 
 You can now adjust stock without upload excel. Use a barcode scanner to select product and counting. Register your barcode first by upload in master product template.
 
-{% content-ref url="../knowledge-base/items/upload-stock-adjustment-interface.md" %}
-[upload-stock-adjustment-interface.md](../knowledge-base/items/upload-stock-adjustment-interface.md)
+{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-interface.md" %}
+[upload-stock-adjustment-interface.md](../knowledge-base/master-products/upload-stock-adjustment-interface.md)
 {% endcontent-ref %}
 
 ## May 3, 2021
@@ -40,14 +40,14 @@ Stock Adjustment Type**:**&#x20;
 **Please Download and Upload using new excel template**
 {% endhint %}
 
-{% content-ref url="../knowledge-base/items/stock-adjustment-excel.md" %}
-[stock-adjustment-excel.md](../knowledge-base/items/stock-adjustment-excel.md)
+{% content-ref url="../knowledge-base/master-products/stock-adjustment-excel.md" %}
+[stock-adjustment-excel.md](../knowledge-base/master-products/stock-adjustment-excel.md)
 {% endcontent-ref %}
 
 * **Delta Qty:** Ideal for stock inbound (+) or Outbound (-). Inbound can be from Return Order, Purchase Order, Stock Transfer. Outbound can be from Sales Order, Transfer Stock.&#x20;
 
-{% content-ref url="../knowledge-base/items/upload-stock-adjustment-delta-qty-excel.md" %}
-[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/items/upload-stock-adjustment-delta-qty-excel.md)
+{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md" %}
+[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md)
 {% endcontent-ref %}
 
 ## April 20, 2021
@@ -105,8 +105,8 @@ Stock Adjustment Type**:**&#x20;
 
 * **Stock Adjustment Delta Value (+-).** You can update stock using value changes. eg Qty on hand 10. Adjust +5.&#x20;
 
-{% content-ref url="../knowledge-base/items/upload-stock-adjustment-delta-qty-excel.md" %}
-[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/items/upload-stock-adjustment-delta-qty-excel.md)
+{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md" %}
+[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md)
 {% endcontent-ref %}
 
 

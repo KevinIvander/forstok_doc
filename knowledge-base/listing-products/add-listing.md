@@ -5,8 +5,8 @@
 
 Apabila produk belum terbuat, bisa mengikuti panduan berikut:
 
-1. [Import Product dari salah satu channel](../items/import-product-from-channels.md) (Marketplace atau website);
-2. [Tambahkan Master Product](../master-product/add-master-product.md);
+1. [Import Product dari salah satu channel](import-product-from-channels.md) (Marketplace atau website);
+2. [Tambahkan Master Product](../master-products/add-master-product.md);
 3. [Create New Item + Add Listing](create-new-item-+-add-listing.md).
 {% endhint %}
 

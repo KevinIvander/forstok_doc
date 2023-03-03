@@ -23,7 +23,7 @@ Sisi kiri/left panel ini menampilan total item yang sudah masuk. Dimana pada sis
 
 **3. Upload/Update**
 
-* [Bulk Create Item](../master-product/add-master-product.md): Merupakan membuat list item master yang akan di listing ke marketplace.
+* [Bulk Create Item](add-master-product.md): Merupakan membuat list item master yang akan di listing ke marketplace.
 * Bulk Update Item: Untuk mengupdate Master item.
 * Bulk Update Qty: Untuk update stock menggunakan excel
 * Bulk Update Price: Untuk mengupdate harga menggunakan excel
