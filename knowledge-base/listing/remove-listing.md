@@ -1,4 +1,4 @@
-# Meremove satu sku satu channel (remove listing)
+# Remove Listing
 
 Remove Listing merupakan hapus item per marketplace. Ingin unlisitng item yang sudah linking atau grouping dengan banyak marketplace. Berikut panduannya:
 

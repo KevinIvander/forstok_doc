@@ -5,4 +5,4 @@
 3. Scan product barcode. Assign barcode ke product jika barcode belum terdaftar
 4. Jika product sdh terdaftar, setiap scan akan ditambah kan +1
 
-![](<../../.gitbook/assets/Barcode Scanner (2) (1).gif>)
+![](<../.gitbook/assets/Barcode Scanner (2) (1).gif>)
