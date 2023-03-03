@@ -2,7 +2,7 @@
 description: How to Link to Another Variant
 ---
 
-# Linking produk / varian
+# Link to another variant
 
 Link to Another Variant bertujuan melinkingkan sku yang belum ke grouping dengan marketplace lain atau sku salah linking., Bisa menggunakan fitur ini.
 
