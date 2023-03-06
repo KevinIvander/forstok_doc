@@ -61,7 +61,7 @@
     * [Accurate Settings - Mapping COA, gudang, pajak, dan detail amount](knowledge-base/integrations/accurate-online/accurate-settings-mapping-coa-gudang-pajak-dan-detail-amount.md)
     * [Create Product (Forstok → Accurate)](knowledge-base/integrations/accurate-online/create-product-forstok-ke-accurate.md)
     * [Sinkronisasi stok (Accurate → Forstok)](knowledge-base/integrations/accurate-online/sinkronisasi-stok-accurate-ke-forstok.md)
-    * [Sync Invoice (Forstok -> Accurate)](knowledge-base/integrations/accurate-online/sync-invoice-forstok-greater-than-accurate.md)
+    * [Sync Invoice (Forstok - Accurate)](knowledge-base/integrations/accurate-online/sync-invoice-forstok-accurate.md)
     * [Sync Payout (Forstok -> Accurate)](knowledge-base/integrations/accurate-online/sync-payout-forstok-greater-than-accurate.md)
     * [FAQ Accurate](knowledge-base/integrations/accurate-online/faq-accurate.md)
     * [Perubahan flow pelunasan Forstok Accurate](knowledge-base/integrations/accurate-online/perubahan-flow-pelunasan-forstok-accurate.md)
