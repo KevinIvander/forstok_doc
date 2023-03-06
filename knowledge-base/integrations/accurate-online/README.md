@@ -8,6 +8,7 @@ Accurate Online merupakan sistem akuntansi yang memudahkan Anda dalam mengelola 
 * Stock sync: Accurate → Forstok. [View here](sinkronisasi-stok-accurate-ke-forstok.md)
 * Invoice sync: Forstok → Accurate. [View here](sync-invoice-forstok-greater-than-accurate.md)
 * Accurate FAQ. [View here](faq-accurate.md)
+* Perubahan flow pelunasan Forstok --> Accurate.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 

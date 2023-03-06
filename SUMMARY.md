@@ -64,6 +64,7 @@
     * [Sync Invoice (Forstok -> Accurate)](knowledge-base/integrations/accurate-online/sync-invoice-forstok-greater-than-accurate.md)
     * [Sync Payout (Forstok -> Accurate)](knowledge-base/integrations/accurate-online/sync-payout-forstok-greater-than-accurate.md)
     * [FAQ Accurate](knowledge-base/integrations/accurate-online/faq-accurate.md)
+    * [Perubahan flow pelunasan Forstok Accurate](knowledge-base/integrations/accurate-online/perubahan-flow-pelunasan-forstok-accurate.md)
   * [Reconnect Shopee](knowledge-base/integrations/reconnect-shopee.md)
   * [Reconnect Blibli](knowledge-base/integrations/reconnect-blibli.md)
   * [Reconnect Bukalapak (Dari Pop-up)](knowledge-base/integrations/reconnect-bukalapak.md)
