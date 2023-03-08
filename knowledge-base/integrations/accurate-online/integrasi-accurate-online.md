@@ -29,6 +29,10 @@
 8. Klik sync item forstok
 {% endhint %}
 
+{% hint style="danger" %}
+**Stock berkurang di accurate berdasarkan invoice, dengan demikian langsung memotong stok on hand/fisik. Begitu juga dengan di Forstok, kalau order RTS itu juga sudah memotong stok on hand.**
+{% endhint %}
+
 1. **Add Integration > Choose “Accurate” > Click “Connect”**
 
 [https://www.forstok.com/integrations](https://www.forstok.com/integrations)
