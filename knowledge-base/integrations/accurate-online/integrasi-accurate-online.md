@@ -1,6 +1,6 @@
 # Integrasi Accurate Online
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/WhatsApp Image 2023-03-08 at 11.56.39.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****
