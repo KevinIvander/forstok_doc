@@ -1,4 +1,4 @@
-# Sync Invoice (Forstok -> Accurate)
+# Sync Invoice (Forstok - Accurate)
 
 
 
@@ -16,8 +16,11 @@ Data penjualan yang dikirimkan dari Marketplace --> Forstok, akan dikirimkan ke 
 Kami sarankan pengaturan invoice diatur _auto-create_ pada status order _**Ready to Ship**_** (RTS)**, hal ini dikarenakan:&#x20;
 
 1. Sebelum RTS masih ada kemungkinan order di-cancel oleh customer;
-2. _Detail amount_ yang ditampilkan di sales invoice/faktur penjualan di Accurate akan lebih mendekati detail _fixed_ yang dapat ditampilkan di status order _Completed_.&#x20;
+2. _Detail amount_ yang ditampilkan di sales invoice/faktur penjualan di Accurate akan lebih mendekati detail _fixed_ yang dapat ditampilkan di status order _Completed_
+3. Auto create invoice di Forstok akan auto create sales invoice di Accurate, dan akan langsung memotong stok di Accurate.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Pengaturan auto create invoice pada status RTS di Forstok</p></figcaption></figure>
 
 Berikut adalah alur sinkronisasi invoice dari **Marketplace --> Forstok --> Accurate**:
 
@@ -26,4 +29,4 @@ Berikut adalah alur sinkronisasi invoice dari **Marketplace --> Forstok --> Accu
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>auto create invoice di Accurate status “Unpaid” atau "Belum Lunas"</p></figcaption></figure>
 
-Untuk step selanjutnya terdapat di Sync Payout: [View Here ](sync-payout-forstok-greater-than-accurate.md)
+Untuk step selanjutnya terdapat di Sync Payout: [View Here ](sync-payout-forstok-accurate.md)
