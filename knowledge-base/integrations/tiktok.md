@@ -39,10 +39,14 @@ Langkah-langkah melakukan Integrasi TikTok (Step-by-step).\
 
 ![](<../../.gitbook/assets/image (443) (1).png>)
 
-**5. Klik “Authorize”**
+**5. Pilih durasi otorisasi 1 tahun, kemudian isi nomor kontak dan email yang didaftarkan di akun Tiktok;**
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**6. Klik “Authorize”**
 
 ![](<../../.gitbook/assets/image (442).png>)
 
-**6. Pada Product Catalog pilih Sync Product from TikTok >Next > pilih Finish**
+**7. Pada Product Catalog pilih Sync Product from TikTok >Next > pilih Finish**
 
 ![](<../../.gitbook/assets/Screen Shot 2022-03-09 at 10.55.52 AM.png>)
