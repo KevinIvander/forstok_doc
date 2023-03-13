@@ -1,6 +1,6 @@
-# Payment Receive via API
+# Payment Received via API (Single)
 
-<figure><img src="../../../.gitbook/assets/dcv (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dcv (1).png" alt=""><figcaption></figcaption></figure>
 
 Fitur ini berguna untuk Anda dapat melihat rincian pengurangan maupun penambahan dari Order tersebut langsung secara otomatis terisi Amountnya yang didapatkan dari masing-masing _Channel/Marketplace_. Untuk menggunakan fitur ini, pastikan Anda sudah menyalakan _Invoice_, karena pembayaran yang terima akan berelasi dengan _Invoice_.
 
@@ -21,7 +21,7 @@ Adapun penjelasan dari masing-masing field di atas sebagai berikut:
 
 **Note:**
 
-* Saat ini _Payment Receive via API_ baru tersedia untuk _marketplace_ Shopee dan Tokopedia, kedepannya akan ditambahkan _channel-channel_ lainnya yang memungkinkan dan apabila menyediakan API tersebut.
+* Saat ini _Payment Receive via API_ baru tersedia untuk _marketplace_ **Shopee, Tokopedia, Bukalapak, Lazada, Tiktok** kedepannya akan ditambahkan _channel-channel_ lainnya yang memungkinkan dan apabila menyediakan API tersebut **(Blibli dan Zalora)**.
 * _Balance Due_ akan secara otomatis menjadi **“0”** setelah Anda melakukan _Payment Receive_ dan Save data tersebut.
 * Shipping Cashless tidak termasuk ke dalam hitungan karena akan dibayarkan secara otomatis oleh _Channel/Marketplace_ ke masing-masing jasa kirim (Anda tidak menerima uang atas _Shipping Cashless_ tersebut).
 * Saat Anda melakukan _Payment Receive_, _Amount_ yang ada pada Invoice Detail akan ter-_replace_ secara otomatis mengikuti _Amount_ yang diterima dari API/Input dari Anda.
