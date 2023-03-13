@@ -18,6 +18,9 @@ Adapun penjelasan dari masing-masing field di atas sebagai berikut:
 
 * Shopee
 * Tokopedia
+* Bukalapak
+* Lazada
+* Tiktok
 
 **Note:**
 
