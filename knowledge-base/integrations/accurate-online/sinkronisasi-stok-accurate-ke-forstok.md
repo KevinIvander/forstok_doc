@@ -1,5 +1,20 @@
 # Sinkronisasi stok (Accurate → Forstok)
 
+{% hint style="danger" %}
+Limitasi sinkronisasi stok Accurate --> Forstok:
+
+1. nama produk dan sku antara forstok dan accurate wajib disamakan, kondisi nama sama dengan sku berbeda bisa mengakibatkan error ketika auto create invoice di accurate;
+2. Sync invoice dari forstok ke accurate, dan sync stock accurate ke forstok tdk real-time krn ada limitasi rate limit dari accurate yg menyebabkan delay. Maka kami sarankan untuk dibuat stok terpisah antara gudang online (marketplace) dan offline (penjualan di luar marketplace), stok tetap akan terupdate otomatis tapi delay;
+3. Sync stock juga bisa delay karena proses sync invoice forstok --> accurate berdasarkan status RTS, maka akan terdapat jeda dari status order forstok open - RTS, di mana pada jeda waktu tersebut segala bentuk perubahan pada stok melalui accurate akan menyebabkan ketidaksesuaian jumlah stok antara accurate dan forstok
+
+
+
+Contoh use case: stock 5 di accurate dan forstok. pk. 13.00, kemudian ada penjualan online 3 qty, invoice di accurate baru tercreate setelah status RTS d forstok, di waktu bersamaan, ada penjualan offline di accurate 3. Ini bisa menyebabkan oversell.
+
+\
+
+{% endhint %}
+
 {% hint style="info" %}
 **Apabila Accurate terintegrasi dengan akun Forstok, maka penyesuaian stok/stock adjustment harus dilakukan dari Accurate, karena flow penyesuaian stok berjalan 1 arah (Accurate --> Forstok --> Marketplace)**
 {% endhint %}
