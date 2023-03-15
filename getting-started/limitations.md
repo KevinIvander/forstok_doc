@@ -1,5 +1,7 @@
 # Batasan (Limitations)
 
+<figure><img src="../.gitbook/assets/WhatsApp Image 2023-03-15 at 14.20.35.jpeg" alt=""><figcaption></figcaption></figure>
+
 Setiap API channel atau marketplace mempunyai limitasi. Dan setiap marketplace memiliki limitasi yang berbeda-beda. Berikut limitasi API setiap marketplace yang harus di ketahui yang sudah kami rangkum dalam doc terlampir.
 
 ## Tokopedia
