@@ -30,4 +30,5 @@
 1. Forstok hanya create item ke Accurate yang sudah ada di forstok belum ada di Accurate
 2. Di Accurate hanya single Variant. Utk multi-variant harus create/upload master product ke Forstok langsung
 3. Forstok tidak kirim image to Accurate (Image tidak ada di API Accurate)
+4. Karakter yang diperbolehkan untuk kode Barang hanya a-z, A-Z, 0-9, "#", "\*","(", ")", "-", ".", "\_" dan "/""
 {% endhint %}
