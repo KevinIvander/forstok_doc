@@ -41,7 +41,7 @@ Langkah-langkah melakukan Integrasi TikTok (Step-by-step).\
 
 **5. Pilih durasi otorisasi 1 tahun, kemudian isi nomor kontak dan email yang didaftarkan di akun Tiktok;**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **6. Klik “Authorize”**
 

@@ -36,7 +36,7 @@ Terdapat **2 langkah** untuk melakukan Sync stok Accurate --> Forstok:
 
 2. Adjust Balance Qty (selalu adjust plus ke balance final qty)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Check Item History in Accurate
 

@@ -74,6 +74,7 @@
   * [Reconnect JD.ID](knowledge-base/integrations/reconnect-jd.id.md)
   * [Mengaktifkan Shopee Multi-Origin](knowledge-base/integrations/mengaktifkan-shopee-multi-origin.md)
   * [Mengaktifkan Export Item](knowledge-base/integrations/mengaktifkan-export-item.md)
+  * [Reconnect Tiktok](knowledge-base/integrations/reconnect-tiktok.md)
   * [Disconnect Channel](knowledge-base/integrations/disconnect.md)
 * [Dashboard](knowledge-base/dashboard/README.md)
   * [Dashboard](knowledge-base/dashboard/introduction-to-dashboard.md)
