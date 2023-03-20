@@ -1,5 +1,9 @@
 # Picklist
 
+{% hint style="warning" %}
+**Ketika menggunakan fitur ini, disarankan untuk melakukan print shipping label terlebih dahulu , karena shipping label akan dijadikan acuan untuk melakukan picking.**&#x20;
+{% endhint %}
+
 ## Picking Order Flow&#x20;
 
 **Step 1:** Picker buka aplikasi WMS dan pilih Picklist
