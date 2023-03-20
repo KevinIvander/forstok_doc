@@ -1,7 +1,8 @@
 # Picklist
 
 {% hint style="warning" %}
-**Ketika menggunakan fitur ini, disarankan untuk melakukan print shipping label terlebih dahulu , karena shipping label akan dijadikan acuan untuk melakukan picking.**&#x20;
+* **User harus melakukan RTS terlebih dahulu untuk print shipping label lalu dilanjutkan dengan create picklist.**
+* **Ketika sudah melakukan print shipping label, shipping label tersebut akan dijadikan acuan untuk melakukan picking.**&#x20;
 {% endhint %}
 
 ## Picking Order Flow&#x20;
