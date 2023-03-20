@@ -48,6 +48,20 @@ Forstok WMS adalah aplikasi manajemen gudang yang bisa membantu tim gudang melak
 * Stock take
 * Register new barcode
 
+### **Note:**
+
+Saat ini Forstok mendukung barcode dengan <mark style="color:red;">**kriteria 128.**</mark>
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2023-03-20 at 09.48.30.jpeg" alt=""><figcaption></figcaption></figure>
+
+Sedangkan belum mendukung untuk barcode dengan kriteria <mark style="color:red;"></mark> <mark style="color:red;"></mark><mark style="color:red;">**International Article Number (EAN).**</mark>
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2023-03-20 at 09.48.32.jpeg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**Jika barcode yang digunakan adalah barcode dengan kriteria EAN, EAN13 dll, maka kami sarankan untuk menggunakan bluetooth scanner yang bisa mendukung barcode dengan kriteria tersebut.**&#x20;
+{% endhint %}
+
 {% hint style="info" %}
 Sebelum menggunakan aplikasi Forstok WMS,  **lengkapi barcode terlebih dahulu**
 {% endhint %}
