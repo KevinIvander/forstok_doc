@@ -44,7 +44,7 @@ Berikut adalah tampilan halaman depan fitur order di forstok. Pada menu order in
 
 5\. Filter berdasarkan _Couriers atau kurir._
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 6\. Bulk Action berdasarkan order yang dipilih.\
 Lalu di Forstok bisa proses order sekaligus banyak atau bulky. Tinggal klik checkbox sebelah atas kiri atau centang orderan mana saja yang perlu di proses. Maka opsinya akan keluar di bawah.\
