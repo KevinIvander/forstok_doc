@@ -94,7 +94,6 @@
   * [Upload Stock Adjustment Final Qty (xls)](knowledge-base/master-products/stock-adjustment-excel.md)
   * [Upload Stock Adjustment Qty +/- (xls)](knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md)
   * [Stock History](knowledge-base/master-products/stock-history.md)
-  * [Stock Allocation (Flash Sale/Campaign)](knowledge-base/master-products/stock-allocation-flash-sale.md)
   * [Create Stock Allocation](knowledge-base/master-products/create-stock-allocation.md)
   * [Update Image/Foto](knowledge-base/master-products/merubah-category-master-by-sku-interface.md)
   * [Upload Updated Master Item](knowledge-base/master-products/master-produk.md)
