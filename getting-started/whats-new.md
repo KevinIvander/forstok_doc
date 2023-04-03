@@ -8,7 +8,7 @@ description: >-
 
 ## February  20, 2023
 
-* New Release : Bulk Listing via Interface: Multi products, Multi stores, dan Multi categories (Available: Shopee, Tokopedia ).  [Learn more](https://docs.forstok.com/knowledge-base/items/add-listing-v2-new)
+* New Release : Bulk Listing via Interface: Multi products, Multi stores, dan Multi categories (Available: Shopee, Tokopedia, Bukalapak).  [Learn more](https://docs.forstok.com/knowledge-base/items/add-listing-v2-new)
 * New Release : [Marketplace Chats](https://app.forstok.com/dashboard/chats) (Ready Channel: Shopee, Tokopedia) . [Learn more](https://docs.forstok.com/knowledge-base/forstok-chat-new)&#x20;
 * New Release: [Reporting v2](https://app.forstok.com/dashboard/reporting) (Available: Financial Transactions log / Ledger based on Invoices) Please activate Invoice first. [Learn more](https://app.forstok.com/dashboard/settings/invoices)
 
