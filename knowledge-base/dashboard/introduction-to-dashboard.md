@@ -19,9 +19,9 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
 * **Settings:** Jika seller ingin mengganti password, menambahkan users and roles akun Forstok dan jika seller mengalami kendala bisa buka Help Center dan membuat ticketing pelaporan. Maka tim kami akan response dalam 1x24 jam.
 
 **B. Forstok Dashboard**\
-****\
+\
 **1. Pending Action**\
-****setiap produk baru yang di import dari marketplace ke Forstok akan masuk terlebih dahulu ke Pending Action dimana perlu di confirm linking terlebih dahulu. Karena Forstok mapping menggunakan kode sku jadi Forstok akan infokan ke seller item mana saja yang kode skunya sudah sama atau masih ada yang belum rapih. Jika kode skunya sudah sama maka item tsb tinggal di confirm linking dan sudah bisa di edit-edit dari Forstok. Ada 4 category kode sku yang perlu perhatikan:
+setiap produk baru yang di import dari marketplace ke Forstok akan masuk terlebih dahulu ke Pending Action dimana perlu di confirm linking terlebih dahulu. Karena Forstok mapping menggunakan kode sku jadi Forstok akan infokan ke seller item mana saja yang kode skunya sudah sama atau masih ada yang belum rapih. Jika kode skunya sudah sama maka item tsb tinggal di confirm linking dan sudah bisa di edit-edit dari Forstok. Ada 4 category kode sku yang perlu perhatikan:
 
 ![](<../../.gitbook/assets/image (175).png>)
 
@@ -41,7 +41,7 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
     2\. Duplicate produk yang berbeda: misal kamera 123 dan kamera 345 di shopee kodenya sama percis. Action: Harus di perbaiki di seller center, yg ada di forstok di hapus lalu di sync/import ulang
 
 2\.   **Order to Fulfill**\
-****Setelah proses integrasi Marketplace dilakukan, order yang masuk akan bisa dilihat di dashboard pada tab Order to Fulfill, kolom berdasarkan status order di Forstok.
+Setelah proses integrasi Marketplace dilakukan, order yang masuk akan bisa dilihat di dashboard pada tab Order to Fulfill, kolom berdasarkan status order di Forstok.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2022-11-25 093234.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@ Digunakan untuk melihat laporan dan mendownload data order sales. Yang bisa di f
 ![](<../../.gitbook/assets/image (109).png>)
 
 4\. **Total SKU's**\
-****Untuk mengetahui banyaknya item yang terdapat pada forstok sesuai dengan filter.
+Untuk mengetahui banyaknya item yang terdapat pada forstok sesuai dengan filter.
 
 * All : Total sku per marketplace
 * Live : Sku nya live atau ada stock

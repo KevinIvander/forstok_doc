@@ -5,7 +5,7 @@
 Pastikan sudah log in ke akun Forstok (akses log in akan di share oleh tim Forstok).\
 [https://www.forstok.com/dashboard/users/login](https://www.forstok.com/dashboard/users/login)\
 \
-****1. Integrations --> Pilih Add Integrations
+1\. Integrations --> Pilih Add Integrations
 
 ![](<../../.gitbook/assets/image (77).png>)
 

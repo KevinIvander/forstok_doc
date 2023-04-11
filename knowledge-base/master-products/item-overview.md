@@ -8,7 +8,7 @@ Pada menu item ini kita dapat melakukan edit-edit item seperti update stock, har
 
 Sisi kiri/left panel ini menampilan total item yang sudah masuk. Dimana pada sisi kiri ini terdapat beberapa opsi seperti berikut:\
 **1. Kolom pencarian/Search**\
-****Berfungsi untuk mencari sku atau item Anda.
+Berfungsi untuk mencari sku atau item Anda.
 
 ![](<../../.gitbook/assets/image (149).png>)
 
@@ -32,7 +32,7 @@ Sisi kiri/left panel ini menampilan total item yang sudah masuk. Dimana pada sis
 ![](<../../.gitbook/assets/image (61).png>)
 
 **4. Bulk Actions**\
-****Jika kita klik checkbox sebelah kiri atas maka akan ada opsi pada dibawah. Ini berfungsi jika seller ingin melakukan bulky edit item dari interface Forstok.
+Jika kita klik checkbox sebelah kiri atas maka akan ada opsi pada dibawah. Ini berfungsi jika seller ingin melakukan bulky edit item dari interface Forstok.
 
 * Edit Item: Untuk mengedit master data item dari interface Forstok. Seperti edit category, deskripsi, nama produk dan lain-lain.
 * Stock Adjustment: Untuk update stock secara massal dari interface Forstok.
@@ -44,10 +44,10 @@ Sisi kiri/left panel ini menampilan total item yang sudah masuk. Dimana pada sis
 ![](<../../.gitbook/assets/image (101).png>)
 
 **B. Sisi Kanan/Right Panel**\
-****Untuk melihat detail item dan mengedit item tsb. Pada sisi kanan ini kita dapat melihat sku tsb sudah linking dengan marketplace mana saja, live link bisa diklik langsung masuk ke link produk marketplace, melihat status produk, bisa activ atau in active produk.\
+Untuk melihat detail item dan mengedit item tsb. Pada sisi kanan ini kita dapat melihat sku tsb sudah linking dengan marketplace mana saja, live link bisa diklik langsung masuk ke link produk marketplace, melihat status produk, bisa activ atau in active produk.\
 \
 **1. Keterangan Stock**\
-**** - **Qty on Hand**: Total barang yang _on hand_ atau tersedia di gudang;
+&#x20;\- **Qty on Hand**: Total barang yang _on hand_ atau tersedia di gudang;
 
 \- **Reserved Qty** : Jumlah stok barang yang sudah di-_reserved_ selama proses order fulfillment berjalan dari status Pending Payment sampai Ready to Ship, untuk marketplace yang memiliki pending payment, maka stok akan masuk reserved dan mengurangi qty di Available, contoh: Shopee, Lazada, Blibli.&#x20;
 
@@ -66,7 +66,7 @@ Pada status order Ready to Ship, Qty on Hand dan Reserved akan berkurang sesuai 
 ![](<../../.gitbook/assets/image (270).png>)
 
 **2. Item yang sudah terlinking**\
-****Hal paling terpenting, jika kode sku sudah disamakan di tiap marketplace maka item tsb tergrouping dan terlinking dengan rapih seperti berikut. Live link bisa di klik dimana langsung masuk ke link produk di marketplace, bisa lihat harga, status item tsb, dan active/inactive produk.
+Hal paling terpenting, jika kode sku sudah disamakan di tiap marketplace maka item tsb tergrouping dan terlinking dengan rapih seperti berikut. Live link bisa di klik dimana langsung masuk ke link produk di marketplace, bisa lihat harga, status item tsb, dan active/inactive produk.
 
 ![](<../../.gitbook/assets/image (186).png>)
 
@@ -81,7 +81,7 @@ Pada status order Ready to Ship, Qty on Hand dan Reserved akan berkurang sesuai 
 ![](<../../.gitbook/assets/image (181).png>)
 
 **4. Edit Item**\
-****Untuk mengedit atau perbaiki seperti deskripsi produk, image produk, atau field lainnya.
+Untuk mengedit atau perbaiki seperti deskripsi produk, image produk, atau field lainnya.
 
 ![](<../../.gitbook/assets/image (261).png>)
 

@@ -8,7 +8,7 @@
 
 ![](https://lh5.googleusercontent.com/cvPEapOhiQKl28xT-vhG889rLaKY-toutwfaEV1k3yKyf\_RkX1mcy-\_muj5BSITFsA8\_JoLjcPpkI8--Fc12ViD1DLNFxWGEEjZzzrrU1CXxEfCjN\_wFDsdjsNRWgfzoio552A)
 
-2\. Isi kolom seperti Customer Name, Ship From **** (untuk Warehouse) dan Store Name dan untuk dropship klik check box dropship order.
+2\. Isi kolom seperti Customer Name, Ship From (untuk Warehouse) dan Store Name dan untuk dropship klik check box dropship order.
 
 ![](<../../.gitbook/assets/Create New Sales Order\_Order v2.jpg>)
 

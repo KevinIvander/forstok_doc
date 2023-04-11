@@ -12,7 +12,7 @@ Berikut langkah-langkah Existing Item Bundling:\
 ![](<../../.gitbook/assets/image (251).png>)
 
 2\. Pilih **Link Existing item Bundling.**\
-****Bundle Type : Jenis atau tipe bundling\
+Bundle Type : Jenis atau tipe bundling\
 Choose Existing Item Bundling: Browse atau cari item bundling yang kita create tadi.
 
 ![](<../../.gitbook/assets/image (62).png>)
@@ -38,7 +38,7 @@ Maka saat ada orderan Paket Combo Twinpack anting dan cincin, dapat 2 barang yai
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48038888773/original/7f4NsVoKMzm9VPOYUr0e0dBt-yOR3JS15w.png?1588790252)
 
-5\. Set up harga item bundling tsb, ****&#x20;
+5\. Set up harga item bundling tsb,&#x20;
 
 **Amount** : Potongan harga untuk item bundling, jika bundling tsb dapat potongan harga.
 

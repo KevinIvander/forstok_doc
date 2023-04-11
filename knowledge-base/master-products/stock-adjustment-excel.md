@@ -8,7 +8,7 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 ![](<../../.gitbook/assets/image (316).png>)
 
-2\. **** Pilih warehouse yang akan di update stocknya, kemudian Download Template.
+2\.  Pilih warehouse yang akan di update stocknya, kemudian Download Template.
 
 ![](<../../.gitbook/assets/upload stock adjustment\_choose warehouse.jpg>)
 

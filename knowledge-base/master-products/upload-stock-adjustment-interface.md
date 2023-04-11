@@ -83,4 +83,3 @@ Berikut langkah-langkah untuk update stock menggunakan scan barcode.
 
 ![](<../../.gitbook/assets/image (342).png>)
 
-****

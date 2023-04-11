@@ -20,4 +20,4 @@ Akan ditampilkan Push Notification proses Export Invoice dengan Informasi Store 
 
 Anda dapat mendownload hasil Export tersebut pada tombol “Download File” di Activity Log.
 
-**Sample Export Invoice:** __ [https://docs.google.com/spreadsheets/d/1yeJZRKQMe0\_igA\_D665fnTtjdqfCy3C3HAEWAy5XY3E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yeJZRKQMe0\_igA\_D665fnTtjdqfCy3C3HAEWAy5XY3E/edit?usp=sharing)
+**Sample Export Invoice:** [https://docs.google.com/spreadsheets/d/1yeJZRKQMe0\_igA\_D665fnTtjdqfCy3C3HAEWAy5XY3E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yeJZRKQMe0\_igA\_D665fnTtjdqfCy3C3HAEWAy5XY3E/edit?usp=sharing)

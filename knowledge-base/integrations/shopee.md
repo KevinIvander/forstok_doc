@@ -9,7 +9,7 @@
 ## Cara Integrasi Shopee (Video)
 
 {% hint style="warning" %}
-****
+
 {% endhint %}
 
 ![](../../.gitbook/assets/23.gif)

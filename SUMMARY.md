@@ -178,7 +178,7 @@
   * [Invoice Reports](knowledge-base/reports/invoice-reports.md)
   * [Inventory Reports](knowledge-base/reports/inventory-reports.md)
   * [Customer Reports](knowledge-base/reports/customer-reports.md)
-  * [Financial Reports (Coming Soon)](knowledge-base/reports/financial-reports.md)
+  * [Finances - Financial Transactions](knowledge-base/reports/financial-reports.md)
   * [Promotion Reports (Coming Soon)](knowledge-base/reports/promotion-reports.md)
 * [Pengaturan (Setting)](knowledge-base/settings/README.md)
   * [General](knowledge-base/settings/general.md)

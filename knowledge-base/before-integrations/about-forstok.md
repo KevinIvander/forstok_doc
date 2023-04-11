@@ -12,7 +12,7 @@ Forstok merupakan _multi channel selling platform_ yang memberikan kemudahan sel
 
 ![](<../../.gitbook/assets/image (384).png>)
 
-****
+
 
 **Forstok on mobile phone**
 

@@ -9,7 +9,7 @@
 ## Cara Integrasi Lazada (Video)
 
 {% hint style="warning" %}
-****
+
 {% endhint %}
 
 ![](../../.gitbook/assets/23.gif)
@@ -41,8 +41,8 @@ Waktu import product dari Lazada tergantung dari jumlah product.
 
 ![](<../../.gitbook/assets/image (231).png>)
 
-4\. Pada Product Catalog pilih **Sync Product from Lazada --**>Next --> pilih Finish[****\
-****](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062573182/original/0SKkm5a4yXlLWiB54-yYVmjgbQ6Hja68Vw.png?1601813500)
+4\. Pada Product Catalog pilih **Sync Product from Lazada --**>Next --> pilih Finish[\
+](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062573182/original/0SKkm5a4yXlLWiB54-yYVmjgbQ6Hja68Vw.png?1601813500)
 
 ![](<../../.gitbook/assets/image (210).png>)
 

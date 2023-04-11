@@ -144,7 +144,7 @@ B. Secara Massal
 ![](<../../.gitbook/assets/image (13) (1) (1).png>)
 
 **5. Zalora**\
-****Zalora hanya bisa edit Kode SKU per item belum bisa menggunakan excel secara massal. Berikut panduan edit Kode SKU di Zalora:
+Zalora hanya bisa edit Kode SKU per item belum bisa menggunakan excel secara massal. Berikut panduan edit Kode SKU di Zalora:
 
 * Buka seller center Zalora\
   Pada Products --> Pilih Manage Products --> Edit Detail

@@ -69,7 +69,7 @@ Berikut langkah-langkah menambahkan Master Product yang belum ada di Forstok:
 
 1. Ada 2 cara untuk Edit Master Product.
 
-**Cara pertama** pada menu items klik Edit Master Product. **** Berikut ini untuk lampiran cara yang pertama.
+**Cara pertama** pada menu items klik Edit Master Product. Berikut ini untuk lampiran cara yang pertama.
 
 ![](../../.gitbook/assets/ttt.png)
 

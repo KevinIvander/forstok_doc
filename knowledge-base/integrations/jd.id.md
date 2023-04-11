@@ -9,8 +9,8 @@
 ## Cara Integrasi JD.ID (Step-by-step)
 
 Sebelum integrasi ke JD.ID pastikan toko Anda sudah **Qualified Seller.** Karena JD.ID Open API khusus untuk seller yang sudah Qualified Seller. Jika masih Basic Seller harap mengupgrade Toko Anda atau mendaftar menjadi Qualified Seller.\
-****Untuk mendaftar menjadi Qualified Seller bisa dilihat di link berikut:\
-****[https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat\_194.html](https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat\_194.html)
+Untuk mendaftar menjadi Qualified Seller bisa dilihat di link berikut:\
+[https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat\_194.html](https://www.jd.id/blog/segera-update-toko-Anda-jadi-qualified-untuk-keuntungan-berlipat\_194.html)
 
 {% hint style="warning" %}
 1. Log in ke akun JD.ID seller [https://seller.jd.id/](https://seller.jd.id/)
@@ -57,7 +57,7 @@ Untuk URL Callback menggunakan link berikut : [https://www.forstok.com/dashboard
 ![](../../.gitbook/assets/8.jpeg)
 
 9\. Pilih App Management\
-****
+
 
 ![](../../.gitbook/assets/9.jpeg)
 
@@ -100,13 +100,13 @@ API Key dan API Secret (dari dev console https://open-console.jd.id/)
 ![](<../../.gitbook/assets/155 (1).jpeg>)
 
 15\. Pilih Next\
-****
+
 
 ![](<../../.gitbook/assets/16 (1).jpeg>)
 
 16\. Klik Finish, Pop up sebelah kanan atas, menginformasikan jika sedang proses import item JD.ID\
-****\
-****
+\
+
 
 ![](../../.gitbook/assets/19.jpeg)
 

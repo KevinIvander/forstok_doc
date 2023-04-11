@@ -10,7 +10,7 @@ Adjust - untuk input jumlah stok yang dikurangi
 
 ![](<../../.gitbook/assets/image (316).png>)
 
-2\. **** Pilih tipe stock adjustment berdasarkan kebutuhan, kemudian pilih warehouse yang akan di update stocknya, download template
+2\.  Pilih tipe stock adjustment berdasarkan kebutuhan, kemudian pilih warehouse yang akan di update stocknya, download template
 
 ![](<../../.gitbook/assets/stock adjustment plus minus.jpg>)
 

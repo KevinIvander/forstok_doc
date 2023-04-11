@@ -14,9 +14,9 @@ Pastikan Anda sudah Log In ke seller center Shopify atau akun Shopify
 
 \
 1.Buka Link berikut:\
-[**https://www.forstok.com/dashboard/channels/integrations/shopify/setup**](https://www.forstok.com/dashboard/channels/integrations/shopify/setup)****\
-****\
-****2. Input URL Link myshopify
+[**https://www.forstok.com/dashboard/channels/integrations/shopify/setup**](https://www.forstok.com/dashboard/channels/integrations/shopify/setup)\
+\
+2\. Input URL Link myshopify
 
 **Contoh URL Link:** [onycha.myshopify.com](http://onycha.myshopify.com/)\
 
@@ -56,7 +56,7 @@ Setelah berhasil integrasi, harap daftarkan Webhook order dari seller center Sho
 ![](<../../.gitbook/assets/create webhook shopify.jpg>)
 
 3\. Pada Add a webhook input:\
-**URL:** [**https://order.forstok.com/channels/shopify**](https://order.forstok.com/channels/shopify)****\
+**URL:** [**https://order.forstok.com/channels/shopify**](https://order.forstok.com/channels/shopify)\
 **Webhook API version: pilih yang Latest**
 
 Order/creation\

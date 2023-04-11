@@ -21,9 +21,9 @@
 
 **Printed:** Status akan berubah menjadi **Printed** jika shipping label sudah diprint.
 
-**Shipped:** Status berubah menjadi **Shipped** secara otomatis jika **** paket telah diambil oleh courier. &#x20;
+**Shipped:** Status berubah menjadi **Shipped** secara otomatis jika paket telah diambil oleh courier. &#x20;
 
-**Delivered:** Status berubah menjadi **Delivered** secara **** otomatis jika paket telah diterima oleh customer.
+**Delivered:** Status berubah menjadi **Delivered** secara otomatis jika paket telah diterima oleh customer.
 
 **Completed:** Status berubah menjadi **Completed** secara otomatis jika paket telah diterima oleh customer dan invoice sudah dibayar oleh Marketplace / customer.
 
@@ -35,7 +35,7 @@
 {% hint style="warning" %}
 ## Forstok Order Actions
 
-**Mark as Paid:** Mengganti status pembayaran order dari **** Pending Payment/Belum Dibayar ke Paid/Dibayar secara manual. Action ini hanya muncul khusus Webstore (Shopify, Magento, Woocommerce atau Custom Webstore) melalui pembayaran manual (Bank Transfer)
+**Mark as Paid:** Mengganti status pembayaran order dari Pending Payment/Belum Dibayar ke Paid/Dibayar secara manual. Action ini hanya muncul khusus Webstore (Shopify, Magento, Woocommerce atau Custom Webstore) melalui pembayaran manual (Bank Transfer)
 
 **Create Picklist**:  Membuat picklist dokumen berisikan daftar produk untuk diambil didalam warehouse untuk memenuhi pesanan. Setelah produk diambil, status order berubah menjadi Picked.
 
@@ -43,7 +43,7 @@
 
 **Mark as Ready to Ship:** Mengganti status order dari open/packed menjadi Ready to Ship/ Siap dikirim. Action ini sekaligus akan menarik data AWB/nomer resi dari courier yang teringrasi untuk bisa Print Shipping Label.
 
-**Mark as Delivered**:  Mengganti status order dari Shipped / Sudah dikirim ke Delivered / Sudah Diterima **** oleh pembeli. Action ini hanya muncul khusus Webstore (Shopify, Magento, Woocommerce atau Custom Webstore) yang melalui courier manual/non integrated.
+**Mark as Delivered**:  Mengganti status order dari Shipped / Sudah dikirim ke Delivered / Sudah Diterima oleh pembeli. Action ini hanya muncul khusus Webstore (Shopify, Magento, Woocommerce atau Custom Webstore) yang melalui courier manual/non integrated.
 
 **Create Invoice:** Membuat invoice document berisikan informasi nominal yang harus dibayarkan untuk order tersebut. Invoice yang sudah terbuat dapat dikonfirmasi pembayarannya, edit invoice, atau void/write off invoice tersebut.
 

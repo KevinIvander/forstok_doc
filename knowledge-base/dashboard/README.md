@@ -23,7 +23,7 @@ Berikut merupakan detail penjelasan untuk masing masing section :&#x20;
 **B. Forstok Dashboard**
 
 1. **Pending Action**\
-   ****setiap produk baru yang di import dari marketplace ke Forstok akan masuk terlebih dahulu ke Pending Action dimana perlu di confirm linking terlebih dahulu. Karena Forstok mapping menggunakan kode sku jadi Forstok akan infokan ke seller item mana saja yang kode skunya sudah sama atau masih ada yang belum rapih. Jika kode skunya sudah sama maka item tsb tinggal di confirm linking dan sudah bisa di edit-edit dari Forstok. Ada 4 category kode sku yang perlu perhatikan :
+   setiap produk baru yang di import dari marketplace ke Forstok akan masuk terlebih dahulu ke Pending Action dimana perlu di confirm linking terlebih dahulu. Karena Forstok mapping menggunakan kode sku jadi Forstok akan infokan ke seller item mana saja yang kode skunya sudah sama atau masih ada yang belum rapih. Jika kode skunya sudah sama maka item tsb tinggal di confirm linking dan sudah bisa di edit-edit dari Forstok. Ada 4 category kode sku yang perlu perhatikan :
 
 ![](<../../.gitbook/assets/image (124).png>)
 

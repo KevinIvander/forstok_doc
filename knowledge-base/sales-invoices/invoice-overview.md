@@ -7,7 +7,7 @@ Invoice Video
 {% hint style="info" %}
 Forstok Invoice adalah dokumen yang diterbitkan oleh penjual untuk kepentingan pencatatan pembayaran/payout dari penjualan baik di marketplace maupun di luar marketplace.
 
-****
+
 
 **Fungsi Forstok invoice:**&#x20;
 
