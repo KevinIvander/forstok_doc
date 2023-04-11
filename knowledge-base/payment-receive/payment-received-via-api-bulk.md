@@ -10,7 +10,7 @@ Keuntungan dari menggunakan fitur **Payment Receive Forstok**:
 2. _Flow_ rekonsiliasi lebih sederhana karena data sudah tersedia via API;
 3. _**Detail amount**_ yang terinput pada payment receive sudah akurat, karena otomatis terisi sesuai dengan nominal yang masuk pada saldo/dompet penjual;
 4. Pengecekan ulang terhadap data tersedia di 1 platform, tanpa perlu menarik data secara manual satu per satu dari marketplace, cukup mengunduh file xls payment receive dari Forstok;
-5. Dengan melakukan create Payment Receive dari Forstok, fitur Reporting akan bisa menampilkan data yang lebih akurat, berdasarkan saldo yang masuk ke dompet penjual di marketplace: Fitur Reporting
+5. Dengan melakukan create _Payment Receive_ dari Forstok, fitur _Reporting - Financial Transactions_ bisa digunakan: [Financial Transactions](../reports/financial-reports.md)
 
 Bulk payment receive melalui '_**+Payment Receive**_', berikut adalah langkahnya:
 
