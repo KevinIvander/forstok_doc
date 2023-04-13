@@ -7,6 +7,10 @@ Masa integrasi tiktok maksimal 1 tahun, apabila terdapat perubahan password atau
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Klik 'Asia Seller', 'Indonesia', Next</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Login dengan akun yang terdaftar</p></figcaption></figure>
+{% hint style="info" %}
+Proses reconnect **wajib** dilakukan dengan menggunakan email dan password, penggunaan login dengan nomor telfon/phone number akan mengakibatkan gagal otorisasi.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Apabila sudah mengikuti langkah di atas, infokan ke tim forstok agar kami bisa cek kembali proses reconnectnya.
