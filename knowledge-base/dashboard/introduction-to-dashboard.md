@@ -14,7 +14,12 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
 * **Customers Menu** : untuk melihat dan mendownload data customer.
 * **Reports Menu** : untuk mengelola laporan yang bisa di filter berdasarkan category, kode sku, item dan lain-lain.
 * **Promotion Menu**: untuk mengelola periode harga coret. Jadi harga core bisa di atur periodenya dari kapan dan sampai kapan.
-* **Notification :** digunakan untuk mengetahui log aktifitas dan notifikasi.
+* **Activity:** digunakan untuk mengetahui log aktifitas dan notifikasi.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-14 145336 (1).jpg" alt=""><figcaption><p>Klik More Activity untuk detail activity</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-14 145612.jpg" alt=""><figcaption></figcaption></figure>
+
 * **Integrations :** Untuk integrasikan channel yang akan connectkan ke Forstok dan untuk sync import item.
 * **Settings:** Jika seller ingin mengganti password, menambahkan users and roles akun Forstok dan jika seller mengalami kendala bisa buka Help Center dan membuat ticketing pelaporan. Maka tim kami akan response dalam 1x24 jam.
 
