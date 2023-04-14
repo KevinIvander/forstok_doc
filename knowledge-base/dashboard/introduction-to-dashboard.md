@@ -16,7 +16,7 @@ Berikut merupakan detail penjelasan untuk masing-masing section :&#x20;
 * **Promotion Menu**: untuk mengelola periode harga coret. Jadi harga core bisa di atur periodenya dari kapan dan sampai kapan.
 * **Activity:** digunakan untuk mengetahui log aktifitas dan notifikasi.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-14 145336 (1).jpg" alt=""><figcaption><p>Klik More Activity untuk detail activity</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-14 145336.jpg" alt=""><figcaption><p>Klik More Activity untuk detail activity</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-14 145612.jpg" alt=""><figcaption></figcaption></figure>
 

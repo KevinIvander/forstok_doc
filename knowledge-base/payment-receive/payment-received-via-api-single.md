@@ -30,4 +30,4 @@ Adapun penjelasan dari masing-masing field di atas sebagai berikut:
 * Saat Anda melakukan _Payment Receive_, _Amount_ yang ada pada Invoice Detail akan ter-_replace_ secara otomatis mengikuti _Amount_ yang diterima dari API/Input dari Anda.
 * Apabila sistem gagal dalam pengambilan _Amount_ dari API, akan secara otomatis menampilkan Form yang dapat Anda isi secara manual.
 
-Setelah membuat Payment Receive, anda bisa melihat **Log Activity** atau [**Payment Received List**](payment-received-list.md) untuk mengetahui Payment Receive yang sudah dibuat.
+Setelah membuat Payment Receive, anda bisa melihat [**Activity Log**](../dashboard/introduction-to-dashboard.md) atau [**Payment Received List**](payment-received-list.md) untuk mengetahui Payment Receive yang sudah berhasil.
