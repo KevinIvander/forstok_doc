@@ -49,3 +49,5 @@ Berikut sample channel payout summary: [https://docs.google.com/spreadsheets/d/1
 * Channel **Shopee** dan **Tokopedia** harus **Completed** dahulu untuk mendapatkan amount yang benar-benar Fixed.
 * Untuk invoice dengan status Paid tetap akan masuk di xls, namun tidak akan mengalami perubahan
 {% endhint %}
+
+Setelah membuat Payment Receive, anda bisa melihat **Log Activity** atau [**Payment Received List**](payment-received-list.md) untuk mengetahui Payment Receive yang sudah dibuat.

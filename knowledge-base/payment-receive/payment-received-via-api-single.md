@@ -29,3 +29,5 @@ Adapun penjelasan dari masing-masing field di atas sebagai berikut:
 * Shipping Cashless tidak termasuk ke dalam hitungan karena akan dibayarkan secara otomatis oleh _Channel/Marketplace_ ke masing-masing jasa kirim (Anda tidak menerima uang atas _Shipping Cashless_ tersebut).
 * Saat Anda melakukan _Payment Receive_, _Amount_ yang ada pada Invoice Detail akan ter-_replace_ secara otomatis mengikuti _Amount_ yang diterima dari API/Input dari Anda.
 * Apabila sistem gagal dalam pengambilan _Amount_ dari API, akan secara otomatis menampilkan Form yang dapat Anda isi secara manual.
+
+Setelah membuat Payment Receive, anda bisa melihat **Log Activity** atau [**Payment Received List**](payment-received-list.md) untuk mengetahui Payment Receive yang sudah dibuat.
