@@ -14,13 +14,15 @@ SKU _(Stock Keeping Unit)_ adalah kombinasi huruf atau angka yang dapat menjadi 
 
 **Mengapa Kode SKU penting?**
 
-Kode SKU penting dan bermanfaat sebagai penanda _(identifier)_ dan referensi umum untuk melacak inventaris di setiap bagian bisnis Anda.
+Forstok menggunakan kode SKU agar setiap pesanan yang masuk dari marketplace ke forstok agar memotong stok dengan sesuai dengan kode sku yang digunakan, dan untuk melakukan update stok di marketplace agar stok di forstok bisa sync dengan stok di marketplace.
 
 {% hint style="danger" %}
-Jika kode SKU belum rapi maka akan ada resiko yang terjadi. Yaitu saat import produk ke Forstok akan terbaca sku yang berbeda walaupun masih item yang sama. Jadi stok tidak akan cocok dan terjadi duplikat SKU.
+Jika kode SKU belum disesuaikan di seluruh marketplace maka saat import produk ke Forstok, sistem forstok akan membuat kode sku secara otomatis yang berbeda walaupun masih item yang sama. Hal ini terjadi pada sku dengan status 'sku code is empty' dan 'sku code is duplicate'\
+\
+Contoh sku code is duplicate: produk Celana Merah ukuran XL dan ukuran L masih menggunakan kode sku yang sama (merah123), maka ketika produk diimport ke forstok, celana merah ukuran xl akan menggunakan sku merah123, dan celana merah ukuran L akan menggunakan sku merah123(x123abc)\
+\
+Contoh sku code is empty: produk kaos hitam ukuran L tidak memiliki kode sku di marketplace, ketika diimport ke forstok, sku akan otomatis terisi dari forstok (kaos0000)
 {% endhint %}
-
-
 
 **Praktik Terbaik untuk kode SKU**
 
