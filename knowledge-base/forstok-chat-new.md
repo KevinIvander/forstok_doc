@@ -57,7 +57,6 @@ Bagian sebelah kiri akan disesuaikan dengan jumlah marketplace (Shopee dan Tokop
 * Handle link (Clickable).
 * Enter to send message, Shift + Enter to new line.
 * Send image (Tokopedia & Shopee).
-* Manual sync chat (Button sync untuk mendapatkan chat sebelumnya).
 * Order list (Setiap chatroom akan mempunyai list order yang berbeda-beda jika customer tersebut sudah mempunyai order sebelumnya).
 * Setiap chat akan mempunyai status (Mine, Served, Unserved, Resolved).
 * Mark as Resolved.
