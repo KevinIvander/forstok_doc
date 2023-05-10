@@ -91,3 +91,23 @@ Tidak semua _marketplace_ memiliki dokumen _print invoice/return slip_. Itu yang
 Silakan disetting terlebih dahulu dengan cara pilih menu Setting > General atau bisa diakses ke laman berikut [FORSTOK | One Dashboard for All Your Sales Channels](https://www.forstok.com/dashboard/general) . Jangan lupa untuk mengisi kolom-kolom yang masih kosong. Berikut tampilannya.
 
 ![Kolom yang harus diisi untuk melengkapi informasi resi. ](../../.gitbook/assets/ZcGRgt3ysm0h\_DiGDC1qL2VyDWL8bxCmnQ.png)
+
+### Bagaimana penjelasan terkait harga coret tiktok dan juga platform rebate?
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2023-05-10 at 11.44.01.jpeg" alt=""><figcaption></figcaption></figure>
+
+Saat ini harga coret tiktok sudah dapat dilihat dan ditampilkan seperti lampiran diatas. Dengan perhitungan harga coret tersebut jika dijumlahkan dengan platform rebate merupakan harga yang sebenarnya.
+
+Dengan demikian, harga yang dilihat oleh customer pada tampilan device mereka adalah harga coret. Sedangkan, yang dilihat oleh seller adalah total dari harga coret yang dijumlahkan dengan platform rebate tiktok.
+
+Contoh:
+
+Harga Coret: 2.120.465
+
+Platform Rebate: 128.535
+
+Maka harga sebenarnya adalah 2.120.465 + 128.535 = 2.249.000
+
+Harga yang ditampilkan ke customer adalah 2.120.465 sedangkan harga yang ditampilkan ke seller adalah 2.249.000
+
+Platform Rebate ini juga merupakan total dari keseluruhan item - item yang berada didalam satu orderan. Sehingga jika dalam satu orderan terdapat 2 item, maka platform rebate yang ditampilkan adalah total dari kedua item tersebut.
