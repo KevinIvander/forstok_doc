@@ -94,11 +94,11 @@ Silakan disetting terlebih dahulu dengan cara pilih menu Setting > General atau 
 
 ### Bagaimana penjelasan terkait harga coret tiktok dan juga platform rebate?
 
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2023-05-10 at 11.44.01.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FORSTOK.png" alt=""><figcaption></figcaption></figure>
 
 Saat ini harga coret tiktok sudah dapat dilihat dan ditampilkan seperti lampiran diatas. Dengan perhitungan harga coret tersebut jika dijumlahkan dengan platform rebate merupakan harga yang sebenarnya.
 
-Dengan demikian, harga yang dilihat oleh customer pada tampilan device mereka adalah harga coret. Sedangkan, yang dilihat oleh seller adalah total dari harga coret yang dijumlahkan dengan platform rebate tiktok.
+Dengan demikian, harga yang dilihat oleh customer pada tampilan device mereka adalah harga coret dijumlahkan dengan platform rebate (subsidi) dari TikTok.
 
 Contoh:
 
@@ -108,6 +108,6 @@ Platform Rebate: 128.535
 
 Maka harga sebenarnya adalah 2.120.465 + 128.535 = 2.249.000
 
-Harga yang ditampilkan ke customer adalah 2.120.465 sedangkan harga yang ditampilkan ke seller adalah 2.249.000
+Harga yang ditampilkan ke customer adalah 2.120.465. Dan Seller akan mendapatkan rincian terkait pemotongan-pemotongan ini di Seller Center dengan nama; Subtotal item sebelum diskon (Harga normal), Diskon Penjual (Potongan untuk menjadikan harga coret), Diskon Platform (Subsidi dari TikTok yang menjadi Platform Rebate untuk seller).
 
 Platform Rebate ini juga merupakan total dari keseluruhan item - item yang berada didalam satu orderan. Sehingga jika dalam satu orderan terdapat 2 item, maka platform rebate yang ditampilkan adalah total dari kedua item tersebut.
