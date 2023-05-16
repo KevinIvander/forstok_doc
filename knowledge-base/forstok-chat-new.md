@@ -42,7 +42,7 @@ Bagian sebelah kiri akan disesuaikan dengan jumlah marketplace (Shopee dan Tokop
 
 <figure><img src="../.gitbook/assets/Screenshot_42.png" alt=""><figcaption></figcaption></figure>
 
-6. Ketika seller pertama kali melakukan aktivasi Forstok chat, maka sistem Forstok akan mengambil 15 history chat dari customer terakhir dan 30 bubble chat terakhir.
+6. Ketika seller pertama kali melakukan aktivasi Forstok chat, maka sistem Forstok akan mengambil 15 history chat dari customer terakhir dan 30 bubble chat terakhir. Hal ini hanya berlaku untuk set up di awal saja, dan disarankan untuk melakukan response chat di Forstok ketika sudah seslesai melakukan set up. Saat ini tidak ada limitasi untuk list customer yang melakukan chat (unlimited chat).
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2023-05-09 at 09.41.48.jpeg" alt=""><figcaption></figcaption></figure>
 
