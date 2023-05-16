@@ -35,3 +35,7 @@ Tidak bisa, melainkan harus 1 akun forstok - 1 akun database AOL.
 ### Bagaimanakah flow cut off pada saat integrasi? Apakah mengikuti rules order dari MP ke Forstok?
 
 Order hanya akan sync ke Forstok setelah di integrasi, tidak berlaku backdate (sebelum integrasi).
+
+### Bagaimana rate limit Accurate Online yang terbaru?
+
+Per tanggal 27 Maret 2023 saat ini rate limit untuk AOL sudah naik menjadi 8 request per detik dan 8 request paralel.
