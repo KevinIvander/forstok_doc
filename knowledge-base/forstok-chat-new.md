@@ -62,6 +62,7 @@ Bagian sebelah kiri akan disesuaikan dengan jumlah marketplace (Shopee dan Tokop
 **Fitur yang akan di develop:**&#x20;
 
 * Handle link (Clickable).
+* Saat ini hanya bisa terima gambar dan video di Forstok, sedangkan mengirim, belum.
 * Enter to send message, Shift + Enter to new line.
 * Send image (Tokopedia & Shopee).
 * Order list (Setiap chatroom akan mempunyai list order yang berbeda-beda jika customer tersebut sudah mempunyai order sebelumnya).
