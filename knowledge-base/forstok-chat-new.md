@@ -61,7 +61,6 @@ Bagian sebelah kiri akan disesuaikan dengan jumlah marketplace (Shopee dan Tokop
 
 **Fitur yang akan di develop:**&#x20;
 
-* Sorting list message (Pesan terbaru akan tampil paling atas by default).
 * Handle link (Clickable).
 * Enter to send message, Shift + Enter to new line.
 * Send image (Tokopedia & Shopee).
