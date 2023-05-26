@@ -12,7 +12,7 @@ Berikut panduan create payment receive: [View Here](../../payment-receive/)
 
 <figure><img src="../../../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption><p>Tampilan faktur penjualan/sales invoice setelah create payment receive dari Forstok</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Auto-create Sales Receipt/Penerimaan Penjualan setelah create payment receive dari Forstok</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Auto-create Sales Receipt/Penerimaan Penjualan setelah create payment receive dari Forstok</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (1) (6).png" alt=""><figcaption><p>Detail amount yang tertera di Accurate setelah dilakukan create payment receive di Forstok<br>(klik Invoice di Accurate --> Informasi Diskon --> arahkan kursor dan scroll tabel Akun Diskon untuk melihat seluruh rincian amount yang dikirimkan dari Forstok ke Accurate untuk invoice tersebut)</p></figcaption></figure>
 
