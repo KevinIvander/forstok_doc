@@ -2,11 +2,11 @@
 
 ## What's New
 
-1. **List Listing** : Menampilkan List dari Item yang sudah di Listing
-2. **Confirm Linking** :&#x20;
-3. **Edit Listing** :&#x20;
-4. **Active/Inactive** :&#x20;
-5. **Delete Listing** :&#x20;
+1. **List Listing** : Menampilkan List dari Item yang sudah di Listing.
+2. **Confirm Linking** : Menampilkan list item/product yang ingin di confirm setelah import item.
+3. **Edit Listing** : Menampilkan&#x20;
+4. **Active/Inactive** : Menampilkan item yang aktif ataupun yang tidak aktif (diarsipkan).
+5. **Delete Listing** : Menampilkan untuk menghapus listing pada satu item/produk.
 
 ## 1. List Listing
 
