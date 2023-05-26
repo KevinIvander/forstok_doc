@@ -48,7 +48,7 @@ Allowing users to complete text strings on category fields automatically wheneve
 
 **Available Qty item bundle per warehouse**&#x20;
 
-Memungkinkan pengguna untuk membuat Bundle dengan Available Qty yang diambil dari masing-masing produk yang dikombinasikan, berdasarkan Warehouse produk tersebut.
+Allows users to create Bundle with **Available Qty** taken from each combined product. User can change the bundle's child, **Listing the bundle**, or keep it as the **Master Bundle**. Bundle Listings are available for **Multistore Listings**. Unlike the previous version, in this version bundles are also available for M**ulti Warehouse**
 
 ## February  20, 2023
 

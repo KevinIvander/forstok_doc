@@ -12,13 +12,28 @@
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-* Master Product List : Menampilkan details informasi terkait dengan **Master Product**, **Master SKU** dan juga **Variants** serta yang terbaru adalah **Linked Listing** dimana seller bisa melihat **Listing** dari **Master Product** tersebut dan juga tetap akan menampilkan **Available Quantity** dan **Regular Price**. Jika produk tersebut memiliki variant atau tidak memiliki variant maka dapat dilihat dari tab yang ada.&#x20;
+Master Product List : Menampilkan details informasi terkait dengan **Master Product**, **Master SKU** dan juga **Variants** serta yang terbaru adalah **Linked Listing** dimana seller bisa melihat **Listing** dari **Master Product** tersebut dan juga tetap akan menampilkan **Available Quantity** dan **Regular Price**. Jika produk tersebut memiliki variant, tidak memiliki variant, dan bundle maka dapat dilihat dari tab yang ada diatasnya. Pada kolom **Actions**, terdapat beberapa tindakan yang bisa dilakukan per product. Misalnya, Add listing, Edit produk dan lain sebagainya. Namun, dapat juga melalui **Bulk Select** yang ada di bawah Search apabila ingin melakukan action secara Bulk.
+
+{% hint style="info" %}
+Glossary
+
+**Single Variant** : Hanya memiliki satu variant\
+**Multiple Variant** : Memiliki dua atau lebih tipe varian (misalnya: ukuran, warna, motif dsb)\
+**Bundle** : Produk yang memiliki kombinasi dengan 1 atau lebih product\
+**Category** : Untuk memfilter berdasarkan kategori dari Master Product\
+**Link Status** : Untuk melakukan filter dari Listing produk yang sudah ter-linked atau unlinked dari Master Product. Jika master produknya sudah ada terlink maka filternya Linked**,** jika belum maka filternya Unlinked\
+**Tag** : Digunakan untuk mencari produk yang sudah ditambahkan sebelumnya di Master Product.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption></figcaption></figure>
+
+Apabila seller ingin melakukan penambahan product atau penambahan bundle dapat melakukannya dengan klik tombol **+Master Product** pada pojok kanan atas kemudian pilih sesuai dengan action apa yang ingin dilakukan apakah **Add Product** atau **Add Bundle Product**
 
 ## 2. Master Product Detail
 
-<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-Master Product Detail : Menampilkan detail infromasi Master Products
+Master Product Detail : Menampilkan detail infromasi Master Product dengan tampilan Tab Overview, Linked listing dan juga Linked Sku Bundling (apabila produk tersebut masuk menjadi bundling). Pada menu Actions di Product Details, saat ini sudah bisa melakukan Edit Product dan juga Add Listing.
 
 ## 3. Add Bundle Product
 
@@ -26,13 +41,11 @@ Master Product Detail : Menampilkan detail infromasi Master Products
 
 ## 4. Add Master Product
 
-<figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/24 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Edit Master Product
 
 <figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 ### **Add Master Product**
 
@@ -89,3 +102,9 @@ Berikut langkah-langkah menambahkan Master Product yang belum ada di Forstok:
 2\. Silahkan Edit artikel produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 
 <figure><img src="../../.gitbook/assets/de2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Limitasi
+
+
+{% endhint %}
