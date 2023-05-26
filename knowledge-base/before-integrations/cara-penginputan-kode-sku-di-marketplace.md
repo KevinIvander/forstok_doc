@@ -65,7 +65,7 @@
 
 * Kode SKU bisa di input atau ubah pada kolom SKU
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 * Seteleh selesai perbaiki kode SKU, upload file tesebut. Maka SKU berhasil terupdate
 
