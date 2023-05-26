@@ -6,6 +6,50 @@ description: >-
 
 # What's New
 
+## May 25, 2023
+
+### **ITEM V2**&#x20;
+
+**Master Product List new interface**
+
+The new interface is a significant upgrade from the previous version. With clean, organized, and focus on ease of use. The streamlined layout allows for easy navigation and makes accessing different Actions seamless.
+
+**More organized master products**&#x20;
+
+Grouping master products into different Tabs based on their similarity, such as single variant, multi variants, and bundle products. These Tabs can help users for easier organized products and accessing Actions.
+
+**Linked listings are displayed as Pop-up**
+
+Simply displays the products that are already listed on the marketplaces without the users having to leave the master product page.
+
+**Linked bundling is displayed as a Pop-up**&#x20;
+
+Unlike the previous version, in this version, Linked bundling is displayed in a pop-up. This pop-up displays the information of combining different items, and also makes it easier for users to access the Edit action.
+
+**Master Product Detail new interface**&#x20;
+
+The new interface offers a modern and simple design that showcases all the important information about the product. The page includes image display, a detailed product description, product variations, dimension, etc. Users can easily navigate to related pages and actions.
+
+**Listing List new interface**&#x20;
+
+The new interface is sleek and modern with clean lines, separate from the master product making it easy to navigate when users need to do actions on listings.
+
+**Align the Listings with marketplaces**&#x20;
+
+Whenever users **Listing** the products to marketplaces, Listing statuses are displayed in tabs and columns. Common status indicators include **Live, Inactive, In Progress,** and **Listing Failed** with different colors.&#x20;
+
+**Link Status**&#x20;
+
+Link statuses are displayed in columns, indicators include **SKU Matched, SKU Not Matched** with different colors. Link status filter, it has been grouped into **Not Linked**. This makes it easier for you to filter and perform C**onfirm Linking** or C**reate Master** actions
+
+**Shopify category autofill**&#x20;
+
+Allowing users to complete text strings on category fields automatically whenever users Listing to Shopify. This feature works by equating with the category master. With this feature, users save time by avoiding typing categories but can still be manually.
+
+**Available Qty item bundle per warehouse**&#x20;
+
+Memungkinkan pengguna untuk membuat Bundle dengan Available Qty yang diambil dari masing-masing produk yang dikombinasikan, berdasarkan Warehouse produk tersebut.
+
 ## February  20, 2023
 
 * New Release : Bulk Listing via Interface: Multi products, Multi stores, dan Multi categories (Available: Shopee, Tokopedia, Bukalapak).  [Learn more](https://docs.forstok.com/knowledge-base/items/add-listing-v2-new)
