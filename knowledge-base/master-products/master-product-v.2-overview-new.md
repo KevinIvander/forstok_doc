@@ -14,29 +14,31 @@
 
 * Master Product List : Menampilkan List dari Master Product
 
-## **+ Item**
+## 2. Master Product Detail
 
-* Add Master Product: Menambahkan Master Product yg bisa stand-alone (berdiri sendiri)  tanpa harus terlisting ke channel (marketplace).
-* Add Bundle Product : Untuk menghubungkan stock item bundling dengan item satuan atau main item.
-* Add Listing : Untuk listing item baru ke channel (marketplace).
+<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ee.png" alt=""><figcaption></figcaption></figure>
+Master Product Detail : Menampilkan detail infromasi Master Products
 
-<figure><img src="../../.gitbook/assets/www.png" alt=""><figcaption></figcaption></figure>
+## 3. Add Bundle Product
 
-## Edit Master Product
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
-* Edit Master Product : Untuk mengedit atau memperbaiki seperti deskripsi produk, gambar produk, atau field lainnya di Master Product
+## 4. Add Master Product
 
-<figure><img src="../../.gitbook/assets/34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption></figcaption></figure>
 
+## 5. Edit Master Product
 
+<figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
 
-### **Add Master Product (NEW)**
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+### **Add Master Product**
 
 1. Pada halaman Master Products pilih +Master Products -> Add Master Products. Akan membuka Tab baru pada browser.
 
-<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23.png" alt=""><figcaption></figcaption></figure>
 
 2\. Klik tombol Add Product, maka akan muncul Field Add Master Product.
 
