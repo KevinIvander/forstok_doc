@@ -12,7 +12,7 @@
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-* Master Product List : Menampilkan List dari Master Product
+* Master Product List : Menampilkan details informasi terkait dengan **Master Product**, **Master SKU** dan juga **Variants** serta yang terbaru adalah **Linked Listing** dimana seller bisa melihat **Listing** dari **Master Product** tersebut dan juga tetap akan menampilkan **Available Quantity** dan **Regular Price**. Jika produk tersebut memiliki variant atau tidak memiliki variant maka dapat dilihat dari tab yang ada.&#x20;
 
 ## 2. Master Product Detail
 
