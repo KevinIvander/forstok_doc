@@ -6,13 +6,13 @@ description: 'Berikut langkah-langkah melakukan edit pada Master Product di Fors
 
 ### Single Edit Master Product
 
-1. Ada 2 cara untuk Edit Master Product, pertama pada menu items klik Edit Master Product.
+1. Ada 2 cara untuk Edit Master Product, pertama pada menu master products klik Edit Product pada bagian column Actions.
 
-<figure><img src="../../.gitbook/assets/trr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Kedua, pilih varian items yang ingin diubah kemudian pilih Menu Edit, klik Edit Master Product. Kedua cara ini akan membuka tab baru pada browser.
+Kedua, pilih beberapa product yang ingin diubah atau pilih Bulk Select kemudian pilih Edit Product. Kedua cara ini akan membuka tab baru pada browser.
 
-<figure><img src="../../.gitbook/assets/eees (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2. Silahkan Edit artikel produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 
@@ -20,9 +20,9 @@ Kedua, pilih varian items yang ingin diubah kemudian pilih Menu Edit, klik Edit 
 
 ### Bulk Edit Master Product (NEW)
 
-1. Pilih beberapa items/variant items yang ingin diubah kemudian pilih Menu Edit Item di Bulk Actions.
+1. Pilih beberapa items/product yang ingin diubah kemudian pilih **Edit Product**.
 
-<figure><img src="../../.gitbook/assets/ghd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Silahkan Edit artikel produk-produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 
