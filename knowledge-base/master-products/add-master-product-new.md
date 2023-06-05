@@ -6,9 +6,9 @@ description: >-
 
 # Add Master Product (NEW)
 
-1\. Pada menu item pilih +Item -> Add Master Products -> Akan membuka Tab baru pada browser
+1\. Pada Master Products list pilih +Master Product -> Add Master Products -> Akan membuka Tab baru pada browser
 
-<figure><img src="../../.gitbook/assets/trd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. Klik tombol Add Product, maka akan muncul Field Add Master Product
 
@@ -42,4 +42,8 @@ Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat ops
 
 7. Maka Master Product berhasil ditambahkan
 
-<figure><img src="../../.gitbook/assets/tg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Note : Untuk melihat master product yang sudah di tambahkan, bisa menggunakan sort by : Most Recent Created&#x20;
+{% endhint %}
