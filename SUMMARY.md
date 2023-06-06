@@ -93,7 +93,6 @@
   * [Edit Listing](knowledge-base/listing-products/edit-listing.md)
   * [Create New Item + Add Listing](knowledge-base/listing-products/create-new-item-+-add-listing.md)
   * [Cross Listing dari Master Product (xls)](knowledge-base/listing-products/cross-listing-xls.md)
-  * [Remove Listing](knowledge-base/listing-products/remove-listing.md)
 * [Inventory](knowledge-base/inventory/README.md)
   * [Create Stock Adjustment (interface)](knowledge-base/master-products/upload-stock-adjustment-interface.md)
   * [Create Stock Allocation](knowledge-base/master-products/create-stock-allocation.md)

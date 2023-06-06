@@ -8,15 +8,13 @@ description: >-
 
 1\. Pilih Integrations > Klik sync, jika sudah berwarna hijau dan berputar berarti sedang proses import item.  Tunggu sampai proses nya selesai sampai sync-nya sudah stop atau tidak berputar.
 
-![](<../../.gitbook/assets/image (269).png>)
+<figure><img src="../../.gitbook/assets/Screenshot_52.png" alt=""><figcaption></figcaption></figure>
 
 2\. Data item baru yang masuk ke forstok akan masuk ke dalam filter pending action.&#x20;
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062606609/original/6k3VYAG1dnSDNDNd2uTVSGeADp7vL5mqPQ.png?1601871664)
+<figure><img src="../../.gitbook/assets/pending actions.png" alt=""><figcaption></figcaption></figure>
 
 3\. Untuk mengconfirm item supaya sudah bisa edit dari Forstok. Pilih _**check box**_ pending action yang akan di proses lalu klik _**confirm.**_
-
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062606695/original/6QyB\_0vG-xaoRijYeuKUO1\_XKK0o3\_VgEQ.png?1601871849)
 
 **Details** :&#x20;
 
