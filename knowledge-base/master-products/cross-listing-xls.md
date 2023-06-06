@@ -5,11 +5,9 @@ Gunakan Cross Listing dari excel ini bertujuan untuk menambahkan banyak produk d
 {% hint style="info" %}
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
 
-1. [Import Product dari salah satu channel (Marketplace atau website)](import-product-from-channels.md)
-2. [Tambahkan master product](../master-products/add-master-product.md)
+1. [Import Product dari salah satu channel (Marketplace atau website)](../listing-products/import-product-from-channels.md)
+2. [Tambahkan master product](add-master-product.md)
 {% endhint %}
-
-
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross listing_ :&#x20;
 
@@ -17,9 +15,9 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 2\. Lakukan category mapping terlebih dahulu untuk mempermudah proses Cross Listing melalui Settings - Category. Lihat [category.md](../settings/category.md "mention")
 
-3\. Pada halaman item, klik tombol +Item lalu pilih **cross listing**.
+3\. Pada halaman Master Products, dibagian navigasi sebelah kiri pilih **Cross Listing**
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48084855913/original/-lj3XDsVRXGuTalXgcTGyPjRzbTZBM-y7A.png?1612291312)
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 4\. Pastikan category yang akan di listing pada channel tujuan sudah muncul setelah dilakukan Category Mapping sebelumnya.
 

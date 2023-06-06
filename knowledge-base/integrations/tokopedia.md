@@ -34,7 +34,7 @@ Tokopedia Store link: [https://www.tokopedia.com/abc](https://www.tokopedia.com/
 
 Berikut adalah screenshot tampilan Pengaturan Aplikasi Pihak Ketiga:
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)\
+![](<../../.gitbook/assets/image (1) (1) (2) (1).png>)\
 \
 Demikian kami sampaikan, atas perhatiannya kami ucapkan terima kasih
 {% endhint %}

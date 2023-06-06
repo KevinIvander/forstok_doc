@@ -16,11 +16,11 @@ Ada 2 cara untuk melakukan penghapusan Master Product di Forstok, hapus satu mas
 
 2. Kemudian pilih **Delete Product** untuk menghapus product tersebut
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Maka akan muncul Pop Up konfirmasi untuk memastikan penghapusan product. Apabila sudah yakin ingin menghapus product pilih **Confirm**
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Bulk Delete Product
 
@@ -34,8 +34,8 @@ Bulk Select akan memilih product yang tampil pada halaman sesuai dengan jumlah p
 
 2. Setelah itu akan muncul menu Bulk action pada bagian kiri bawah halaman, kemudian pilih Delete Product
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
 
 3. Maka akan muncul Pop Up konfirmasi untuk memastikan penghapusan product. Apabila sudah yakin ingin menghapus product pilih **Confirm**
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption></figcaption></figure>

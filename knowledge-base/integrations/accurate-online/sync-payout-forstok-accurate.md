@@ -6,7 +6,7 @@ Setelah sales invoice terbuat di Forstok dan di Accurate, lakukan **create payme
 Berikut panduan create payment receive: [View Here](../../payment-receive/)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Kami sarankan create payment receive dilakukan di status order 'Completed', hal ini agar nominal yang diupdate sudah fixed.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption><p>Kami sarankan create payment receive dilakukan di status order 'Completed', hal ini agar nominal yang diupdate sudah fixed.</p></figcaption></figure>
 
 1. Setelah melakukan create payment receive, sales invoice di accurate akan otomatis terupdate menjadi lunas, dan sales receipt akan auto create di accurate:
 
