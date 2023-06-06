@@ -30,7 +30,15 @@ Allowing users to complete text strings on category fields automatically wheneve
 
 <figure><img src="../../.gitbook/assets/21.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Toolbar actions yang ada pada sisi sebelah kanan juga bisa membantu ketika ingin melakukan confirm linking pada 2 status pending actions:\
+\- SKU Matched\
+\- SKU Unmatched
+{% endhint %}
+
 ## 3. Edit Listing
+
+Jika ingin melakukan perubahan&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,11 +48,24 @@ Allowing users to complete text strings on category fields automatically wheneve
 
 <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
+Pada tampilan diatas dapat dilihat bahwa saat ini jika kita klik salah satu marketplace (list listings) kita akan menemukan tab Inactive, yang berfungsi untuk melihat ataupun menampilkan item/produk yang statusnya inactive/diarsipkan. Selain itu, kita juga dapat melakukan inactive pada item active dengan cara klik toolbar actions pada sisi kanan lalu pilih set to inactive dan juga sebaliknya.
+
 ## 5. Delete Listing
 
-> Menampilkan untuk menghapus listing pada satu item/produk.
+> Menampilkan cara untuk menghapus listing pada satu item/produk.
 
 <figure><img src="../../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**Delete listing = Remove listing.**\
+Jika pada item V1 terdapat remove listing untuk melepaskan atau menghapus listingan, untuk tampilan pada item V2 ini namanya berubah menjadi delete listing.\
+\
+**Notes:**\
+Saat ini delete listing berlaku untuk 1 produk, artinya jika 1 produk memiliki 3 variant: merah, kuning dan hijau. Maka ketika salah satu variant tersebut dihapus, maka akan terhapus seluruhnya.
+{% endhint %}
+
 ## 6. Create Master from Listing
 
+Menampilkan cara untuk membuat master dari listing.
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2023-06-06 at 09.47.18.jpeg" alt=""><figcaption></figcaption></figure>
