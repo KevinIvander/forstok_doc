@@ -28,7 +28,7 @@ Ada 2 cara untuk membuat Bundling Product, Linking Existing Product dan Create N
 Bundle Regular Price bisa diisi langsung atau nanti ketika Suggested Price sudah tersedia. Bundle Regular Price juga bisa diisi sesuai dengan yang diinginkan.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Kemudian pilih product yang akan dijadikan isi (child) dari bundle tersebut dengan klik **+Add Product** pada Linking Master Products
 

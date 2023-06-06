@@ -1,12 +1,12 @@
 # Create Stock Adjustment (interface)
 
-Adjust stock via interface bisa dilakukan dengan 3 cara: 1. Pada menu Item, +Item --> Create Stock Adjustment; dan 2. klik produk di menu Items --> Adjust stock
+Adjust stock via interface bisa dilakukan dengan 3 cara: 1. Pada menu Inventory, +Inventory--> Create Stock Adjustment; dan 2. klik produk di menu Inventory --> Adjust stock
 
 ### **1. Bulk Stock Adjustment via Interface**
 
-1\. Klik +Item --> Create Stock Adjustment
+1\. Klik +Inventory --> Create Stock Adjustment
 
-![](<../../.gitbook/assets/stock adjustment interface.jpg>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 093042.jpg" alt=""><figcaption></figcaption></figure>
 
 2\. Stock adjustment via interface bisa dilakukan dengan:
 
@@ -17,9 +17,9 @@ Adjust stock via interface bisa dilakukan dengan 3 cara: 1. Pada menu Item, +Ite
 * Date : Tanggal update stock
 * Reference # : Nomor referensi. Boleh kosong atau di input
 
-3\. Klik Continue, anda akan dialihkan ke page baru untuk menginput stock adjustment.
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 093117.jpg" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/final plus minus qty stock adjustment interface.jpg>)
+3\. Klik Continue, anda akan dialihkan ke page baru untuk menginput stock adjustment.
 
 4\. **Final Qty.** Input qty yang akan di update pada kolom New Qty on Hand. untuk reason boleh di pilih atau tidak (opsional), lalu save
 

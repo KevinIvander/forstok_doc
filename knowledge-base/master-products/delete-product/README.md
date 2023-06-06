@@ -30,7 +30,7 @@ Ada 2 cara untuk melakukan penghapusan Master Product di Forstok, hapus satu mas
 Bulk Select akan memilih product yang tampil pada halaman sesuai dengan jumlah product yang tampil (Up to 20 product).
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Setelah itu akan muncul menu Bulk action pada bagian kiri bawah halaman, kemudian pilih Delete Product
 

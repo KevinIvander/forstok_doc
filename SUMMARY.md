@@ -90,6 +90,8 @@
   * [Import produk dari channel](knowledge-base/listing-products/import-product-from-channels.md)
   * [Add Listing v2 ( NEW )](knowledge-base/listing-products/add-listing-v2-new.md)
   * [Cross Listing dari Master Product (xls)](knowledge-base/listing-products/cross-listing-xls.md)
+  * [Delete Listing](knowledge-base/listings/remove-listing.md)
+  * [Import Ulang](knowledge-base/listings/import-ulang.md)
 * [Inventory](knowledge-base/inventory/README.md)
   * [Create Stock Adjustment (interface)](knowledge-base/master-products/upload-stock-adjustment-interface.md)
   * [Create Stock Allocation](knowledge-base/master-products/create-stock-allocation.md)
