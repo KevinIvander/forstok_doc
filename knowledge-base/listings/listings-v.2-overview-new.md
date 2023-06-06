@@ -70,3 +70,5 @@ Saat ini delete listing berlaku untuk 1 produk, artinya jika 1 produk memiliki 3
 Menampilkan cara untuk membuat master dari listing.
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2023-06-06 at 09.47.18.jpeg" alt=""><figcaption></figcaption></figure>
+
+Selain itu, saat ini juga dapat membuat master product dari listing dengan klik toolbar actions yang ada disisi sebelah kanan lalu pilih Create Master.

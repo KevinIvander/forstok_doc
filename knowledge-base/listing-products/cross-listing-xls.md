@@ -1,6 +1,6 @@
 # Cross Listing dari Master Product (xls)
 
-Gunakan Cross Listing dari excel ini bertujuan untuk menambahkan banyak produk dari banyak category ke satu channel. Jika ingin manabahkan 1 produk ke banyak channel, guna kan [Cross Listing](add-listing.md) dari interface&#x20;
+Gunakan Cross Listing dari excel ini bertujuan untuk menambahkan banyak produk dari banyak category ke satu channel. Jika ingin manabahkan 1 produk ke banyak channel, guna kan [Cross Listing](broken-reference) dari interface&#x20;
 
 {% hint style="info" %}
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
