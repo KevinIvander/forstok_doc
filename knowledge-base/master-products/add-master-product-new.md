@@ -14,14 +14,14 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/qw.png" alt=""><figcaption></figcaption></figure>
 
-3. Input Nama Produk pada ‘Product Name’. Pilih Category pada field ‘Master Category’ dan ‘ Master Brand’. Isikan Deskripsi product pada field ‘Description’. Isi berat, panjang, lebar dan tinggi product pada field ‘Weight’, ‘Length’, ‘Width’, dan ‘Height’.
+3. Input Nama Produk pada ‘Product Name’. Pilih Category pada field ‘Master Category’ dan ‘ Master Brand’. Isikan Deskripsi product pada field ‘Description’. Kemudian isi berat, panjang, lebar dan tinggi product pada field ‘Weight’, ‘Length’, ‘Width’, dan ‘Height’.
 
 <figure><img src="../../.gitbook/assets/df.png" alt=""><figcaption></figcaption></figure>
 
 4. Jika produk Anda mempunyai variant harap klik checkbox berikut dan isi Variant Type dan Option sesuai produk variant Anda. Kemudian isi field Master SKU, Qty on Hand, Regular Price, Cost Price, Sale Price, dan Barcode.
 
 {% hint style="info" %}
-Note: Jika produk Anda tidak mempunyai variant tidak perlu centang checkbox tersebut.
+Note: Jika produk Anda tidak mempunyai variant tidak perlu ceklis checkbox tersebut.
 
 Field bertanda ( <mark style="color:red;">\*</mark> ) wajib diisi (mandatory field).
 {% endhint %}
@@ -31,7 +31,7 @@ Field bertanda ( <mark style="color:red;">\*</mark> ) wajib diisi (mandatory fie
 5. Isi gambar produk pada field ‘Product Image’ dan isi gambar varian produk pada field ‘Variant Image’. Isi field ‘Tags’ jika ingin menambahkan tag tentang produk. Kemudian klik save.
 
 {% hint style="info" %}
-Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat opsional.
+Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat opsional (boleh diisi, boleh tidak).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/ghb.png" alt=""><figcaption></figcaption></figure>
@@ -41,7 +41,7 @@ Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat ops
 <figure><img src="../../.gitbook/assets/vbc.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Untuk menambahkan Maste Product lebih banyak, dapat dilakukan dengan memilih + Add Product pada bagian kiri dari table product yang sudah dibuat.&#x20;
+Untuk menambahkan Master Product lebih banyak, dapat dilakukan dengan memilih + Add Product pada bagian kiri dari table product yang sudah dibuat.&#x20;
 {% endhint %}
 
 7. Maka Master Product berhasil ditambahkan
