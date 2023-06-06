@@ -4,13 +4,13 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 # Upload Stock Adjustment Final Qty (xls)
 
-1\. Pada menu Items, pilih tanda panah berikut dan Upload Stock Adjustment
+1\. Pada menu Inventory, pilih Upload Stock Adjustment
 
-![](<../../.gitbook/assets/image (316).png>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 091516.jpg" alt=""><figcaption></figcaption></figure>
 
-2\.  Pilih warehouse yang akan di update stocknya, kemudian Download Template.
+2\.  Pilih warehouse yang akan di update stocknya, kemudian klik Download Template 1 kali saja.
 
-![](<../../.gitbook/assets/upload stock adjustment\_choose warehouse.jpg>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 092314.jpg" alt=""><figcaption></figcaption></figure>
 
 3\. File bisa di download pada Notifications, klik '**Download File**'
 
@@ -46,7 +46,7 @@ Terdapat barang rusak sejumlah 2 item, maka input new Qty on Hand menjadi 69
 
 5\. Setelah penginputan stock pada New Qty On Hand, upload dan import file.
 
-![](<../../.gitbook/assets/upload file stock adjustment final qty.jpg>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 092606.jpg" alt=""><figcaption></figcaption></figure>
 
 6\.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
 
