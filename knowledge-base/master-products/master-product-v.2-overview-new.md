@@ -72,7 +72,12 @@ Master Product Detail : Menampilkan detail infromasi Master Product dengan tampi
 <figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Limitasi
+**Limitasi:**
 
-
+Saat ini masih terdapat limitasi untuk marketplace:\
+**- Lazada**\
+**- Zalora**\
+**- Tiktok**\
+Ketika melakukan listing (add listing). Namun untuk melakukan import item tetap bisa dilakukan.\
+Sehingga solusi untuk saat ini adalah, bisa langsung diedit / ditambahkan dari seller center, kemudian di import di Forstok.
 {% endhint %}
