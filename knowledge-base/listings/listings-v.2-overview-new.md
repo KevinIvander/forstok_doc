@@ -32,8 +32,9 @@ Allowing users to complete text strings on category fields automatically wheneve
 
 {% hint style="info" %}
 Toolbar actions yang ada pada sisi sebelah kanan juga bisa membantu ketika ingin melakukan confirm linking pada 2 status pending actions:\
-\- SKU Matched\
-\- SKU Unmatched
+**- SKU Matched**\
+**- SKU Unmatched**\
+Sedangkan untuk 2 status pending actions lainnya, masih bisa dilihat pada halaman inventory (item V1).
 {% endhint %}
 
 ## 3. Edit Listing
@@ -48,7 +49,7 @@ Jika ingin melakukan perubahan&#x20;
 
 <figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
-Pada tampilan diatas dapat dilihat bahwa saat ini jika kita klik salah satu marketplace (list listings) kita akan menemukan tab Inactive, yang berfungsi untuk melihat ataupun menampilkan item/produk yang statusnya inactive/diarsipkan. Selain itu, kita juga dapat melakukan inactive pada item active dengan cara klik toolbar actions pada sisi kanan lalu pilih set to inactive dan juga sebaliknya.
+Pada tampilan diatas dapat dilihat bahwa saat ini jika kita klik salah satu marketplace (list listings) kita akan menemukan tab Live/Inactive, yang berfungsi untuk melihat ataupun menampilkan item/produk yang statusnya inactive/diarsipkan dan sebaliknya. Selain itu, kita juga dapat melakukan inactive pada item yang live dengan cara klik toolbar actions pada sisi kanan lalu pilih set to inactive dan juga sebaliknya.
 
 ## 5. Delete Listing
 
