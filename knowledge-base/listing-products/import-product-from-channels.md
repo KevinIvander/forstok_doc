@@ -14,7 +14,17 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/pending actions.png" alt=""><figcaption></figcaption></figure>
 
-3\. Untuk mengconfirm item supaya sudah bisa edit dari Forstok. Pilih _**check box**_ pending action yang akan di proses lalu klik _**confirm.**_
+3\. Saat ini melalui dashboard item V2, juga bisa melakukan confirm linking secara satu persatu ataupun secara bulk dengan menggunakan fitur bulk. Namun yang muncul pada tampilan item V2 ini hanyalah pending actions dengan status: **SKU matched dan SKU unmatched**.
+
+<figure><img src="../../.gitbook/assets/Screenshot_55.png" alt=""><figcaption></figcaption></figure>
+
+Sedangkan untuk pending actions dengan status **Empty dan Duplicate SKU** masih terpisah sehingga bisa dilihat pada menu inventory (item V1).
+
+<figure><img src="../../.gitbook/assets/Screenshot_54.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Notes:** Saat ini jika ada kebutuhan untuk menghapus **empty dan duplicate SKU** silahkan diabaikan saja karena untuk saat ini di fitur inventory (item V1) tidak dapat dilakukan penghapusan tersebut.
+{% endhint %}
 
 **Details** :&#x20;
 
@@ -27,6 +37,3 @@ description: >-
 * Untuk stok yang sudah habis atau di delete atau di archive, kenapa tidak masuk ke forstok? Karena untuk kedua kategori tersebut memang tidak akan masuk di forstok, kecuali jd.id.&#x20;
 * Bagaimana cara menentukan item master dari channel? item channel yang akan di konfirm linking pertama kali akan menjadi item data item master yang ada di forstok.
 {% endhint %}
-
-
-
