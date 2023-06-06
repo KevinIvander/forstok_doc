@@ -12,7 +12,7 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#
 
 1. Pilih channel mana yang akan di alokasikan stok nya.&#x20;
 
-![](<../../.gitbook/assets/image (128).png>)
+![](<../../.gitbook/assets/image (128) (1).png>)
 
 
 

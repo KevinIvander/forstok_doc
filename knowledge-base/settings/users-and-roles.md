@@ -24,7 +24,7 @@ Users & Roles berfungsi untuk menambah pengguna akun yang nanti nya juga dapat m
 
 5\. Klik add roles
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 6\. Lalu checklist untuk page yang ingin digunakan, jika termasuk POS silahkan dipilih POS nya.
 

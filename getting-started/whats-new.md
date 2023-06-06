@@ -10,26 +10,6 @@ description: >-
 
 ### **ITEM V2**&#x20;
 
-**Master Product List new interface**
-
-The new interface is a significant upgrade from the previous version. With clean, organized, and focus on ease of use. The streamlined layout allows for easy navigation and makes accessing different Actions seamless.
-
-**More organized master products**&#x20;
-
-Grouping master products into different Tabs based on their similarity, such as single variant, multi variants, and bundle products. These Tabs can help users for easier organized products and accessing Actions.
-
-**Linked listings are displayed as Pop-up**
-
-Simply displays the products that are already listed on the marketplaces without the users having to leave the master product page.
-
-**Linked bundling is displayed as a Pop-up**&#x20;
-
-Unlike the previous version, in this version, Linked bundling is displayed in a pop-up. This pop-up displays the information of combining different items, and also makes it easier for users to access the Edit action.
-
-**Master Product Detail new interface**&#x20;
-
-The new interface offers a modern and simple design that showcases all the important information about the product. The page includes image display, a detailed product description, product variations, dimension, etc. Users can easily navigate to related pages and actions.
-
 **Listing List new interface**&#x20;
 
 The new interface is sleek and modern with clean lines, separate from the master product making it easy to navigate when users need to do actions on listings.
@@ -46,9 +26,7 @@ Link statuses are displayed in columns, indicators include **SKU Matched, SKU No
 
 Allowing users to complete text strings on category fields automatically whenever users Listing to Shopify. This feature works by equating with the category master. With this feature, users save time by avoiding typing categories but can still be manually.
 
-**Available Qty item bundle per warehouse**&#x20;
 
-Allows users to create Bundle with **Available Qty** taken from each combined product. User can change the bundle's child, **Listing the bundle**, or keep it as the **Master Bundle**. Bundle Listings are available for **Multistore Listings**. Unlike the previous version, in this version bundles are also available for M**ulti Warehouse**
 
 ## February  20, 2023
 
@@ -68,8 +46,8 @@ Allows users to create Bundle with **Available Qty** taken from each combined pr
 
 You can now adjust stock without upload excel. Use a barcode scanner to select product and counting. Register your barcode first by upload in master product template.
 
-{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-interface.md" %}
-[upload-stock-adjustment-interface.md](../knowledge-base/master-products/upload-stock-adjustment-interface.md)
+{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-interface.md" %}
+[upload-stock-adjustment-interface.md](../knowledge-base/inventory/upload-stock-adjustment-interface.md)
 {% endcontent-ref %}
 
 ## May 3, 2021
@@ -84,14 +62,14 @@ Stock Adjustment Type**:**&#x20;
 **Please Download and Upload using new excel template**
 {% endhint %}
 
-{% content-ref url="../knowledge-base/master-products/stock-adjustment-excel.md" %}
-[stock-adjustment-excel.md](../knowledge-base/master-products/stock-adjustment-excel.md)
+{% content-ref url="../knowledge-base/inventory/stock-adjustment-excel.md" %}
+[stock-adjustment-excel.md](../knowledge-base/inventory/stock-adjustment-excel.md)
 {% endcontent-ref %}
 
 * **Delta Qty:** Ideal for stock inbound (+) or Outbound (-). Inbound can be from Return Order, Purchase Order, Stock Transfer. Outbound can be from Sales Order, Transfer Stock.&#x20;
 
-{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md" %}
-[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md)
+{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
+[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
 {% endcontent-ref %}
 
 ## April 20, 2021
@@ -149,8 +127,8 @@ Stock Adjustment Type**:**&#x20;
 
 * **Stock Adjustment Delta Value (+-).** You can update stock using value changes. eg Qty on hand 10. Adjust +5.&#x20;
 
-{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md" %}
-[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md)
+{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
+[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
 {% endcontent-ref %}
 
 

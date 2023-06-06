@@ -4,15 +4,17 @@ description: 'Berikut langkah-langkah melakukan edit pada Master Product di Fors
 
 # Edit Master Product (NEW)
 
+Ada 2 cara untuk Edit Master Product, Edit satu master product dan Edit banyak master product (Bulk Edit)
+
 ### Single Edit Master Product
 
-1. Ada 2 cara untuk Edit Master Product, pertama pada menu master products klik Edit Product pada bagian column Actions.
+1. pertama pada menu master products klik Edit Product pada bagian column Actions.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Kedua, pilih beberapa product yang ingin diubah atau pilih Bulk Select kemudian pilih Edit Product. Kedua cara ini akan membuka tab baru pada browser.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 2. Silahkan Edit artikel produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 
@@ -22,7 +24,7 @@ Kedua, pilih beberapa product yang ingin diubah atau pilih Bulk Select kemudian 
 
 1. Pilih beberapa items/product yang ingin diubah kemudian pilih **Edit Product**.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Silahkan Edit artikel produk-produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 

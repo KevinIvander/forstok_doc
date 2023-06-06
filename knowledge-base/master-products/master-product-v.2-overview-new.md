@@ -2,11 +2,29 @@
 
 ## What’s New
 
-1. **Master Product List :** Menampilkan List dari Master Products
-2. **Master Product Detail :** Menampilkan detail infromasi Master Products
-3. **Add Bundle Product :** Menambahkan Master Bundle Product
-4. **Add Master Product :** Menambahkan Master Product di Forstok yang dapat berdiri sendiri.
-5. **Edit Master Product :** Melakukan perubahan di Master Product, tidak ada edit listing.
+**Master Product List new interface**
+
+The new interface is a significant upgrade from the previous version. With clean, organized, and focus on ease of use. The streamlined layout allows for easy navigation and makes accessing different Actions seamless.
+
+**More organized master products**&#x20;
+
+Grouping master products into different Tabs based on their similarity, such as single variant, multi variants, and bundle products. These Tabs can help users for easier organized products and accessing Actions.
+
+**Linked listings are displayed as Pop-up**
+
+Simply displays the products that are already listed on the marketplaces without the users having to leave the master product page.
+
+**Linked bundling is displayed as a Pop-up**&#x20;
+
+Unlike the previous version, in this version, Linked bundling is displayed in a pop-up. This pop-up displays the information of combining different items, and also makes it easier for users to access the Edit action.
+
+**Master Product Detail new interface**&#x20;
+
+The new interface offers a modern and simple design that showcases all the important information about the product. The page includes image display, a detailed product description, product variations, dimension, etc. Users can easily navigate to related pages and actions.
+
+**Available Qty item bundle per warehouse**&#x20;
+
+Allows users to create Bundle with **Available Qty** taken from each combined product. User can change the bundle's child, **Listing the bundle**, or keep it as the **Master Bundle**. Bundle Listings are available for **Multistore Listings**. Unlike the previous version, in this version bundles are also available for M**ulti Warehouse**
 
 ## 1. Master Product List
 
@@ -37,71 +55,21 @@ Master Product Detail : Menampilkan detail infromasi Master Product dengan tampi
 
 ## 3. Add Bundle Product
 
+> Menambahkan Bundling Product
+
 <figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Add Master Product
+
+> Menambahkan Master Product di Forstok yang dapat berdiri sendiri.
 
 <figure><img src="../../.gitbook/assets/24 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Edit Master Product
 
+> Melakukan perubahan di Master Product, tidak ada edit listing.
+
 <figure><img src="../../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
-
-### **Add Master Product**
-
-1. Pada halaman Master Products pilih +Master Products -> Add Master Products. Akan membuka Tab baru pada browser.
-
-<figure><img src="../../.gitbook/assets/23.png" alt=""><figcaption></figcaption></figure>
-
-2\. Klik tombol Add Product, maka akan muncul Field Add Master Product.
-
-<figure><img src="../../.gitbook/assets/Poin 2.png" alt=""><figcaption></figcaption></figure>
-
-3\. Lengkapi nama produk pada ‘_Product Name_’. Pilih Category pada field ‘_Master Category_’ dan ‘_Master Brand'_. Lalu lengkapi deskripsi produk pada field ‘_Description_’. Lengkapi berat, panjang, lebar dan tinggi product pada field ‘_Weight’_, ‘_Length_’, ‘_Width_’, dan ‘_Height_’.
-
-<figure><img src="../../.gitbook/assets/Poin 3.png" alt=""><figcaption></figcaption></figure>
-
-4\. Jika produk Anda mempunyai varian, mohon klik checkbox berikut dan isi _Variant Type_ dan _Option_ sesuai produk varian Anda. Kemudian isi field _Master SKU_, _Qty on Hand_, _Regular Price_, _Cost Price_, Sale Price, dan _Barcode._
-
-{% hint style="info" %}
-Note : Jika produk Anda tidak mempunyai variant tidak perlu centang checkbox tersebut. Field bertanda ( <mark style="color:red;">\*</mark> ) wajib diisi (mandatory field).
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/Poin 4.png" alt=""><figcaption></figcaption></figure>
-
-5\. Lengkapi gambar produk pada field ‘Product Image’ dan lengkapi gambar varian produk pada field ‘Variant Image’. Lengkapi field ‘Tags’ jika ingin menambahkan tag tentang produk. Kemudian klik save.
-
-{% hint style="info" %}
-Note: Gambar produk wajib diisi sesuai dengan produk. Variant image bersifat opsional.
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/Poin 5.png" alt=""><figcaption></figcaption></figure>
-
-6\. Scroll ke samping jika masih ingin merubah field Master Product. Apabila ingin menambahkan produk, klik ‘Add Product’ kemudian ikuti langkah sebelumnya. Jika sudah tidak ada lagi yang ingin ditambahkan silahkan klik submit.
-
-<figure><img src="../../.gitbook/assets/Poin 6.png" alt=""><figcaption></figcaption></figure>
-
-7\. Master Product berhasil ditambahkan.
-
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
-
-### **Edit Master Product (NEW)**
-
-Berikut langkah-langkah menambahkan Master Product yang belum ada di Forstok:
-
-1. Ada 2 cara untuk Edit Master Product.
-
-**Cara pertama** pada menu items klik Edit Master Product. Berikut ini untuk lampiran cara yang pertama.
-
-![](../../.gitbook/assets/ttt.png)
-
-**Cara kedua** pilih varian items yang ingin diubah kemudian pilih Menu Edit - klik Edit Master Product. Kedua cara ini akan membuka Tab baru pada browser Anda.
-
-<figure><img src="../../.gitbook/assets/Screenshot_2022-08-26_15-49-58.png" alt=""><figcaption></figcaption></figure>
-
-2\. Silahkan Edit artikel produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
-
-<figure><img src="../../.gitbook/assets/de2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Limitasi

@@ -8,4 +8,4 @@ Financial Transactions adalah fitur yang merekapitulasi data dari Invoice yang s
 
 Untuk mendapatkan data yang lebih akurat, anda juga bisa menginput additional cost/revenue yang tidak tercatat di marketplace seperti channel cashback/3pl cashback:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

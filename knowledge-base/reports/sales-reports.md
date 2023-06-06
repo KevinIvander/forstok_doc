@@ -16,7 +16,7 @@ Bisa lihat Sales Reports dan Inventory Reports:
 
 3\. Filter berdasarkan periode waktu.
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (123) (1).png>)
 
 4\. Generate untuk mengetahui hasilnya
 
