@@ -34,7 +34,7 @@ Waktu import product dari Lazada tergantung dari jumlah product.
 
 2\. Klik View untuk integrasikan Lazada.
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42) (1).png>)
 
 [\
 ](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062572994/original/VAz3XK3s1NDWKHiptEuteE-zA0yqniyYyw.png?1601813140)3. Input akses log in Lazada, lalu klik submit.

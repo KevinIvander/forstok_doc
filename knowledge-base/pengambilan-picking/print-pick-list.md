@@ -24,7 +24,7 @@ Ikuti beberapa langkah sederhana untuk membuat dan menerima daftar pilihan:
 
 4\. lalu akan muncul sheet nya seperti ini, klik print
 
-![](<../../.gitbook/assets/image (134) (1).png>)
+![](<../../.gitbook/assets/image (134).png>)
 
 5\. Untuk mencetak beberapa pick list sekaligus, centang order pada box centang per ordernya kemudian Pilih Print Pick List di bagian bawah layar
 

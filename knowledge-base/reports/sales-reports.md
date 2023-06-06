@@ -16,7 +16,7 @@ Bisa lihat Sales Reports dan Inventory Reports:
 
 3\. Filter berdasarkan periode waktu.
 
-![](<../../.gitbook/assets/image (123) (1).png>)
+![](<../../.gitbook/assets/image (123).png>)
 
 4\. Generate untuk mengetahui hasilnya
 
@@ -24,7 +24,7 @@ Bisa lihat Sales Reports dan Inventory Reports:
 
 5\. Export untuk download atau unduh laporan.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (27) (1).png>)
 
 [\
 ](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48021554832/original/LE4WhckLtest2jZ81WnC9NJFccmxzgJfRA.png?1578301400)

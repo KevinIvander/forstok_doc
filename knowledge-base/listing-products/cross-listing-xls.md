@@ -6,7 +6,7 @@ Gunakan Cross Listing dari excel ini bertujuan untuk menambahkan banyak produk d
 Ada 2 cara untuk membuat Master product, Jika master product belum terupload di Forstok.
 
 1. [Import Product dari salah satu channel (Marketplace atau website)](import-product-from-channels.md)
-2. [Tambahkan master product](../inventory/add-master-product.md)
+2. [Tambahkan master product](../master-products/add-master-product.md)
 {% endhint %}
 
 

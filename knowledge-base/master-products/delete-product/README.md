@@ -12,15 +12,15 @@ Ada 2 cara untuk melakukan penghapusan Master Product di Forstok, hapus satu mas
 
 1. Pada halaman Master Product, klik More pada product yg ingin di hapus
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Kemudian pilih **Delete Product** untuk menghapus product tersebut
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 2. Maka akan muncul Pop Up konfirmasi untuk memastikan penghapusan product. Apabila sudah yakin ingin menghapus product pilih **Confirm**
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ### Bulk Delete Product
 
@@ -30,12 +30,12 @@ Ada 2 cara untuk melakukan penghapusan Master Product di Forstok, hapus satu mas
 Bulk Select akan memilih product yang tampil pada halaman sesuai dengan jumlah product yang tampil (Up to 20 product).
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 2. Setelah itu akan muncul menu Bulk action pada bagian kiri bawah halaman, kemudian pilih Delete Product
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 3. Maka akan muncul Pop Up konfirmasi untuk memastikan penghapusan product. Apabila sudah yakin ingin menghapus product pilih **Confirm**
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

@@ -150,7 +150,7 @@ Zalora hanya bisa edit Kode SKU per item belum bisa menggunakan excel secara mas
   Pada Products --> Pilih Manage Products --> Edit Detail
 * Perbaiki SKU pada kolom Seller SKU. Jika sudah selesai klik Finish Editing
 
-![](<../../.gitbook/assets/image (89) (1).png>)
+![](<../../.gitbook/assets/image (89).png>)
 
 **6. Woocommerce**
 

@@ -8,25 +8,10 @@ description: >-
 
 ## May 25, 2023
 
-### **ITEM V2**&#x20;
+New Release ITEM V2 :&#x20;
 
-**Listing List new interface**&#x20;
-
-The new interface is sleek and modern with clean lines, separate from the master product making it easy to navigate when users need to do actions on listings.
-
-**Align the Listings with marketplaces**&#x20;
-
-Whenever users **Listing** the products to marketplaces, Listing statuses are displayed in tabs and columns. Common status indicators include **Live, Inactive, In Progress,** and **Listing Failed** with different colors.&#x20;
-
-**Link Status**&#x20;
-
-Link statuses are displayed in columns, indicators include **SKU Matched, SKU Not Matched** with different colors. Link status filter, it has been grouped into **Not Linked**. This makes it easier for you to filter and perform C**onfirm Linking** or C**reate Master** actions
-
-**Shopify category autofill**&#x20;
-
-Allowing users to complete text strings on category fields automatically whenever users Listing to Shopify. This feature works by equating with the category master. With this feature, users save time by avoiding typing categories but can still be manually.
-
-
+* Master Product List, Master Product Detail. [Learn More](../knowledge-base/master-products/master-product-v.2-overview-new.md)
+* Listing List. [Learn More](../knowledge-base/listings/listings-v.2-overview-new.md)
 
 ## February  20, 2023
 
@@ -46,8 +31,8 @@ Allowing users to complete text strings on category fields automatically wheneve
 
 You can now adjust stock without upload excel. Use a barcode scanner to select product and counting. Register your barcode first by upload in master product template.
 
-{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-interface.md" %}
-[upload-stock-adjustment-interface.md](../knowledge-base/inventory/upload-stock-adjustment-interface.md)
+{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-interface.md" %}
+[upload-stock-adjustment-interface.md](../knowledge-base/master-products/upload-stock-adjustment-interface.md)
 {% endcontent-ref %}
 
 ## May 3, 2021
@@ -62,14 +47,14 @@ Stock Adjustment Type**:**&#x20;
 **Please Download and Upload using new excel template**
 {% endhint %}
 
-{% content-ref url="../knowledge-base/inventory/stock-adjustment-excel.md" %}
-[stock-adjustment-excel.md](../knowledge-base/inventory/stock-adjustment-excel.md)
+{% content-ref url="../knowledge-base/master-products/stock-adjustment-excel.md" %}
+[stock-adjustment-excel.md](../knowledge-base/master-products/stock-adjustment-excel.md)
 {% endcontent-ref %}
 
 * **Delta Qty:** Ideal for stock inbound (+) or Outbound (-). Inbound can be from Return Order, Purchase Order, Stock Transfer. Outbound can be from Sales Order, Transfer Stock.&#x20;
 
-{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
-[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
+{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md" %}
+[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md)
 {% endcontent-ref %}
 
 ## April 20, 2021
@@ -127,8 +112,8 @@ Stock Adjustment Type**:**&#x20;
 
 * **Stock Adjustment Delta Value (+-).** You can update stock using value changes. eg Qty on hand 10. Adjust +5.&#x20;
 
-{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md" %}
-[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/inventory/upload-stock-adjustment-delta-qty-excel.md)
+{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md" %}
+[upload-stock-adjustment-delta-qty-excel.md](../knowledge-base/master-products/upload-stock-adjustment-delta-qty-excel.md)
 {% endcontent-ref %}
 
 

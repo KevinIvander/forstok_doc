@@ -8,7 +8,7 @@ Halaman Customer merupakan data pelanggan baik yang belum pernah belanja maupun 
 
 1\. Tambah Customer Baru dan download data customer
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 
 2\. Kolom pencarian.
 
