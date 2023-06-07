@@ -111,7 +111,6 @@
   * [Priority Channel/Store](knowledge-base/master-products/priority-channel-store.md)
   * [Upload Images](knowledge-base/master-products/bulk-update-images.md)
   * [Upload Updated Master Item](knowledge-base/master-products/master-produk.md)
-  * [Update Image/Foto](knowledge-base/master-products/merubah-category-master-by-sku-interface.md)
   * [Upload New Master Item](knowledge-base/master-products/add-master-product.md)
   * [Create & Print Barcode](knowledge-base/master-products/create-and-print-barcode.md)
 * [Gudang (Warehouses)](knowledge-base/gudang-warehouse/README.md)
