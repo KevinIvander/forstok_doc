@@ -43,7 +43,7 @@ Jika terdapat field yang belum sesuai maka akan muncul peringatan berwarna merah
 
 Jika sudah sesuai, maka listing akan masuk dan tampil pada tab linked listing pada tampilan Master Product. Jumlah angka di dalam kurung menunjukkan berapa banyak listingan yang sudah dibuat atau ditambahkan.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

@@ -54,7 +54,7 @@ Tersedia juga harga yang disarankan, bisa dilihat pada bagian Suggested Price. H
 
 9. Jika sudah sesuai, pilih Save maka Bundling Product sudah dibuat.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create New Product
 

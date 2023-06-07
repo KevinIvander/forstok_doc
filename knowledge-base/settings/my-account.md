@@ -16,6 +16,6 @@ My Account digunakan untuk mengatur akun, merubah email dan password
 
 3\. Current Password : ketik password sebelumnya, New Password : ketik password baru, New Password Confirm : Ketik ulang password baru
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (76) (1).png>)
 
 4\. Klik save

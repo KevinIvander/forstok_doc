@@ -6,7 +6,7 @@ Berikut merupakan langkah-langkah yang dilakukan untuk create master produk :&#x
 
 1\. Klik Upload New Master Items pada halaman item.&#x20;
 
-![](https://lh3.googleusercontent.com/ZkoMRGc2b5dCWHpJDdy3nKLwJ\_\_EZgZbxBzCCLLawS93MOAMuQZHFM9j7tZsjb1uvms3esF4T5SaC\_AmVMcuMHmJwJ882\_5YUixgbr2GXiSd0NbfuhIw0K4u0xyPyEwwHVIN8J7N) ![](<../../.gitbook/assets/itemm (1).jpg>)
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 2\. Lalu download template csv.&#x20;
 

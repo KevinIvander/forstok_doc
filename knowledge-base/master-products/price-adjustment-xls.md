@@ -2,15 +2,15 @@
 
 1 Pilih Upload Price Adjustment
 
-![](<../../.gitbook/assets/image (438).png>)
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 2\. Bisa pilih bersarkan category yang akan di update atau bisa select all cetegory untuk update harga semua item. Klik Update price untuk mendapat file xls list item yang akan di update harganya.
 
-![](<../../.gitbook/assets/image (439).png>)
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 3\. File xls bisa di download pada pop up notification atau jika pop-up hilang bisa klik notification
 
-![](<../../.gitbook/assets/image (436).png>)
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 4\. Silahkan ganti harga sesuai marketplace yang akan di ganti. Jika ada kolom kosong tidak ada sku berarti sku tsb belum masuk ke Forstok atau belum ada listingannya di Forstok. Lalu di save
 

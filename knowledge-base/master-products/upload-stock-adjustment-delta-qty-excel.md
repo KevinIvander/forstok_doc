@@ -8,11 +8,11 @@ Adjust - untuk input jumlah stok yang dikurangi
 
 1\. Pada menu Item Forstok pilih tanda panah berikut dan Upload Stock Adjustment
 
-![](<../../.gitbook/assets/image (316).png>)
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 2\.  Pilih tipe stock adjustment berdasarkan kebutuhan, kemudian pilih warehouse yang akan di update stocknya, download template
 
-![](<../../.gitbook/assets/stock adjustment plus minus.jpg>)
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 3\. Download file di Notifications
 
@@ -24,6 +24,6 @@ Adjust - untuk input jumlah stok yang dikurangi
 
 5\. Upload dan import file tsb
 
-![](<../../.gitbook/assets/upload file adjust stock plus.jpg>)
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 6\.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**

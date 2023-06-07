@@ -6,15 +6,13 @@ description: Bagaimana untuk Membuat stock allocation
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#x20;
 
-1\. Pada left pannel, pilih **+item**, lalu pilih _**create stok allocation**_.|
+1\. Pada left pannel, pilih **+Inventory**, lalu pilih _**create stok allocation**_.|
 
-![](<../../.gitbook/assets/image (258).png>)
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-1. Pilih channel mana yang akan di alokasikan stok nya.&#x20;
+2. Pilih channel mana yang akan di alokasikan stok nya.&#x20;
 
 ![](<../../.gitbook/assets/image (128).png>)
-
-
 
 2\. Pilih add item, untuk menambahkan item mana saja yang stoknya akan di alokasikan. kalau sudah dipilih klik button merah add to list.
 

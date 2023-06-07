@@ -3,11 +3,11 @@
 Langkah-langkah yang bisa dilakukan untuk adjust quantity adalah :\
 &#x20;  1\. Pilih item yang akan di rubah harganya
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48084856672/original/mD0kYG-laJsA6BuoxSJmfBmuijQrUQDZdg.png?1612291570)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  2\. Klik Adjust Price Pada item yang akan di update.
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48018035513/original/1hitgj6TUJVJJ6qVn7vR9kNkpaoonhmqyg.png?1575456436)
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  3\. Scroll ke kanan dan input jumlah price di setiap marketplace atau kolom tersebut. Lalu **Save**.\
 

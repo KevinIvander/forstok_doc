@@ -44,7 +44,7 @@ Terdapat **2 langkah** untuk melakukan Sync stok Accurate --> Forstok:
 
 4. Pada Forstok di tab warehouse, update masuk ke Qty On Hand
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Langkah kedua**: klik tombol **Sync Stock**
 

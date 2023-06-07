@@ -4,11 +4,11 @@ Bin Location merupakan fitur untuk mencatat lokasi item variant yang ada di guda
 
 Pertama klik **Upload Bin Location** untuk membuka popup untuk upload bin location.
 
-![](<../../.gitbook/assets/image (312).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
 Setelah Popup muncul, pilih warehouse yang diinginkan untuk menampilkan variant-variant yang diinginkan pada excel tersebut. Klik "Bin Location" untuk download template tersebut.
 
-![](<../../.gitbook/assets/image (310).png>)
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 Setelah template berhasil di download, template dapat ditemukan pada email atau masuk kepada notification, klik "more activity" dan pilih "Summary File" pada Download Template Bin Location yang terbaru.
 

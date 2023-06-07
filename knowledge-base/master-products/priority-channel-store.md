@@ -12,7 +12,7 @@ Berikut langkah-langkah yang dilakukan untuk set priority channel :&#x20;
 
 1\. Pada menu setiing klik Inventory
 
-![](<../../.gitbook/assets/image (359).png>)
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 2\. Pada Low stock qty input stock yang akan di aktifkan untuk prioritas channel dan pilih marketplace yang akan di aktifkan. Lalu save
 

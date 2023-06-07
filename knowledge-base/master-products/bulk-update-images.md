@@ -7,9 +7,9 @@ Untuk menampilkan Image tersebut ke Channel harus di edit terlebih dahulu. Syara
 * Satu Image min 800px, max 1500px
 * Ukuran disarankan square
 
-1\. Pada menu Items pilih Upload Images
+1\. Pada menu Inventory pilih Upload Images
 
-![](<../../.gitbook/assets/Screenshot 2022-08-05 115304.jpg>)
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 2\. Ikuti petunjuk untuk mengupdate image secara mass.
 

@@ -20,7 +20,7 @@ Store ID: ABC\
 Screenshot seller center:\
 _**Don't forget to click on the top right profile.**_
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (54) (1).png>)
 
 2\. Setelah menerima Email balasan dari Forstok, kembali ke Forstok. Pilih menu Integrations > pilih Add Integrations
 
