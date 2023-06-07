@@ -114,8 +114,6 @@
   * [Update Image/Foto](knowledge-base/master-products/merubah-category-master-by-sku-interface.md)
   * [Upload New Master Item](knowledge-base/master-products/add-master-product.md)
   * [Create & Print Barcode](knowledge-base/master-products/create-and-print-barcode.md)
-  * [Link to another variant](knowledge-base/master-products/linking-item-variants.md)
-  * [Pindahkan Pengelompokan Varian](knowledge-base/master-products/move-variant-grouping.md)
 * [Gudang (Warehouses)](knowledge-base/gudang-warehouse/README.md)
   * [Tambah Gudang](knowledge-base/gudang-warehouse/tambah-gudang.md)
   * [Mengelola gudang](knowledge-base/gudang-warehouse/mengelola-gudang.md)

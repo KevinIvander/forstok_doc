@@ -2,15 +2,15 @@
 
 ## Single Active/Inactive
 
-1. ...
+1. Jika ingin melakukan active / inactive product silahkan klik terlebih dahulu list listing dari marketplace yang ada pada navigasi disebelah kiri.
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-2. ...
+2. Kemudian pada sisi navigasi yang ada disebelah kanan, silahkan klik more untuk mendapatkan tampilan set to active atau set to inactive.
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-3. ...
+3. Apabila sudah berhasil, maka akan muncul pop up notifikasi berhasil berwarna biru seperti yang dapat dilihat pada tampilan berikut ini.
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,15 +22,15 @@
 
 ## Bulk Active/Inactive
 
-1. ...
+1. Selain melakukan set to active / inactive secara satuan, dapat juga melakukan secara bulk atau massal.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-2. ...
+2. Silahkan klik check box pada tulisan bulk select untuk memulai melakukan bulk selection. Kemudian pilih set to active / set to inactive di bagian bawah navigasi.
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-3. ...
+3. Jika sudah berhasil, maka akan terlihat pop up notifikasi seperti yang terlihat pada tampilan berikut ini.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
