@@ -55,13 +55,13 @@ Tab di bagian bawah dibagi berdasarkan kategori item di marketplace\
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062548715/original/iKBxQ4uj05i-bZEJA5REOMw\_t\_l3FpjSug.png?1601757322)
 
 {% hint style="danger" %}
-Untuk listing ke JD.ID dan Woocommerce belum bisa listing dari Forstok karena ada limitation listing API dari marketplace  harus di lakukan langsung dari seller center lalu import ke Forstok
+Saat ini untuk listing ke  **Woocommerce** belum bisa melakukan listing dari Forstok karena ada limitasi listing API dari marketplace. Sehingga untuk saat ini harus di lakukan langsung dari seller center lalu import ke Forstok.
 {% endhint %}
 
 {% hint style="info" %}
 * Sebelum menggunakan cross listing, pastikan bahwa sudah ada **item master** nya terlebih dahulu di forstok dan **sudah terisi lengkap data master itemnya**.&#x20;
-* Untuk seller center **zalora** di sarankan untuk menggunakan add single item atau edit item lalu menambahkan channel zalora, karna jika menggunakan cross listing maka image yang diupload akan mengikuti channel sebelumnya atau image yang ada di item master dan kemungkinan akan di reject oleh pihak zalora.&#x20;
-* Untuk **cross listing ke POS** jika sku nya berupa angka secara keseluruhan maka skunya akan ada **tambahan @di sku depan** nya agar sku tersebut bisa terbaca oleh system. Misal sku 11245476 di sku master dan code nya berupa **@11245476,** sku tersebut tidak boleh di ganti pada saat asebelum di upload.&#x20;
+* Untuk seller center Z**alora** di sarankan untuk menggunakan add single item atau edit item lalu menambahkan channel Zalora, karna jika menggunakan cross listing maka image yang diupload akan mengikuti channel sebelumnya atau image yang ada di item master dan kemungkinan akan di reject oleh pihak Zalora.&#x20;
+* Untuk **cross listing ke POS** jika sku nya berupa angka secara keseluruhan maka skunya akan ada **tambahan @ di sku depan** nya agar sku tersebut bisa terbaca oleh system. Misal sku 11245476 di sku master dan code nya berupa **@11245476,** sku tersebut tidak boleh di ganti pada saat asebelum di upload.&#x20;
 * Untuk pengisian kolom harus **sesuai dengan format yang di template download**, tidak boleh mengubah kondisi yang ada pada template, misal : pada template kondisi nya adalah list dropdown lalu copy paste text hingga mengubah list drop down tersebut menjadi text biasa.
 * Untuk pengisian **brand** bisa dengan cara download file brand setelah download template cross listing lalu cari nama brand nya, copy id dan nama brand nya lalu paste di kolom brand yang ada di halaman cross listing.
 {% endhint %}
