@@ -20,7 +20,7 @@ Ada 2 cara untuk membuat Bundling Product, Linking Existing Product dan Create N
 
 3. Cari nama product atau SKU product pada Choose Master Product. Product ini yang bertindak sebagai parent dari Bundle yang akan dibuat
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4. Setelah memilih product, muncul field yang harus diisi karena bersifat mandatory. Field ini berisi dimensi bundle, SKU bundle, dan Regular Price bundle.&#x20;
 
@@ -32,7 +32,7 @@ Bundle Regular Price bisa diisi langsung atau nanti ketika Suggested Price sudah
 
 5. Kemudian pilih product yang akan dijadikan isi (child) dari bundle tersebut dengan klik **+Add Product** pada Linking Master Products
 
-<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 6. Maka akan Pop Up yang berisi produk-produk yang sudah ada. Cari nama produk atau SKU yang diinginkan atau bisa memilih langsung produk yang sudah ditampilkan. Pilih satu atau lebih produk.
 
@@ -54,13 +54,13 @@ Tersedia juga harga yang disarankan, bisa dilihat pada bagian Suggested Price. H
 
 9. Jika sudah sesuai, pilih Save maka Bundling Product sudah dibuat.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create New Product
 
 1. Pada tampilan master product pilih +Master Products -> Add Bundle Product -> akan membuka tab baru pada browser
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Pada halaman Add Bundle Product pilih Create New Product
 
@@ -80,7 +80,7 @@ Create New Product pada halaman Add Bundle Product sama halnya dengan membuat ma
 
 5. Maka akan Pop Up yang berisi produk-produk yang sudah ada. Cari nama produk atau SKU yang diinginkan atau bisa memilih langsung produk yang sudah ditampilkan. Pilih satu atau lebih produk.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Kemudian pilih Add to List untuk menambahkan produk yang sudah dipilih
 

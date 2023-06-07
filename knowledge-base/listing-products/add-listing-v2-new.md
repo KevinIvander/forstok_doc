@@ -13,25 +13,15 @@ description: >-
 
 ## Single Listing
 
-1. Add Listing : Fungsinya untuk listing item baru ke Marketplace versi 1
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-2. Add Listing V2 : Fungsinya untuk listing item baru ke Marketplace versi 2
-
-**Add Listing v2**
-
 1. Pada menu items, pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
-<figure><img src="../../.gitbook/assets/tsq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2. Kemudian pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 
-<figure><img src="../../.gitbook/assets/ipq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-3. Tab baru akan terbuka pada browser anda. Pilih Category untuk masing-masing store dan Marketplace.
+2. Tab baru akan terbuka pada browser anda. Pilih Category untuk masing-masing store dan Marketplace.
 
 <figure><img src="../../.gitbook/assets/trs.png" alt=""><figcaption></figcaption></figure>
 
@@ -51,21 +41,23 @@ Jika terdapat field yang belum sesuai maka akan muncul peringatan
 
 <figure><img src="../../.gitbook/assets/pop.png" alt=""><figcaption></figcaption></figure>
 
-Jika sudah sesuai, maka akan diarahkan halaman items. Klik item yang sudah di listingkan sebelumnya untuk melihat status listing.
+Jika sudah sesuai, maka ...
 
-<figure><img src="../../.gitbook/assets/pii.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-## 2. Bulk Listing
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1. Kedua Bulk tersebut , pada menu items pilih lebih dari 1 item yang ingin di listingkan. Kemudian pilih Listing
+## Bulk Listing
 
-<figure><img src="../../.gitbook/assets/tnc.png" alt=""><figcaption></figcaption></figure>
+1. Pada menu ...
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 
-<figure><img src="../../.gitbook/assets/fds.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Tab baru akan terbuka pada browser anda. Pilih Category untuk masing-masing store dan Marketplace. Jika item anda sudah listing, akan muncul peringatan kalau item tersebut sudah terlisting di store
+2. Tab baru akan terbuka pada browser anda. Pilih Category untuk masing-masing store dan Marketplace. Jika item anda sudah listing, akan muncul peringatan kalau item tersebut sudah terlisting di store
 
 <figure><img src="../../.gitbook/assets/pij (1).png" alt=""><figcaption></figcaption></figure>
 

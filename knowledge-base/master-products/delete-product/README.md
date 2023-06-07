@@ -12,7 +12,7 @@ Ada 2 cara untuk melakukan penghapusan Master Product di Forstok, hapus satu mas
 
 1. Pada halaman Master Product, klik More pada product yg ingin di hapus
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Kemudian pilih **Delete Product** untuk menghapus product tersebut
 
