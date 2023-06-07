@@ -24,4 +24,4 @@ Password: forstok123
 
 4\. Jika sudah selesai input barcode. Upload file tsb lalu import
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (2).png" alt=""><figcaption></figcaption></figure>

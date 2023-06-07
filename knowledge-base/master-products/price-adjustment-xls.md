@@ -2,7 +2,7 @@
 
 1 Pilih Upload Price Adjustment
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Bisa pilih bersarkan category yang akan di update atau bisa select all cetegory untuk update harga semua item. Klik Update price untuk mendapat file xls list item yang akan di update harganya.
 

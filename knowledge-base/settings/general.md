@@ -8,6 +8,6 @@ Digunakan untuk memasukkan informasi mengenai identitas Toko seperti Alamat leng
 
 1. Pada menu Settings --> pilih General
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (78) (1).png>)
 
 2\. Jika sudah di isi semua lalu klik save
