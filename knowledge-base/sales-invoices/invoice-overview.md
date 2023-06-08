@@ -26,9 +26,9 @@ Forstok Invoice adalah dokumen yang diterbitkan oleh penjual untuk kepentingan p
 {% hint style="info" %}
 Forstok Invoice **bukan** merupakan invoice yang dilampirkan oleh Penjual untuk dikirimkan ke Pembeli sebagai bukti pembayaran.&#x20;
 
-Invoice di Forstok merupakan fitur yang digunakan untuk mendapatkan rincian nominal dari penjualan yang masuk ke dompet penjualan di marketplace, nominal yang dimaksud tidak bisa didapatkan dari menu Sales Order karena informasi seperti _Platform Fee, Platform Fulfillment Fee, Platform Rebate_; baru tersedia setelah transaksi selesai dan pendapatan dari penjualan masuk ke saldo penjual di marketplace.&#x20;
+Invoice di Forstok merupakan fitur yang digunakan untuk mendapatkan rincian nominal dari penjualan yang masuk ke dompet penjual di marketplace.&#x20;
 
-&#x20;
+Nominal yang dimaksud tidak bisa didapatkan dari data penjualan, karena informasi seperti _Platform Fee, Platform Fulfillment Fee, Platform Rebate_; baru tersedia setelah transaksi selesai dan pendapatan dari penjualan masuk ke saldo penjual di marketplace.
 {% endhint %}
 
 
