@@ -4,7 +4,6 @@
 Invoice Video
 {% endembed %}
 
-{% hint style="info" %}
 Forstok Invoice adalah dokumen yang diterbitkan oleh penjual untuk kepentingan pencatatan pembayaran/payout dari penjualan baik di marketplace maupun di luar marketplace.
 
 
@@ -23,6 +22,11 @@ Forstok Invoice adalah dokumen yang diterbitkan oleh penjual untuk kepentingan p
 * Paid - sudah dibayar mengunakan Payment Received
 * Void - Otomatis dibatalkan jika sales order status menjadi batal
 * Write off - faktur yang menjadi tidak tertagih.&#x20;
+
+{% hint style="info" %}
+Forstok Invoice **bukan** merupakan invoice yang dilampirkan oleh Penjual untuk dikirimkan ke Pembeli sebagai bukti pembayaran.&#x20;
+
+Invoice di Forstok merupakan fitur yang digunakan untuk mendapatkan rincian nominal dari penjualan yang masuk ke dompet penjualan di marketplace, nominal yang dimaksud tidak bisa didapatkan dari menu Sales Order karena informasi seperti _Platform Fee, Platform Fulfillment Fee, Platform Rebate_; baru tersedia setelah transaksi selesai dan pendapatan dari penjualan masuk ke saldo penjual di marketplace.&#x20;
 
 &#x20;
 {% endhint %}
