@@ -15,7 +15,7 @@ description: >-
 
 1. Pada menu items, pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Kemudian pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 
@@ -51,7 +51,7 @@ Jika sudah sesuai, maka listing akan masuk dan tampil pada tab linked listing pa
 
 1. Pada menu master product, silahkan klik check box yang bertuliskan bulk select untuk melakukan penambahan listing secara bulk / massal. Kemudian klik di bagian navigasi bawah add listing untuk memulai melakukan add listing secara bulk.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 

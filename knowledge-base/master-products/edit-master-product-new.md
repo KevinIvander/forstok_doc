@@ -20,7 +20,7 @@ Ada 2 cara untuk Edit Master Product, Edit satu master product dan Edit banyak m
 
 1. Pilih beberapa items/product yang ingin diubah kemudian pilih **Edit Product**. Akan membuka tab baru pada browser.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Silahkan Edit artikel produk-produk yang ingin diperbaiki. Scroll ke kanan untuk lihat lebih lengkap field artikel. Jika sudah selesai pilih submit.
 
