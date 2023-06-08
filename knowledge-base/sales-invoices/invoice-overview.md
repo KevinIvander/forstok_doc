@@ -28,7 +28,7 @@ Forstok Invoice **bukan** merupakan invoice yang dilampirkan oleh Penjual untuk 
 
 Invoice di Forstok merupakan fitur yang digunakan untuk mendapatkan rincian nominal dari penjualan yang masuk ke dompet penjual di marketplace.&#x20;
 
-Nominal yang dimaksud tidak bisa didapatkan dari data penjualan, karena informasi seperti _Platform Fee, Platform Fulfillment Fee, Platform Rebate_; baru tersedia setelah transaksi selesai dan pendapatan dari penjualan masuk ke saldo penjual di marketplace.
+Nominal yang dimaksud tidak bisa didapatkan dari data penjualan, karena informasi seperti _Platform Fee, Platform Fulfillment Fee, Platform Rebate_; baru tersedia setelah transaksi selesai dan pendapatan masuk ke saldo penjual di marketplace.
 {% endhint %}
 
 
