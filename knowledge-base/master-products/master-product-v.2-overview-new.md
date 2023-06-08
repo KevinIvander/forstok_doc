@@ -34,7 +34,7 @@ Allows users to create Bundle with **Available Qty** taken from each combined pr
 
 Master Product List : Menampilkan details informasi terkait dengan **Master Product**, **Master SKU** dan juga **Variants** serta yang terbaru adalah **Linked Listing** dimana seller bisa melihat **Listing** dari **Master Product** tersebut dan juga tetap akan menampilkan **Available Quantity** dan **Regular Price**. Jika produk tersebut memiliki variant, tidak memiliki variant, dan bundle maka dapat dilihat dari tab yang ada diatasnya. Pada kolom **Actions**, terdapat beberapa tindakan yang bisa dilakukan per product. Misalnya, Add listing, Edit produk dan lain sebagainya. Namun, dapat juga melalui **Bulk Select** yang ada di bawah Search apabila ingin melakukan action secara Bulk.
 
-Linked listings: Menampilan details informasi terkait dengan jumlah marketplace yang sudah berhasil masuk kedalam listing Master Product. Berikut dengan keterangan variant (jika memiliki variant), quantity, price, listing status (active/inactive) dan dapat langsung melakukan edit listing (jika diinginkan). Tampilan dalam bentuk pop up ini sangat membantu dalam melihat jumlah dan details listingan.
+Linked listings: Menampilan details informasi terkait dengan jumlah marketplace yang sudah berhasil masuk kedalam listing Master Product. Berikut dengan keterangan variant (jika memiliki variant), quantity, price, listing status (active/inactive, live, failed, in progress) dan dapat langsung melakukan edit listing (jika diinginkan). Tampilan dalam bentuk pop up ini sangat membantu dalam melihat jumlah dan details listingan.
 
 {% hint style="info" %}
 Glossary
