@@ -30,6 +30,8 @@ Allows users to create Bundle with **Available Qty** taken from each combined pr
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 Master Product List : Menampilkan details informasi terkait dengan **Master Product**, **Master SKU** dan juga **Variants** serta yang terbaru adalah **Linked Listing** dimana seller bisa melihat **Listing** dari **Master Product** tersebut dan juga tetap akan menampilkan **Available Quantity** dan **Regular Price**. Jika produk tersebut memiliki variant, tidak memiliki variant, dan bundle maka dapat dilihat dari tab yang ada diatasnya. Pada kolom **Actions**, terdapat beberapa tindakan yang bisa dilakukan per product. Misalnya, Add listing, Edit produk dan lain sebagainya. Namun, dapat juga melalui **Bulk Select** yang ada di bawah Search apabila ingin melakukan action secara Bulk.
 
 {% hint style="info" %}
@@ -50,6 +52,8 @@ Apabila seller ingin melakukan penambahan product atau penambahan bundle dapat m
 ## 2. Master Product Detail
 
 <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Master Product Detail : Menampilkan detail infromasi Master Product dengan tampilan Tab Overview, Linked listing dan juga Linked Sku Bundling (apabila produk tersebut masuk menjadi bundling). Pada menu Actions di Product Details, saat ini sudah bisa melakukan Edit Product dan juga Add Listing.
 

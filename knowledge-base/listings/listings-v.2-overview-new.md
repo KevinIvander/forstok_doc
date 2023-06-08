@@ -41,7 +41,7 @@ Sedangkan untuk 2 status pending actions lainnya, masih bisa dilihat pada halama
 
 Jika ingin melakukan perubahan&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Active/Inactive
 
