@@ -97,7 +97,7 @@
   * [Delete Listing](knowledge-base/listings/remove-listing.md)
   * [Import Ulang](knowledge-base/listings/import-ulang.md)
 * [Inventory](knowledge-base/inventory/README.md)
-  * [Inventory qty v2](knowledge-base/inventory/inventory-qty-v2.md)
+  * [Inventory Qty V2](knowledge-base/inventory/inventory-qty-v2.md)
   * [Create Stock Adjustment (interface)](knowledge-base/master-products/upload-stock-adjustment-interface.md)
   * [Create Stock Allocation](knowledge-base/master-products/create-stock-allocation.md)
   * [Price Adjustment (interface)](knowledge-base/master-products/price-adjustment-interface.md)
