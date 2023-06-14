@@ -28,6 +28,8 @@ Informasi Kolom :&#x20;
 * **Reserved Promotions** adalah Qty berdasarkan jumlah "Stock Allocation" yang dibuat oleh user pada fitur "[Create Stock Allocation](https://www.forstok.com/dashboard/bulk\_edit?type=stock\_allocation)"&#x20;
 * **Available to Sell** adalah Qty yang di export ke channel&#x20;
 
+_Keterangan : List warehouse yang muncul di halaman ini jika pada Stock History sudah ada "Opening Stock"_&#x20;
+
 <div align="center">
 
 <figure><img src="../../.gitbook/assets/inventory qty.png" alt=""><figcaption></figcaption></figure>
