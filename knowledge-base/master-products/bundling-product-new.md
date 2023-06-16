@@ -8,6 +8,10 @@ description: Berikut langkah-langkah untuk membuat Bundling Product
 
 Ada 2 cara untuk membuat Bundling Product, Linking Existing Product dan Create New Product
 
+{% hint style="info" %}
+Sebelum melakukan bundling product, pastikan terlebih dahulu master brand pada produk bundle dan produk single/anakan bundlenya sudah terisi. Apabila belum terisi akan mengakibatkan gagal ketika akan menyimpan fungsi bundlenya.
+{% endhint %}
+
 ### Linking Existing Product
 
 1. Pada tampilan master product pilih +Master Products -> Add Bundle Product -> akan membuka tab baru pada browser
