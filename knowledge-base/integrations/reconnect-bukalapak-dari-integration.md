@@ -3,7 +3,7 @@
 Jika integrasi API Bukalapak terputus Anda bisa integrasi ulang atau reconnect API Bukalapak kembali.&#x20;
 
 {% hint style="warning" %}
-Pastikan dan jangan log in toko lain selain Bukalapak yang di integrasikan ke Forstok, karena akan mengakibatkan me-replace API yang sesuai toko lain tsb.
+Apabila terdapat lebih dari 1 store bukalapak yang terintegrasi di Forstok, pastikan proses reconnect dilakukan dari browser/device yang berbeda, hal ini untuk mencegah proses reconnect me-replace koneksi API pada store bukalapak lainnya.
 {% endhint %}
 
 Berikut panduan reconnect API Bukalapak:
