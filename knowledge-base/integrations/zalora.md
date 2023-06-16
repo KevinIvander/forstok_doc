@@ -39,3 +39,23 @@ Pilih Settings > Integration Management
 ![](<../../.gitbook/assets/image (374).png>)
 
 7\. Maka Zalora berhasil integrasi ke Forstok dan sedang proses import produk.&#x20;
+
+### Pendaftaran Webhook Order
+
+Setelah mengintegrasikan zalora ke akun Forstok, lakukan pendaftaran webhook order melalui Seller Center Zalora dengan langkah berikut:
+
+<figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption></figcaption></figure>
+
+1. Pada SC Zalora, klik Pengaturan - Manajemen Integrasi - Add Webhook
+
+<figure><img src="../../.gitbook/assets/image (451).png" alt=""><figcaption></figcaption></figure>
+
+2. Copy and Paste as Text url berikut:
+
+https://order.forstok.com/channels/ zalora/xxxx
+
+{% hint style="info" %}
+Untuk mendapatkan 4 angka terakhir, yang merupakan account ID, silahkan menghubungi tim Forstok agar diberikan account id yang perlu didaftarkan
+{% endhint %}
+
+3. Centang keseluruhan boks centang pada menu Order, kemudian klik Submit.
