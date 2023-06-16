@@ -33,7 +33,7 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 7\. Setelah selesai di download, lengkapi data yang ada di csv. Untuk kolom Brand bisa di download dari Brand List. Untuk brand list harap copy paste kode dan nama brandnya.
 
-![](<../../.gitbook/assets/image (92) (1).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 {% hint style="info" %}
 Berikut adalah contoh Template Cross Listing dalam bentuk xls:

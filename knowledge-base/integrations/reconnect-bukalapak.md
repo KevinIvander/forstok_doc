@@ -1,7 +1,7 @@
 # Reconnect Bukalapak (Dari Pop-up)
 
 {% hint style="warning" %}
-Pastikan dan jangan log in toko lain selain Bukalapak yang di integrasikan ke Forstok, karena akan mengakibatkan me-replace API yang sesuai toko lain tsb.
+Apabila terdapat lebih dari 1 store bukalapak yang terintegrasi di Forstok, pastikan proses reconnect dilakukan dari browser/device yang berbeda, hal ini untuk mencegah proses reconnect me-replace koneksi API pada store bukalapak lainnya.
 {% endhint %}
 
 Jika Anda merubah akses Bukalapak maka di Forstok API Bukalapak otomatis akan non aktif. Untuk mengaktifkan kembali Bukalapak di Forstok. Maka ada pop-up di akun Forstok Anda untuk mengaktifkan kembali. Berikut langkah-langkah mengaktifkan kembali Bukalapak
