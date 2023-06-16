@@ -20,7 +20,7 @@ Kami sarankan pengaturan invoice diatur _auto-create_ pada status order _**Ready
 3. Auto create invoice di Forstok akan auto create sales invoice di Accurate, dan akan langsung memotong stok di Accurate.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Pengaturan auto create invoice pada status RTS di Forstok</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (2).png" alt=""><figcaption><p>Pengaturan auto create invoice pada status RTS di Forstok</p></figcaption></figure>
 
 Berikut adalah alur sinkronisasi invoice dari **Marketplace --> Forstok --> Accurate**:
 

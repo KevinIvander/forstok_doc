@@ -3,13 +3,16 @@
 {% hint style="danger" %}
 Limitasi sinkronisasi stok Accurate --> Forstok:
 
-1. nama produk dan sku antara forstok dan accurate wajib disamakan, kondisi nama sama dengan sku berbeda bisa mengakibatkan error ketika auto create invoice di accurate;
-2. Sync invoice dari forstok ke accurate, dan sync stock accurate ke forstok tdk real-time krn ada limitasi rate limit dari accurate yg menyebabkan delay. Maka kami sarankan untuk dibuat stok terpisah antara gudang online (marketplace) dan offline (penjualan di luar marketplace), stok tetap akan terupdate otomatis tapi delay;
-3. Sync stock juga bisa delay karena proses sync invoice forstok --> accurate berdasarkan status RTS, maka akan terdapat jeda dari status order forstok open - RTS, di mana pada jeda waktu tersebut segala bentuk perubahan pada stok melalui accurate akan menyebabkan ketidaksesuaian jumlah stok antara accurate dan forstok
+1. Nama produk dan SKU antara Forstok dan Accurate wajib disamakan, kondisi nama sama dengan sku berbeda bisa mengakibatkan error ketika auto create invoice di accurate;
+2. Sync invoice dari Forstok ke Accurate, dan sync stock Accurate ke Forstok tidak real-time karena ada limitasi rate limit dari accurate yg menyebabkan delay. Maka kami sarankan untuk dibuat stok terpisah antara gudang online (marketplace) dan offline (penjualan di luar marketplace), stok tetap akan terupdate otomatis tapi delay;
+3. Sync stock juga bisa delay karena proses sync invoice Forstok --> Accurate berdasarkan status RTS. (Jika setting create invoice di Forstok pada status Open maka akan terdapat jeda dari status order Forstok status Open ke status RTS ) di mana pada jeda waktu tersebut _**segala bentuk perubahan pada stok melalui Accurate**_ akan menyebabkan ketidaksesuaian jumlah stok antara Accurate dan Forstok.
 
 
 
-Contoh use case: stock 5 di accurate dan forstok. pk. 13.00, kemudian ada penjualan online 3 qty, invoice di accurate baru tercreate setelah status RTS d forstok, di waktu bersamaan, ada penjualan offline di accurate 3. Ini bisa menyebabkan oversell.
+
+
+Contoh : \
+Stock awal Qty 5 di Accurate dan Forstok pada Pkl. 13.00, kemudian ada penjualan online 3 qty, invoice di accurate baru tercreate setelah status RTS d forstok, di waktu bersamaan, ada penjualan offline di accurate 3. Ini bisa menyebabkan oversell.
 
 \
 
