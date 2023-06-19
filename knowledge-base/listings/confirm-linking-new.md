@@ -30,7 +30,7 @@ Filter tersebut akan menampilkan seluruh listing yang Matched SKU dengan Master 
 
 Apabila Store SKU dengan Master SKU sudah sama, maka listing sudah linking dengan master product
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Bulk Confirm Linking
 

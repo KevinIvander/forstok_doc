@@ -48,7 +48,7 @@ Setelah mengintegrasikan zalora ke akun Forstok, lakukan pendaftaran webhook ord
 
 1. Pada SC Zalora, klik Pengaturan - Manajemen Integrasi - Add Webhook
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 2. Copy and Paste as Text url berikut:
 
