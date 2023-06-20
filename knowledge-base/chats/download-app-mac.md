@@ -18,7 +18,7 @@ Mac: [https://forstokchat.s3-ap-southeast-1.amazonaws.com/Mac/Forstok+Chat-1.0.0
 
 **3. Login using Forstok account**&#x20;
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 **3. Login to each Marketplace store.**&#x20;
 
