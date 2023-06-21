@@ -1,23 +1,16 @@
-# Create Stock Adjustment (interface)
+# Stock Adjustment (interface) via Master Products
 
-Adjust stock via interface bisa dilakukan dengan 3 cara: 1. Pada menu Inventory, +Inventory--> Create Stock Adjustment; dan 2. klik produk di menu Inventory --> Adjust stock
+Adjust stock via interface bisa dilakukan pada menu Master Products:
 
-### **1. Bulk Stock Adjustment via Interface**
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-20 1647141.jpg" alt=""><figcaption></figcaption></figure>
 
-1\. Klik +Inventory --> Create Stock Adjustment
+1\. Pada menu Master Products, search by kode sku, atau centang produk yang ingin dilakukan penyesuaian stok;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 093042.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-2\. Stock adjustment via interface bisa dilakukan dengan:
+2\. Apabila terdapat multi-warehouse, pilih pada warehouse mana stok akan diupdate;
 
-* Final Qty : Input new qty on hand/ jumlah fisik yang ada di gudang setelah ada perubahan
-* Adjust Qty (+) : Input qty change, jumlah penambahan stok
-* Adjust Qty (-) : Input qty change, jumlah pengurangan stok
-* Warehouse : pilih gudang yang akan di update (ini biasanya untuk multi warehouse. Jika hanya 1 gudang hanya Primary Warehouse)
-* Date : Tanggal update stock
-* Reference # : Nomor referensi. Boleh kosong atau di input
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 093117.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 3\. Klik Continue, anda akan dialihkan ke page baru untuk menginput stock adjustment.
 
@@ -25,23 +18,7 @@ Adjust stock via interface bisa dilakukan dengan 3 cara: 1. Pada menu Inventory,
 
 ![](<../../.gitbook/assets/image (345).png>)
 
-* **Adjust Qty (+)**. Input Qty yang akan di tambahkan. Misal stock sebelumnya 20 dan ingin menambahkan 5. Cukup input 5 pada Qty Adjusted. Maka New Qty On Hand bertambah jadi 25
-
-![](<../../.gitbook/assets/image (346).png>)
-
-* **Adjust Qty (-)**.  Untuk mengurangi stock yang ada saat ini. Misal stock saat ini 20 ingin dikurangi 5. Maka input 5 pada Qty Adjusted. Maka New Qty On Hand berkurang jadi 15
-
-![](<../../.gitbook/assets/image (347).png>)
-
-5\. Jika ingin menambahkan sku lain untuk update stock. Pilih Select items
-
-![](<../../.gitbook/assets/image (344).png>)
-
-* Cari sku atau centang sku yang di update stock, lalu klik Add to List
-
-![](<../../.gitbook/assets/image (343).png>)
-
-6\. Klik Notifications - Summary untuk melihat hasil stock adjustment
+5\. Klik Notifications - Summary untuk melihat hasil stock adjustment
 
 ![](<../../.gitbook/assets/summary stock adjustment interface.jpg>)
 
@@ -51,15 +28,17 @@ Adjust stock via interface bisa dilakukan dengan 3 cara: 1. Pada menu Inventory,
 
 ### **2. Individual Stock Adjustment via Interface**
 
-1. Klik item yang ingin dilakukan stock adjustment --> Adjust Stock
+Penyesuaian stok per produk juga bisa dilakukan dari master product:
 
-![](<../../.gitbook/assets/individual stock adjustment.png>)
+1. Centang 1 produk yang ingin diadjust, klik Stock Adjustment
 
-2\. Pilih tipe stock adjustment, pilih warehouse, date, dan reference number apabila ada, klik Continue
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-20 165709.jpg" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/Screenshot 2022-03-24 141143 (1).jpg>)
+2\. Pilih warehouse apabila terdapat multiwarehouse - Continue
 
-3\. Apabila Final qty, input jumlah fisik barang terbaru di kolom new qty on hand, untuk adjust qty (-) dan (=), input jumlah penyesuaian stok. Reason sifatnya opsional.
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+3\. Final qty, input jumlah fisik barang terbaru di kolom new qty on hand, input jumlah penyesuaian stok. Reason sifatnya opsional.
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-24 141341.jpg>)
 

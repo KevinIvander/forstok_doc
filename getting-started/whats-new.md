@@ -31,8 +31,8 @@ New Release ITEM V2 :&#x20;
 
 You can now adjust stock without upload excel. Use a barcode scanner to select product and counting. Register your barcode first by upload in master product template.
 
-{% content-ref url="../knowledge-base/master-products/upload-stock-adjustment-interface.md" %}
-[upload-stock-adjustment-interface.md](../knowledge-base/master-products/upload-stock-adjustment-interface.md)
+{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-interface-1.md" %}
+[upload-stock-adjustment-interface-1.md](../knowledge-base/inventory/upload-stock-adjustment-interface-1.md)
 {% endcontent-ref %}
 
 ## May 3, 2021
