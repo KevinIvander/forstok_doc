@@ -13,32 +13,27 @@
 
 ## Cara Integrasi Zalora (Step-by-step)
 
-1\. Untuk Integrasi ke Zalora terlebih dahulu log in ke seller center Zalora di [https://sellercenter.zalora.co.id/](https://sellercenter.zalora.co.id/) untuk mendapatkan API Zalora.\
-Pilih Settings > Integration Management
+1\.  Login ke seller center > ke page [https://sellercenter.zalora.co.id/oauth/apps](https://sellercenter.zalora.co.id/oauth/apps)
 
-![](<../../.gitbook/assets/image (206).png>)
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-2\. Pada kolom API dan API Key copy paste API Zalora pada integrasi Zalora Forstok.
+2\. Klik "Add Application" > Input data dibawah ini:
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083377573/original/obOk93Wne9EGacURGzoXJck-DfSGO6KsqA.png?1611654341)
+**Application Name** : Forstok.com
 
-3\. Pilih menu Integrations --> pilih Add Integrations
+**Authorization redirect URL** : [https://www.forstok.com/dashboard/channels/integrations/zalora/setup](https://www.forstok.com/dashboard/channels/integrations/zalora/setup)
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062574882/original/BdIDq-WRz6e8oEZ9NQnU1Uj6VFDxR3Meuw.png?1601815709)
+Website URL : [https://app.forstok.com/](https://app.forstok.com/)\
+\
+Kemudian klik Save.
 
-4\. Klik View/Connect untuk integrasikan Zalora
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48064002742/original/GLjyBNBUDWljjGbHVEwCWzmNmbbKPtaFXg.png?1602444620)
+3\. Hasil Data di bawah ini diinput di Forstok
 
-5\. Input Email log Zalora dan API Key Zalora yang sudah kita dapatkan pada point 2. Lalu klik Install Zalora
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48083378641/original/5cjmEKMS4fUzFy1kmzwReahG5x5SC3yZrg.png?1611654590)
-
-6\. Pada Product Catalog pilih **Sync Product from Zalora --**>**Next --**> pilih **Finish**
-
-![](<../../.gitbook/assets/image (374).png>)
-
-7\. Maka Zalora berhasil integrasi ke Forstok dan sedang proses import produk.&#x20;
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-30 145532.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Pendaftaran Webhook Order
 

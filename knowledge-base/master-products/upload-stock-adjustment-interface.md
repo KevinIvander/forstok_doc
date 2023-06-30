@@ -6,11 +6,11 @@ Adjust stock via interface bisa dilakukan pada menu Master Products:
 
 1\. Pada menu Master Products, search by kode sku, atau centang produk yang ingin dilakukan penyesuaian stok;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 2\. Apabila terdapat multi-warehouse, pilih pada warehouse mana stok akan diupdate;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 3\. Klik Continue, anda akan dialihkan ke page baru untuk menginput stock adjustment.
 

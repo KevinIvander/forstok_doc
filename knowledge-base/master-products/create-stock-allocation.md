@@ -16,7 +16,7 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#
 
 2\. Pilih add item, untuk menambahkan item mana saja yang stoknya akan di alokasikan. kalau sudah dipilih klik button merah add to list.
 
-![](<../../.gitbook/assets/image (84).png>)
+![](<../../.gitbook/assets/image (84) (1).png>)
 
 3\. Input jumlah qty yang akan di lock stok nya dan periode tanggal berjalan lock stock allocation nya. Lalu klik save.
 
