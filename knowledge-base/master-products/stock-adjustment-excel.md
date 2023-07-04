@@ -4,19 +4,25 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 # Upload Stock Adjustment Final Qty (xls)
 
-1\. Pada menu Inventory, pilih Upload Stock Adjustment
+1\. Arahkan kursor ke menu Inventory, pilih Inventory Old UI:\
+\
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-07-04 163737.jpg" alt=""><figcaption></figcaption></figure>
+
+2. Pilih Upload Stock Adjustment
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 091516.jpg" alt=""><figcaption></figcaption></figure>
 
-2\.  Pilih warehouse yang akan di update stocknya, kemudian klik Download Template 1 kali saja.
+3\.  Pilih warehouse yang akan di update stocknya, kemudian klik Download Template 1 kali saja.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 092314.jpg" alt=""><figcaption></figcaption></figure>
 
-3\. File bisa di download pada Notifications, klik '**Download File**'
+4\. File bisa di download pada Notifications, klik '**Download File**'
 
 ![](<../../.gitbook/assets/Download file stock adjustment (1).jpg>)
 
-4\. Input stock yang akan di update pada kolom New Qty On Hand&#x20;
+5\. Input stock yang akan di update pada kolom New Qty On Hand&#x20;
 
 Contoh 1\
 \
@@ -44,11 +50,11 @@ Terdapat barang rusak sejumlah 2 item, maka input new Qty on Hand menjadi 69
 * Jika ingin menjumlahkan dengan rumus vlookup harap dilakukan diluar format original file update stock Forstok. Atau pada update stock di New Qty On Hand tidak ada rumus. Karena akan failed saat export data ke channel
 {% endhint %}
 
-5\. Setelah penginputan stock pada New Qty On Hand, upload dan import file.
+6\. Setelah penginputan stock pada New Qty On Hand, upload dan import file.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 092606.jpg" alt=""><figcaption></figcaption></figure>
 
-6\.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
+7\.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
 
 ![](<../../.gitbook/assets/summary stock adjustment final qty xls.jpg>)
 
