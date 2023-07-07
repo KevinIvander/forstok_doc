@@ -6,6 +6,8 @@ description: >-
 
 # Add Listing v2 ( NEW )
 
+<figure><img src="../../.gitbook/assets/Forstok Auto Fill listing.gif" alt=""><figcaption></figcaption></figure>
+
 ## **What’s New**
 
 1. **Single Listing :** Multi Store, Multi Channel, Multi Categories, New Interface.
