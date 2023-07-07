@@ -12,6 +12,7 @@ description: >-
 
 1. **Single Listing :** Multi Store, Multi Channel, Multi Categories, New Interface.
 2. **Bulk Listing :** Multi Product, Multi Store, Multi Channel, Multi Categories, New Interface.
+3. **Auto-fill Custom fields :** Otomatis copy data (Category, Brand, description, dll) ke product lain yang mempunyai master category yang sama. Lihat video di atas.
 
 ## Single Listing
 
