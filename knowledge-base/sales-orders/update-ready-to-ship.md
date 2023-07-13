@@ -27,4 +27,4 @@ description: >-
 
 5. Create shipment + Ready to Ship untuk jenis pesanan dengan kurir 'custom', isi nomor awb secara manual dan isi nama kurir untuk mempermudah filter tampilan order berdasarkan jenis kurir:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

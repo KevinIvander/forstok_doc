@@ -7,7 +7,7 @@ Langkah-langkah yang bisa dilakukan untuk menyesuaikan harga adalah :\
 
 2. Ubah harga yang tertera, kemudian klik Save
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
