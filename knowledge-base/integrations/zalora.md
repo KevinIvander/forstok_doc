@@ -27,7 +27,7 @@ Website URL : [https://app.forstok.com/](https://app.forstok.com/)\
 \
 Kemudian klik Save.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Hasil Data di bawah ini diinput di Forstok
 
