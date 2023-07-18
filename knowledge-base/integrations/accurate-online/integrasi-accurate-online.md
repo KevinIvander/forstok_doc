@@ -43,6 +43,12 @@
 
 2**. Login User & password Accurate**
 
+
+
+{% hint style="info" %}
+**Pastikan integrasi dilakukan dengan email owner/ akun utama, penggunaan email lain/nomor handphone akan mengakibatkan gagalnya proses integrasi**
+{% endhint %}
+
 ![](<../../../.gitbook/assets/Screen Shot 2022-01-27 at 9.33.37 AM.png>)
 
 3\. **Klik "Beri Akses"**
