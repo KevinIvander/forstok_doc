@@ -16,6 +16,8 @@ Untuk Channel yang sudah menyediakan API finance/ Payout, Amount akan terisi sec
 * Bukalapak
 * Lazada
 * Tiktok
+
+
 {% endhint %}
 
 {% hint style="danger" %}
@@ -26,6 +28,8 @@ Untuk Channel yang tidak mempunya API finance/ Payout, seller harus mengisi amou
 
 * Zalora
 * Blibli
+
+
 {% endhint %}
 
 Fitur ini berguna untuk Anda dapat melihat rincian pengurangan maupun penambahan dari Order tersebut langsung secara otomatis terisi Amountnya yang didapatkan dari masing-masing _Channel/Marketplace_. Untuk menggunakan fitur ini, pastikan Anda sudah menyalakan _Invoice_, karena pembayaran yang terima akan berelasi dengan _Invoice_.
@@ -40,13 +44,7 @@ Adapun penjelasan dari masing-masing field di atas sebagai berikut:
 * _Total_: Sub Total - Voucher Amount - Service Fee + Platform Rebate + Shipping (if non-cashless)
 * _Balance Due_: Outstanding invoice amount
 
-**Available Channel:**
 
-* Shopee
-* Tokopedia
-* Bukalapak
-* Lazada
-* Tiktok
 
 **Note:**
 
