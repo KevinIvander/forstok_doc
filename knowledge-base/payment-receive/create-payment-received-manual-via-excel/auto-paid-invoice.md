@@ -1,2 +1,0 @@
-# Auto Paid Invoice
-
