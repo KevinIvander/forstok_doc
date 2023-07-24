@@ -1,6 +1,32 @@
-# Payment Received via API (Single)
+# Create Payment Received (Manual via Interface)
 
 <figure><img src="../../.gitbook/assets/dcv (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% hint style="success" %}
+Untuk Channel yang sudah menyediakan API finance/ Payout, Amount akan terisi secara otomatis.&#x20;
+
+
+
+**Channels:**&#x20;
+
+* Shopee
+* Tokopedia
+* Bukalapak
+* Lazada
+* Tiktok
+{% endhint %}
+
+{% hint style="danger" %}
+Untuk Channel yang tidak mempunya API finance/ Payout, seller harus mengisi amount secara manual. \
+
+
+**Channels:**&#x20;
+
+* Zalora
+* Blibli
+{% endhint %}
 
 Fitur ini berguna untuk Anda dapat melihat rincian pengurangan maupun penambahan dari Order tersebut langsung secara otomatis terisi Amountnya yang didapatkan dari masing-masing _Channel/Marketplace_. Untuk menggunakan fitur ini, pastikan Anda sudah menyalakan _Invoice_, karena pembayaran yang terima akan berelasi dengan _Invoice_.
 
