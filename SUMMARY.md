@@ -157,7 +157,6 @@
   * [Mark Invoice as Void](knowledge-base/sales-invoices/export-invoice-excel.md)
 * [Pelunasan (Payment Received/Payout)](knowledge-base/payment-receive/README.md)
   * [Payment Received List](knowledge-base/payment-receive/payment-received-list.md)
-  * [Create Payment Received (Manual - Non API)](knowledge-base/payment-receive/create-payment-received-manual-non-api.md)
   * [Create Payment Received (Manual via Interface)](knowledge-base/payment-receive/create-payment-received-manual-via-interface.md)
   * [Create Payment Received - (Manual via Excel)](knowledge-base/payment-receive/create-payment-received-manual-via-excel.md)
   * [Auto Payment Received/ Paid (Coming Soon)](knowledge-base/payment-receive/auto-payment-received-paid-coming-soon.md)
