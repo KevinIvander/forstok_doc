@@ -3,7 +3,8 @@
 
 
 {% hint style="info" %}
-Pastikan sebelum melakukan sinkronisasi penjualan; CoA, dan detail amount/rincian penjualan pada Accurate Settings telah di-mapping agar data order yang masuk ke Forstok dapat dikirimkan dengan sesuai ke Accurate
+1. Pastikan sebelum melakukan sinkronisasi penjualan; CoA, dan detail amount/rincian penjualan pada Accurate Settings telah di-mapping agar data order yang masuk ke Forstok dapat dikirimkan dengan sesuai ke Accurate;
+2. Pastikan SKU yang terdaftar di Forstok tidak ada yang empty, sku Empty dapat mengakibatkan proses auto create invoice di Accurate gagal, karena kode sku di accurate wajib terisi.
 {% endhint %}
 
 Data penjualan yang dikirimkan dari Marketplace --> Forstok, akan dikirimkan ke Accurate melalui fitur **Invoice**, panduan penggunaan fitur **Invoice**:
