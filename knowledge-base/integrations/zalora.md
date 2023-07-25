@@ -50,7 +50,10 @@ Setelah mengintegrasikan zalora ke akun Forstok, lakukan pendaftaran webhook ord
 https://order.forstok.com/channels/zalora/xxxx
 
 {% hint style="info" %}
-Untuk mendapatkan 4 angka terakhir (xxxx), yang merupakan account ID, silahkan menghubungi tim Forstok agar diberikan account id yang perlu didaftarkan
+xxxx merupakan kombinasi angka yang merupakan account id, yang akan ada setelah Zalora terintegrasi, acc id bisa didapatkan dengan cara membuka Integration - Zalora Settings, kemudian pada URL dari halaman tersebut akan terdapat 4/5 angka yang merupakan account ID yang dibutuhkan.
+
+Contoh: [https://www.forstok.com/dashboard/channels/settings/12345/edit](https://www.forstok.com/dashboard/channels/settings/12322/edit)\
+Maka account id adalah 12345
 {% endhint %}
 
 3. Centang keseluruhan boks centang pada menu Order, kemudian klik Submit.
