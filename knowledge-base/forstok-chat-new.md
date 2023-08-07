@@ -34,6 +34,10 @@ Bagian sebelah kiri akan disesuaikan dengan jumlah marketplace (Shopee dan Tokop
 
 <figure><img src="../.gitbook/assets/Screenshot_40.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Aktifasi fitur chat hanya akan menarik 15 chat dengan status unread di marketplace, dengan maksimal waktu 14 hari ke belakang, apabila tidak ada chat dengan status tersebut, maka setelah fitur chat diaktifkan maka fitur chat akan kosong, dan akan muncul ketika ada chat baru dari pelanggan/customer.
+{% endhint %}
+
 4. Seller sudah dapat menerima dan membalas pesan langsung dari customer dengan tampilan percakapan berikut ini.
 
 <figure><img src="../.gitbook/assets/Screenshot_41.png" alt=""><figcaption></figcaption></figure>
