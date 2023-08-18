@@ -1,4 +1,4 @@
-# Produk Import (Jurnal ke Forstok)
+# Produk Import (Jurnal → Forstok)
 
 Membuat Produk pada Jurnal:
 
@@ -18,6 +18,10 @@ Membuat Produk pada Jurnal:
 ![](<../../../.gitbook/assets/image (430).png>)
 
 * Kemudian klik tombol "Import produk" untuk mengimpor produk dari Jurnal yang belum terdaftar di Forstok. **Menambahkan produk baru di Jurnal tidak akan otomatis menambahkan produk di Forstok.** Ulangi langkah “Impor produk” ini setiap kali Anda menambahkan produk baru di Jurnal.
+
+{% hint style="info" %}
+Produk yang diimport hanya yang statusnya aktif di Jurnal, apabila produk yang ingin diimport ke Forstok statusnya inaktif, maka status produk diubah terlebih dahulu, baru kemudian diimport ke Forstok dengan klik tombol import.
+{% endhint %}
 
 ![](../../../.gitbook/assets/image-20201229-045816.png)
 
