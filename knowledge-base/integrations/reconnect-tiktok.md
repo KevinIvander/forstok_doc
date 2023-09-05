@@ -7,7 +7,7 @@ Masa integrasi tiktok maksimal 1 tahun, apabila terdapat perubahan password atau
 \
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Pada menu di Forstok, klik Integrations - Tiktok Settings - Update untuk melakukan reconnect API integration, atau klik Reconnect pada popup notifikasi yang muncul:\
 

@@ -36,7 +36,7 @@ Penyesuaian stok per produk juga bisa dilakukan dari master product:
 
 2\. Pilih warehouse apabila terdapat multiwarehouse - Continue
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Final qty, input jumlah fisik barang terbaru di kolom new qty on hand, input jumlah penyesuaian stok. Reason sifatnya opsional.
 

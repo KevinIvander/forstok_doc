@@ -18,7 +18,7 @@ description: >-
 
 1. Pada menu items, pilih item yang ingin di listingkan. Pilih Manage Listing, kemudian klik Add Listing V2.
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Kemudian pilih 1 atau lebih store yang akan di listingkan dan pilih Continue.
 

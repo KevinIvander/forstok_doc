@@ -55,7 +55,7 @@ Apabila seller ingin melakukan penambahan product atau penambahan bundle dapat m
 
 <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Master Product Detail : Menampilkan detail infromasi Master Product dengan tampilan Tab Overview, Linked listing dan juga Linked Sku Bundling (apabila produk tersebut masuk menjadi bundling). Pada menu Actions di Product Details, saat ini sudah bisa melakukan Edit Product dan juga Add Listing.
 

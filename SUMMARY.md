@@ -80,6 +80,7 @@
 * [Dashboard](knowledge-base/dashboard/README.md)
   * [Dashboard](knowledge-base/dashboard/introduction-to-dashboard.md)
 * [Master Products](knowledge-base/master-products/README.md)
+  * [Import/Export New dan Updated Master Product](knowledge-base/master-products/import-export-new-dan-updated-master-product.md)
   * [Master Product v.2 Overview (NEW)](knowledge-base/master-products/master-product-v.2-overview-new.md)
   * [Add Master Product (NEW)](knowledge-base/master-products/add-master-product-new.md)
   * [Edit Master Product (NEW)](knowledge-base/master-products/edit-master-product-new.md)
