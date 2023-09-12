@@ -10,13 +10,17 @@ description: >-
 
 ![](../.gitbook/assets/screen-shot-2021-01-24-at-3.11.23-pm.png)
 
+**ERP/WMS Integrations**
+
 1. Create master products from ERP to Forstok
 2. Stock adjustment from ERP to Sales Channels
 3. Price adjustment from ERP to Sales Channels (Regular price)
 4. New orders from Sales Channel to ERP
 5. Update order status from ERP to Sales Channels and get Cashless shipping documents&#x20;
 
-**See our API documentation here:** [https://apiseller.forstok.com](https://apiseller.forstok.com/?version=latest)
+**For ERP/WMS integration, see our API seller documentation here:** [https://apiseller.forstok.com](https://apiseller.forstok.com/?version=latest)
+
+**For Sales Channels/webcommerce integration, see our API channel documentation here**: [https://apichannel.forstok.com/](https://apichannel.forstok.com/)
 
 {% hint style="info" %}
 Contact us from API key access
