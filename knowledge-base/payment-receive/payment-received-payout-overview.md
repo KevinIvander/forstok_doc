@@ -1,9 +1,11 @@
 # Payment Received / Payout Overview
 
-
-
 {% hint style="info" %}
 Untuk menggunakan fitur 'Payment Received', perlu mengaktifkan fitur faktur terlebih dahulu.[ ](../settings/invoice-settings.md)[Invoice Settings](../settings/invoice-settings.md)
+{% endhint %}
+
+{% hint style="info" %}
+Fitur "Payment Received" hanya berfungsi untuk mencatat biaya-biaya. Proses penarikan dana tetap harus dilakukan langsung melalui platform marketplace
 {% endhint %}
 
 Forstok "Payment Received" atau "Payout" pada invoice adalah konfirmasi bahwa pihak yang berutang (Marketplace or customer) telah membayar jumlah yang tertera dalam invoice, menyelesaikan transaksi.
