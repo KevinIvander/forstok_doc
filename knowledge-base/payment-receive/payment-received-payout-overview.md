@@ -1,7 +1,7 @@
 # Payment Received / Payout Overview
 
 {% hint style="info" %}
-Untuk menggunakan fitur 'Payment Received', perlu mengaktifkan fitur faktur terlebih dahulu.[ ](../settings/invoice-settings.md)[Invoice Settings](../settings/invoice-settings.md)
+Untuk menggunakan fitur 'Payment Received', perlu mengaktifkan fitur faktur terlebih dahulu.[ ](../settings/invoice-settings.md)[Invoice Settings](../sales-invoices/invoice-settings.md)
 {% endhint %}
 
 {% hint style="info" %}
