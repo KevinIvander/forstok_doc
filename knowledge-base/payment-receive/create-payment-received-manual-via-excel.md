@@ -1,28 +1,4 @@
-# Create Payment Received - (Manual via Excel)
-
-{% hint style="success" %}
-Untuk Channel yang sudah menyediakan API finance/ Payout, Amount akan terisi secara otomatis.&#x20;
-
-
-
-**Channels:**&#x20;
-
-* Shopee
-* Tokopedia
-* Bukalapak
-* Lazada
-* Tiktok
-{% endhint %}
-
-{% hint style="danger" %}
-Untuk Channel yang tidak mempunya API finance/ Payout, seller harus mengisi amount secara manual. \
-
-
-**Channels:**&#x20;
-
-* Zalora
-* Blibli
-{% endhint %}
+# Create Payment Received - (API via Excel)
 
 Keuntungan dari menggunakan fitur **Payment Receive Forstok**:
 
