@@ -157,7 +157,7 @@
   * [Mark Invoice as Written Off](knowledge-base/sales-invoices/mark-invoice-as-written-off.md)
   * [Mark Invoice as Void](knowledge-base/sales-invoices/export-invoice-excel.md)
 * [Pelunasan (Payment Received/Payout)](knowledge-base/payment-receive/README.md)
-  * [Payment Received / Payout Overview](knowledge-base/payment-receive/payment-received-payout-overview.md)
+  * [Payment Received Overview](knowledge-base/payment-receive/payment-received-overview.md)
   * [Payment Received List](knowledge-base/payment-receive/payment-received-list.md)
   * [Create Payment Received (Manual via Interface)](knowledge-base/payment-receive/create-payment-received-manual-via-interface.md)
   * [Create Payment Received - (Manual via Excel)](knowledge-base/payment-receive/create-payment-received-manual-via-excel.md)
