@@ -8,9 +8,11 @@ Untuk menggunakan fitur 'Payment Received', perlu mengaktifkan fitur faktur terl
 Fitur "Payment Received" hanya berfungsi untuk mencatat biaya-biaya. Proses penarikan dana tetap harus dilakukan langsung melalui platform marketplace
 {% endhint %}
 
-Forstok 'Payment Received' atau 'Payout' pada Forstok invoice adalah catatan pembayaran dimana pihak yang berutang (Marketplace atau pelanggan) telah melunasi jumlah yang tercantum dalam invoice, menyelesaikan transaksi.
+Fitur 'Payment Received' atau 'Payout' pada Invoice Forstok adalah alat pencatatan pembayaran di mana pihak yang berutang (Marketplace atau pelanggan) menyelesaikan jumlah yang tertera dalam faktur melalui API. Hal ini memungkinkan pengguna untuk menghindari pengunduhan file Excel dari Marketplace, mengeliminasi proses manual
 
-Pengguna dapat melakukan konfirmasi "Payment Received" untuk faktur dari Marketplace ketika status pesanan sudah berubah menjadi "Completed". Status "Completed" menandakan bahwa Marketplace telah melakukan pembayaran ke dompet penjual, sehingga Forstok dapat menarik jumlah yang diterima melalui API. Dengan ini, penjual tidak perlu lagi mengunduh excel dari Marketplace, menghindari proses manual.
+Payment Received' untuk Invoice dari Marketplace dapat dilakukan ketika status pesanan sudah berubah menjadi 'Completed'. Status 'Completed' menandakan bahwa Marketplace telah melakukan pembayaran ke dompet penjual, sehingga Forstok dapat menarik jumlah yang diterima melalui API.
+
+'Payment Received' dapat dilakukan pada H+1 pukul 00.00. Artinya, jika pesanan selesai pada pukul 14:00 hari ini, pembayaran dapat dikonfirmasi atau invoice dapat diubah menjadi status 'Paid' pada hari berikutnya setelah pukul 00:00.
 
 **Biaya-biaya dari setiap Marketplace dapat bervariasi. Forstok telah melakukan pemetaan yang terperinci dalam tabel di bawah ini**
 
