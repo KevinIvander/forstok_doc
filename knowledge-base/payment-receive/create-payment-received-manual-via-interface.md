@@ -1,6 +1,12 @@
 # Create Payment Received (API via Interface)
 
-<figure><img src="../../.gitbook/assets/dcv (1).png" alt=""><figcaption></figcaption></figure>
+### Single Payment Received (Interface)
+
+<figure><img src="../../.gitbook/assets/Payment Received - select.png" alt=""><figcaption><p>Click "Payment Received</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Payment Received Single.png" alt=""><figcaption><p>Single Payment Received</p></figcaption></figure>
+
+### Bulk Payment Received (Interface)
 
 
 
