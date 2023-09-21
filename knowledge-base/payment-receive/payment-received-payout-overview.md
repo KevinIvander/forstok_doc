@@ -1,5 +1,11 @@
 # Payment Received / Payout Overview
 
+
+
+{% hint style="info" %}
+Untuk menggunakan fitur 'Payment Received', perlu mengaktifkan fitur faktur terlebih dahulu.[ ](../settings/invoice-settings.md)[Invoice Settings](../settings/invoice-settings.md)
+{% endhint %}
+
 Forstok "Payment Received" atau "Payout" pada invoice adalah konfirmasi bahwa pihak yang berutang (Marketplace or customer) telah membayar jumlah yang tertera dalam invoice, menyelesaikan transaksi.
 
 Pengguna dapat melakukan konfirmasi "Payment Received" untuk faktur dari Marketplace ketika status pesanan sudah berubah menjadi "Completed". Status "Completed" berarti Marketplace telah melakukan pembayaran ke dompet penjual, sehingga Forstok dapat menarik jumlah yang diterima dari API. Dengan ini, penjual tidak perlu lagi mengunduh excel dari Marketplace, menghindari proses manual.
