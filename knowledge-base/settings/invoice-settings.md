@@ -4,4 +4,4 @@ Anda dapat mengatur berdasarkan status pesanan di Forstok agar faktur dibuat sec
 
 Anda dapat mengatur pengaturan ini melalui Settings -> Invoices.
 
-<figure><img src="../../.gitbook/assets/3rewf.png" alt=""><figcaption><p>Invoice Settings.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Forstok Invoice Settings.png" alt=""><figcaption><p>Invoice Settings.</p></figcaption></figure>
