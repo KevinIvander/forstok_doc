@@ -20,7 +20,7 @@ Untuk Channel yang sudah menyediakan API finance/ Payout, Amount akan terisi sec
 * Blibli (Coming Soon)
 {% endhint %}
 
-Fitur 'Payment Received' atau 'Payout' pada Invoice Forstok adalah alat pencatatan pembayaran di mana pihak yang berutang (Marketplace atau pelanggan) menyelesaikan jumlah yang tertera dalam faktur melalui API. Hal ini memungkinkan pengguna untuk menghindari pengunduhan file Excel dari Marketplace, mengeliminasi proses manual
+'Payment Received' atau 'Payout' pada Invoice Forstok adalah fitur pencatatan pembayaran di mana pihak yang berutang (Marketplace atau pelanggan) menyelesaikan jumlah yang tertera dalam faktur melalui API. Hal ini memungkinkan pengguna untuk menghindari pengunduhan file Excel dari Marketplace, mengeliminasi proses manual
 
 Payment Received' untuk Invoice dari Marketplace dapat dilakukan ketika status pesanan sudah berubah menjadi 'Completed'. Status 'Completed' menandakan bahwa Marketplace telah melakukan pembayaran ke dompet penjual, sehingga Forstok dapat menarik jumlah yang diterima melalui API.
 
