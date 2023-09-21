@@ -6,6 +6,18 @@ Untuk menggunakan fitur 'Payment Received', perlu mengaktifkan fitur faktur terl
 
 {% hint style="info" %}
 Fitur "Payment Received" hanya berfungsi untuk mencatat biaya-biaya. Proses penarikan dana tetap harus dilakukan langsung melalui platform marketplace
+
+
+
+Untuk Channel yang sudah menyediakan API finance/ Payout, Amount akan terisi secara otomatis.&#x20;
+
+* Shopee
+* Tokopedia
+* Bukalapak
+* Lazada
+* Tiktok
+* Zalora
+* Blibli (Coming Soon)
 {% endhint %}
 
 Fitur 'Payment Received' atau 'Payout' pada Invoice Forstok adalah alat pencatatan pembayaran di mana pihak yang berutang (Marketplace atau pelanggan) menyelesaikan jumlah yang tertera dalam faktur melalui API. Hal ini memungkinkan pengguna untuk menghindari pengunduhan file Excel dari Marketplace, mengeliminasi proses manual
