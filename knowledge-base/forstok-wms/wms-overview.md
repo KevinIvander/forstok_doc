@@ -26,6 +26,10 @@ Forstok WMS adalah aplikasi manajemen gudang yang bisa membantu tim gudang melak
 
 ![](<../../.gitbook/assets/Screenshot 2022-03-28 094228.jpg>)
 
+### Video Tutorial:
+
+{% embed url="https://forstok-staging-storage.s3.ap-southeast-1.amazonaws.com/public/WMS+APP.mp4" %}
+
 ### Features:
 
 &#x20;**Manage outbound activities**
@@ -54,7 +58,7 @@ Saat ini Forstok mendukung barcode dengan <mark style="color:red;">**kriteria 12
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2023-03-20 at 09.48.30.jpeg" alt=""><figcaption></figcaption></figure>
 
-Sedangkan belum mendukung untuk barcode dengan kriteria <mark style="color:red;"></mark> <mark style="color:red;"></mark><mark style="color:red;">**International Article Number (EAN).**</mark>
+Sedangkan belum mendukung untuk barcode dengan kriteria <mark style="color:red;">**International Article Number (EAN).**</mark>
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2023-03-20 at 09.48.32.jpeg" alt=""><figcaption></figcaption></figure>
 
