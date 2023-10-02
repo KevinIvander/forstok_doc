@@ -2,7 +2,9 @@
 
 {% embed url="https://drive.google.com/file/d/12-Vlk-8ReYRqrLi6rczrcWZ_BC7V1GEO/view?usp=drive_link" %}
 
-<figure><img src="../../../.gitbook/assets/WhatsApp Image 2023-03-08 at 11.56.39.jpeg" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/WhatsApp Image 2023-03-08 at 11.56.39.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 
