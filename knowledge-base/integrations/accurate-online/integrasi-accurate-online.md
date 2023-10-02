@@ -34,7 +34,7 @@
 {% hint style="danger" %}
 **Stock berkurang di accurate berdasarkan invoice, dengan demikian langsung memotong stok on hand/fisik. Begitu juga dengan di Forstok, kalau order RTS itu juga sudah memotong stok on hand.**
 
-**Pastikan nama produk dan kode sku disamakan antara forstok dan accurate, kondisi nama produk sama dengan sku berbeda akan mengakibatkan error ketika auto create invoice di accurate**
+**Pastikan nama produk dan kode sku disamakan antara forstok dan accurate, kondisi nama produk dan sku berbeda akan mengakibatkan error ketika proses create invoice di accurate dan sync stock dari accurate ke forstok.**
 {% endhint %}
 
 1. **Add Integration > Choose “Accurate” > Click “Connect”**
