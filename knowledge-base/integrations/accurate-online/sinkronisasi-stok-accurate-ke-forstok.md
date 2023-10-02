@@ -60,6 +60,12 @@ Terdapat **2 langkah** untuk melakukan Sync stok Accurate --> Forstok:
 
 ## **Langkah kedua**: klik tombol **Sync Stock**
 
+
+
+{% hint style="info" %}
+Klik tombol Sync Stock apabila terdapat transfer stok dari gudang A ke gudang B.
+{% endhint %}
+
 1. Klik menu Integrations - Accurate Settings
 
 <figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
@@ -67,3 +73,7 @@ Terdapat **2 langkah** untuk melakukan Sync stok Accurate --> Forstok:
 2. Klik Sync stock pada Integrations - Accurate Settings - Sync Stock
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-09-26 110305.jpg" alt=""><figcaption><p>Klik Sync Stock untuk menarik qty stock Accurate --> Forstok</p></figcaption></figure>
+
+{% hint style="info" %}
+
+{% endhint %}
