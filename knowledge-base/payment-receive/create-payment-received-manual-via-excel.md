@@ -1,12 +1,15 @@
 # Create Payment Received - (API via Excel)
 
-Keuntungan dari menggunakan fitur **Payment Receive Forstok**:
 
-1. _Cost Structure_ yang berbeda dari setiap marketplace disamakan di fitur Payment Receive, sehingga memudahkan proses rekonsiliasi;
-2. _Flow_ rekonsiliasi lebih sederhana karena data sudah tersedia via API;
-3. _**Detail amount**_ yang terinput pada payment receive sudah akurat, karena otomatis terisi sesuai dengan nominal yang masuk pada saldo/dompet penjual;
-4. Pengecekan ulang terhadap data tersedia di 1 platform, tanpa perlu menarik data secara manual satu per satu dari marketplace, cukup mengunduh file xls payment receive dari Forstok;
-5. Dengan melakukan create _Payment Receive_ dari Forstok, fitur _Reporting - Financial Transactions_ bisa digunakan: [Financial Transactions](../reports/financial-reports.md)
+
+{% hint style="info" %}
+Payment Received' untuk Invoice dari Marketplace dapat dilakukan ketika status pesanan sudah berubah menjadi 'Completed'. Status 'Completed' menandakan bahwa Marketplace telah melakukan pembayaran ke dompet penjual, sehingga Forstok dapat menarik jumlah yang diterima melalui API.
+
+Forstok akan menjadwalkan penarikan data pembayaran setiap hari pada pukul 00:00. Hal ini memungkinkan 'Payment Received' dilakukan pada H+1 pukul 00:00. Dengan kata lain, jika pesanan selesai pada pukul 14:00 hari ini, pembayaran dapat dikonfirmasi atau invoice dapat diubah menjadi status 'Paid' pada hari berikutnya setelah pukul 00:00.&#x20;
+
+\
+Filter "Payment Received Ready" akan memfilter invoice dengan Order status completed dan H+1.&#x20;
+{% endhint %}
 
 Bulk payment receive melalui '_**+Payment Receive**_', berikut adalah langkahnya:
 
