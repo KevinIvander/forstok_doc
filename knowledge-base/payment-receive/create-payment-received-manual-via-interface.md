@@ -3,17 +3,15 @@
 {% hint style="info" %}
 Payment Received' untuk Invoice dari Marketplace dapat dilakukan ketika status pesanan sudah berubah menjadi 'Completed'. Status 'Completed' menandakan bahwa Marketplace telah melakukan pembayaran ke dompet penjual, sehingga Forstok dapat menarik jumlah yang diterima melalui API.
 
-'Payment Received' dapat dilakukan pada H+1 pukul 00.00. Artinya, jika pesanan selesai pada pukul 14:00 hari ini, pembayaran dapat dikonfirmasi atau invoice dapat diubah menjadi status 'Paid' pada hari berikutnya setelah pukul 00:00\
+Forstok akan menjadwalkan penarikan data pembayaran setiap hari pada pukul 00:00. Hal ini memungkinkan 'Payment Received' dilakukan pada H+1 pukul 00:00. Dengan kata lain, jika pesanan selesai pada pukul 14:00 hari ini, pembayaran dapat dikonfirmasi atau invoice dapat diubah menjadi status 'Paid' pada hari berikutnya setelah pukul 00:00.&#x20;
+
 \
 Filter "Payment Received Ready" akan memfilter invoice dengan Order status completed dan H+1.&#x20;
 {% endhint %}
 
 ### Filter Payment Received Ready
 
-Sebelum melakukan Payment Received, disarankan untuk menggunakan filter 'Payment Received Ready' yang akan menfilter Invoice dengan status pesanan selesai dan telah berlalu 1 hari (H+1)\
-
-
-Forstok akan menjadwalkan penarikan data pembayaran setiap hari pada pukul 00:00.
+Sebelum melakukan Payment Received, disarankan untuk menggunakan filter 'Payment Received Ready' yang akan menfilter Invoice dengan status pesanan selesai dan telah berlalu 1 hari (H+1)
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2023-10-12 at 8.38.33 AM.jpeg" alt=""><figcaption></figcaption></figure>
 
