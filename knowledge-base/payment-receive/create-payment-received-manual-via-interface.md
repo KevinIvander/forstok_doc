@@ -9,7 +9,7 @@ Forstok akan menjadwalkan penarikan data pembayaran setiap hari pada pukul 00:00
 Filter "Payment Received Ready" akan memfilter invoice dengan Order status completed dan H+1.&#x20;
 {% endhint %}
 
-### Filter Payment Received Ready
+### Filter "Payment Received Ready"
 
 Sebelum melakukan Payment Received, disarankan untuk menggunakan filter 'Payment Received Ready' yang akan memfilter Invoice dengan status pesanan selesai dan telah berlalu 1 hari (H+1)
 
