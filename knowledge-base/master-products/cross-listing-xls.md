@@ -13,7 +13,7 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk melakukan _cross lis
 
 1\. Pastikan kondisi integrasi sudah **sync item on**. Lihat [migrate-to-forstok.md](../before-integrations/migrate-to-forstok.md "mention")
 
-2\. Lakukan category mapping terlebih dahulu untuk mempermudah proses Cross Listing melalui Settings - Category. Lihat [category.md](../settings/category.md "mention")
+2\. Lakukan category mapping terlebih dahulu untuk mempermudah proses Cross Listing melalui Settings - Category. Lihat [Broken link](broken-reference "mention")
 
 3\. Pada halaman Master Products, dibagian navigasi sebelah kiri pilih **Cross Listing**
 

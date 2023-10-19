@@ -189,7 +189,6 @@
   * [Users & Roles](knowledge-base/settings/users-and-roles.md)
   * [Billing & Plans (Coming Soon)](knowledge-base/settings/billing-and-plans.md)
   * [Taxes](knowledge-base/settings/taxes.md)
-  * [Category Mapping](knowledge-base/settings/category.md)
   * [Manage Warehouse](knowledge-base/settings/manage-warehouse-list.md)
   * [Template Shipping Label](knowledge-base/settings/custom-shipping-label.md)
   * [Invoice Settings](knowledge-base/settings/invoice-settings.md)
