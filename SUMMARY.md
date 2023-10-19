@@ -186,7 +186,7 @@
   * [General](knowledge-base/settings/general.md)
   * [Taxes](knowledge-base/settings/taxes.md)
   * [Invoice Settings](knowledge-base/settings/invoice-settings.md)
-  * [Inventory](knowledge-base/settings/priority-channel-store.md)
+  * [Inventory](knowledge-base/master-products/priority-channel-store.md)
   * [My Account](knowledge-base/settings/my-account.md)
   * [Users & Roles](knowledge-base/settings/users-and-roles.md)
   * [Billing & Plans (Coming Soon)](knowledge-base/settings/billing-and-plans.md)
