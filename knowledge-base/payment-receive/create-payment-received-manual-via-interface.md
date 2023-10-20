@@ -23,11 +23,9 @@ Sebelum melakukan Payment Received, disarankan untuk menggunakan filter 'Payment
 
 ### Bulk Payment Received (Interface)
 
+<figure><img src="../../.gitbook/assets/TES144.jpg" alt=""><figcaption><p>Geser layar ke bawah, pilih jumlah invoice yang ingin ditampilkan sebelum melakukan Bulk Select</p></figcaption></figure>
 
-
-<figure><img src="../../.gitbook/assets/Bulk Payment Received - Select .png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Bulk Payment Received - Select .png" alt=""><figcaption><p>Centang box per invoice atau centang box 'Bulk Select' untuk select seluruh invoice yang ditampilkan</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Bulk Payment Reiceved - save.png" alt=""><figcaption></figcaption></figure>
 
