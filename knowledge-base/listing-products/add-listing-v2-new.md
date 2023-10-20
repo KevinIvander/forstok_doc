@@ -12,7 +12,7 @@ description: >-
 
 1. **Single Listing :** Multi Store, Multi Channel, Multi Categories, New Interface.
 2. **Bulk Listing :** Multi Product, Multi Store, Multi Channel, Multi Categories, New Interface.
-3. **Auto-fill Custom fields :** Otomatis copy data (Category, Brand, description, dll) ke product lain yang mempunyai master category yang sama. Lihat video di atas.
+3. **Auto-Save Category Mapping** : Otomatis menyimpan dan mapping category master ke category channel disaat pertama kali mengisi
 
 ## Single Listing
 
@@ -69,3 +69,9 @@ Jika sudah sesuai, maka listing akan masuk dan tampil pada tab linked listing pa
 {% hint style="info" %}
 **Note :** Field yang tidak ada highlight merah sudah otomatis terisi sesuai dengan Master Product item yang dipilih tetapi anda tetap bisa mengubahnya.
 {% endhint %}
+
+## **Auto-Save Category Mapping**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-10-20 151502.jpg" alt=""><figcaption></figcaption></figure>
+
+Category yang diisikan setelah pertama kali melakukan Add Listing akan auto-save atau otomatis tersimpan, baik untuk proses listing ke channel yang sama dengan store yang berbeda (shopee dan shopee), dan untuk proses listing berikutnya pada master category dan channel category yang sama untuk memudahkan proses listing.
