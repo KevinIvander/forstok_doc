@@ -27,6 +27,8 @@ Sebelum melakukan Payment Received, disarankan untuk menggunakan filter 'Payment
 
 <figure><img src="../../.gitbook/assets/tes155.jpg" alt=""><figcaption><p>Centang box per invoice atau centang box 'Bulk Select' untuk select seluruh invoice yang ditampilkan (maksimal 200 invoice per action bulk select)</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/tes433.jpg" alt=""><figcaption><p>Bulk Select Invoice</p></figcaption></figure>
+
 Fitur ini berguna untuk Anda dapat melihat rincian pengurangan maupun penambahan dari Order tersebut langsung secara otomatis terisi Amountnya yang didapatkan dari masing-masing _Channel/Marketplace_. Untuk menggunakan fitur ini, pastikan Anda sudah menyalakan _Invoice_, karena pembayaran yang terima akan berelasi dengan _Invoice_.
 
 Adapun penjelasan dari masing-masing field di atas sebagai berikut:
