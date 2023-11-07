@@ -58,7 +58,7 @@ Tersedia juga harga yang disarankan, bisa dilihat pada bagian Suggested Price. H
 
 9. Jika sudah sesuai, pilih Save maka Bundling Product sudah dibuat.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create New Product
 
@@ -84,7 +84,7 @@ Create New Product pada halaman Add Bundle Product sama halnya dengan membuat ma
 
 5. Maka akan Pop Up yang berisi produk-produk yang sudah ada. Cari nama produk atau SKU yang diinginkan atau bisa memilih langsung produk yang sudah ditampilkan. Pilih satu atau lebih produk.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Kemudian pilih Add to List untuk menambahkan produk yang sudah dipilih
 

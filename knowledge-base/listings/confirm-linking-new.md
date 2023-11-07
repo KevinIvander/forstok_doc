@@ -26,7 +26,7 @@ Filter tersebut akan menampilkan seluruh listing yang Matched SKU dengan Master 
 
 4. Apabila sudah klik Confirm Linking maka akan muncul pemberitahuan Confirm sudah berhasil.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
 
 Apabila Store SKU dengan Master SKU sudah sama, maka listing sudah linking dengan master product
 
@@ -40,7 +40,7 @@ Apabila Store SKU dengan Master SKU sudah sama, maka listing sudah linking denga
 
 2. Gunakan filter Link Status untuk mempermudah Bulk Select, pilih SKU Match
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 3. Pilih beberapa produk yang ingin di confirm, bisa juga menggunakan Bulk Select apabila ingin memilih seluruh listing yang tampil di list. Kemudian pilih Confirm Linking pada menu dibagian bawah
 
@@ -48,4 +48,4 @@ Apabila Store SKU dengan Master SKU sudah sama, maka listing sudah linking denga
 
 4. Jika sudah berhasil maka akan muncul pemberitahuan Confirm Linking berhasil seperti pada step sebelumnya, jika di reload maka list akan kosong karena seluruh listing yang dipilih sudah linking dengan master product
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>

@@ -45,7 +45,7 @@ Jangan lupa unprotect file. Password: forstok123
 
 5\. Untuk melihat hasil update qty tsb klik icon Notifications. Hasilnya bisa dilihat dari activity tsb. Untuk melihat activity lebih lengkap bisa klik More Activity
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1).png>)
 
 6\. Untuk memastikan kembali stock sudah berhasil terupdate pilih salah satu sku lalu cek di seller center atau dari link produk
 

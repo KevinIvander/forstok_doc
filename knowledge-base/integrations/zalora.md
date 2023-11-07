@@ -27,11 +27,11 @@ Website URL : [https://app.forstok.com/](https://app.forstok.com/)\
 \
 Kemudian klik Save.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Hasil Data di bawah ini diinput di Forstok
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-06-30 145532.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,7 @@ Setelah mengintegrasikan zalora ke akun Forstok, lakukan pendaftaran webhook ord
 
 1. Pada SC Zalora, klik Pengaturan - Manajemen Integrasi - Add Webhook
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Copy and Paste as Text url berikut:
 

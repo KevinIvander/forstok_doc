@@ -8,7 +8,7 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#
 
 1\. Pada left pannel, pilih **+Inventory**, lalu pilih _**create stok allocation**_.|
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Pilih channel mana yang akan di alokasikan stok nya.&#x20;
 
