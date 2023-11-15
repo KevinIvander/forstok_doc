@@ -45,6 +45,7 @@
   * [Zilingo](knowledge-base/integrations/zilingo.md)
   * [Elevenia](knowledge-base/integrations/elevenia.md)
   * [Shopify](knowledge-base/integrations/shopify.md)
+  * [Shopify (new integration)](knowledge-base/integrations/shopify-1.md)
   * [Woocommerce](knowledge-base/integrations/woocommerce.md)
   * [Magento 2.0](knowledge-base/integrations/magento-2.0.md)
   * [Jurnal Accounting](knowledge-base/integrations/jurnal-accounting/README.md)

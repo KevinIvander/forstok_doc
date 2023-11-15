@@ -30,9 +30,12 @@ Informasi Kolom :&#x20;
 
 _Keterangan : List warehouse yang muncul di halaman ini jika pada Stock History sudah ada "Opening Stock"_&#x20;
 
-<div align="center">
+**Import/Export**
 
-<figure><img src="../../.gitbook/assets/inventory qty.png" alt=""><figcaption></figcaption></figure>
+* **Upload Stock Adjustment**
+* **Upload Stock Inbound**
+* **Upload Stock Outbound**
+* **Upload Price Adjustment**
 
-</div>
+<figure><img src="../../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
 
