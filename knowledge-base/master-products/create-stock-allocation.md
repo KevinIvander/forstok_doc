@@ -6,9 +6,9 @@ description: Bagaimana untuk Membuat stock allocation
 
 Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#x20;
 
-1\. Pada left pannel, pilih **+Inventory**, lalu pilih _**create stok allocation**_.|
+1\. Pada menu Inventory, klik +Stock Adjustment - Stock Allocation
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 151141.jpg" alt=""><figcaption></figcaption></figure>
 
 2. Pilih channel mana yang akan di alokasikan stok nya.&#x20;
 
@@ -22,6 +22,6 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#
 
 ![](<../../.gitbook/assets/image (250).png>)
 
-4\. Berikut tampilan jika stock allocation berhasil dibuat dari Forstok.
+4\. Berikut tampilan jika stock allocation berhasil dibuat dari Forstok, informasi bisa diakses di menu Inventory OLD UI - search sku - Listings.
 
-![](<../../.gitbook/assets/image (227).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

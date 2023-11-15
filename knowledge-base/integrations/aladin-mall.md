@@ -8,7 +8,7 @@ Proses linking product antara forstok - aladinmall dilakukan dengan cara cross l
 
 1. Pastikan toko di aladinmall sudah aktif;
 2. Infokan ke tim Forstok untuk integrasi aladinmall;
-3. Setelah tim forstok konfirmasi bahwa sudah terintegrasi, lakukan cross listing: [panduan cross listing](../master-products/cross-listing-xls.md)
+3. Setelah tim forstok konfirmasi bahwa sudah terintegrasi, lakukan cross listing: [panduan cross listing](broken-reference)
 
 {% hint style="info" %}
 Sebelum melakukan cross listing ke Aladinmall, kami sarankan melakukan category mapping terlebih dahulu: [category mapping](broken-reference)

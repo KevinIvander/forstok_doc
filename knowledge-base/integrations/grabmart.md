@@ -39,5 +39,5 @@ Jika fitur sync item ON diaktifkan ketika item belum ditambahkan di Forstok, mak
 
 5\. Channel Grabmart akan muncul di menu Integrations;
 
-6\. Silahkan melakukan listing ke grabmart melalui Add Listing[Broken link](broken-reference "mention") atau Cross Listing[cross-listing-xls.md](../master-products/cross-listing-xls.md "mention").
+6\. Silahkan melakukan listing ke grabmart melalui Add Listing[Broken link](broken-reference "mention") atau Cross Listing[Broken link](broken-reference "mention").
 

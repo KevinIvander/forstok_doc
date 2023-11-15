@@ -88,7 +88,6 @@
   * [Bundling Product (NEW)](knowledge-base/master-products/bundling-product-new.md)
   * [Price Adjustment (interface)](knowledge-base/master-products/price-adjustment-interface.md)
   * [Stock Adjustment (interface) via Master Products](knowledge-base/master-products/upload-stock-adjustment-interface.md)
-  * [Cross Listing dari Master Product (xls)](knowledge-base/master-products/cross-listing-xls.md)
 * [Listings](knowledge-base/listing-products/README.md)
   * [Listings v.2 Overview (New)](knowledge-base/listings/listings-v.2-overview-new.md)
   * [Import produk dari channel](knowledge-base/listing-products/import-product-from-channels.md)
