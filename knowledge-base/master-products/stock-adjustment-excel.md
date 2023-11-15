@@ -4,25 +4,25 @@ description: Untuk menginput total stock yang ada saat ini (qty on hand)
 
 # Upload Stock Adjustment Final Qty (xls)
 
-1\. Arahkan kursor ke menu Inventory, pilih Inventory Old UI:\
+1\. Klik menu Inventory - Import/Export - Upload Stock Adjustment\
 \
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-07-04 163737.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 140951.jpg" alt=""><figcaption></figcaption></figure>
 
-2. Pilih Upload Stock Adjustment
+3\.  Pilih warehouse yang akan di update stocknya, kemudian klik Download 1 kali saja.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 091516.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 141223.jpg" alt=""><figcaption></figcaption></figure>
 
-3\.  Pilih warehouse yang akan di update stocknya, kemudian klik Download Template 1 kali saja.
+4\. Setelah diklik, akan muncul notifikasi bahwa proses download in progress
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 092314.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 142855.jpg" alt=""><figcaption></figcaption></figure>
 
-4\. File bisa di download pada Notifications, klik '**Download File**'
+5\. File bisa didownload pada menu Activity, klik Download File
 
-![](<../../.gitbook/assets/Download file stock adjustment (1).jpg>)
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 142929.jpg" alt=""><figcaption></figcaption></figure>
 
-5\. Input stock yang akan di update pada kolom New Qty On Hand&#x20;
+6. Buka File dan isi file dengan contoh sebagai berikut:
 
 Contoh 1\
 \
@@ -50,9 +50,9 @@ Terdapat barang rusak sejumlah 2 item, maka input new Qty on Hand menjadi 69
 * Jika ingin menjumlahkan dengan rumus vlookup harap dilakukan diluar format original file update stock Forstok. Atau pada update stock di New Qty On Hand tidak ada rumus. Karena akan failed saat export data ke channel
 {% endhint %}
 
-6\. Setelah penginputan stock pada New Qty On Hand, upload dan import file.
+6\. Setelah penginputan stock pada New Qty On Hand, save file xls, pada menu Inventory, klik Import/Export, klik browse, pilih file xls yang sudah diisi - Import
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-06 092606.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 143434.jpg" alt=""><figcaption></figcaption></figure>
 
 7\.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
 
