@@ -1,18 +1,25 @@
 # Upload Stock Adjustment Qty +/- (xls)
 
 {% hint style="info" %}
-Adjust + untuk input jumlah stok yang ditambahkan
+Adjust Inbound untuk input jumlah stok yang ditambahkan
 
-Adjust - untuk input jumlah stok yang dikurangi
+Adjust Outbound untuk input jumlah stok yang dikurangi
 {% endhint %}
 
-1\. Pada menu Item Forstok pilih tanda panah berikut dan Upload Stock Adjustment
+**Upload Stock Inbound**
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+1\. Pada menu Inventory, klik Import/Export - Upload Stock Inbound untuk mendownload file xls Stock Inbound
 
-2\.  Pilih tipe stock adjustment berdasarkan kebutuhan, kemudian pilih warehouse yang akan di update stocknya, download template
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 143829 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+**Upload Stock Outbound**\
+klik menu Upload Stock Outbound untuk mendownload file xls Stock Outbound
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 144551 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+2\.  Pilih warehouse (apabila multiwarehouse), kemudian download
+
+<figure><img src="../../.gitbook/assets/image (451).png" alt=""><figcaption></figcaption></figure>
 
 3\. Download file di Notifications
 
@@ -22,8 +29,15 @@ Adjust - untuk input jumlah stok yang dikurangi
 
 ![](<../../.gitbook/assets/adjust qty plus xls.jpg>)
 
-5\. Upload dan import file tsb
+5\. Upload dan import file.
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+**Upload Stock Inbound**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 150202.jpg" alt=""><figcaption></figcaption></figure>
+
+**Upload Stock Outbound**\
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 150308.jpg" alt=""><figcaption></figcaption></figure>
 
 6\.  Untuk melihat hasil update qty tsb klik icon Notifications - More Activity. Download pada **Summary File**
