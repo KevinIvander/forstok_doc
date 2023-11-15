@@ -32,10 +32,10 @@ _Keterangan : List warehouse yang muncul di halaman ini jika pada Stock History 
 
 **Import/Export**
 
-* **Upload Stock Adjustment**
-* **Upload Stock Inbound**
-* **Upload Stock Outbound**
-* **Upload Price Adjustment**
+* **Upload Stock Adjustment:** Download dan upload update stock via xls dengan input final qty
+* **Upload Stock Inbound**: Download dan upload update stock via xls dengan input inbound qty
+* **Upload Stock Outbound :** Download dan upload update stock via xls dengan input outbound qty
+* **Upload Price Adjustment :** Download dan upload penyesuaian harga via xls
 
 <figure><img src="../../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
 
