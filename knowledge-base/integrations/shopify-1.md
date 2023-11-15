@@ -4,13 +4,11 @@
 
 {% hint style="info" %}
 Untuk integrasi Shopify ada 2 point:\
-1\. Integrasi Shopify ke Forstok\
-2\. Mendaftarkan order webhook Shopify
+1\. Mendapatkan API Key, API Access Token di Seller Center Shopify\
+2\. Integrasi Shopify ke Forstok
 {% endhint %}
 
 ## Integrasi
-
-Shopify dapat diintegrasikan di Forstok, untuk prosesnya membutuhkan API key, API Secret, dan domain web Shopify.
 
 Log In ke seller center Shopify atau akun Shopify
 
