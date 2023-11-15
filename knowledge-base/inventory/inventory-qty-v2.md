@@ -9,7 +9,7 @@ Pada halaman ini dapat melakukan "Create Stock Adjustment" :&#x20;
 * **Final Qty** adalah untuk merubah Qty sebelumnya&#x20;
 * **Inbound Qty** adalah untuk menambahkan Qty sebelumnya&#x20;
 * **Outbond Qty** adalah untuk mengurangi Qty sebelumnya
-* Stock Allocation adalah untuk membuat alokasi stok
+* **Stock Allocation** adalah untuk membuat alokasi stok
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
