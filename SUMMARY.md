@@ -50,7 +50,7 @@
   * [Magento 2.0](knowledge-base/integrations/magento-2.0.md)
   * [Jurnal Accounting](knowledge-base/integrations/jurnal-accounting/README.md)
     * [Integrasi Jurnal](knowledge-base/integrations/jurnal-accounting/integrasi-jurnal.md)
-    * [Jurnal Settings - Pengaturan yang perlu dilakukan di menu Jurnal](knowledge-base/integrations/jurnal-accounting/pesanan-penjualan-ke-faktur-chart-of-accounting-mapping.md)
+    * [Jurnal Settings - Pengaturan yang perlu dilakukan di menu Jurnal](knowledge-base/integrations/jurnal-accounting/jurnal-settings-pengaturan-yang-perlu-dilakukan-di-menu-jurnal.md)
     * [Produk Import (Jurnal → Forstok)](knowledge-base/integrations/jurnal-accounting/pedoman-penggunaan-jurnal-di-forstok.md)
     * [Sinkronisasi stok (Jurnal → Forstok)](knowledge-base/integrations/jurnal-accounting/sinkronisasi-stok-jurnal-ke-forstok.md)
     * [Sinkronisasi Invoice (Forstok → Jurnal)](knowledge-base/integrations/jurnal-accounting/sinkronisasi-invoice-forstok-jurnal.md)

@@ -15,7 +15,7 @@ Jurnal merupakan sistem akuntansi yang memudahkan Anda dalam mengelola laporan p
 ### Onboarding steps
 
 1. Integration Steps. [View here](integrasi-jurnal.md)
-2. Jurnal Settings - Mapping COA and Warehouse. [View here](pesanan-penjualan-ke-faktur-chart-of-accounting-mapping.md)
+2. Jurnal Settings - Mapping COA and Warehouse. [View here](jurnal-settings-pengaturan-yang-perlu-dilakukan-di-menu-jurnal.md)
 3. How to import product from Jurnal to Forstok (Manual import). [View here](pedoman-penggunaan-jurnal-di-forstok.md)
 4. Stock adjustment and sync from Jurnal to Forstok (Manual Sync). [View here](sinkronisasi-stok-jurnal-ke-forstok.md)
 5. Order sync from Forstok to Jurnal (Otomatis). [View here](sinkronisasi-invoice-forstok-jurnal.md)
