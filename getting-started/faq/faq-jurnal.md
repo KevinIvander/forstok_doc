@@ -1,5 +1,9 @@
 # FAQ - Jurnal
 
+### Bagaimana cara melakukan sales return?
+
+Saat ini sales return belum bisa dilakukan dari Forstok, apabila terdapat pesanan yang ada retur dan mengakibatkan perubahan pada stok, lakukan/buat sales return di Jurnal untuk penyesuaian stok kembali.
+
 ### Berapa rate limit update stok per sku dari jurnal ke forstok?
 
 Update stock by API Seller disarankan 50 request per menit.
