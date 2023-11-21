@@ -12,21 +12,59 @@ Untuk integrasi Shopify ada 2 point:\
 
 Log In ke seller center Shopify atau akun Shopify
 
-1. Klik **Apps** - **Develop Apps**
-2. Klik **Create an app**
-3. Input nama app, contoh 'Forstok', kemudian pilih user yang membuat app, pilih **Create App**
-4. Pada halaman **App Development**, klik **Overview** - **Configure Admin API Scopes**
-5. Centang semua akses pada **Admin API Configuration**
-6. Klik **Save**
-7. Pada tab **API Credentials** --> **Access Tokens**, klik **Install App**
-8. Klik **Install**
-9. **API Key** dan **Admin API access token** akan digunakan untuk integrasi Shopify di Forstok
+1. Klik **Settings**
+
+<figure><img src="../../.gitbook/assets/1s.jpg" alt=""><figcaption></figcaption></figure>
+
+2. Apps and sales channels --> Develop apps
+
+<figure><img src="../../.gitbook/assets/2s.jpg" alt=""><figcaption></figcaption></figure>
+
+3. Allow custom app development
+
+<figure><img src="../../.gitbook/assets/3s.jpg" alt=""><figcaption></figcaption></figure>
+
+4. Klik **Allow custom app development** kembali
+
+<figure><img src="../../.gitbook/assets/4s.jpg" alt=""><figcaption></figcaption></figure>
+
+5. Create an app
+
+<figure><img src="../../.gitbook/assets/5s.jpg" alt=""><figcaption></figcaption></figure>
+
+6. Isi **App name** --> **Create app**
+
+<figure><img src="../../.gitbook/assets/6s.jpg" alt=""><figcaption></figcaption></figure>
+
+7. Pada menu App development, klik **API Credentials** --> **Configure Admin API scopes**
+
+<figure><img src="../../.gitbook/assets/7s.jpg" alt=""><figcaption></figcaption></figure>
+
+8. Centang seluruh jenis akses
+
+<figure><img src="../../.gitbook/assets/85s.jpg" alt=""><figcaption></figcaption></figure>
+
+9. Klik **Save**
+
+<figure><img src="../../.gitbook/assets/8s.jpg" alt=""><figcaption></figcaption></figure>
+
+10. Klik tab **API** credentials -->**Install app**
+
+<figure><img src="../../.gitbook/assets/9s.jpg" alt=""><figcaption></figcaption></figure>
+
+11. Klik **Install**
+
+<figure><img src="../../.gitbook/assets/10s.jpg" alt=""><figcaption></figcaption></figure>
+
+12. Pada tab **API Credentials**, klik **Reveal token once**, copy API access token dan API key, simpan untuk digunakan pada proses integrasi Shopify di Forstok
+
+<figure><img src="../../.gitbook/assets/11s.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Integrasi Shopify di Forstok
 
 1. Login ke Forstok
 2. Klik Integration - Add Integrations&#x20;
-3. Input API Key, API Access Token, dan domain web
+3. Input **API Key**, **Admin API Access Token**, dan domain web
 
 {% hint style="info" %}
 **PERLU DIKETAHUI:**
