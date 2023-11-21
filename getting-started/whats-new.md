@@ -100,8 +100,8 @@ Stock Adjustment Type**:**&#x20;
 
 * **Create Sales Order.** You can create new sales order for orders coming from social channels or Marketplace that has not integrated with Forstok.
 
-{% content-ref url="../knowledge-base/sales-orders/create-sales-order.md" %}
-[create-sales-order.md](../knowledge-base/sales-orders/create-sales-order.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 * **Create dropship order.** You can create dropship Order if your reseller buy items from you but you ship the items directly to their customers. You can enter the customer shipping address.

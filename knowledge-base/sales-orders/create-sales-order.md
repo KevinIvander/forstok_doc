@@ -1,8 +1,12 @@
-# Create Sales Order (Order v1)
+# Create Sales Order (Orders v2)
 
-1. Pada menu order klik **+Order** --> **Create Sales Order**
+### Video
 
-![](<../../.gitbook/assets/create sales orders v1.jpg>)
+{% embed url="https://www.loom.com/share/6b607fc84e504348a2a29a4403db9152" %}
+
+1. **Pada menu Sales Order klik menu +Sales Order**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-21 133724.jpg" alt=""><figcaption></figcaption></figure>
 
 2\. Isi kolom seperti Customer Name, Ship From (untuk Warehouse) dan Store Name dan untuk dropship klik check box dropship order.
 

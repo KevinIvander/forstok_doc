@@ -32,6 +32,6 @@ Untuk melisting item POS tidak perlu Mapping Category, jadi hanya perlu klik Sub
 
 Jika ada orderan POS, bisa create manual sales order untuk proses orderan. Saat orderan tercreate makan stock juga ikut terpotong. Berikut panduan create sales order
 
-{% content-ref url="sales-orders/create-sales-order.md" %}
-[create-sales-order.md](sales-orders/create-sales-order.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
