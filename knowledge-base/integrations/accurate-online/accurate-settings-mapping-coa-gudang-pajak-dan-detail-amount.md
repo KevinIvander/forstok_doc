@@ -25,6 +25,12 @@
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-02-02 122541.jpg" alt=""><figcaption></figcaption></figure>
 
+
+
+{% hint style="info" %}
+Shipping fee mapping dan platform rebate mapping bisa dibuat pada akun Pendapatan Lainnya; Voucher seller, shipping fee difference, platform fulfillment fee, dan service fee mapping bisa dibuat di akun Beban lainnya di CoA accurate
+{% endhint %}
+
 4. **Click Save**
 
 {% hint style="warning" %}
