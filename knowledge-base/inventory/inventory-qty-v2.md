@@ -11,7 +11,7 @@ Pada halaman ini dapat melakukan "Create Stock Adjustment" :&#x20;
 * **Outbond Qty** adalah untuk mengurangi Qty sebelumnya
 * **Stock Allocation** adalah untuk membuat alokasi stok
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Informasi Tab ( Grouping ) :&#x20;
 

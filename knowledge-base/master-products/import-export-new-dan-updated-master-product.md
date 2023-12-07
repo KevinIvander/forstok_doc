@@ -1,10 +1,10 @@
 # Import/Export New dan Updated Master Product
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pada menu Master Products, klik Import/Export untuk mendownload/mengupload master product
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cara Pengisian XLS
 
@@ -38,19 +38,22 @@ Jika tidak ada item variant, untuk kolom option type, option value di kosongkan 
 
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48076128375/original/VSkXCNKVGNoSo\_Cs1TsM5RSPBsdE\_AiFzA.png?1607922976)
 
-6. Weight: Isi berat produk
-7. Dimension length: isi dimensi panjang barang
-8. Dimension width: isi dimensi lebar barang
-9. Dimension height: isi dimensi tinggi barang
-10. Cost Price: isi harga pokok penjualan (hpp) untuk fitur reporting&#x20;
-11. Quantity: stok awal wajib diisi
-12. Barcode: diisikan kode barcode untuk fitur WMS forstok
-13. Location ID: bisa dikosongkan
-14. Description: isi deskripsi barang
-15. image url: bisa dikosongkan
+6. **Weight**: Isi berat produk
+7. **Dimension length**: isi dimensi panjang barang
+8. **Dimension width**: isi dimensi lebar barang
+9. **Dimension height**: isi dimensi tinggi barang
+10. **Cost Price**: isi harga pokok penjualan (hpp) untuk fitur reporting
 
-4\. Save file, kemudian upload file yang sudah dilengkapi sebelumnya pada halaman Master Product - Import/Export - Create Master Product - Browse&#x20;
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+11. **Quantity**: stok awal wajib diisi
+12. **Barcode**: diisikan kode barcode untuk fitur WMS forstok
+13. **Location ID**: bisa dikosongkan
+14. **Description**: isi deskripsi barang
+15. **image url**: bisa dikosongkan
 
+Setelah selesai, save file (jangan ubah nama file), kemudian upload file yang sudah dilengkapi pada halaman Master Product - Import/Export - Create Master Product - Browse - Import
 
-5\. Tunggu hingga proses selesai. Lalu cek notifikasi untuk melihat summary nya.&#x20;
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Tunggu hingga proses selesai. Lalu cek notifikasi untuk melihat summary nya.&#x20;

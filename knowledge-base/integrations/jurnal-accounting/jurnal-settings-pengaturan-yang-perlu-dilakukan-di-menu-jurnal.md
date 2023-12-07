@@ -67,4 +67,4 @@ Untuk melihat warehouse code di Jurnal:&#x20;
 
 ### 5. Aktifkan fitur Multipemotongan di Jurnal
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

@@ -46,7 +46,7 @@ Untuk menambahkan Master Product lebih banyak, dapat dilakukan dengan memilih + 
 
 7. Maka Master Product berhasil ditambahkan
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Note : Untuk melihat master product yang sudah di tambahkan, bisa menggunakan sort by : Most Recent Created&#x20;

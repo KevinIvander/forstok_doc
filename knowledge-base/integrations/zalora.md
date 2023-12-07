@@ -31,7 +31,7 @@ Kemudian klik Save.
 
 3\. Hasil Data di bawah ini diinput di Forstok
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-06-30 145532.jpg" alt=""><figcaption></figcaption></figure>
 
