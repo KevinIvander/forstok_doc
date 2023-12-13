@@ -47,3 +47,11 @@ Per tanggal 27 Maret 2023 saat ini rate limit untuk AOL sudah naik menjadi 8 req
 Proses retur saat ini tergantung dari settings auto create invoice di Forstok, cek panduan berikut: [Invoice Settings](../../knowledge-base/settings/invoice-settings.md). Hal ini dikarenakan proses create invoice di accurate berjalan ketika invoice created di Forstok. Apabila retur terjadi setelah barang keluar dari gudang (status ready to ship), proses retur tergantung dari apakah invoice sudah terbuat di forstok atau belum, apabila belum maka proses pengembalian stock/penambahan stok hanya perlu diilakukan di Forstok. Namun apabila sudah terbuat di Forstok, maka perlu dilakukan update status terhadap invoice menjadi status voided, ini agar invoice yang sudah terbuat di Accurate bisa terhapus ([Mark as Void](../../knowledge-base/sales-invoices/export-invoice-excel.md)).
 
 Apabila terjadi partial retur, misal barang yang dikirimkan ada 2, namun yang diterima 1 dan 1 lagi dikembalikan, maka perlu dilakukan input manual di Accurate untuk disesuaikan kembali.
+
+### Bagaimana apabila invoice tidak terbuat di Accurate?
+
+Terdapat beberapa skenario yang dapat menyebabkan gagalnya proses terbuatnya invoice di accurate, apabila accurate sudah terintegrasi dan CoA serta WH sudah termapping, pada menu Invoice di Forstok, terdapat notifikasi untuk melihat _Summary_ dari invoice yang gagal terbuat di accurate:
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-13 085931.jpg" alt=""><figcaption><p>Klik 'View Orders'</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-13 090029.jpg" alt=""><figcaption><p>Pada kolom 'Failed Reason' anda bisa melihat gagalnya proses pembuatan invoice di accurate karena apa, pada tombol Retry anda bisa melakukan request proses retry create invoice di accurate</p></figcaption></figure>
