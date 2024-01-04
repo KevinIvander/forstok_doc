@@ -17,3 +17,13 @@ Berikut panduan create payment receive: [View Here](../../payment-receive/)
 <figure><img src="../../../.gitbook/assets/image (1) (6).png" alt=""><figcaption><p>Detail amount yang tertera di Accurate setelah dilakukan create payment receive di Forstok<br>(klik Invoice di Accurate --> Informasi Diskon --> arahkan kursor dan scroll tabel Akun Diskon untuk melihat seluruh rincian amount yang dikirimkan dari Forstok ke Accurate untuk invoice tersebut)</p></figcaption></figure>
 
 3. Setelah melakukan create payment receive, data amount yang tertera di Forstok, akan dikirimkan ke Accurate dan bisa dilihat rinciannya seperti gambar di atas.&#x20;
+
+
+
+{% hint style="info" %}
+Setelah dilakukan payment received dari Forstok, tanggal yang diinput pada 'Payment Date' di Accurate adalah _channel payment date_ atau tanggal pembayaran dari marketplace ke seller (tanggal pesanan selesai)&#x20;
+
+
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
