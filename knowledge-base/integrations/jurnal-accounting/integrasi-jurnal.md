@@ -27,6 +27,5 @@ Untuk integrasi ke Jurnal
 ![](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48078121334/original/x5DqVK4keLQxqtnuKeBdThAISMfuwz3boQ.png?1608714851)
 
 {% hint style="success" %}
-Setelah berhasil integrasi Jurnal langkah selanjutnya adalah melakukan mapping COA (Chart of Accounting). Berikut panduan penggunaan Jurnal:\
-[https://docs.forstok.com/knowledge-base/integrations/jurnal-accounting/pedoman-penggunaan-jurnal-di-forstok](https://docs.forstok.com/knowledge-base/integrations/jurnal-accounting/pedoman-penggunaan-jurnal-di-forstok)
+Setelah berhasil integrasi Jurnal langkah selanjutnya adalah melakukan mapping COA (Chart of Accounting) dengan mengikuti panduan berikut: [Mapping CoA Jurnal](jurnal-settings-pengaturan-yang-perlu-dilakukan-di-menu-jurnal.md)
 {% endhint %}

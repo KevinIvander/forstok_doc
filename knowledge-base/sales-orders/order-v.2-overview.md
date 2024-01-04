@@ -106,3 +106,15 @@ Sisa waktu untuk di kirim sebelum di auto-cancelled oleh marketplace.
 Apabila belum menyesuaikan dan melakukan pengaturan informasi jasa kirim di marketplace, maka ketika akan memproses order di Forstok akan tampil tanda (-) yang menandakan bahwa informasi kurir belum dilengkapi.
 
 ![](../../.gitbook/assets/Screenshot\_23.png)
+
+### COD Orders
+
+Klik filter ini untuk menampilkan order dengan metode pembayaran _cash on delivery_ (COD)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-04 101727.jpg" alt=""><figcaption></figcaption></figure>
+
+### Failed Delivery
+
+Klik tab ini untuk menampilkan order dengan status _Failed Delivery_ atau paket gagal diantarkan.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-04 101747.jpg" alt=""><figcaption></figcaption></figure>
