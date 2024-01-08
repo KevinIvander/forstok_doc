@@ -1,2 +1,0 @@
-# Retur Penjualan \(Return\)
-

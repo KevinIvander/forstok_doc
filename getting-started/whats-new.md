@@ -31,8 +31,8 @@ New Release ITEM V2 :&#x20;
 
 You can now adjust stock without upload excel. Use a barcode scanner to select product and counting. Register your barcode first by upload in master product template.
 
-{% content-ref url="../knowledge-base/inventory/upload-stock-adjustment-interface-1.md" %}
-[upload-stock-adjustment-interface-1.md](../knowledge-base/inventory/upload-stock-adjustment-interface-1.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## May 3, 2021
@@ -124,8 +124,8 @@ Stock Adjustment Type**:**&#x20;
 
 * **Sales Returns Management** - Allow you to manage returns from sales channels. From Create Sales Returns, Confirm received items to restock items.
 
-{% content-ref url="../knowledge-base/sales-returns/" %}
-[sales-returns](../knowledge-base/sales-returns/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ###
