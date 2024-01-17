@@ -1,10 +1,10 @@
 # Import/Export New dan Updated Master Product
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pada menu Master Products, klik Import/Export untuk mendownload/mengupload master product
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Cara Pengisian XLS
 
@@ -44,7 +44,7 @@ Jika tidak ada item variant, untuk kolom option type, option value di kosongkan 
 9. **Dimension height**: isi dimensi tinggi barang
 10. **Cost Price**: isi harga pokok penjualan (hpp) untuk fitur reporting
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 11. **Quantity**: stok awal wajib diisi
 12. **Barcode**: diisikan kode barcode untuk fitur WMS forstok

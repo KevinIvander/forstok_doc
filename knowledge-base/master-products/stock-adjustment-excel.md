@@ -1,8 +1,10 @@
----
-description: Untuk menginput total stock yang ada saat ini (qty on hand)
----
-
 # Upload Stock Adjustment Final Qty (xls)
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Kolom qty per skunya yang tidak diisi akan dikecualikan dari proses update stock</p></figcaption></figure>
+
+Untuk menginput total stock yang ada saat ini (qty on hand)
 
 1\. Klik menu Inventory - Import/Export - Upload Stock Adjustment\
 \
