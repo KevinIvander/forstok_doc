@@ -100,6 +100,7 @@
   * [Create Master from Listing (NEW)](knowledge-base/listings/create-master-from-listing-new.md)
   * [Delete Listing](knowledge-base/listings/remove-listing.md)
   * [Import Ulang](knowledge-base/listings/import-ulang.md)
+  * [Manual Linking](knowledge-base/listings/manual-linking.md)
 * [Inventory](knowledge-base/inventory/README.md)
   * [Inventory Qty V2](knowledge-base/inventory/inventory-qty-v2.md)
   * [Stock Adjustment via Interface (v2)](knowledge-base/inventory/upload-stock-adjustment-interface.md)
