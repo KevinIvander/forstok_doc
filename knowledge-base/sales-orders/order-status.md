@@ -25,6 +25,8 @@
 
 **Delivered:** Status berubah menjadi **Delivered** secara otomatis jika paket telah diterima oleh customer.
 
+**Failed Delivery:** Status berubah menjadi **Failed Delivery** secara otomatis jika paket ⁠Paket Hilang/Rusak saat Pengembalian, ⁠COD ditolak Customer, Paket gagal dikirim
+
 **Completed:** Status berubah menjadi **Completed** secara otomatis jika paket telah diterima oleh customer dan invoice sudah dibayar oleh Marketplace / customer.
 
 **Cancelled:** Status berubah menjadi cancelled jika customer atau seller membatalkan order tersebut
