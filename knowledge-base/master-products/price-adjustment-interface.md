@@ -1,5 +1,9 @@
 # Price Adjustment (interface)
 
+{% hint style="info" %}
+Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ / multi lokasi belum bisa melakukan _edit price_ dari forstok ke toko/store tersebut, proses edit harga bisa dilakukan secara langsung di marketplace dan diimport ulang ke forstok.
+{% endhint %}
+
 Langkah-langkah yang bisa dilakukan untuk menyesuaikan harga adalah :\
 &#x20;  1\. Pilih item yang akan di rubah harganya: ketik di kolom search, atau centang produk yang akan dilakukan perubahan harga, klik Price Adjustment
 

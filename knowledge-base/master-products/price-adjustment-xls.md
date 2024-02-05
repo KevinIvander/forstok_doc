@@ -1,6 +1,10 @@
 # Price Adjustment (xls)
 
-1 Pada menu Inventory, klik Import/Export - Upload Price Adjustment
+{% hint style="info" %}
+Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ belum bisa melakukan _edit price_ dari forstok ke toko/store tersebut, proses edit harga bisa dilakukan secara langsung di marketplace dan diimport ulang ke forstok.
+{% endhint %}
+
+1. Pada menu Inventory, klik Import/Export - Upload Price Adjustment
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-15 150406.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -1,10 +1,10 @@
----
-description: >-
-  Ada 2 cara untuk listing item ke Marketplace. Berikut langkah-langkah listing
-  item baru yang belum ada di Marketplace:
----
-
 # Add Listing v2 ( NEW )
+
+{% hint style="info" %}
+Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ belum bisa melakukan _add listing_ dari forstok ke toko/store tersebut, proses listing bisa dilakukan secara langsung dengan upload di marketplace dan diimport ke forstok.
+{% endhint %}
+
+Ada 2 cara untuk listing item ke Marketplace. Berikut langkah-langkah listing item baru yang belum ada di Marketplace:
 
 <figure><img src="../../.gitbook/assets/Forstok Auto Fill listing.gif" alt=""><figcaption></figcaption></figure>
 
