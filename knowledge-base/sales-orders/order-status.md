@@ -1,8 +1,6 @@
 # Order Overview
 
-
-
-<figure><img src="../../.gitbook/assets/Order Flow.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Order Flow (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 ## Forstok Order Status
