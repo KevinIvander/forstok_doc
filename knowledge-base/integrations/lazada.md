@@ -7,11 +7,13 @@
 2. Pastikan proses registrasi sudah selesai dilakukan sampai verifikasi pendaftaran, integrasi yang dilakukan sebelum proses registrasi selesai akan mengakibatkan error pada integrasi di Forstok.
 {% endhint %}
 
+**Lazada Service Marketplace**
+
+Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Seller Center Lazada, kemudian akses [https://marketplace.lazada.co.id/](https://marketplace.lazada.co.id/), kemudian pada halaman utama, ketik 'Forstok' kemudian klik 'Omnichannel - FORSTOK':
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-07 170253 (3).jpg" alt=""><figcaption></figcaption></figure>
+
 ## Cara Integrasi Lazada (Video)
-
-{% hint style="warning" %}
-
-{% endhint %}
 
 ![](../../.gitbook/assets/23.gif)
 
