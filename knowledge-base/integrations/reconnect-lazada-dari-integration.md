@@ -1,5 +1,11 @@
 # Reconnect Lazada (Dari Integration)
 
+Untuk melakukan reconnect, login terlebih dahulu ke Seller Center Lazada, kemudian akses [https://marketplace.lazada.co.id/](https://marketplace.lazada.co.id/), kemudian pada halaman utama, ketik 'Forstok' kemudian klik 'Omnichannel - FORSTOK':
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-07 170253.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 Apabila ada kendala pada integrasi, lakukan hal berikut untuk melakukan reconnect lazada:
 
 1. Klik Integrations - Lazada Settings
