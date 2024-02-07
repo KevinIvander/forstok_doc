@@ -119,7 +119,7 @@
   * [Transfer Order](knowledge-base/gudang-warehouse/stock-transfers.md)
   * [Izin Pengguna](knowledge-base/gudang-warehouse/izin-pengguna.md)
 * [Penjualan (Orders)](knowledge-base/sales-orders/README.md)
-  * [Order Status](knowledge-base/sales-orders/order-status.md)
+  * [Order Overview](knowledge-base/sales-orders/order-status.md)
   * [Order v.2 Overview (NEW)](knowledge-base/sales-orders/order-v.2-overview.md)
   * [Create Shipment](knowledge-base/shipment-orders/ready-to-print.md)
   * [Update Ready to Ship](knowledge-base/sales-orders/update-ready-to-ship.md)
