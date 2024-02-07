@@ -6,7 +6,7 @@ description: Coming Soon March 2024
 
 
 
-<figure><img src="../../.gitbook/assets/Return Flow Chart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Return Flow Chart (1).png" alt=""><figcaption></figcaption></figure>
 
 Return (RMA) adalah dokumen yang diterbitkan oleh penjual yang diberikan oleh penjual kepada pembeli untuk mengizinkan pengembalian barang yang dibeli yang mengalami kerusakan atau tidak sesuai dengan spesifikasi.&#x20;
 
