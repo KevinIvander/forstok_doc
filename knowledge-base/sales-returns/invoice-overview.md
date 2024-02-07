@@ -16,8 +16,8 @@ Dengan RMA, penjual biasanya dapat melacak dan mengelola pengembalian barang den
 
 **Status Forstok Return:**&#x20;
 
-* In Process - belum di bayarkan atau menunggu pembayaran
-* Completed - belum dibayar tapi jatuh tempo&#x20;
+* In Process - Sedang di proses pengembalian barang
+* Completed - Barang sudah di confirm recevied di gudang.&#x20;
 
 {% hint style="info" %}
 
