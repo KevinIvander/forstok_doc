@@ -13,8 +13,6 @@ Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Sell
 
 ## Cara Integrasi Lazada (Video)
 
-![](../../.gitbook/assets/23.gif)
-
 
 
 1. Pilih Menu Integration > Pilih Add integrations.
