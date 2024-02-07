@@ -1,7 +1,5 @@
 # Lazada
 
-![](../../.gitbook/assets/screen-shot-2021-05-31-at-1.15.55-pm.png)
-
 {% hint style="warning" %}
 1. Pastikan product yang sama di toko/ channel lain mempunyai Kode SKU yang sama. Setelah integration, product akan di import dan terlinking dengan product yang sama mengunakan Kode SKU;
 2. Pastikan proses registrasi sudah selesai dilakukan sampai verifikasi pendaftaran, integrasi yang dilakukan sebelum proses registrasi selesai akan mengakibatkan error pada integrasi di Forstok.
@@ -37,12 +35,12 @@ Waktu import product dari Lazada tergantung dari jumlah product.
 
 2\. Klik View untuk integrasikan Lazada.
 
-![](<../../.gitbook/assets/image (42) (1).png>)
+![](<../../.gitbook/assets/Screenshot 2024-02-07 at 5.28.46 PM.png>)
 
 [\
-](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062572994/original/VAz3XK3s1NDWKHiptEuteE-zA0yqniyYyw.png?1601813140)3. Input akses log in Lazada, lalu klik submit.
+](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062572994/original/VAz3XK3s1NDWKHiptEuteE-zA0yqniyYyw.png?1601813140)3. Pilih : Otorisasi Saya dan Setengah Tahun. Artinya setiap 6 bulan harus otorisasi ulang melalui halaman ini
 
-![](<../../.gitbook/assets/image (231).png>)
+![](<../../.gitbook/assets/Lazada Service.png>)
 
 4\. Pada Product Catalog pilih **Sync Product from Lazada --**>Next --> pilih Finish[\
 ](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062573182/original/0SKkm5a4yXlLWiB54-yYVmjgbQ6Hja68Vw.png?1601813500)
