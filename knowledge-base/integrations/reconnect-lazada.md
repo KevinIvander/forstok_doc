@@ -2,11 +2,11 @@
 
 Reconnect Lazada perlu dilakukan apabila terdapat reset connection untuk security atau jika Anda ada perubahan password Lazada maka di Forstok API Lazada otomatis akan non aktif. Untuk mengaktifkan kembali Lazada di Forstok. Maka ada pop-up yang bisa diklik.
 
-Sebelum melakukan reconnect Lazada dari Forstok, login terlebih dahulu ke Seller Center Lazada, kemudian akses [https://marketplace.lazada.co.id/](https://marketplace.lazada.co.id/), kemudian pada halaman utama, ketik 'Forstok' kemudian klik 'Omnichannel - FORSTOK':
+Sebelum melakukan reconnect Lazada dari Forstok, login terlebih dahulu ke Seller Center Lazada, kemudian akses link [lazada service marketplace](https://marketplace.lazada.co.id/web/detail.html?articleCode=FW\_GOODS-1000004709\&itemCode=FW\_GOODS-1000004709-11)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-07 170253 (5).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-07 172835.jpg" alt=""><figcaption><p>Klik Otorisasi saja - Setengah tahun - Penggunaan resmi</p></figcaption></figure>
 
-## Video
+Video
 
 ![](../../.gitbook/assets/reconnect-lazada.gif)
 

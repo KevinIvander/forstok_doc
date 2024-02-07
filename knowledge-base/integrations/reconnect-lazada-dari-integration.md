@@ -1,12 +1,20 @@
 # Reconnect Lazada (Dari Integration)
 
-Untuk melakukan reconnect, login terlebih dahulu ke Seller Center Lazada, kemudian akses [https://marketplace.lazada.co.id/](https://marketplace.lazada.co.id/), kemudian pada halaman utama, ketik 'Forstok' kemudian klik 'Omnichannel - FORSTOK':
+Sebelum melakukan reconnect Lazada di Forstok, lakukan hal berikut:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-07 170253.jpg" alt=""><figcaption></figcaption></figure>
+1. login terlebih dahulu ke Seller Center Lazada, kemudian akses link [lazada service marketplace](https://marketplace.lazada.co.id/web/detail.html?articleCode=FW\_GOODS-1000004709\&itemCode=FW\_GOODS-1000004709-11)':
 
+<figure><img src="../../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
+2. Klik Otorisasi Saja - Setengah Tahun - Penggunaan Resmi
 
-Apabila ada kendala pada integrasi, lakukan hal berikut untuk melakukan reconnect lazada:
+<figure><img src="../../.gitbook/assets/image (464).png" alt=""><figcaption><p>Ikuti proses sampai muncul notifikasi 'Berhasil Dipesan'</p></figcaption></figure>
+
+3. Klik Manajemen Pesanan - Semua Pesanan untuk melakukan pengecekan kembali:
+
+<figure><img src="../../.gitbook/assets/image (465).png" alt=""><figcaption><p>Kirimkan tampilan di Lazada Service Marketplace ini ke tim Forstok untuk konfirmasi bahwa proses pesanan di Lazada Service Marketplace sudah selesai</p></figcaption></figure>
+
+Kemudian pada halaman Forstok, lakukan hal berikut untuk reconnect lazada:
 
 1. Klik Integrations - Lazada Settings
 
