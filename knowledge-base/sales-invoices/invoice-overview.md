@@ -32,7 +32,7 @@ _**Cara mengaktifkan invoice**_
 
 _Sales Invoice_ dapat dibuat secara otomatis berdasarkan Status pada Sales Orders. Untuk mengatur _Trigger_ tersebut, dapat diakses melalui menu “Setting -> Invoice”. Selain mengatur _Trigger_ untuk membuat Invoice secara Otomatis, Anda juga dapat mengatur _Due Date_, _Customer Note_, dan _Terms & Conditions_ pada halaman Setting tersebut.
 
-<figure><img src="../../.gitbook/assets/Forstok Invoice Settings.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/active invoice.png" alt=""><figcaption></figcaption></figure>
 
 **Note:**
 
