@@ -24,4 +24,4 @@ Berikut merupakan langkah-langkah yang bisa dilakukan untuk stock allocation :&#
 
 4\. Berikut tampilan jika stock allocation berhasil dibuat dari Forstok, informasi bisa diakses di menu Inventory OLD UI - search sku - Listings.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

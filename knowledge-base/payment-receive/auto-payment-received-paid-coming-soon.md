@@ -1,5 +1,7 @@
 # Auto Payment Received/ Paid (Coming Soon)
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-07-24 at 2.41.46 PM.png" alt=""><figcaption><p>Invoice Settings</p></figcaption></figure>
 
 {% hint style="success" %}

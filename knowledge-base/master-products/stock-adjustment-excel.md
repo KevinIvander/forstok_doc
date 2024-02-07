@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Kolom qty per skunya yang tidak diisi akan dikecualikan dari proses update stock</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Kolom qty per skunya yang tidak diisi akan dikecualikan dari proses update stock</p></figcaption></figure>
 
 Untuk menginput total stock yang ada saat ini (qty on hand)
 
