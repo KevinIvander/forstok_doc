@@ -1,6 +1,6 @@
 # Invoice Overview
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-07 at 10.18.06 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-07 at 10.26.49 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=g8W_pSFs2NA" %}
 Invoice Video
