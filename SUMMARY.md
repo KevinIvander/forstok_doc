@@ -131,6 +131,7 @@
   * [Import Order First Integrations](knowledge-base/sales-orders/import-order-firt-integrations.md)
   * [Export Sales Orders (Excel)](knowledge-base/sales-orders/export-sales-orders-excel.md)
 * [Pengambilan (Picking)](knowledge-base/pengambilan-picking/README.md)
+  * [Picklist Overview](knowledge-base/pengambilan-picking/picklist-overview.md)
   * [Create Picklist](knowledge-base/pengambilan-picking/create-picklist.md)
   * [Print Pick List](knowledge-base/pengambilan-picking/print-pick-list.md)
   * [Picked Orders](knowledge-base/pengambilan-picking/filter-picked-orders.md)
