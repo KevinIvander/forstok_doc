@@ -1,5 +1,7 @@
 # Picklist Overview
 
+<figure><img src="../../.gitbook/assets/Picklist Flow.png" alt=""><figcaption></figcaption></figure>
+
 Picklist adalah dokumen yang ditugaskan kepada pengambil barang / picker di gudang yang mengkomunikasikan daftar barang beserta jumlahnya yang harus diambil dari gudang tertentu untuk memenuhi pesanan.
 
 Mengapa Anda membutuhkan picklist?
