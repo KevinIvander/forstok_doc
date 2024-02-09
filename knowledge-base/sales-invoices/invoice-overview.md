@@ -1,6 +1,6 @@
 # Invoice Overview
 
-<figure><img src="../../.gitbook/assets/Invoice Flow chart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sales Invoice Flow chart.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=g8W_pSFs2NA" %}
 Invoice Video
