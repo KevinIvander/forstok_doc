@@ -2,6 +2,8 @@
 
 Setelah sales invoice terbuat di Forstok dan di Accurate, lakukan **create payment receive** di Forstok untuk auto create sales receipt/penerimaan penjualan di Accurate dan kemudian mengupdate status sales invoice/faktur penjualan di Accurate menjadi **paid:**
 
+&#x20;Berikut adalah panduan pembuatan Payment Received: [View Here](../../payment-receive/)
+
 {% hint style="info" %}
 **Payment Received memiliki 2 jenis tanggal Payment Date**:
 
@@ -13,8 +15,6 @@ Opsi Auto Paid dapat diaktifkan jika menggunakan pengaturan "Channel Payment Dat
 
 
 Pengaturan ini dapat ditemukan di [Invoice Settings](https://app.forstok.com/dashboard/settings/invoices)
-
-Berikut adalah panduan pembuatan Payment Received: [View Here](../../payment-receive/)
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption><p>Kami sarankan create payment receive dilakukan di status order 'Completed', hal ini agar nominal yang diupdate sudah fixed.</p></figcaption></figure>
