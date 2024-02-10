@@ -158,7 +158,7 @@
   * [Payment Received List](knowledge-base/payment-receive/payment-received-list.md)
   * [Create Payment Received (API via Interface)](knowledge-base/payment-receive/create-payment-received-manual-via-interface.md)
   * [Create Payment Received - (API via Excel)](knowledge-base/payment-receive/create-payment-received-manual-via-excel.md)
-  * [Auto Payment Received/ Paid (Coming Soon)](knowledge-base/payment-receive/auto-payment-received-paid-coming-soon.md)
+  * [Auto Payment Received/ Paid](knowledge-base/payment-receive/auto-payment-received-paid.md)
 * [Pengembalian (Return)](knowledge-base/sales-returns/README.md)
   * [Return Overview](knowledge-base/sales-returns/invoice-overview.md)
   * [Return Settings](knowledge-base/sales-returns/return-settings.md)
