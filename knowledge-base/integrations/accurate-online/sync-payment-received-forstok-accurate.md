@@ -3,7 +3,7 @@
 Setelah sales invoice terbuat di Forstok dan di Accurate, lakukan **create payment receive** di Forstok untuk auto create sales receipt/penerimaan penjualan di Accurate dan kemudian mengupdate status sales invoice/faktur penjualan di Accurate menjadi **paid:**
 
 {% hint style="info" %}
-Payment Received memiliki 2 jenis tanggal Payment Date:
+**Payment Received memiliki 2 jenis tanggal Payment Date**:
 
 1. Payment Date berdasarkan "Channel Payment Date" atau uang yang masuk ke dompet penjual. Ini adalah pengaturan default.
 2. Payment Date berdasarkan tanggal saat pengguna melakukan "Payment received" di forstok invoice.
