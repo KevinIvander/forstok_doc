@@ -1,4 +1,4 @@
-# Sync Invoice (Forstok - Accurate)
+# Sync Invoice (Forstok → Accurate)
 
 
 
@@ -34,4 +34,4 @@ Berikut adalah alur sinkronisasi invoice dari **Marketplace --> Forstok --> Accu
 Data pelanggan yang diinput di accurate adalah nama toko/integrasi di forstok.  &#x20;
 {% endhint %}
 
-Untuk step selanjutnya terdapat di Sync Payout: [View Here ](sync-payout-forstok-accurate.md)
+Untuk step selanjutnya terdapat di Sync Payout: [View Here ](sync-payment-received-forstok-accurate.md)
