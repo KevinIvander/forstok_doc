@@ -38,6 +38,23 @@ Forstok akan menjadwalkan penarikan data pembayaran setiap hari pada pukul 00:00
 
 
 
+{% hint style="info" %}
+**Payment Received memiliki 2 jenis tanggal Payment Date**:
+
+1. Payment Date berdasarkan "Channel Payment Date" atau uang yang masuk ke dompet penjual. Ini adalah pengaturan default.
+2. Payment Date berdasarkan tanggal saat pengguna melakukan "Payment received" di forstok invoice.
+
+Opsi Auto Paid dapat diaktifkan jika menggunakan pengaturan "Channel Payment Date". Dengan demikian, pengguna tidak perlu secara manual melakukan "Payment received" di faktur forstok. Pembayaran otomatis akan dipicu H+1 setelah pesanan selesai / uang masuk ke dompet penjual.
+
+
+
+Pengaturan ini dapat ditemukan di [Invoice Settings](https://app.forstok.com/dashboard/settings/invoices)
+
+Berikut adalah panduan pembuatan Payment Received: [View Here](./)
+{% endhint %}
+
+
+
 **Biaya-biaya dari setiap Marketplace dapat bervariasi. Forstok telah melakukan pemetaan yang terperinci dalam tabel di bawah ini**
 
 {% embed url="https://docs.google.com/spreadsheets/d/1QkLWBQNKZ-S9u54nEv0TaT4Hx7c0VY3yf6JEt37skGY/edit#gid=624816466" %}
