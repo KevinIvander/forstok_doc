@@ -11,7 +11,7 @@ Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Sell
 
 <figure><img src="../../.gitbook/assets/Lazada Service.png" alt=""><figcaption></figcaption></figure>
 
-## Cara Integrasi Lazada (Video)
+## Cara Integrasi Lazada&#x20;
 
 
 
@@ -25,26 +25,19 @@ Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Sell
 Waktu import product dari Lazada tergantung dari jumlah product.
 {% endhint %}
 
-## Cara Integrasi Lazada (Step-by-step)
-
 1\. Pilih menu Integrations > pilih Add Integrations
 
 ![](<../../.gitbook/assets/image (142).png>)
 
-2\. Klik View untuk integrasikan Lazada.
+2\. Klik View untuk integrasikan Lazada;
 
 ![](<../../.gitbook/assets/Screenshot 2024-02-07 at 5.28.46 PM.png>)
 
-[\
-](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062572994/original/VAz3XK3s1NDWKHiptEuteE-zA0yqniyYyw.png?1601813140)3. Pilih : Otorisasi Saya dan Setengah Tahun. Artinya setiap 6 bulan harus otorisasi ulang melalui halaman ini
-
-![](<../../.gitbook/assets/Lazada Service.png>)
-
-4\. Pada Product Catalog pilih **Sync Product from Lazada --**>Next --> pilih Finish[\
-](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/48062573182/original/0SKkm5a4yXlLWiB54-yYVmjgbQ6Hja68Vw.png?1601813500)
+3. Klik Connect dan ikuti prosesnya;
+4. Pada Product Catalog pilih **Sync Product from Lazada --**>Next --> pilih Finish
 
 ![](<../../.gitbook/assets/image (210).png>)
 
-5\. Lazada berhasil integrasi ke Forstok dan sedang proses import produk.
+5\. Lazada berhasil integrasi ke Forstok, klik tombol import untuk memulai proses import produk.
 
 ![](<../../.gitbook/assets/image (242).png>)
