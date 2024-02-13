@@ -1,7 +1,7 @@
 # Accurate Settings - Mapping COA, gudang, pajak, dan detail amount
 
 {% hint style="info" %}
-Apabila setelah menyimpan mapping terdapat perubahan pada WH dan CoA di Accurate, pastikan dilakukan penyimpanan mapping kembali melalui Accurate Integration Settings, karena perubahan terhadap WH dan CoA di Accurate setelah sudah terintegrasi dengan Forstok akan mengakibatkan mappingan terlepas.
+Apabila setelah menyimpan mapping terdapat perubahan pada WH dan CoA di Accurate (**perubahan nama warehouse, penambahan warehouse, penghapusan warehouse utama, perubahan nama akun perkiraan**), pastikan dilakukan penyimpanan mapping kembali melalui Accurate Integration Settings, karena perubahan terhadap WH dan CoA di Accurate setelah sudah terintegrasi dengan Forstok akan mengakibatkan mappingan terlepas dan berdampak pada proses sinkronisasi stock serta sinkronisasi invoice.
 {% endhint %}
 
 1. **Click Setting Accurate**
