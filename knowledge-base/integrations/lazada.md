@@ -37,7 +37,8 @@ Waktu import product dari Lazada tergantung dari jumlah product.
 
 ![](<../../.gitbook/assets/image (142).png>)
 
-2\. Klik View untuk integrasikan Lazada;
+2\. Klik View untuk integrasikan Lazada; \
+[https://www.forstok.com/dashboard/channels/integrations/lazada/setup](https://www.forstok.com/dashboard/channels/integrations/lazada/setup)
 
 ![](<../../.gitbook/assets/Screenshot 2024-02-07 at 5.28.46 PM.png>)
 
