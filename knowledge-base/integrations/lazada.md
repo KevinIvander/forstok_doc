@@ -7,9 +7,11 @@
 
 **Lazada Service Marketplace**
 
-Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Seller Center Lazada, kemudian akses https://marketplace.lazada.co.id/forstok, kemudian pada halaman utama, ketik 'Forstok' kemudian klik 'Omnichannel - FORSTOK':
+Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Seller Center Lazada, kemudian akses link berikut:&#x20;
 
-<figure><img src="../../.gitbook/assets/Lazada Service.png" alt=""><figcaption></figcaption></figure>
+[https://marketplace.lazada.co.id/web/detail.html?articleCode=FW\_GOODS-1000004709\&itemCode=FW\_GOODS-1000004709-11](https://marketplace.lazada.co.id/web/detail.html?articleCode=FW\_GOODS-1000004709\&itemCode=FW\_GOODS-1000004709-11)
+
+<figure><img src="../../.gitbook/assets/Lazada Service.png" alt=""><figcaption><p>Pilih otorisasi saja - setengah tahun - penggunaan resmi</p></figcaption></figure>
 
 ## Cara Integrasi Lazada&#x20;
 
