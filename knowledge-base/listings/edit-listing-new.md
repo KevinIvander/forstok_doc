@@ -24,6 +24,10 @@ Ada 2 cara untuk Edit listing di Forstok, Edit satu product (Single Edit Listing
 
 <figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Untuk shopee mall saat ini masih terdapat limitasi di mana tidak dapat dilakukan add listing/edit listing dari forstok.
+{% endhint %}
+
 ## Bulk Edit Listing
 
 1. Pilih channel dari product yang sudah listing pada bagian navigasi sebelah kiri

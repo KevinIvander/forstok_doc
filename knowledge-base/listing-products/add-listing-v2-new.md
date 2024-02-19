@@ -8,6 +8,10 @@ Ada 2 cara untuk listing item ke Marketplace. Berikut langkah-langkah listing it
 
 <figure><img src="../../.gitbook/assets/Forstok Auto Fill listing.gif" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Untuk shopee mall saat ini masih terdapat limitasi di mana tidak dapat dilakukan add listing/edit listing dari forstok.
+{% endhint %}
+
 ## **What’s New**
 
 1. **Single Listing :** Multi Store, Multi Channel, Multi Categories, New Interface.
