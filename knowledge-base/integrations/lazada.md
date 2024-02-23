@@ -5,9 +5,18 @@
 2. Pastikan proses registrasi sudah selesai dilakukan sampai verifikasi pendaftaran, integrasi yang dilakukan sebelum proses registrasi selesai akan mengakibatkan error pada integrasi di Forstok.
 {% endhint %}
 
+{% hint style="info" %}
+Proses integrasi terdiri dari 2 step:
+
+1. Lazada Service Marketplace;
+2. Menu Integrasi Forstok.
+
+**Pastikan anda menjalankan integrasi sesuai urutan.**
+{% endhint %}
+
 _**Subscribe**_** Forstok di Lazada Service Marketplace**
 
-Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Seller Center Lazada, subscribe ke Forstok di Lazada Service Marketplace dengan mengakses link berikut:&#x20;
+Sebelum menjalankan integrasi Lazada dari Forstok, login terlebih dahulu ke Seller Center Lazada, subscribe ke Forstok di Lazada Service Marketplace dengan mengakses link berikut dan hanya melalui link berikut:&#x20;
 
 [https://marketplace.lazada.co.id/web/detail.html?articleCode=FW\_GOODS-1000004709\&itemCode=FW\_GOODS-1000004709-11](https://marketplace.lazada.co.id/web/detail.html?articleCode=FW\_GOODS-1000004709\&itemCode=FW\_GOODS-1000004709-11)
 
@@ -20,8 +29,6 @@ Ikuti prosesnya sampai pada tahap berikut:
 Setelah melakukan subscribe terhadap Forstok di Lazada Service Marketplace, proses selanjutnya adalah mengintegrasikan Lazada di Forstok.
 
 ## Cara Integrasi Lazada di Forstok
-
-
 
 1. Pilih Menu Integration > Pilih Add integrations.
 2. Klik view untuk integrasikan Lazada.
@@ -50,3 +57,7 @@ Waktu import product dari Lazada tergantung dari jumlah product.
 5\. Lazada berhasil integrasi ke Forstok, klik tombol import untuk memulai proses import produk.
 
 ![](<../../.gitbook/assets/image (242).png>)
+
+{% hint style="info" %}
+Apabila dari langkah-langkah di atas ada yang belum jelas, atau terdapat kendala, silahkan disampaikan ke tim terkait Forstok.
+{% endhint %}
