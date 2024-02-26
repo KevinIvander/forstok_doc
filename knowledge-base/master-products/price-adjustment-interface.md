@@ -1,7 +1,8 @@
 # Price Adjustment (interface)
 
 {% hint style="info" %}
-Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ / multi lokasi belum bisa melakukan _edit price_ dari forstok ke toko/store tersebut, proses edit harga bisa dilakukan secara langsung di marketplace dan diimport ulang ke forstok.
+1. Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ / multi lokasi belum bisa melakukan _edit price_ dari forstok ke toko/store tersebut, proses edit harga bisa dilakukan secara langsung di marketplace dan diimport ulang ke forstok.
+2. Pastikan setiap marketplace sudah dilakukan sync item on, hal ini agar perubahan harga yang dilakukan bisa terupdate ke marketplace.
 {% endhint %}
 
 Langkah-langkah yang bisa dilakukan untuk menyesuaikan harga adalah :\
