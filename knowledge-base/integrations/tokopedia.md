@@ -39,6 +39,10 @@ Berikut adalah screenshot tampilan Pengaturan Aplikasi Pihak Ketiga:
 Demikian kami sampaikan, atas perhatiannya kami ucapkan terima kasih
 {% endhint %}
 
+{% hint style="info" %}
+Pastikan request integrasi dikirimkan melalui tiket, request integrasi yang disampaikan melalui email akan kami tetap arahkan ke sistem tiket
+{% endhint %}
+
 Forstok akan kirimkan request approval API Tokopedia.&#x20;
 
 Buka seller center Tokopedia > Aplikasi Pihak Ketiga > Menunggu Pesetujuan > Klik terima
