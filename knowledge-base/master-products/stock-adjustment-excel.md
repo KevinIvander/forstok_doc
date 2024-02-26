@@ -1,6 +1,8 @@
 # Upload Stock Adjustment Final Qty (xls)
 
-
+{% hint style="info" %}
+Sebelum melakukan penyesuaian stok, pastikan sudah sync  item on all marketplace agar bisa terupdate ke all marketplace
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Kolom qty per skunya yang tidak diisi akan dikecualikan dari proses update stock</p></figcaption></figure>
 

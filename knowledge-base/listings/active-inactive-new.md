@@ -1,5 +1,9 @@
 # Active / Inactive (NEW)
 
+{% hint style="info" %}
+Pastikan sudah melakukan sync item on per marketplace agar update status active/inactive bisa terupdate ke marketplace.
+{% endhint %}
+
 ## Single Active/Inactive
 
 1. Jika ingin melakukan active / inactive product silahkan klik terlebih dahulu list listing dari marketplace yang ada pada navigasi disebelah kiri.

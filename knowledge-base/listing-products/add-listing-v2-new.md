@@ -1,7 +1,8 @@
 # Add Listing v2 ( NEW )
 
 {% hint style="info" %}
-Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ belum bisa melakukan _add listing_ dari forstok ke toko/store tersebut, proses listing bisa dilakukan secara langsung dengan upload di marketplace dan diimport ke forstok.
+1. Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ belum bisa melakukan _add listing_ dari forstok ke toko/store tersebut, proses listing bisa dilakukan secara langsung dengan upload di marketplace dan diimport ke forstok.
+2. Pastikan sudah sync item on per marketplace agar proses add listing bisa dilakukan.
 {% endhint %}
 
 Ada 2 cara untuk listing item ke Marketplace. Berikut langkah-langkah listing item baru yang belum ada di Marketplace:

@@ -1,5 +1,9 @@
 # Stock Adjustment via Interface (v2)
 
+{% hint style="info" %}
+Sebelum melakukan penyesuaian stok, pastikan sudah sync  item on all marketplace agar bisa terupdate ke all marketplace
+{% endhint %}
+
 1. Pada menu Inventory v2, stock adjustment dilakukan dengan cara klik +Stock Adjustment - Pilih jenis stock adjustment (Final Qty, Inbound Qty, Outbound Qty)
 
 * Final Qty : Input new qty on hand/ jumlah fisik yang ada di gudang setelah ada perubahan

@@ -5,7 +5,8 @@ description: Berikut langkah-langkah edit listing product di Forstok
 # Edit Listing (NEW)
 
 {% hint style="info" %}
-Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ belum bisa melakukan _edit price_ dari forstok ke toko/store tersebut, proses edit harga bisa dilakukan secara langsung di marketplace dan diimport ulang ke forstok.
+1. Saat ini masih terdapat limitasi untuk toko/store dengan pengaturan gudang _multi origin_ belum bisa melakukan _edit price_ dari forstok ke toko/store tersebut, proses edit harga bisa dilakukan secara langsung di marketplace dan diimport ulang ke forstok.
+2. Pastikan sync item on sudah dilakukan per marketplace, hal ini agar update dari edit listing bisa terupdate ke marketplace
 {% endhint %}
 
 Ada 2 cara untuk Edit listing di Forstok, Edit satu product (Single Edit Listing) dan Edit banyak product (Bulk Edit listing)
