@@ -1,5 +1,9 @@
 # Sinkronisasi Invoice (Forstok → Jurnal)
 
+{% hint style="info" %}
+**Aktifasi fitur invoice di Forstok terlebih dahulu, berikut panduannya:** [**Panduan Invoice**](../../sales-invoices/invoice-settings.md)
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/3123.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Field Mapping**
