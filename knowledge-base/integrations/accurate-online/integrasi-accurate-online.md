@@ -11,9 +11,10 @@
 2. Pastikan SKU di forstok tidak ada pending action (hal ini penting karena nanti ketika klik sync item, forstok akan mengirim seluruh data sku yang ada di forstok, termasuk SKU yang masih di pending actions);
 3. Integrasikan accurate di forstok;
 4. Mapping CoA dan WH Accurate di Forstok;
-5. Klik Sync item forstok --> Accurate;
-6. Klik Sync stock Accurate --> Forstok
-7. Klik sync item forstok
+5. Aktifasi fitur Invoice Forstok serta fitur Auto Paid (apabila sesuai dengan kebutuhan)
+6. Klik Sync item forstok --> Accurate;
+7. Klik Sync stock Accurate --> Forstok
+8. Klik sync item forstok
 
 
 
@@ -23,10 +24,11 @@
 2. Pastikan SKU di forstok tidak ada pending action (hal ini penting karena nanti ketika klik sync item, forstok akan mengirim seluruh data sku yang ada di forstok, termasuk SKU yang masih di pending actions);
 3. Integrasikan accurate di forstok;
 4. Mapping CoA dan WH Accurate di Forstok;
-5. Klik Sync item forstok --> Accurate;
-6. Penyesuaian Persediaan/Stok Opname di Accurate
-7. Klik Sync stock Accurate --> Forstok
-8. Klik sync item forstok
+5. Aktifasi fitur Invoice Forstok serta fitur Auto Paid (apabila sesuai dengan kebutuhan)
+6. Klik Sync item forstok --> Accurate;
+7. Penyesuaian Persediaan/Stok Opname di Accurate
+8. Klik Sync stock Accurate --> Forstok
+9. Klik sync item forstok
 {% endhint %}
 
 {% hint style="danger" %}
