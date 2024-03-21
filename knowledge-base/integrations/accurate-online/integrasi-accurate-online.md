@@ -1,6 +1,10 @@
 # Integrasi Accurate Online
 
-{% embed url="https://drive.google.com/file/d/12-Vlk-8ReYRqrLi6rczrcWZ_BC7V1GEO/view?usp=drive_link" %}
+{% hint style="info" %}
+File ppt panduan integrasi Accurate di Forstok:
+
+[https://docs.google.com/presentation/d/1m7M\_fjCxfwl0-y-GSk5LiJtuoc64-oYBTydcj4rOg3g/edit?usp=sharing](https://docs.google.com/presentation/d/1m7M\_fjCxfwl0-y-GSk5LiJtuoc64-oYBTydcj4rOg3g/edit?usp=sharing)
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/autopaid2.jpg" alt=""><figcaption></figcaption></figure>
 
