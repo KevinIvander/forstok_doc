@@ -32,7 +32,7 @@ Bulk payment receive melalui '_**+Payment Receive**_', berikut adalah langkahnya
 
 3. Review kembali setiap invoice yang akan diproses menjadi Paid dengan cara mengisi kolom detail amount secara manual apabila create payment receive belum tersedia via API
 
-Berikut sample channel payout summary: [https://docs.google.com/spreadsheets/d/1QkLWBQNKZ-S9u54nEv0TaT4Hx7c0VY3yf6JEt37skGY/edit#gid=0](https://docs.google.com/spreadsheets/d/1QkLWBQNKZ-S9u54nEv0TaT4Hx7c0VY3yf6JEt37skGY/edit#gid=0)
+Berikut sample channel payout summary: [https://docs.google.com/spreadsheets/d/1P3bPEkVgngfomXLZX5sfarN0IuLT7NrMkHVM83O82bI/edit#gid=1945397298](https://docs.google.com/spreadsheets/d/1P3bPEkVgngfomXLZX5sfarN0IuLT7NrMkHVM83O82bI/edit#gid=1945397298)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-06 155110.jpg" alt=""><figcaption></figcaption></figure>
 
