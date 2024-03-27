@@ -13,7 +13,7 @@ Proses integrasi terdiri dari 2 step:
 1. Lazada Service Marketplace;
 2. Menu Integrasi Forstok.
 
-**Pastikan anda menjalankan integrasi sesuai uruta**_**n.**_
+**Pastikan anda menjalankan integrasi sesuai urutan**_**,**_** tidak mengikuti step sesuai urutan akan mengakibatkan error pada proses integrasi Lazada di Forstok.**
 {% endhint %}
 
 1. _**Subscribe**_** Forstok di Lazada Service Marketplace**
