@@ -23,3 +23,5 @@ Proses reconnect **wajib** dilakukan dengan menggunakan email dan password, peng
 <figure><img src="../../.gitbook/assets/image (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Apabila sudah mengikuti langkah di atas, infokan ke tim forstok agar kami bisa cek kembali proses reconnectnya.
+
+<figure><img src="../../.gitbook/assets/image (468).png" alt=""><figcaption><p>Apabila reconnect sudah berhasil, tampilan di SC Tiktok seharusnya seperti ini, terdapat durasi integrasi yang baru.</p></figcaption></figure>
