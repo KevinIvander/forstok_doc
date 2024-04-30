@@ -67,3 +67,13 @@ File ppt panduan integrasi Accurate di Forstok:
 1. data order yang di kirim ke accurate order setelah integrasi Accurate to forstok
 2. Untuk ganti database harus integrasi ulang. Disconnect Accurate di Forstok
 {% endhint %}
+
+5. Generate API Token Accurate
+
+* Klik “Pengaturan” > Accurate Store >“API Token” > Buat API Token
+
+<figure><img src="../../../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
+
+* Copy “API Token” > Infokan ke Tim Forstok
+
+<figure><img src="../../../.gitbook/assets/image (471).png" alt=""><figcaption><p>Apabila tidak memiliki jalur komunikasi langsung, bisa create ticket melalui fitur Create Ticket di Dashboard Forstok</p></figcaption></figure>
