@@ -57,4 +57,6 @@ Berikut adalah panduan pembuatan Payment Received: [View Here](./)
 
 **Biaya-biaya dari setiap Marketplace dapat bervariasi. Forstok telah melakukan pemetaan yang terperinci dalam tabel di bawah ini**
 
-{% embed url="https://docs.google.com/spreadsheets/d/1QkLWBQNKZ-S9u54nEv0TaT4Hx7c0VY3yf6JEt37skGY/edit#gid=624816466" %}
+
+
+{% embed url="https://docs.google.com/spreadsheets/d/1P3bPEkVgngfomXLZX5sfarN0IuLT7NrMkHVM83O82bI/edit#gid=1945397298" %}

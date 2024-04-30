@@ -150,6 +150,7 @@
   * [Invoice Settings](knowledge-base/sales-invoices/invoice-settings.md)
   * [Invoice List](knowledge-base/sales-invoices/create-sales-invoice.md)
   * [Invoice Detail](knowledge-base/sales-invoices/edit-invoice.md)
+  * [Print Invoice](knowledge-base/sales-invoices/print-invoice.md)
   * [Export Invoice](knowledge-base/sales-invoices/export-invoice.md)
   * [Mark Invoice as Written Off](knowledge-base/sales-invoices/mark-invoice-as-written-off.md)
   * [Mark Invoice as Void](knowledge-base/sales-invoices/export-invoice-excel.md)
