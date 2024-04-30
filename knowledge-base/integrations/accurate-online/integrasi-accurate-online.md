@@ -70,7 +70,16 @@ File ppt panduan integrasi Accurate di Forstok:
 
 5. Generate API Token Accurate
 
-* Klik “Pengaturan” > Accurate Store >“API Token” > Buat API Token
+*   Klik “Pengaturan” > Accurate Store > Aplikasi Saya\
+
+
+    Input App Key Forstok\
+    8fa12c9c-8cc3-4461-a335-8e61e1448e6f
+* Kemudian klik 'Install Aplikasi'
+
+<figure><img src="../../../.gitbook/assets/image (473).png" alt=""><figcaption></figcaption></figure>
+
+* Klik “API Token” > Buat API Token
 
 <figure><img src="../../../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
 
